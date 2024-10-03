@@ -1,0 +1,41 @@
+/* Футер */
+.footer {
+  margin-top: 2em;
+  height: auto;
+  display: flex;
+  justify-content: space-around;
+  background: rgb(17, 56, 96);
+  background: linear-gradient(
+    90deg,
+    rgba(17, 56, 96, 1) 0%,
+    rgba(29, 93, 155, 1) 75%,
+    rgba(17, 56, 96, 1) 100%
+  );
+  align-items: center;
+  padding: 1em 2em;
+}
+.footer-logo {
+  padding-bottom: 1em;
+}
+.footer-services ul li {
+  color: white;
+  margin-bottom: 0.6em;
+  font-weight: 300;
+}
+.footer-services ul li a {
+  color: white;
+  font-weight: 300;
+}
+.footer-services {
+  padding-bottom: 1em;
+}
+.year {
+  text-align: center;
+}
+@media (max-width: 768px) {
+  .footer {
+    height: auto;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
+}

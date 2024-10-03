@@ -1,0 +1,11 @@
+{{ define "main" }}
+<div class="hero-text">
+  <h1>{{.Title}}</h1>
+  <p>{{.Params.Description}}</p>
+  {{ partial "telegram-form.html" . }}
+  {{partial "cities.html"}}
+</div>
+<div class="main-image">
+    <img src="{{.Params.image}}" alt="{{.Params.imageText}}">
+</div>
+{{ end }}

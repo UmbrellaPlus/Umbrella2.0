@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{.Params.tabTitle}}</title>
+    {{partial "style-links.html"}}
+  </head>
+  <body>
+    {{partial "sticky-phone.html" . }} {{partial "preheader.html" . }} {{partial
+    "header.html" . }}
+    <main>{{block "main".}}{{end}}</main>
+    <div class="markdown">{{.Content}}</div>
+    {{ if eq .Params.reviewType "alk-1" }} {{ partial "reviews/alk-1.html" . }}
+    {{ else if eq .Params.reviewType "alk-2" }} {{ partial "reviews/alk-2.html"
+    . }} {{ else if eq .Params.reviewType "kod-1" }} {{ partial "kod-1.html" .
+    }} {{else if eq .Params.reviewType "kod-2"}}{{partial "kod-2.html"}}{{ end
+    }} {{partial "faq.html"}} {{partial "contacts.html" . }} {{partial
+    "footer.html" . }}
+  </body>
+</html>

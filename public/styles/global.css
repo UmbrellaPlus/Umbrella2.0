@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+:root {
+  --blue: #1d5d9b;
+  --orange: #d3231d;
+  --orangedark: #bf201b;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  list-style: none;
+  text-decoration: none;
+  color: black;
+}
+
+/* НИЖНЕЕ ОПИСАНИЕ */
+.bottom-descr {
+  margin: auto;
+  max-width: 70%;
+}
+.bottom-descr-container {
+  text-align: start;
+  line-height: 1.5rem;
+}
+@media (max-width: 768px) {
+  .bottom-descr {
+    max-width: 95%;
+  }
+}
+
+/* Футер */
+.footer {
+  margin-top: 2em;
+  height: auto;
+  display: flex;
+  justify-content: space-around;
+  background: rgb(17, 56, 96);
+  background: linear-gradient(
+    90deg,
+    rgba(17, 56, 96, 1) 0%,
+    rgba(29, 93, 155, 1) 75%,
+    rgba(17, 56, 96, 1) 100%
+  );
+  align-items: center;
+  padding: 1em 2em;
+}
+.footer-logo {
+  padding-bottom: 1em;
+}
+.footer-services ul li {
+  color: white;
+  margin-bottom: 0.6em;
+  font-weight: 300;
+}
+.footer-services ul li a {
+  color: white;
+  font-weight: 300;
+}
+.footer-services {
+  padding-bottom: 1em;
+}
+.year {
+  text-align: center;
+}
+@media (max-width: 768px) {
+  .footer {
+    height: auto;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
+}

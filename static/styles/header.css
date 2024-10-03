@@ -1,0 +1,109 @@
+#hamburger{
+  display: inline-block;
+}
+.line{
+  display: block;
+  background-color: black;
+  height: 3px;
+  width: 25px;
+  margin:5px auto;
+  transition: 0.3s ease-out;
+}
+#hamburger.active .line:nth-child(2) {
+  opacity: 0;
+}
+#hamburger.active .line:nth-child(1) {
+  transform: translateY(8px) rotate(45deg);
+}
+#hamburger.active .line:nth-child(3) {
+  transform: translateY(-8px) rotate(-45deg);
+}
+
+header{
+  position: fixed;
+  width: 100%;
+  align-items: center;
+  background-color: whitesmoke;
+  margin-top:3.5em;
+  z-index: 100;
+}
+.telegram-header img{
+  width: 30px;
+}
+.telegram-header{
+  padding:0 2rem;
+}
+nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding:0.5rem;
+  height: 5rem;
+}
+#nav-links{
+  display: none;
+  padding:1rem;
+  flex-direction: column;
+  gap:1rem;
+  position: fixed;
+  width: 100%;
+  align-items: center;
+  top:7rem;
+  left:0;
+  background-color: whitesmoke;
+  z-index:10000;
+  font-weight: 500;
+}
+#nav-links.active{
+  display: flex;
+}
+#nav-links.active li{
+  width: 100%;
+  padding:0.5rem;
+}
+#filials-list{
+  display: none;
+}
+#filials-list.active{
+  display: flex;
+  flex-direction: column;
+  gap:0.5rem;
+  margin-top: 0.5rem;
+}
+
+@media (min-width:1000px){
+  #hamburger{
+    display: none;
+  }
+  nav{
+    justify-content: space-around;
+    max-width: 80%;
+    margin: auto;
+  }
+  #nav-links{
+    position: static;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  #nav-links li a:hover{
+    transition: 0.1s;
+    color:gray;
+    border-bottom: 3px solid var(--orange);
+    border-radius:2px;
+  }
+  #filials{
+    cursor: pointer;
+  }
+  #filials:hover + #filials-list, #filials-list:hover{
+    display: flex;
+    flex-direction: column;
+    gap:0.5rem;
+    position: absolute;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    top:2.75rem;
+    right: 13rem;
+    padding:2rem;
+  }
+}
