@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://lindadevl.github.io/Umbrella2.0/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+relativeURLs: true
