@@ -7,7 +7,7 @@
   max-width: 95%;
   margin: auto;
 }
-.clinic-description h2{
+.clinic-description h2 {
   padding: 1em 0;
   font-weight: 500;
   display: inline-block;
@@ -15,7 +15,7 @@
   font-size: 23px;
   z-index: 1;
 }
-.clinic-description h2::after{
+.clinic-description h2::after {
   content: "";
   position: absolute;
   width: 100%;
@@ -42,19 +42,19 @@
   border-radius: 0px 10px 0px 0px;
 }
 @media (min-width: 1000px) {
-  .about-clinic{
+  .about-clinic {
     max-width: 70%;
     flex-direction: row;
   }
-  .about-clinic >*{
-    flex:1;
+  .about-clinic > * {
+    flex: 1;
   }
   .clinic-img {
     margin-top: 1em;
   }
 }
 
-/* Приемущества (Из старой версии сайта, сначала ПК версия)*/ 
+/* Приемущества (Из старой версии сайта, сначала ПК версия)*/
 
 .benefits {
   height: auto;
