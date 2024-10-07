@@ -18,6 +18,7 @@
 <link rel="stylesheet" href="./styles/footer.css" />
 <link rel="stylesheet" href="./styles/homepage.css" />
 <link rel="stylesheet" href="./styles/global.css" />
+<link rel="stylesheet" href="./styles/about.css" />
 <link
   href="
 https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
@@ -68,10 +69,12 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
       <li>
         <a id="filials">Филиалы<img src="./img/header-preheader/down-arrow.png" alt="down-arrow" style="width: 15px;vertical-align: middle;"></a>
         <ul id="filials-list">
-          <li><a href="./kiev">Киев</a></li>
           <li><a href="./odessa">Одесса</a></li>
-          <li><a href="">Харьков</a></li>
-          <li><a href="">Львов</a></li>
+          <li><a href="./kiev">Киев</a></li>
+          <li><a href="./kharkiv">Харьков</a></li>
+          <li><a href="./lviv">Львов</a></li>
+          <li><a href="./dnepr">Днепр</a></li>
+          <li><a href="./zaporozje">Запорожье</a></li>
         </ul>
       </li>
     </ul>
@@ -101,35 +104,14 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
     </div>
   </div>
 </form> <p>
-  Работаем в Одессе, Киеве, Львове, Харькове, Днепре, Запорожье, Каменском
+  Работаем в <a href="./odessa">Одессе</a>, <a href="./kiev">Киеве</a>, <a href="./lviv">Львове</a>, <a href="./kharkiv">Харькове</a>, <a href="./dnepr">Днепре</a>, <a href="./zaporozje">Запорожье</a>
 </p>
         <div class="main-approval">
           <p>Открыты с 2019 года. Более 5000 довольных клиентов.</p>
         </div>
       </div>
-      <div class="hero-vid">
-        <iframe
-          id="youtube-pc"
-          width="300"
-          height="450"
-          src="https://www.youtube.com/embed/TukUDlys8bQ?si=hsnA74H0AoXAkrtT"
-          title="YouTube video player"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          referrerpolicy="strict-origin-when-cross-origin"
-          allowfullscreen
-        ></iframe>
-        <iframe
-          id="youtube-mobile"
-          width="225"
-          height="375"
-          src="https://www.youtube.com/embed/TukUDlys8bQ?si=hsnA74H0AoXAkrtT"
-          title="YouTube video player"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          referrerpolicy="strict-origin-when-cross-origin"
-          allowfullscreen
-        ></iframe>
+      <div class="main-image">
+        <img src="./img/home-page/happy-patient.webp" alt="Happy-patient">
       </div>
     </main>
     
@@ -240,37 +222,69 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
       </div>
     </div>
 
-    
-
     <div class="doctors">
-      <h2>Наши спецалисты</h2>
-      <section id="image-carousel" class="splide">
-        <div class="splide__track">
-          <ul class="splide__list">
-            <li class="doctor-block splide__slide">
-              <img src="./img/home-page/doc1.png" alt="team-person1" />
-              <h4>Станислав Вячеславович Могучев</h4>
-              <p>Врач терапевт - стаж работы 5 лет.</p>
-            </li>
-            <li class="doctor-block splide__slide">
-              <img src="./img/home-page/doc2.png" alt="team-person2" />
-              <h4>Владислав Алексеевич Бажора</h4>
-              <p>Врач анастезиолог - стаж работы 4 года</p>
-            </li>
-            <li class="doctor-block splide__slide">
-              <img src="./img/home-page/doc3.webp" alt="team-person3" />
-              <h4>Алексей Валерьевич Тирон</h4>
-              <p>Врач нарколог - стаж работы 5 лет</p>
-            </li>
-            <li class="doctor-block splide__slide">
-              <img src="./img/home-page/doc4.webp" alt="team-person4" />
-              <h4>Михаил Валентинович Вастянов</h4>
-              <p>Врач нарколог - стаж работы 4 года</p>
-            </li>
-          </ul>
-        </div>
-      </section>
-    </div>
+        <h2>Наши спецалисты</h2>
+        <section id="image-carousel" class="splide">
+          <div class="splide__track">
+            <ul class="splide__list">
+              <li class="doctor-block splide__slide">
+                <img src="./img/doctors-from-slider/doc1.webp" alt="team-person1" />
+                <p><b>Станислав Вячеславович Могучев</b></p>
+                <p>г. Одесса</p>
+                <p>Врач терапевт - стаж работы 5 лет.</p>
+              </li>
+              <li class="doctor-block splide__slide">
+                <img src="./img/doctors-from-slider/doc2.webp" alt="team-person2" />
+                <p><b>Владислав Алексеевич Бажора</b></p>
+                <p>г. Одесса</p>
+                <p>Врач анастезиолог - стаж работы 4 года</p>
+              </li>
+              <li class="doctor-block splide__slide">
+                <img src="./img/doctors-from-slider/doc3.webp" alt="team-person3" />
+                <p><b>Алексей Валерьевич Тирон</b></p>
+                <p>г. Киев</p>
+                <p>Врач нарколог - стаж работы 5 лет</p>
+              </li>
+              <li class="doctor-block splide__slide">
+                <img src="./img/doctors-from-slider/doc4.webp" alt="team-person4" />
+                <p><b>Михаил Валентинович Вастянов</b></p>
+                <p>г. Запорожье</p>
+                <p>Врач нарколог - стаж работы 4 года</p>
+              </li>
+              <li class="doctor-block splide__slide">
+                <img src="./img/doctors-from-slider/doc5.webp" alt="team-person4" />
+                <p><b>Александра Васильевна Кузина</b></p>
+                <p>г. Львов</p>
+                <p>Врач психиатр - стаж работы 9 лет</p>
+              </li>
+              <li class="doctor-block splide__slide">
+                <img src="./img/doctors-from-slider/doc6.webp" alt="team-person4" />
+                <p><b>Татьяна Ивановна Степанюк</b></p>
+                <p>г. Харьков</p>
+                <p>Врач нарколог - стаж работы 16 лет</p>
+              </li>
+              <li class="doctor-block splide__slide">
+                <img src="./img/doctors-from-slider/doc7.webp" alt="team-person4" />
+                <p><b>Лариса Петровна Грач</b></p>
+                <p>г. Днепр</p>
+                <p>Врач нарколог - стаж работы 18 лет</p>
+              </li>
+              <li class="doctor-block splide__slide">
+                <img src="./img/doctors-from-slider/doc8.webp" alt="team-person4" />
+                <p><b>Антон Данилович Горшков</b></p>
+                <p>г. Киев</p>
+                <p>Врач терапевт - стаж работы 36 лет</p>
+              </li>
+              <li class="doctor-block splide__slide">
+                <img src="./img/doctors-from-slider/doc9.webp" alt="team-person4" />
+                <p><b>Денис Дмитриевич Куцько</b></p>
+                <p>г. Запорожье</p>
+                <p>Врач анастезиолог - стаж работы 10 лет</p>
+              </li>
+            </ul>
+          </div>
+        </section>
+      </div>
 
     
 
@@ -415,7 +429,14 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
     </div>
     
     <div class="reviews-disclaimer">
-      <p>Отзыв можно оставить после оказания вам услуги</p>
+      <a id="openDialog"><p>Нажмите если желаете оставить анонимный отзыв</p></a>
+      <dialog id="reviewDialog">
+    <form method="dialog">
+      <label for="input">Ваш отзыв будет опубликован в течении нескольких дней:</label><input type="text" name="text" id="text" />
+    </form>
+    <button id="sendBtnDialog">Отправить отзыв</button>
+    <button id="closeBtnDialog">Закрыть</button>
+  </dialog>
     </div>
     <div class="contacts">
   <div class="contacts-container">
@@ -460,35 +481,39 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
   </div>
 </div> <footer>
   <div class="footer">
-    <div class="footer-logo"><img src="./img/logo-bw.png" alt="logo" /></div>
+    <div class="footer-moz">Наказ МОЗ України. №226 від 27.07.2019 року</div>
+    <div class="footer-logo"><a href="./"><img src="./img/logo-bw.png" alt="logo" /></a></div>
     <div class="footer-services">
       <div>
         <ul>
-          <li><a href=""></a>Лечение зависимостей</li>
-          <li><a href=""></a>О нас</li>
-          <li><a href=""></a>Контакты</li>
+          <li><a href="./blog">Лечение зависимостей</a></li>
+          <li><a href="./about">О нас</a></li>
+          <li><a href="./contact">Контакты</a></li>
         </ul>
       </div>
     </div>
     <div class="footer-services">
       <div>
         <ul>
-          <li>Филиалы</li>
-          <li><a href="">Одесса</a></li>
-          <li><a href="">Киев</a></li>
-          <li><a href="">Харьков</a></li>
-          <li><a href="">Львов</a></li>
+          <li><b style="color: whitesmoke;">Филиалы</b></li>
+          <li><a href="./odessa">Одесса</a></li>
+          <li><a href="./kiev">Киев</a></li>
+          <li><a href="./kharkiv">Харьков</a></li>
+          <li><a href="./lviv">Львов</a></li>
+          <li><a href="./dnepr">Днепр</a></li>
+          <li><a href="./zaporozje">Запорожье</a></li>
         </ul>
       </div>
     </div>
   </div>
 
   
-  <div class="year"><p>2019-2024 Одесса. All right reserved</p></div>
+  <div class="year"><p>2019-2024 Все права защищены</p></div>
 </footer>
 <script src="./js/header.js"></script>
 <script src="./js/preheader.js"></script>
 <script src="./js/splide.js"></script>
+<script src="./js/review.js"></script>
 <script src="
 https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js
 "></script>

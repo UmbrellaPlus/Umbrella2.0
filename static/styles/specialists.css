@@ -1,8 +1,10 @@
 /* Наши спецалисты */
 .splide {
-  height: auto;
+  height:auto;
   padding-bottom: 2em;
   overflow-x: hidden;
+  max-width: 90%;
+  margin: auto;
 }
 .doctors {
   margin: auto;
@@ -44,14 +46,13 @@
   box-shadow: 5px -5px 0px var(--blue);
   border-radius: 0 0 0 10px;
 }
-.doctor-block h4 {
-  font-size: 0.9rem;
-}
 .doctor-block p {
-  /* text-align: center; */
   font-size: 0.9rem;
 }
 @media (max-width: 768px) {
+  .splide{
+    max-width: 98%;
+  }
   .doctors {
     height: auto;
     max-width: 95%;

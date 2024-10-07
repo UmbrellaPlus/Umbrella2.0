@@ -21,29 +21,8 @@
           <p>Открыты с 2019 года. Более 5000 довольных клиентов.</p>
         </div>
       </div>
-      <div class="hero-vid">
-        <iframe
-          id="youtube-pc"
-          width="300"
-          height="450"
-          src="https://www.youtube.com/embed/TukUDlys8bQ?si=hsnA74H0AoXAkrtT"
-          title="YouTube video player"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          referrerpolicy="strict-origin-when-cross-origin"
-          allowfullscreen
-        ></iframe>
-        <iframe
-          id="youtube-mobile"
-          width="225"
-          height="375"
-          src="https://www.youtube.com/embed/TukUDlys8bQ?si=hsnA74H0AoXAkrtT"
-          title="YouTube video player"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          referrerpolicy="strict-origin-when-cross-origin"
-          allowfullscreen
-        ></iframe>
+      <div class="main-image">
+        <img src="/img/home-page/happy-patient.webp" alt="Happy-patient">
       </div>
     </main>
     <!-- О нашей задаче -->
@@ -154,37 +133,7 @@
       </div>
     </div>
 
-    {{/* Слайдер врачей */}}
-
-    <div class="doctors">
-      <h2>Наши спецалисты</h2>
-      <section id="image-carousel" class="splide">
-        <div class="splide__track">
-          <ul class="splide__list">
-            <li class="doctor-block splide__slide">
-              <img src="/img/home-page/doc1.png" alt="team-person1" />
-              <h4>Станислав Вячеславович Могучев</h4>
-              <p>Врач терапевт - стаж работы 5 лет.</p>
-            </li>
-            <li class="doctor-block splide__slide">
-              <img src="/img/home-page/doc2.png" alt="team-person2" />
-              <h4>Владислав Алексеевич Бажора</h4>
-              <p>Врач анастезиолог - стаж работы 4 года</p>
-            </li>
-            <li class="doctor-block splide__slide">
-              <img src="/img/home-page/doc3.webp" alt="team-person3" />
-              <h4>Алексей Валерьевич Тирон</h4>
-              <p>Врач нарколог - стаж работы 5 лет</p>
-            </li>
-            <li class="doctor-block splide__slide">
-              <img src="/img/home-page/doc4.webp" alt="team-person4" />
-              <h4>Михаил Валентинович Вастянов</h4>
-              <p>Врач нарколог - стаж работы 4 года</p>
-            </li>
-          </ul>
-        </div>
-      </section>
-    </div>
+{{partial "slider.html"}}
 
     {{/* Отзывы */}}
 
@@ -329,7 +278,8 @@
     </div>
     <!-- </div> -->
     <div class="reviews-disclaimer">
-      <p>Отзыв можно оставить после оказания вам услуги</p>
+      <a id="openDialog"><p>Нажмите если желаете оставить анонимный отзыв</p></a>
+      {{partial "reviews-dialog.html"}}
     </div>
     {{partial "contacts.html" . }} {{partial "footer.html" .}}
   </body>

@@ -82,7 +82,14 @@ export default defineConfig({
           include: "about",
         },
         format: "md",
-        fields: [{ type: "string", name: "title", label: "Title" }],
+        fields: [
+          { type: "string", name: "title", label: "Title" },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Основной текст",
+          },
+        ],
       },
     ],
   },

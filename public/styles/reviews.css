@@ -68,6 +68,21 @@
   font-size: 0.7rem;
   text-align: center;
   padding: 0.3em 0;
+  cursor: pointer;
+}
+dialog {
+  border: none !important;
+  border-radius: 10px;
+  padding: 1.6rem;
+  margin: auto;
+}
+dialog form{
+  display: flex;
+  flex-direction: column;
+}
+dialog form input{
+  width: 50vw;
+  height: 50vh;
 }
 @media (max-width: 768px) {
   .reviews {
@@ -76,5 +91,9 @@
   }
   .reviews-container {
     grid-template-columns: repeat(1, 1fr);
+  }
+  dialog form input{
+    width: 75vw;
+    height: 75vh;
   }
 }

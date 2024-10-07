@@ -2,11 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>lindadevl.github.io/Umbrella2.0/about/</loc>
-  </url><url>
     <loc>lindadevl.github.io/Umbrella2.0/blog/</loc>
-  </url><url>
-    <loc>lindadevl.github.io/Umbrella2.0/contact/</loc>
   </url><url>
     <loc>lindadevl.github.io/Umbrella2.0/dnepr/</loc>
   </url><url>
@@ -45,5 +41,9 @@
     <loc>lindadevl.github.io/Umbrella2.0/odessa/genskiy-alkogolism/</loc>
   </url><url>
     <loc>lindadevl.github.io/Umbrella2.0/odessa/pivnoy-alkogolism/</loc>
+  </url><url>
+    <loc>lindadevl.github.io/Umbrella2.0/about/</loc>
+  </url><url>
+    <loc>lindadevl.github.io/Umbrella2.0/contact/</loc>
   </url>
 </urlset>

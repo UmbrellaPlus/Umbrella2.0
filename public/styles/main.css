@@ -25,7 +25,8 @@ main {
   padding: 1rem;
 }
 .hero-text p,
-.hero-text h1 {
+.hero-text h1,
+.hero-text p a {
   color: whitesmoke;
   text-align: center;
 }

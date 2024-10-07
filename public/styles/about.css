@@ -1,0 +1,24 @@
+/* USED ONLY ON ABOUT PAGE */
+
+.about-container{
+    padding-top:10rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 60%;
+    margin: auto;
+}
+.about-inside p{
+    margin-bottom: 1rem;
+    line-height: 1.5rem;
+}
+
+@media (max-width: 1200px) {
+    .about-container {
+      height: auto;
+      max-width: 95%;
+    }
+    .about-inside p{
+      flex-direction: column;
+    }
+  }
