@@ -74,6 +74,7 @@ export default defineConfig({
         format: "md",
         fields: [
           { type: "string", name: "title", label: "Title" },
+          {type:"string", name:"layout", label:"Это не менять"},
           {
             type: "rich-text",
             label: "Основной текст",
