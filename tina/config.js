@@ -44,12 +44,12 @@ export default defineConfig({
           {
             type: "string",
             label: "Заголовок страницы",
-            name: "Title",
+            name: "title",
           },
           {
             type: "string",
             label: "Описание под заголовком",
-            name: "Description",
+            name: "description",
           },
           {
             type: "image",
