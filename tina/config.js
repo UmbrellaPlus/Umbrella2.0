@@ -65,16 +65,6 @@ export default defineConfig({
         ],
       },
       {
-        name: "contact",
-        label: "Контакт",
-        path: "content",
-        match: {
-          include: "contact",
-        },
-        format: "md",
-        fields: [{ type: "string", name: "title", label: "Title" }],
-      },
-      {
         name: "about",
         label: "О нас",
         path: "content",
@@ -86,8 +76,9 @@ export default defineConfig({
           { type: "string", name: "title", label: "Title" },
           {
             type: "rich-text",
-            name: "body",
             label: "Основной текст",
+            name: "body",
+            isBody: true,
           },
         ],
       },
