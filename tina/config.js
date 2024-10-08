@@ -59,7 +59,7 @@ const cityTemplate = [
   },
   ,
   {
-    type: "number",
+    type: "string",
     label: "Сколько человек оценили",
     name: "rating",
     ui: {
