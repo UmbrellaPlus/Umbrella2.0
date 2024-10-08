@@ -7,6 +7,8 @@ description: >-
 image: /img/goroda/lechenie-alkogolizma/zaporozje-lechenie-alc.jpg
 imageText: Врач беседует с пациентом
 reviewType: alk-1
+ratingAvarage: "4.9/5"
+rating: "532"
 ---
 
 ## Лечение алкоголизма в Запорожье цены

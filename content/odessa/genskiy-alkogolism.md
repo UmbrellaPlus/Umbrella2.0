@@ -5,6 +5,8 @@ description: Наши действия и программы доказали с
 image: /img/main-about.webp
 imageText: This is logo
 reviewType: alk-1
+ratingAvarage: "4.9/5"
+rating: "532"
 ---
 
 ## Как формируеться алкоголизм у женщин

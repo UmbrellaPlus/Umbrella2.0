@@ -7,6 +7,8 @@ description: >-
 image: /img/goroda/lechenie-alkogolizma/kiev-lechenie-alc.webp
 imageText: Врач беседует с пациентом
 reviewType: alk-1
+ratingAvarage: "4.9/5"
+rating: "579"
 ---
 
 ## Лечение алкоголизма в Киеве цены

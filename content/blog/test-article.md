@@ -6,6 +6,8 @@ description: Первая статья в блог
 image: /img/main-about.webp
 imageText: This is image text
 reviewType: blog
+ratingAvarage: "4.8/5"
+rating: "270"
 ---
 
 ## Это заголовок тестовой статьи

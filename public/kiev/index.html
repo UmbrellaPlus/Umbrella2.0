@@ -13,6 +13,7 @@
 <link rel="stylesheet" href="../styles/markdown.css">
 <link rel="stylesheet" href="../styles/reviews.css" />
 <link rel="stylesheet" href="../styles/specialists.css" />
+<link rel="stylesheet" href="../styles/star-rating.css" />
 <link rel="stylesheet" href="../styles/faq.css" />
 <link rel="stylesheet" href="../styles/contacts.css" />
 <link rel="stylesheet" href="../styles/footer.css" />
@@ -106,7 +107,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 </p>
 </div>
 <div class="main-image">
-    <img src="../img/" alt="This is logo">
+    <img src="../img/goroda/lechenie-alkogolizma/kiev-lechenie-alc.webp" alt="Врач беседует с пациентом">
 </div>
 </main>
     <div class="markdown"><h2 id="лечение-алкоголизма-в-киеве-цены">Лечение алкоголизма в Киеве цены</h2>
@@ -182,7 +183,17 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 <h2 id="стоимость-лечения-алкоголизма">Стоимость лечения алкоголизма</h2>
 <p>Цена лечения алкоголизма зависит от множества факторов: от длительности зависимости, стадии заболевания, сопутствующих болезней и общего состояния здоровья пациента. Каждый случай требует индивидуального подхода.</p>
 </div>
-     <div class="reviews">
+    <div class="star-rating">
+    <span class="star" data-value="1">&#9733;</span>
+    <span class="star" data-value="2">&#9733;</span>
+    <span class="star" data-value="3">&#9733;</span>
+    <span class="star" data-value="4">&#9733;</span>
+    <span class="star" data-value="5">&#9733;</span>
+</div>
+<div id="rating-value">Ваша оценка: <b><span id="rating"></span></b> <br><span><span>4.9/5</span> (<span id="rating-votes">579</span> проголосовали)</span></div>
+<div id="rating-thanks">Благодарим за отзыв. Каждая оценка важна для нас<span id="rating"></span></div>
+
+<script src="../js/star-rating.js"></script>  <div class="reviews">
   <h2>Отзывы пациентов:</h2>
   <section id="card-carousel" class="splide">
     <div class="splide__track">
@@ -309,14 +320,13 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
     <dialog id="reviewDialog">
     <form method="dialog">
       <label for="text">Ваш отзыв будет опубликован в течении нескольких дней:</label><textarea type="text" name="text" id="text"></textarea><label for="rating">Оценка от 1 до 5</label>
-    <input type="text" name="rating" id="rating"></form>
+    <input type="number" inputmode="numeric" name="rating" id="rating" min="1" max="5"></form>
     <button id="sendBtnDialog">Отправить отзыв</button>
     <button id="closeBtnDialog">Закрыть</button>
   </dialog>
   </div>
 </div>
-
-     <div class="faq-container">
+ <div class="faq-container">
   <h2>Часто задаваемые вопросы</h2>
   <ul id="faq-accordion">
     <li>
@@ -345,13 +355,15 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
     </li>
   </ul>
 </div>
-    <div style="text-align: center;">
+    <div style="text-align: center">
       <h2>Последние статьи из блога</h2>
       <ul>
         
-        <a href="lindadevl.github.io/Umbrella2.0/blog/test-article/" style="text-decoration: underline;color:dodgerblue;"
+        <a
+          href="lindadevl.github.io/Umbrella2.0/blog/test-article/"
+          style="text-decoration: underline; color: dodgerblue"
           ><li>
-            <p style="color:dodgerblue;">Передается ли алкоголизм по наследству</p>
+            <p style="color: dodgerblue">Тестовая статья в блог</p>
           </li></a
         >
         

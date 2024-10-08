@@ -7,6 +7,8 @@ description: >-
 image: /img/goroda/lechenie-alkogolizma/kharkiv-lechenie-alcogolisma.jpg
 imageText: Врач беседует с пациентом
 reviewType: alk-1
+ratingAvarage: "4.9/5"
+rating: "321"
 ---
 
 ## Лечение алкоголизма в Одессе цены

@@ -13,6 +13,7 @@
 <link rel="stylesheet" href="./styles/markdown.css">
 <link rel="stylesheet" href="./styles/reviews.css" />
 <link rel="stylesheet" href="./styles/specialists.css" />
+<link rel="stylesheet" href="./styles/star-rating.css" />
 <link rel="stylesheet" href="./styles/faq.css" />
 <link rel="stylesheet" href="./styles/contacts.css" />
 <link rel="stylesheet" href="./styles/footer.css" />
@@ -434,7 +435,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
       <dialog id="reviewDialog">
     <form method="dialog">
       <label for="text">Ваш отзыв будет опубликован в течении нескольких дней:</label><textarea type="text" name="text" id="text"></textarea><label for="rating">Оценка от 1 до 5</label>
-    <input type="text" name="rating" id="rating"></form>
+    <input type="number" inputmode="numeric" name="rating" id="rating" min="1" max="5"></form>
     <button id="sendBtnDialog">Отправить отзыв</button>
     <button id="closeBtnDialog">Закрыть</button>
   </dialog>

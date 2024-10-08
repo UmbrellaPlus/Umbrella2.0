@@ -7,6 +7,8 @@ description: >-
 image: /img/goroda/lechenie-alkogolizma/lviv-lechenie-alc.jpg
 imageText: Врач беседует с пациентом
 reviewType: alk-1
+ratingAvarage: "4.8/5"
+rating: "298"
 ---
 
 ## Лечение алкоголизма во Львове цены
