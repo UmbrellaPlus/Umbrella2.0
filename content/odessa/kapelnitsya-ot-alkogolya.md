@@ -1,10 +1,10 @@
 ---
+tabTitle: Капельница от алкоголя Одесса | Umbrella Plus | От 999 грн
+title: Капельница от алкоголя в Одессе
+description: Вылечиваем алкогольную зависимость с 100% случаев
+image: /img/main-about.webp
 imageText: This is logo
 reviewType: alk-2
-tabTitle: Капельница от алкоголя Одесса | Umbrella Plus | От 999 грн
-Title: Капельница от алкоголя в Одессе
-Description: Вылечиваем алкогольную зависимость с 100% случаев
-image: /img/main-about.webp
 ---
 
 ## Когда нужна капельница от алкогольной интоксикации

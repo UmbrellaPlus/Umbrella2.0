@@ -1,7 +1,7 @@
 ---
 tabTitle: "Кодирование от алкоголизма Одесса | Umbrella Plus | От 1399 грн"
-Title: "Кодирование от алкоголизма в Одессе"
-Description: "Вылечиваем алкогольную зависимость с 100% случаев"
+title: "Кодирование от алкоголизма в Одессе"
+description: "Вылечиваем алкогольную зависимость с 100% случаев"
 image: "/img/main-about.webp"
 imageText: "This is logo"
 reviewType: "alk-2"

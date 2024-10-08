@@ -15,7 +15,19 @@
     {{ else if eq .Params.reviewType "alk-2" }} {{ partial "reviews/alk-2.html"
     . }} {{ else if eq .Params.reviewType "kod-1" }} {{ partial "kod-1.html" .
     }} {{else if eq .Params.reviewType "kod-2"}}{{partial "kod-2.html"}}{{ end
-    }} {{partial "faq.html"}} {{partial "contacts.html" . }} {{partial
-    "footer.html" . }}
+    }} {{partial "faq.html"}}
+    <div style="text-align: center;">
+      <h2>Последние статьи из блога</h2>
+      <ul>
+        {{range first 3 (where site.RegularPages "Type" "blog")}}
+        <a href="{{ .Permalink }}" style="text-decoration: underline;color:dodgerblue;"
+          ><li>
+            <p style="color:dodgerblue;">{{.Title}}</p>
+          </li></a
+        >
+        {{end}}
+      </ul>
+    </div>
+    {{partial "contacts.html" . }} {{partial "footer.html" . }}
   </body>
 </html>
