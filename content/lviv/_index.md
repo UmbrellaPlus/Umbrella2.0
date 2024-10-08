@@ -1,9 +1,11 @@
 ---
-title: Лечение алкоголизма в Одессе
-description: Вылечиваем алкогольную зависимость с 100% случаев
-tabTitle: Лечение алкоголизма в Одессе | Umbrella Plus | От 1000 грн
-image: /img/main-about.webp
-imageText: This is logo
+tabTitle: Лечение алкоголизма во Львове | Umbrella Plus | От 1000 грн
+title: Лечение алкоголизма во Львове
+description: >-
+  Благодаря нашему подходу во всех случаях мы эффективно и успешно вылечиваем
+  алкоголизм
+image: /img/goroda/lechenie-alkogolizma/lviv-lechenie-alc.jpg
+imageText: Врач беседует с пациентом
 reviewType: alk-1
 ---
 
