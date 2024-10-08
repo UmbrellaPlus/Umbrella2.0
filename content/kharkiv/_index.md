@@ -1,7 +1,9 @@
 ---
 tabTitle: Лечение алкоголизма в Харькове | Umbrella Plus | От 1000 грн
 title: Лечение алкоголизма в Харькове
-description: Вылечиваем алкогольную зависимость с 100% случаев
+description: >-
+  Благодаря нашим усилиям и инновационным решениям, мы добиваемся полного
+  излечения от алкоголизма.
 image: /img/goroda/lechenie-alkogolizma/kharkiv-lechenie-alcogolisma.jpg
 imageText: Врач беседует с пациентом
 reviewType: alk-1
