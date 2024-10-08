@@ -40,6 +40,10 @@ nav{
   padding:0.5rem;
   height: 5rem;
 }
+/* LOGO */
+nav a img{
+  width: 200px;
+}
 #nav-links{
   display: none;
   padding:1rem;

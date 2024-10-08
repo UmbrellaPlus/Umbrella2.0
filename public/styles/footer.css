@@ -21,6 +21,9 @@
 .footer-logo {
   padding-bottom: 1em;
 }
+.footer-logo a img{
+  width: 250px;
+}
 .footer-services ul li {
   color: white;
   margin-bottom: 0.6em;
