@@ -1,10 +1,12 @@
 ---
-tabTitle: "Лечение алкоголизма в Одессе | Umbrella Plus | От 1000 грн"
-title: "Лечение алкоголизма в Одессе"
-description: "Вылечиваем алкогольную зависимость с 100% случаев"
-image: "/img/main-about.webp"
-imageText: "This is logo"
-reviewType: "alk-1"
+tabTitle: Лечение алкоголизма в Запорожье | Umbrella Plus | От 1000 грн
+title: Лечение алкоголизма в Запорожье
+description: >-
+  Мы успешное лечение алкоголизма во многом происходит благодаря индивидуальному
+  подходу к каждому пациенту.
+image: /img/goroda/lechenie-alkogolizma/zaporozje-lechenie-alc.jpg
+imageText: Врач беседует с пациентом
+reviewType: alk-1
 ---
 
 ## Лечение алкоголизма в Запорожье цены
