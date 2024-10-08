@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    {{partial "style-links.html"}}
+    <title>{{.Title}}</title>
+  </head>
+  <body>
+    {{partial "sticky-phone.html"}} {{ partial "preheader.html"}} {{ partial
+    "header.html"}}
+    <div class="blog-padding">
+      <h1>Лечение зависимостей</h1>
+      <h2>Последние статьи</h2>
+      <ul class="blog-list-container">
+        {{range where site.RegularPages "Type" "blog"}}
+        <a href="{{ .Permalink }}"
+          ><li class="blog-list-post">
+            <div class="blog-list-post-text-container">
+              <h3>{{.Title}}</h3>
+              <p>{{.Params.Description}}</p>
+            </div>
+            <img src="{{.Params.image}}" alt="{{.Params.imageText}}" /></li
+        ></a>
+        {{end}}
+      </ul>
+    </div>
+    {{partial "contacts.html" . }} {{partial "footer.html" .}}
+  </body>
+</html>

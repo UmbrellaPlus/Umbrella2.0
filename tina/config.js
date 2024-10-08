@@ -1,4 +1,4 @@
-import { defineConfig } from "tinacms";
+import { defineConfig, FieldDescription } from "tinacms";
 
 // Your hosting provider likely exposes this as an environment variable
 const branch =
@@ -6,6 +6,54 @@ const branch =
   process.env.VERCEL_GIT_COMMIT_REF ||
   process.env.HEAD ||
   "main";
+
+const cityTemplate = [
+  {
+    type: "string",
+    label: "Название вкладки в Гугле",
+    name: "tabTitle",
+    ui: {
+      description:
+        "Например: Кодирование от алкоголизма Одесса | Umbrella Plus | От 1399 грн",
+    },
+  },
+  {
+    type: "string",
+    label: "Заголовок страницы",
+    name: "title",
+    ui: {
+      description: "Например: Кодирование от алкоголизма в Одессе",
+    },
+  },
+  {
+    type: "string",
+    label: "Описание под заголовком",
+    name: "description",
+    ui: {
+      description: "Например: Кодирование от алкоголизма в Одессе",
+      component: "textarea",
+    },
+  },
+  {
+    type: "image",
+    label: "Картинка",
+    name: "image",
+  },
+  {
+    type: "string",
+    label: "Описание картинки (нужно для СЕО в гугле)",
+    name: "imageText",
+    ui: {
+      description: "Например: человек-на-кровати или капельница-на-штативе",
+    },
+  },
+  {
+    type: "rich-text",
+    label: "Основной текст страницы",
+    name: "body",
+    isBody: true,
+  },
+];
 
 export default defineConfig({
   branch,
@@ -31,38 +79,40 @@ export default defineConfig({
   schema: {
     collections: [
       {
-        name: "cities",
-        label: "Города + Блог",
-        path: "content",
-        match: { exclude: "{contact,about,_index}" },
-        fields: [
-          {
-            type: "string",
-            label: "Название вкладки в Гугле",
-            name: "tabTitle",
-          },
-          {
-            type: "string",
-            label: "Заголовок страницы",
-            name: "title",
-          },
-          {
-            type: "string",
-            label: "Описание под заголовком",
-            name: "description",
-          },
-          {
-            type: "image",
-            label: "Картинка",
-            name: "image",
-          },
-          {
-            type: "rich-text",
-            label: "Основной текст страницы",
-            name: "body",
-            isBody: true,
-          },
-        ],
+        name: "odessa",
+        label: "Одесса",
+        path: "content/odessa",
+        fields: [...cityTemplate],
+      },
+      {
+        name: "kiev",
+        label: "Киев",
+        path: "content/kiev",
+        fields: [...cityTemplate],
+      },
+      {
+        name: "kharkiv",
+        label: "Харьков",
+        path: "content/kharkiv",
+        fields: [...cityTemplate],
+      },
+      {
+        name: "lviv",
+        label: "Львов",
+        path: "content/lviv",
+        fields: [...cityTemplate],
+      },
+      {
+        name: "dnepr",
+        label: "Днепр",
+        path: "content/dnepr",
+        fields: [...cityTemplate],
+      },
+      {
+        name: "zaporozje",
+        label: "Запорожье",
+        path: "content/zaporozje",
+        fields: [...cityTemplate],
       },
       {
         name: "about",
@@ -73,13 +123,36 @@ export default defineConfig({
         },
         format: "md",
         fields: [
-          { type: "string", name: "title", label: "Title" },
-          {type:"string", name:"layout", label:"Это не менять"},
+          { type: "string", name: "title", label: "Заголовок" },
+          { type: "string", name: "layout", label: "Это не менять" },
           {
             type: "rich-text",
             label: "Основной текст",
             name: "body",
             isBody: true,
+          },
+        ],
+      },
+      {
+        name: "blog",
+        label: "Блог",
+        path: "content/blog",
+        fields: [
+          {
+            type: "string",
+            name: "Title",
+            label: "Заголовок",
+          },
+          {
+            type: "string",
+            name: "Description",
+            label: "Описание статьи",
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            isBody: true,
+            label: "Основной текст статьи",
           },
         ],
       },

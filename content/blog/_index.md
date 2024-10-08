@@ -1,6 +1,6 @@
 ---
 title: Лечение зависимостей | Umbrella +
-layout: blog
+layout: blog-list
 ---
 
 test2

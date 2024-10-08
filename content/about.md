@@ -1,5 +1,5 @@
 ---
-title: О нашем центре | Umbrella +
+Title: О нашем центре | Umbrella +
 layout: about
 ---
 

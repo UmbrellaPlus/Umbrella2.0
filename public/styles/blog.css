@@ -1,0 +1,31 @@
+.blog-padding{
+    padding-top:9rem;
+    text-align: center;
+}
+.blog-list-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 70%;
+    margin: auto;
+}
+.blog-list-post {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid var(--blue);
+    border-radius: 5px;
+    padding: 1rem;
+    width: 100%;
+}
+.blog-list-post-text-container{}
+.blog-list-post-text-container a {}
+.blog-list-post-text-container p{}
+.blog-list-post img{
+    width:8rem;
+}
+@media (max-width: 1000px){
+    .blog-list-container{
+        max-width: 95%;
+    }
+}

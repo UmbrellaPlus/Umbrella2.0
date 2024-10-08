@@ -80,7 +80,7 @@ dialog form{
   display: flex;
   flex-direction: column;
 }
-dialog form input{
+dialog form textarea{
   width: 50vw;
   height: 50vh;
 }
@@ -92,8 +92,8 @@ dialog form input{
   .reviews-container {
     grid-template-columns: repeat(1, 1fr);
   }
-  dialog form input{
-    width: 75vw;
-    height: 75vh;
+  dialog form textarea{
+    width: 50vw;
+    height: 30vh;
   }
 }

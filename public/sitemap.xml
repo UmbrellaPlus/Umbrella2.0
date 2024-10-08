@@ -42,6 +42,8 @@
   </url><url>
     <loc>//localhost:1313/Umbrella2.0/about/</loc>
   </url><url>
+    <loc>//localhost:1313/Umbrella2.0/blog/article1/</loc>
+  </url><url>
     <loc>//localhost:1313/Umbrella2.0/contact/</loc>
   </url>
 </urlset>
