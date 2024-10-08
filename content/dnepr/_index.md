@@ -1,10 +1,12 @@
 ---
-tabTitle: "Лечение алкоголизма в Днепре | Umbrella Plus | От 1000 грн"
-title: "Лечение алкоголизма в Днепре"
-description: "Вылечиваем алкогольную зависимость с 100% случаев"
-image: "/img/main-about.webp"
-imageText: "This is logo"
-reviewType: "alk-1"
+tabTitle: Лечение алкоголизма в Днепре | Umbrella Plus | От 1000 грн
+title: Лечение алкоголизма в Днепре
+description: >-
+  Методы которые мы используем приносят стабильные результаты в борьбе с
+  алкогольной зависимостью
+image: /img/goroda/lechenie-alkogolizma/dnepr-lechenie-alc.jpg
+imageText: Врач беседует с пациентом
+reviewType: alk-1
 ---
 
 ## Лечение алкоголизма в Днепре цены
