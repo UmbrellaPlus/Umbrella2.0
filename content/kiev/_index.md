@@ -1,10 +1,12 @@
 ---
-tabTitle: "Лечение алкоголизма в Киеве | Umbrella Plus | От 1000 грн"
-title: "Лечение алкоголизма в Киеве"
-description: "Мы успешно справляемся с лечением алкоголизма благодаря нашим проверенным методам."
-image: "/img/"
-imageText: "This is logo"
-reviewType: "alk-1"
+tabTitle: Лечение алкоголизма в Киеве | Umbrella Plus | От 1000 грн
+title: Лечение алкоголизма в Киеве
+description: >-
+  Мы успешно справляемся с лечением алкоголизма благодаря нашим проверенным
+  методам.
+image: /img/goroda/lechenie-alkogolizma/kiev-lechenie-alc.webp
+imageText: Врач беседует с пациентом
+reviewType: alk-1
 ---
 
 ## Лечение алкоголизма в Киеве цены
