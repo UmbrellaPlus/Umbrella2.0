@@ -1,7 +1,7 @@
 ---
 layout: blog-post
-tabTitle: Лечение зависимостей | Umbrella Plus
-title: Передается ли алкоголизм по наследству
+tabTitle: Тестовая статья | Umbrella Plus
+title: Тестовая статья в блог
 description: Первая статья в блог
 image: /img/main-about.webp
 imageText: This is image text
