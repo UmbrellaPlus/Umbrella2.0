@@ -22,13 +22,6 @@
       <description></description>
     </item>
     <item>
-      <title>This is test title</title>
-      <link>//localhost:1313/Umbrella2.0/odessa/test-article/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Umbrella2.0/odessa/test-article/</guid>
-      <description>&lt;p&gt;This is body of test article&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Капельница от алкоголя в Одессе</title>
       <link>//localhost:1313/Umbrella2.0/odessa/kapelnitsya-ot-alkogolya/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

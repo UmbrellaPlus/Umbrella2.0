@@ -1,10 +1,10 @@
 ---
-tabTitle: "Лечение женского алкоголизма в Одессе | Umbrella Plus | От 1500 грн"
-Title: "Лечение женского алкоголизма в Одессе"
-Description: "Вылечиваем алкогольную зависимость с 100% случаев"
-image: "/img/main-about.webp"
-imageText: "This is logo"
-reviewType: "alk-1"
+Title: Лечение женского алкоголизма в Одессе
+Description: Вылечиваем алкогольную зависимость с 100% случаев
+tabTitle: Лечение женского алкоголизма в Одессе | Umbrella Plus | От 1500 грн
+image: /img/main-about.webp
+imageText: This is logo
+reviewType: alk-1
 ---
 
 ## Как формируеться алкоголизм у женщин

@@ -127,7 +127,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
           <td style="text-align: left">От 1000 грн</td>
       </tr>
       <tr>
-          <td style="text-align: left"><a href="vivod-iz-zapoya">Вывод из запоя</a></td>
+          <td style="text-align: left">Вывод из запоя</td>
           <td style="text-align: left">От 1500 грн</td>
       </tr>
       <tr>
@@ -309,8 +309,8 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
     <a id="openDialog"><p>Нажмите если желаете оставить анонимный отзыв</p></a>
     <dialog id="reviewDialog">
     <form method="dialog">
-      <label for="input">Ваш отзыв будет опубликован в течении нескольких дней:</label><textarea type="text" name="text" id="text"></textarea>
-    </form>
+      <label for="text">Ваш отзыв будет опубликован в течении нескольких дней:</label><textarea type="text" name="text" id="text"></textarea><label for="rating">Оценка от 1 до 5</label>
+    <input type="text" name="rating" id="rating"></form>
     <button id="sendBtnDialog">Отправить отзыв</button>
     <button id="closeBtnDialog">Закрыть</button>
   </dialog>

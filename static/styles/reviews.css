@@ -71,7 +71,6 @@
   cursor: pointer;
 }
 dialog {
-  border: none !important;
   border-radius: 10px;
   padding: 1.6rem;
   margin: auto;

@@ -1,4 +1,5 @@
 import { defineConfig, FieldDescription } from "tinacms";
+import { tinaTableTemplate } from "tinacms";
 
 // Your hosting provider likely exposes this as an environment variable
 const branch =
@@ -44,14 +45,44 @@ const cityTemplate = [
     label: "Описание картинки (нужно для СЕО в гугле)",
     name: "imageText",
     ui: {
-      description: "Например: человек-на-кровати или капельница-на-штативе",
+      description: "Например: Пациент на кровати или Капельница на штативе",
     },
+  },
+  {
+    type: "string",
+    component: "select",
+    name: "reviewType",
+    label: "Тип отзывов",
+    description: "Выбери тип отзывов на эту страницу",
+    options: [
+      {
+        value: "alk-1",
+        label: "Алкоголизм тип 1",
+      },
+      {
+        value: "alk-2",
+        label: "Алкоголизм тип 2",
+      },
+      {
+        value: "kod-2",
+        label: "Кодирование тип 1",
+      },
+      {
+        value: "kod-2",
+        label: "Кодирование тип 2",
+      },
+      {
+        value: "blog",
+        label: "Блог",
+      },
+    ],
   },
   {
     type: "rich-text",
     label: "Основной текст страницы",
     name: "body",
     isBody: true,
+    templates: [tinaTableTemplate],
   },
 ];
 
@@ -115,6 +146,12 @@ export default defineConfig({
         fields: [...cityTemplate],
       },
       {
+        name: "blog",
+        label: "Блог",
+        path: "content/blog",
+        fields: [...cityTemplate],
+      },
+      {
         name: "about",
         label: "О нас",
         path: "content",
@@ -130,29 +167,6 @@ export default defineConfig({
             label: "Основной текст",
             name: "body",
             isBody: true,
-          },
-        ],
-      },
-      {
-        name: "blog",
-        label: "Блог",
-        path: "content/blog",
-        fields: [
-          {
-            type: "string",
-            name: "Title",
-            label: "Заголовок",
-          },
-          {
-            type: "string",
-            name: "Description",
-            label: "Описание статьи",
-          },
-          {
-            type: "rich-text",
-            name: "body",
-            isBody: true,
-            label: "Основной текст статьи",
           },
         ],
       },
