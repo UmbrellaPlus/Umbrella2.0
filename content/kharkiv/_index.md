@@ -1,10 +1,10 @@
 ---
-tabTitle: "Лечение алкоголизма в Харькове | Umbrella Plus | От 1000 грн"
-title: "Лечение алкоголизма в Харькове"
-description: "Вылечиваем алкогольную зависимость с 100% случаев"
-image: "/img/main-about.webp"
-imageText: "This is logo"
-reviewType: "alk-1"
+tabTitle: Лечение алкоголизма в Харькове | Umbrella Plus | От 1000 грн
+title: Лечение алкоголизма в Харькове
+description: Вылечиваем алкогольную зависимость с 100% случаев
+image: /img/goroda/lechenie-alkogolizma/kharkiv-lechenie-alcogolisma.jpg
+imageText: Врач беседует с пациентом
+reviewType: alk-1
 ---
 
 ## Лечение алкоголизма в Одессе цены
