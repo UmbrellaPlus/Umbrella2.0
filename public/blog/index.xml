@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Лечение зависимостей | Umbrella &#43; on My New Hugo Site</title>
-    <link>lindadevl.github.io/Umbrella2.0/blog/</link>
+    <link>//localhost:1313/Umbrella2.0/blog/</link>
     <description>Recent content in Лечение зависимостей | Umbrella &#43; on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="lindadevl.github.io/Umbrella2.0/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/Umbrella2.0/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Тестовая статья в блог</title>
-      <link>lindadevl.github.io/Umbrella2.0/blog/test-article/</link>
+      <link>//localhost:1313/Umbrella2.0/blog/test-article/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>lindadevl.github.io/Umbrella2.0/blog/test-article/</guid>
+      <guid>//localhost:1313/Umbrella2.0/blog/test-article/</guid>
       <description>&lt;h2 id=&#34;это-заголовок-тестовой-статьи&#34;&gt;Это заголовок тестовой статьи&lt;/h2&gt;&#xA;&lt;p&gt;Далее идет текст тестовой статьи&lt;/p&gt;</description>
     </item>
   </channel>

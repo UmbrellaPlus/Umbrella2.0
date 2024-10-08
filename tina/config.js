@@ -70,7 +70,7 @@ const cityTemplate = [
     component: "select",
     name: "reviewType",
     label: "Тип отзывов",
-    description: "Выбери тип отзывов на эту страницу",
+    description: "Алкоголизм тип 1 - запой, женский, пивной; тип 2 - просто позитивные отзывы, Кодирование 1 и 2 особо не различаються",
     options: [
       {
         value: "alk-1",
