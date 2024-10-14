@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Лечение алкоголизма в Запорожье on My New Hugo Site</title>
-    <link>lindadevl.github.io/Umbrella2.0/zaporozje/</link>
-    <description>Recent content in Лечение алкоголизма в Запорожье on My New Hugo Site</description>
+    <title>Лечение алкоголизма в Запорожье on Umbrella Plus</title>
+    <link>//localhost:1313/zaporozje/</link>
+    <description>Recent content in Лечение алкоголизма в Запорожье on Umbrella Plus</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="lindadevl.github.io/Umbrella2.0/zaporozje/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru-ukr</language>
+    <atom:link href="//localhost:1313/zaporozje/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

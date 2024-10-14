@@ -27,3 +27,19 @@ document.addEventListener("DOMContentLoaded", function () {
     },
   }).mount();
 });
+
+//CAROUSEL FOR CITIES
+
+document.addEventListener("DOMContentLoaded", function () {
+  new Splide("#cities-carousel", {
+    type: "loop",
+    speed: 800,
+    gap: `10px`,
+    perPage: 2,
+    breakpoints: {
+      1000: {
+        perPage: 1,
+      },
+    },
+  }).mount();
+});

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{.Params.tabTitle}}</title>
+    {{partial "style-links.html"}}
+  </head>
+  <body>
+    {{partial "sticky-phone.html" . }} {{partial "preheader.html" . }} {{partial
+    "header.html" . }}
+    <main>
+      <div class="hero-text">
+        <h1>{{.Title}}</h1>
+        <p>{{.Params.Description}}</p>
+        {{ partial "telegram-form.html" . }} {{partial "cities-we-work.html"}}
+      </div>
+      <div class="main-image">
+        <img src="{{.Params.image}}" alt="{{.Params.imageText}}" />
+      </div>
+    </main>
+    <div class="markdown">{{.Content}}</div>{{partial "cities-carousel.html" .}}
+    {{partial "contacts.html" . }} {{partial "footer.html" . }}
+  </body>
+</html>

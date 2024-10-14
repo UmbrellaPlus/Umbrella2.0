@@ -1,4 +1,4 @@
-baseURL = 'lindadevl.github.io/Umbrella2.0'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = '//umbrellaplus.github.io/'
+languageCode = 'ru-ukr'
+title = 'Umbrella Plus'
 relativeURLs = true

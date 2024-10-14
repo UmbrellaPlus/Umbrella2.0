@@ -70,7 +70,8 @@ const cityTemplate = [
     component: "select",
     name: "reviewType",
     label: "Тип отзывов",
-    description: "Алкоголизм тип 1 - запой, женский, пивной; тип 2 - просто позитивные отзывы, Кодирование 1 и 2 особо не различаються",
+    description:
+      "Алкоголизм тип 1 - запой, женский, пивной; тип 2 - просто позитивные отзывы, Кодирование 1 и 2 особо не различаються",
     options: [
       {
         value: "alk-1",
@@ -184,6 +185,59 @@ export default defineConfig({
             label: "Основной текст",
             name: "body",
             isBody: true,
+          },
+        ],
+      },
+      {
+        name: "services",
+        label: "Услуги",
+        path: "content",
+        match: {
+          include: "services",
+        },
+        format: "md",
+        fields: [
+          {
+            type: "string",
+            label: "Название вкладки в Гугле",
+            name: "tabTitle",
+            ui: {
+              description:
+                "Например: Кодирование от алкоголизма Одесса | Umbrella Plus | От 1399 грн",
+            },
+          },
+          { type: "string", name: "title", label: "Заголовок" },
+          {
+            type: "string",
+            label: "Описание под заголовком",
+            name: "description",
+            ui: {
+              description:
+                "Например: Благодаря нашему подходу во всех случаях мы эффективно и успешно вылечиваем женский алкоголизм",
+              component: "textarea",
+            },
+          },
+          {
+            type: "image",
+            label: "Картинка",
+            name: "image",
+          },
+          {
+            type: "string",
+            label: "Описание картинки (нужно для СЕО в гугле)",
+            name: "imageText",
+            ui: {
+              description:
+                "Например: Пациент на кровати или Капельница на штативе",
+            },
+          },
+          { type: "string", name: "layout", label: "Это не менять" },
+          {
+            type: "rich-text",
+            label: "Основной текст",
+            name: "body",
+            isBody: true,
+            templates: [tinaTableTemplate],
           },
         ],
       },

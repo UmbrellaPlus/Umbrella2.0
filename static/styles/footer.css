@@ -15,8 +15,9 @@
   padding: 1em 2em;
 }
 .footer-moz{
-  color: whitesmoke;
+  color: lightgrey;
   width: 6rem;
+  font-size: 0.8rem;
 }
 .footer-logo {
   padding-bottom: 1em;
@@ -47,5 +48,8 @@
     height: auto;
     flex-wrap: wrap;
     justify-content: flex-start;
+  }
+  .footer-logo a img{
+    width: 200px;
   }
 }

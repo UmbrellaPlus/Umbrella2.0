@@ -16,7 +16,7 @@
           Вывод из запоя <br />Кодировка <br />Помощь при интоксикации
           <br />прямо у вас на дому
         </p>
-        {{partial "telegram-form.html" . }} {{ partial "cities.html" . }}
+        {{partial "telegram-form.html" . }} {{ partial "cities-we-work.html" . }}
         <div class="main-approval">
           <p>Открыты с 2019 года. Более 5000 довольных клиентов.</p>
         </div>
@@ -53,7 +53,9 @@
         <img src="/img/main-about.webp" alt="clinic-pic" />
       </div>
     </div>
+    {{/*  Города в которых мы работаем  */}}
 
+    {{partial "cities-carousel.html" .}}
     <!-- Приемущества -->
 
     <div class="benefits">
@@ -133,7 +135,7 @@
       </div>
     </div>
 
-{{partial "slider.html"}}
+{{partial "doctors-slider.html"}}
 
     {{/* Отзывы */}}
 
