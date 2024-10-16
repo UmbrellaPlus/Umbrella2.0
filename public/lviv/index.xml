@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Лечение алкоголизма во Львове on Umbrella Plus</title>
-    <link>//localhost:1313/lviv/</link>
+    <link>//umbrellaplus.github.io/lviv/</link>
     <description>Recent content in Лечение алкоголизма во Львове on Umbrella Plus</description>
     <generator>Hugo</generator>
     <language>ru-ukr</language>
-    <atom:link href="//localhost:1313/lviv/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//umbrellaplus.github.io/lviv/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
