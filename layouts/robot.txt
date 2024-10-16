@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /private/
+Disallow: /version.txt/
+Allow: /
+
+Sitemap: https://umbrella-plus.com.ua/sitemap.xml

@@ -1,4 +1,5 @@
-baseURL = '//umbrellaplus.github.io/'
+baseURL = '//umbrella-plus.com.ua/'
 languageCode = 'ru-ukr'
 title = 'Umbrella Plus'
 relativeURLs = true
+enableRobotsTXT = true

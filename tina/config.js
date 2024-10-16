@@ -116,7 +116,6 @@ export default defineConfig({
   build: {
     outputFolder: "admin",
     publicFolder: "static",
-    basePath: "Umbrella2.0",
   },
   media: {
     tina: {
