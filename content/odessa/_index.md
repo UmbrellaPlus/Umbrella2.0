@@ -7,7 +7,7 @@ description: >-
 image: /img/goroda/lechenie-alkogolizma/kiev-lechenie-alc.webp
 imageText: Врач беседует с пациентом
 ratingAvarage: 4.9/5
-rating: '532'
+rating: "532"
 reviewType: alk-1
 ---
 
@@ -18,12 +18,12 @@ reviewType: alk-1
 | Лечение алкоголизма                                      | От 1500 грн                |
 | [Капельница от алкоголя](kapelnitsya-ot-alkogolya)       | От 1000 грн                |
 | [Вывод из запоя](vivod-iz-zapoya)                        | От 1500 грн                |
-| [Лечение пивного алкоголизма](pivnoy-alkogolism)         | От 2000 грн                |
+| Лечение пивного алкоголизма                              | От 2000 грн                |
 | [Лечение женского алкоголизма](genskiy-alkogolism)       | От 2000 грн                |
 | [Кодирование от алкоголизма](kodirovanie-ot-alkogolisma) | От 4500 грн до 17000 грн   |
 | [Кодирование по методу Довженко](kodirovanie-dovgenko)   | От 4500 грн до 12000 грн   |
 | [Кодирование уколом](kodirovanie-ukolom)                 | От 10000 грн               |
-| [Подшивка от алкоголя](podshivka-ot-alkogolya)           | От 10 000 до 17 000 гривен |
+| Подшивка от алкоголя                                     | От 10 000 до 17 000 гривен |
 
 ## Лечение алкоголизма
 

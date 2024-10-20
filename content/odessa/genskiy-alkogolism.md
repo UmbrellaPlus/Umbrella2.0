@@ -2,8 +2,8 @@
 tabTitle: Лечение женского алкоголизма в Одессе | Umbrella Plus | От 1500 грн
 title: Лечение женского алкоголизма в Одессе
 description: Наши действия и программы доказали свою эффективность в успешном лечении женского алкоголизма
-image: /img/main-about.webp
-imageText: This is logo
+image: "/img/goroda/genskiy-alkogolizm/genskiy-alc-odessa.jpg"
+imageText: "Женщина со стаканом вина"
 reviewType: alk-1
 ratingAvarage: "4.9/5"
 rating: "532"
