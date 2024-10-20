@@ -129,8 +129,12 @@ export default defineConfig({
       {
         name: "odessa",
         label: "Одесса",
-        path: "content/odessa",
+        path: "content",
         fields: [...cityTemplate],
+        match: {
+          include: '{vivod-iz-zapoya,podshivka-ot-alc,pivnoy-alkogolism,lechenie-alc,kodirovanie-ukolom,kodirovanie-ot-alc,kodirovanie-dovgenko,kapelnitsya-ot-alc,genskiy-alc}',
+        },
+        format:"md"
       },
       {
         name: "kiev",
@@ -243,4 +247,3 @@ export default defineConfig({
     ],
   },
 });
- 
