@@ -2,50 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//umbrella-plus.com.ua/odessa/poshivka-ot-alkogolya/</loc>
+    <loc>//localhost:1313/odessa/poshivka-ot-alkogolya/</loc>
   </url><url>
-    <loc>//umbrella-plus.com.ua/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>//umbrella-plus.com.ua/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url><url>
-    <loc>//umbrella-plus.com.ua/</loc>
+    <loc>//localhost:1313/</loc>
   </url><url>
-    <loc>//umbrella-plus.com.ua/odessa/vivod-iz-zapoya/</loc>
+    <loc>//localhost:1313/odessa/vivod-iz-zapoya/</loc>
   </url><url>
-    <loc>//umbrella-plus.com.ua/odessa/kapelnitsya-ot-alkogolya/</loc>
+    <loc>//localhost:1313/kiev/kapelnitsya-ot-alkogolya/</loc>
   </url><url>
-    <loc>//umbrella-plus.com.ua/kharkiv/kapelnitsya-ot-alkogolya/</loc>
+    <loc>//localhost:1313/odessa/kapelnitsya-ot-alkogolya/</loc>
   </url><url>
-    <loc>//umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolisma/</loc>
+    <loc>//localhost:1313/kharkiv/kapelnitsya-ot-alkogolya/</loc>
   </url><url>
-    <loc>//umbrella-plus.com.ua/odessa/kodirovanie-dovgenko/</loc>
+    <loc>//localhost:1313/odessa/kodirovanie-ot-alkogolisma/</loc>
   </url><url>
-    <loc>//umbrella-plus.com.ua/odessa/kodirovanie-ukolom/</loc>
+    <loc>//localhost:1313/odessa/kodirovanie-dovgenko/</loc>
   </url><url>
-    <loc>//umbrella-plus.com.ua/dnepr/</loc>
+    <loc>//localhost:1313/odessa/kodirovanie-ukolom/</loc>
   </url><url>
-    <loc>//umbrella-plus.com.ua/zaporozje/</loc>
+    <loc>//localhost:1313/dnepr/</loc>
   </url><url>
-    <loc>//umbrella-plus.com.ua/kiev/</loc>
+    <loc>//localhost:1313/zaporozje/</loc>
   </url><url>
-    <loc>//umbrella-plus.com.ua/odessa/</loc>
+    <loc>//localhost:1313/kiev/</loc>
   </url><url>
-    <loc>//umbrella-plus.com.ua/kharkiv/</loc>
+    <loc>//localhost:1313/odessa/</loc>
   </url><url>
-    <loc>//umbrella-plus.com.ua/lviv/</loc>
+    <loc>//localhost:1313/kharkiv/</loc>
   </url><url>
-    <loc>//umbrella-plus.com.ua/odessa/genskiy-alkogolism/</loc>
+    <loc>//localhost:1313/lviv/</loc>
   </url><url>
-    <loc>//umbrella-plus.com.ua/blog/</loc>
+    <loc>//localhost:1313/odessa/genskiy-alkogolism/</loc>
   </url><url>
-    <loc>//umbrella-plus.com.ua/odessa/pivnoy-alkogolism/</loc>
+    <loc>//localhost:1313/blog/</loc>
   </url><url>
-    <loc>//umbrella-plus.com.ua/about/</loc>
+    <loc>//localhost:1313/odessa/pivnoy-alkogolism/</loc>
   </url><url>
-    <loc>//umbrella-plus.com.ua/blog/alkogolism-po-nasledstvy/</loc>
+    <loc>//localhost:1313/kiev/lechenie_pivnogo_alkogolizma/</loc>
   </url><url>
-    <loc>//umbrella-plus.com.ua/contact/</loc>
+    <loc>//localhost:1313/about/</loc>
   </url><url>
-    <loc>//umbrella-plus.com.ua/services/</loc>
+    <loc>//localhost:1313/blog/alkogolism-po-nasledstvy/</loc>
+  </url><url>
+    <loc>//localhost:1313/contact/</loc>
+  </url><url>
+    <loc>//localhost:1313/services/</loc>
   </url>
 </urlset>

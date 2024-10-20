@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Лечение зависимостей | Umbrella &#43; on Umbrella Plus</title>
-    <link>//umbrella-plus.com.ua/blog/</link>
+    <link>//localhost:1313/blog/</link>
     <description>Recent content in Лечение зависимостей | Umbrella &#43; on Umbrella Plus</description>
     <generator>Hugo</generator>
     <language>ru-ukr</language>
-    <atom:link href="//umbrella-plus.com.ua/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Передается ли алкоголизм по наследству</title>
-      <link>//umbrella-plus.com.ua/blog/alkogolism-po-nasledstvy/</link>
+      <link>//localhost:1313/blog/alkogolism-po-nasledstvy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//umbrella-plus.com.ua/blog/alkogolism-po-nasledstvy/</guid>
+      <guid>//localhost:1313/blog/alkogolism-po-nasledstvy/</guid>
       <description>&lt;p&gt;Многие задаются вопросом о наследственности алкогольной зависимости и о том, передается ли она по генам. Для начала, важно понять, что такое гены. Гены являются основными единицами наследственной информации, которые формируют ДНК. Эта ДНК передает определенные признаки от родителей к детям, включая внешние черты, привычки и даже черты характера. Интересно, что человеческая ДНК отличается лишь на 0,1%, что указывает на высокую степень общего сходства, хотя абсолютно одинаковых людей не существует.&lt;/p&gt;&#xA;&lt;h2 id=&#34;алкогольный-ген-и-его-влияние&#34;&gt;Алкогольный ген и его влияние&lt;/h2&gt;&#xA;&lt;p&gt;Среди генов выделяют так называемый &amp;ldquo;алкогольный ген&amp;rdquo;, который отвечает за выработку фермента алкогольдегидрогеназы. Этот фермент ускоряет реакцию организма на алкоголь, что может проявляться такими симптомами, как мигрень и тошнота. Особенно распространен этот ген среди жителей Азии, где случаи алкоголизма встречаются реже. Однако важно отметить, что алкогольная зависимость часто развивается при нарушениях в дофаминовой и эндорфиновой системах мозга.&lt;/p&gt;</description>
     </item>
   </channel>
