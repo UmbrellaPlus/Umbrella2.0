@@ -1,4 +1,4 @@
-/* Футер */
+/* Футер */ 
 .footer {
   margin-top: 2em;
   height: auto;
@@ -24,6 +24,9 @@
 }
 .footer-logo a img{
   width: 250px;
+}
+.footer-services ul{
+  list-style: none;
 }
 .footer-services ul li {
   color: white;

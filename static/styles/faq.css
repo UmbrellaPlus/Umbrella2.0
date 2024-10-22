@@ -18,6 +18,9 @@
   background-color: #1d5d9b;
   left: 0px;
 }
+#faq-accordion{
+  list-style: none;
+}
 #faq-accordion li {
   border: 1px solid var(--blue);
   padding: 0.5em;
