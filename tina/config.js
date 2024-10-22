@@ -132,9 +132,10 @@ export default defineConfig({
         path: "content",
         fields: [...cityTemplate],
         match: {
-          include: '{vivod-iz-zapoya,podshivka-ot-alc,pivnoy-alkogolism,lechenie-alc,kodirovanie-ukolom,kodirovanie-ot-alc,kodirovanie-dovgenko,kapelnitsya-ot-alc,genskiy-alc}',
+          include:
+            "{vivod-iz-zapoya,podshivka-ot-alc,pivnoy-alkogolism,lechenie-alc,kodirovanie-ukolom,kodirovanie-ot-alc,kodirovanie-dovgenko,kapelnitsya-ot-alc,genskiy-alc}",
         },
-        format:"md"
+        format: "md",
       },
       {
         name: "kiev",
@@ -163,13 +164,19 @@ export default defineConfig({
       {
         name: "zaporozje",
         label: "Запорожье",
-        path: "content/zaporozje",
+        path: "content/zaporozie",
         fields: [...cityTemplate],
       },
       {
         name: "blog",
         label: "Блог",
         path: "content/blog",
+        fields: [...cityTemplate],
+      },
+      {
+        name: "services",
+        label: "Услуги",
+        path: "content/services",
         fields: [...cityTemplate],
       },
       {
@@ -188,59 +195,6 @@ export default defineConfig({
             label: "Основной текст",
             name: "body",
             isBody: true,
-          },
-        ],
-      },
-      {
-        name: "services",
-        label: "Услуги",
-        path: "content",
-        match: {
-          include: "services",
-        },
-        format: "md",
-        fields: [
-          {
-            type: "string",
-            label: "Название вкладки в Гугле",
-            name: "tabTitle",
-            ui: {
-              description:
-                "Например: Кодирование от алкоголизма Одесса | Umbrella Plus | От 1399 грн",
-            },
-          },
-          { type: "string", name: "title", label: "Заголовок" },
-          {
-            type: "string",
-            label: "Описание под заголовком",
-            name: "description",
-            ui: {
-              description:
-                "Например: Благодаря нашему подходу во всех случаях мы эффективно и успешно вылечиваем женский алкоголизм",
-              component: "textarea",
-            },
-          },
-          {
-            type: "image",
-            label: "Картинка",
-            name: "image",
-          },
-          {
-            type: "string",
-            label: "Описание картинки (нужно для СЕО в гугле)",
-            name: "imageText",
-            ui: {
-              description:
-                "Например: Пациент на кровати или Капельница на штативе",
-            },
-          },
-          { type: "string", name: "layout", label: "Это не менять" },
-          {
-            type: "rich-text",
-            label: "Основной текст",
-            name: "body",
-            isBody: true,
-            templates: [tinaTableTemplate],
           },
         ],
       },
