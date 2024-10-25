@@ -53,15 +53,15 @@
     {{ partial "star-rating.html" .}} {{ if eq .Params.reviewType "alk-1" }} {{
     partial "reviews/alk-1.html" . }} {{ else if eq .Params.reviewType "alk-2"
     }} {{ partial "reviews/alk-2.html" . }} {{ else if eq .Params.reviewType
-    "kod-1" }} {{ partial "kod-1.html" . }} {{else if eq .Params.reviewType
-    "kod-2"}}{{partial "kod-2.html"}}{{ end }}{{partial "faq.html"}}
+    "kod-1" }} {{ partial "reviews/kod-1.html" . }} {{else if eq .Params.reviewType
+    "kod-2"}}{{partial "reviews/kod-2.html" .}}{{ end }}{{partial "faq.html"}}
     <div style="text-align: center">
       <h2>Последние статьи из блога</h2>
-      <ul>
+      <ul style="list-style: none;">
         {{range first 3 (where site.RegularPages "Type" "blog")}}
         <a
           href="{{ .Permalink }}"
-          style="text-decoration: underline; color: dodgerblue"
+          style="text-decoration: underline; color: dodgerblue;"
           ><li>
             <p style="color: dodgerblue">{{.Title}}</p>
           </li></a

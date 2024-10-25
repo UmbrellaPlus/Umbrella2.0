@@ -3,7 +3,7 @@
   <h1>{{.Title}}</h1>
   <p>{{.Params.Description}}</p>
   {{ partial "telegram-form.html" . }}
-  {{partial "cities-we-work.html"}}
+  {{partial "cities-we-work.html" .}}
 </div>
 <div class="main-image">
     <img src="{{.Params.image}}" alt="{{.Params.imageText}}">
