@@ -43,3 +43,23 @@ document.addEventListener("DOMContentLoaded", function () {
     },
   }).mount();
 });
+
+//CAROUSEL FOR PARTNERS
+
+document.addEventListener("DOMContentLoaded", function () {
+  new Splide("#partners-carousel", {
+    type: "loop",
+    autoplay: "play",
+    perPage: 3,
+    arrows: false,
+    pagination: false,
+    breakpoints: {
+      500: {
+        perPage: 1,
+      },
+      1000: {
+        perPage: 2,
+      },
+    },
+  }).mount();
+});
