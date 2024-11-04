@@ -15,7 +15,7 @@ imageText: Команда врачей
 | [Вывод из запоя](vivod-iz-zapoia-glavnaia)                      | От 1499 грн              |
 | [Вывод из запоя на дому](vivod-iz-zapoia-na-domy)               | От 1699 грн              |
 | [Капельница от алкоголя](kapelnica_ot_alkogolia)                | От 1499 грн              |
-| [Капельница от алкоголя на дому](kapelnica-ot-alkogola-na-domy) | От 1499 грн              |
+| [Капельница от алкоголя на дому](kapelnica-ot-alkogola-na-domy) | От 1699 грн              |
 | [Лечение пивного алкоголизма](lechenie_pivnogo_alkogolizm)      | От 1499 грн              |
 | [Лечение женского алкоголизма](lechenie_jenskogo_alkogolizma)   | От 1499 грн              |
 | [Кодирование от алкоголизма](kodirovka_ot_alkogolizma)          | От 3999 грн до 17000 грн |
