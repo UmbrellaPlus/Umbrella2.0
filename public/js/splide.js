@@ -52,7 +52,6 @@ document.addEventListener("DOMContentLoaded", function () {
     autoplay: "play",
     perPage: 3,
     arrows: false,
-    pagination: false,
     breakpoints: {
       500: {
         perPage: 1,
