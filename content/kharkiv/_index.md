@@ -7,7 +7,7 @@ description: >-
 image: /img/goroda/lechenie-alkogolizma/kharkiv-lechenie-alcogolisma.jpg
 imageText: Врач беседует с пациентом
 ratingAvarage: 4.9/5
-rating: '321'
+rating: '736'
 reviewType: alk-1
 ---
 
