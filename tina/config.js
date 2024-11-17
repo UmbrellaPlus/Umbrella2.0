@@ -100,7 +100,6 @@ const cityTemplate = [
     label: "Основной текст страницы",
     name: "body",
     isBody: true,
-    templates: [tinaTableTemplate],
   },
 ];
 
