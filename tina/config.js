@@ -99,7 +99,7 @@ const cityTemplate = [
     type: "rich-text",
     label: "Основной текст страницы",
     name: "body",
-    isBody: true,
+    isBody: true
   },
 ];
 
