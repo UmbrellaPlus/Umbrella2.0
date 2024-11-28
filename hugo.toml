@@ -1,4 +1,4 @@
-baseURL = '//umbrella-plus.com.ua/'
+baseURL = 'https//umbrella-plus.com.ua/'
 languageCode = 'ru-ukr'
 title = 'Umbrella Plus'
 relativeURLs = true

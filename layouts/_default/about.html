@@ -34,6 +34,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     {{partial "style-links.html"}}
     <title>{{.Title}}</title>
+    {{/* Canonial URL */}}
+    <link rel="canonical" href="{{ .Permalink }}" />
+    {{/* Styles */}}
   </head>
   <body>
     <!-- Google Tag Manager (noscript) -->

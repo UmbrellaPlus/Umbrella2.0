@@ -33,7 +33,9 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{.Params.tabTitle}}</title>
-    {{partial "style-links.html"}}
+    {{/*  Canonial URL  */}}
+    <link rel="canonical" href="{{ .Permalink }}" />
+    {{/*  Styles  */}}
   </head>
   <body>
     <!-- Google Tag Manager (noscript) -->

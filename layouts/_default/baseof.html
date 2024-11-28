@@ -34,13 +34,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{.Params.tabTitle}}</title>
     <!-- Canonical URL -->
-    {{ if .IsHome }}
-    <link rel="canonical" href="{{ .Site.BaseURL | relURL }}" />
-    {{ else if .Permalink }}
     <link rel="canonical" href="{{ .Permalink }}" />
-    {{ else }}
-    <link rel="canonical" href="{{ .RelPermalink | absURL }}" />
-    {{ end }} {{partial "style-links.html"}}
+    {{/*  Styles  */}}
+    {{partial "style-links.html"}}
   </head>
   <body>
     <!-- Google Tag Manager (noscript) -->

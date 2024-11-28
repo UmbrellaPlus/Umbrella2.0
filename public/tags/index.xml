@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Umbrella Plus</title>
-    <link>//umbrella-plus.com.ua/tags/</link>
+    <link>https//umbrella-plus.com.ua/tags/</link>
     <description>Recent content in Tags on Umbrella Plus</description>
     <generator>Hugo</generator>
     <language>ru-ukr</language>
-    <atom:link href="//umbrella-plus.com.ua/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https//umbrella-plus.com.ua/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
