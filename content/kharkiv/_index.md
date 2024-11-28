@@ -21,7 +21,7 @@ reviewType: alk-1
 | [Капельница от алкоголя Харьков](kapelnitsya-ot-alc-kharkiv)                    | От 1499 грн  |
 | [Капельница от алкоголя на дому Харьков](kapelnica-ot-alkogola-na-domy-kharkiv) | От 1699 грн  |
 | [Лечение пивного алкоголизма Харьков](lechenie_pivnogo_alkogolizma_kharkiv)     | От 1499 грн  |
-| [Лечение женского алкоголизм Харьков](lechenie-jenskogo-alkogolizma-kharkiv)    | От 1499 грн  |
+| [Лечение женского алкоголизм Харьков](lechenie_jenskogo_alkogolizma_kharkiv)    | От 1499 грн  |
 | Кодирование от алкоголизма Харьков                                              | От 3999 грн  |
 | [Кодирование уколом Харьков](kodirovka_ot_alkogolizma_ykolom_kharkov)           | От 3999 грн  |
 | Подшивка от алкоголя Харьков                                                    | От 9999 грн  |
