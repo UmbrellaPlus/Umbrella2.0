@@ -5,7 +5,7 @@ description: >-
   Благодаря нашим усилиям и инновационным решениям, мы добиваемся полного
   излечения от алкоголизма.
 image: /img/goroda/lechenie-alkogolizma/kharkiv-lechenie-alcogolisma.jpg
-imageText: Врач беседует с пациентом
+imageText: Лечение алкоголизма в Харькове
 ratingAvarage: 4.9/5
 rating: '736'
 reviewType: alk-1
@@ -24,7 +24,7 @@ reviewType: alk-1
 | [Лечение женского алкоголизм Харьков](lechenie_jenskogo_alkogolizma_kharkiv)    | От 1499 грн  |
 | [Кодирование от алкоголизма Харьков](kodirovka_ot_alkogolizma_kharkiv)          | От 3999 грн  |
 | [Кодирование уколом Харьков](kodirovka_ot_alkogolizma_ykolom_kharkov)           | От 3999 грн  |
-| Подшивка от алкоголя Харьков                                                    | От 9999 грн  |
+| [Подшивка от алкоголя Харьков](podshivka_ot_alkogolizma_kharkiv)                | От 9999 грн  |
 | [Кодирование по методу Довженко Харьков](kodirovka_ot_alkogolizma_po_dovjenko)  | От 14999 грн |
 
 ## Лечение алкогольной зависимости
