@@ -24,6 +24,8 @@ reviewType: alk-1
 | [Лечение женского алкоголизм Харьков](lechenie_jenskogo_alkogolizma_kharkiv)    | От 1499 грн  |
 | [Кодирование от алкоголизма Харьков](kodirovka_ot_alkogolizma_kharkiv)          | От 3999 грн  |
 | [Кодирование уколом Харьков](kodirovka_ot_alkogolizma_ykolom_kharkov)           | От 3999 грн  |
+| Кодирование от алкоголизма укол Дисульфирам                                     | От 4000 грн  |
+| Кодирование от алкоголизма укол Эспираль                                        | ОТ 5500 грн  |
 | [Подшивка от алкоголя Харьков](podshivka_ot_alkogolizma_kharkiv)                | От 9999 грн  |
 | [Кодирование по методу Довженко Харьков](kodirovka_ot_alkogolizma_po_dovjenko)  | От 14999 грн |
 
