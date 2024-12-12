@@ -4,7 +4,7 @@ title: Капельница от алкоголя в Одессе
 description: Помогаем снять алкогольную интоксикацию в Одессе.
 image: /img/goroda/kapelnitsya-ot-alkogolisma/kapelnica-ot-alkogolisma-odessa.jpg
 imageText: Капельница от алкоголя Одесса
-ratingAvarage: 4.9/5
+ratingAvarage: 5/5
 rating: '723'
 reviewType: alk-2
 ---
