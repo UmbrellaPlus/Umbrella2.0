@@ -8,7 +8,7 @@ image: /img/goroda/lechenie-alkogolizma/kiev-lechenie-alc.webp
 imageText: Врач беседует с пациентом
 ratingAvarage: 4.9/5
 rating: '532'
-reviewType: alk-1
+reviewType: alk-2
 ---
 
 ## Лечение алкоголизма в Одессе цены
