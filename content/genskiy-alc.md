@@ -5,7 +5,7 @@ description: >-
   Наши действия и программы доказали свою эффективность в успешном лечении
   женского алкоголизма
 image: /img/goroda/genskiy-alkogolizm/genskiy-alc-odessa.jpg
-imageText: Женщина со стаканом вина
+imageText: Лечение женского алкоголизма Одесса
 ratingAvarage: 4.9/5
 rating: '532'
 reviewType: alk-1
