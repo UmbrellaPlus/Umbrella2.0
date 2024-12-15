@@ -5,8 +5,12 @@
       <span class="line"></span>
       <span class="line"></span>
     </div>
-    <a href="/"><img src="/img/header-preheader/logo.webp" alt="Logo" /></a>
-
+    {{range site.Home.AllTranslations}} {{if eq .Language.Lang
+    site.Language.Lang}}
+    <a href="{{ .RelPermalink }}"
+      ><img src="/img/header-preheader/logo.webp" alt="Logo"
+    /></a>
+    {{end}}{{end}}
     <ul class="language-switcher">
       {{range site.Home.AllTranslations}} {{if eq .Language.Lang
       site.Language.Lang}}

@@ -2,10 +2,18 @@
 <div class="hero-text">
   <h1>{{.Title}}</h1>
   <p>{{.Params.Description}}</p>
-  {{ partial "telegram-form.html" . }}
-  {{partial "cities-we-work.html"}}
+  {{if in .Site.Language "ru"}} 
+  {{ partial "telegram-form.html" . }} 
+  {{ else }}
+  {{partial "telegram-form-ua.html" . }} 
+  {{end}} 
+  {{if in .Site.Language "ru"}}
+  {{partial "cities-we-work.html"}} 
+  {{else}} 
+  {{partial "cities-we-work-ua.html"}} 
+  {{end}}
 </div>
 <div class="main-image">
-    <img src="{{.Params.image}}" alt="{{.Params.imageText}}">
+  <img src="{{.Params.image}}" alt="{{.Params.imageText}}" />
 </div>
 {{ end }}

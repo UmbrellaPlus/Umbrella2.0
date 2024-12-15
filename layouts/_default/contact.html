@@ -32,10 +32,9 @@
     <!-- Default meta -->
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    {{/*  Canonial URL  */}}
+    {{/* Canonial URL */}}
     <link rel="canonical" href="{{ .Permalink }}" />
-    {{/*  Styles  */}}
-    {{partial "style-links.html"}}
+    {{/* Styles */}} {{partial "style-links.html"}}
     <title>{{.Title}}</title>
   </head>
   <body>
@@ -52,6 +51,7 @@
     {{partial "sticky-phone.html"}} {{ partial "preheader.html"}} {{ partial
     "header.html"}}
     <div style="padding-top: 9rem"></div>
-    {{partial "contacts.html" . }} {{partial "footer.html" .}}
+    {{if in .Site.Language "ru"}} {{partial "contacts.html" . }} {{ else }}
+    {{partial "contacts-ua.html" . }} {{end}} {{partial "footer.html" .}}
   </body>
 </html>

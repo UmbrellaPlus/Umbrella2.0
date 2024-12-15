@@ -35,8 +35,7 @@
     <title>{{.Params.tabTitle}}</title>
     <!-- Canonical URL -->
     <link rel="canonical" href="{{ .Permalink }}" />
-    {{/*  Styles  */}}
-    {{partial "style-links.html"}}
+    {{/* Styles */}} {{partial "style-links.html"}}
   </head>
   <body>
     <!-- Google Tag Manager (noscript) -->
@@ -49,16 +48,21 @@
       ></iframe
     ></noscript>
     <!-- End Google Tag Manager (noscript) -->
-    {{partial "sticky-phone.html" . }} {{partial "preheader.html" . }} {{partial
-    "header.html" . }}
+    {{partial "sticky-phone.html" . }}
+    {{if in .Site.Language "ru"}} {{partial
+    "preheader.html" . }}
+    {{ else }} {{partial "preheader-ua.html" . }}{{end}}
+    {{partial "header.html" . }}
     <main>{{block "main".}}{{end}}</main>
     <div class="markdown">{{.Content}}</div>
-    {{ partial "star-rating.html" .}} {{ if eq .Params.reviewType "alk-1" }} {{
-    partial "reviews/alk-1.html" . }} {{ else if eq .Params.reviewType "alk-2"
-    }} {{ partial "reviews/alk-2.html" . }} {{ else if eq .Params.reviewType
-    "kod-1" }} {{ partial "reviews/kod-1.html" . }} {{else if eq
-    .Params.reviewType "kod-2"}}{{partial "reviews/kod-2.html" .}}{{ end
-    }}{{partial "faq.html"}}
+    {{if in .Site.Language "ru"}} {{ partial "star-rating.html" .}}{{ else }} {{
+    partial "star-rating-ua.html" .}}{{end}} {{ if eq .Params.reviewType "alk-1"
+    }} {{ partial "reviews/alk-1.html" . }} {{ else if eq .Params.reviewType
+    "alk-2" }} {{ partial "reviews/alk-2.html" . }} {{ else if eq
+    .Params.reviewType "kod-1" }} {{ partial "reviews/kod-1.html" . }} {{else if
+    eq .Params.reviewType "kod-2"}}{{partial "reviews/kod-2.html" .}}{{ end
+    }}{{if in .Site.Language "ru"}}{{partial "faq.html"}}{{ else }} {{partial
+    "faq-ua.html"}}{{end}}
     <div style="text-align: center">
       <h2>Последние статьи из блога</h2>
       <ul style="list-style: none">
@@ -73,6 +77,7 @@
         {{end}}
       </ul>
     </div>
-    {{partial "contacts.html" . }} {{partial "footer.html" . }}
+    {{if in .Site.Language "ru"}} {{partial "contacts.html" . }} {{ else }}
+    {{partial "contacts-ua.html" . }} {{end}} {{partial "footer.html" . }}
   </body>
 </html>

@@ -52,7 +52,7 @@
     {{partial "sticky-phone.html"}} {{ partial "preheader.html"}} {{ partial
     "header.html"}}
     <!-- О нас -->
-
+    {{if in .Site.Language "ru"}}
     <div class="about-container">
       <h1>О нас</h1>
       <h2>Ради чего мы работаем</h2>
@@ -61,8 +61,19 @@
         <img src="" alt="" />
       </div>
     </div>
+    {{ else }}
+    <div class="about-container">
+      <h1>Про нас</h1>
+      <h2>Заради чого ми працюємо</h2>
+      <div class="about-inside">
+        <p>{{.Content}}</p>
+        <img src="" alt="" />
+      </div>
+    </div>
 
-    {{partial "doctors-slider.html"}} {{partial "contacts.html" . }} {{partial
-    "footer.html" .}}
+    {{end}} {{if in .Site.Language "ru"}} {{partial "doctors-slider.html"}}
+    {{partial "contacts.html" . }} {{ else }} {{partial
+    "doctors-slider-ua.html"}} {{partial "contacts-ua.html" . }} {{end}}
+    {{partial "footer.html" .}}
   </body>
 </html>

@@ -33,10 +33,9 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{.Params.tabTitle}}</title>
-    {{/*  Canonial URL  */}}
+    {{/* Canonial URL */}}
     <link rel="canonical" href="{{ .Permalink }}" />
-    {{/*  Styles  */}}
-    {{partial "style-links.html"}}
+    {{/* Styles */}} {{partial "style-links.html"}}
   </head>
   <body>
     <!-- Google Tag Manager (noscript) -->
@@ -55,14 +54,19 @@
       <div class="hero-text">
         <h1>{{.Title}}</h1>
         <p>{{.Params.Description}}</p>
-        {{ partial "telegram-form.html" . }} {{partial "cities-we-work.html"}}
+        {{if in .Site.Language "ru"}} {{ partial "telegram-form.html" . }} {{
+        else }} {{ partial "telegram-form-ua.html" . }} {{end}} {{if in
+        .Site.Language "ru"}}{{partial "cities-we-work.html" .}} {{ else
+        }}{{partial "cities-we-work-ua.html" .}} {{end}}
       </div>
       <div class="main-image">
         <img src="{{.Params.image}}" alt="{{.Params.imageText}}" />
       </div>
     </main>
     <div class="markdown">{{.Content}}</div>
-    {{partial "cities-carousel.html" .}} {{partial "contacts.html" . }}
-    {{partial "footer.html" . }}
+    {{if in .Site.Language "ru"}} {{partial "cities-carousel.html" .}} {{ else
+    }}{{partial "cities-carousel-ua.html" .}} {{end}} {{if in .Site.Language
+    "ru"}} {{partial "contacts.html" . }} {{ else }} {{partial
+    "contacts-ua.html" . }} {{end}} {{partial "footer.html" . }}
   </body>
 </html>

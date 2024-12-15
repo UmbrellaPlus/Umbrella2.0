@@ -26,30 +26,6 @@
                 href="https://umbrella-plus.com.ua/uk/kiev/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/lechenie-alc/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/lechenie-alc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/lechenie-alc/"
-                />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/lviv/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/lviv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/lviv/"
-                />
-  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/services/</loc>
     <xhtml:link
                 rel="alternate"
@@ -132,6 +108,30 @@
                 rel="alternate"
                 hreflang="uk-UA"
                 href="https://umbrella-plus.com.ua/uk/dnepr/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/lechenie-alc/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/lechenie-alc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/lechenie-alc/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/lviv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/lviv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/lviv/"
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/blog/</loc>

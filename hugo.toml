@@ -77,7 +77,7 @@ defaultContentLanguageInSubdir = false
                 weight = 20
             [[languages.uk.menus.main]]
                 name = 'Про нас'
-                pageRef = '/about'
+                pageRef = '/about-us'
                 weight = 30
             [[languages.uk.menus.main]]
                 name = 'Контакти'
