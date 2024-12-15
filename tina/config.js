@@ -126,7 +126,7 @@ export default defineConfig({
   schema: {
     collections: [
       {
-        name: "odessa-ru",
+        name: "odessa_ru",
         label: "Одесса-русский-язык",
         path: "content/ru-lang",
         fields: [...cityTemplate],
@@ -137,7 +137,7 @@ export default defineConfig({
         format: "md",
       },
       {
-        name: "odessa-ua",
+        name: "odessa_ua",
         label: "Одесса-украинский-язык",
         path: "content/ua-lang",
         fields: [...cityTemplate],
@@ -148,91 +148,91 @@ export default defineConfig({
         format: "md",
       },
       {
-        name: "kiev-ru",
+        name: "kiev_ru",
         label: "Киев-русский-язык",
         path: "content/ru-lang/kiev",
         fields: [...cityTemplate],
       },
       {
-        name: "kiev-ua",
+        name: "kiev_ua",
         label: "Киев-украинский-язык",
         path: "content/ua-lang/kiev",
         fields: [...cityTemplate],
       },
       {
-        name: "kharkiv-ru",
+        name: "kharkiv_ru",
         label: "Харьков-русский-язык",
         path: "content/ru-lang/kharkiv",
         fields: [...cityTemplate],
       },
       {
-        name: "kharkiv-ua",
+        name: "kharkiv_ua",
         label: "Харьков-украинский-язык",
         path: "content/ua-lang/kharkiv",
         fields: [...cityTemplate],
       },
       {
-        name: "lviv-ru",
+        name: "lviv_ru",
         label: "Львов-русский-язык",
         path: "content/ru-lang/lviv",
         fields: [...cityTemplate],
       },
       {
-        name: "lviv-ua",
+        name: "lviv_ua",
         label: "Львов-украинский-язык",
         path: "content/ua-lang/lviv",
         fields: [...cityTemplate],
       },
       {
-        name: "dnepr-ru",
+        name: "dnepr_ru",
         label: "Днепр-русский-язык",
         path: "content/ru-lang/dnepr",
         fields: [...cityTemplate],
       },
       {
-        name: "dnepr-ua",
+        name: "dnepr_ua",
         label: "Днепр-украинский-язык",
         path: "content/ua-lang/dnepr",
         fields: [...cityTemplate],
       },
       {
-        name: "zaporozje-ru",
+        name: "zaporozje_ru",
         label: "Запорожье-русский-язык",
         path: "content/ru-lang/zaporozie",
         fields: [...cityTemplate],
       },
       {
-        name: "zaporozje-ua",
+        name: "zaporozje_ua",
         label: "Запорожье-украинский-язык",
         path: "content/ua-lang/zaporozie",
         fields: [...cityTemplate],
       },
       {
-        name: "blog-ru",
+        name: "blog_ru",
         label: "Блог-русский-язык",
         path: "content/ru-lang/blog",
         fields: [...cityTemplate],
       },
       {
-        name: "blog-ua",
+        name: "blog_ua",
         label: "Блог-украинский-язык",
         path: "content/ua-lang/blog",
         fields: [...cityTemplate],
       },
       {
-        name: "services-ru",
+        name: "services_ru",
         label: "Услуги-русккий-язык",
         path: "content/ru-lang/services",
         fields: [...cityTemplate],
       },
       {
-        name: "services-ua",
+        name: "services_ua",
         label: "Услуги-украинский-язык",
         path: "content/ua-lang/services",
         fields: [...cityTemplate],
       },
       {
-        name: "about-ru",
+        name: "about_ru",
         label: "О нас-русский-язык",
         path: "content/ru-lang",
         match: {
@@ -251,7 +251,7 @@ export default defineConfig({
         ],
       },
       {
-        name: "about-ua",
+        name: "about_ua",
         label: "О нас-украинский-язык",
         path: "content/ua-lang",
         match: {
