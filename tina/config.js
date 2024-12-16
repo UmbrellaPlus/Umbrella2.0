@@ -208,6 +208,30 @@ export default defineConfig({
         fields: [...cityTemplate],
       },
       {
+        name: "chornomorsk_ru",
+        label: "Черноморск-RU",
+        path: "content/chornomorsk",
+        fields: [...cityTemplate],
+      },
+      {
+        name: "chornomorsk_ua",
+        label: "Черноморск-UA",
+        path: "content/uk/chornomorsk",
+        fields: [...cityTemplate],
+      },
+      {
+        name: "kamianske_ru",
+        label: "Каменское-RU",
+        path: "content/kamianske",
+        fields: [...cityTemplate],
+      },
+      {
+        name: "kamianske_ua",
+        label: "Каменское-UA",
+        path: "content/uk/kamianske",
+        fields: [...cityTemplate],
+      },
+      {
         name: "blog_ru",
         label: "Блог-RU",
         path: "content/ru-lang/blog",
@@ -236,7 +260,7 @@ export default defineConfig({
         label: "О нас-RU",
         path: "content/ru-lang",
         match: {
-          include: "about",
+          include: "about-us",
         },
         format: "md",
         fields: [
@@ -255,7 +279,7 @@ export default defineConfig({
         label: "О нас-UA",
         path: "content/ua-lang",
         match: {
-          include: "about",
+          include: "about-us",
         },
         format: "md",
         fields: [

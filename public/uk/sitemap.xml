@@ -2,54 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://umbrella-plus.com.ua/uk/kharkiv/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/kharkiv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/kharkiv/"
-                />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/kiev/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/kiev/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/kiev/"
-                />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/services/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/services/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/services/"
-                />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/zaporozie/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/zaporozie/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/zaporozie/"
-                />
-  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -110,6 +62,30 @@
                 href="https://umbrella-plus.com.ua/uk/dnepr/"
                 />
   </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/zaporozie/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/zaporozie/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/zaporozie/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/kiev/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/kiev/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/kiev/"
+                />
+  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/lechenie-alc/</loc>
     <xhtml:link
                 rel="alternate"
@@ -120,6 +96,30 @@
                 rel="alternate"
                 hreflang="uk-UA"
                 href="https://umbrella-plus.com.ua/uk/lechenie-alc/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/kharkiv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/kharkiv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/kharkiv/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/kamianske/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/kamianske/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/kamianske/"
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/lviv/</loc>
@@ -134,6 +134,18 @@
                 href="https://umbrella-plus.com.ua/uk/lviv/"
                 />
   </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/chornomorsk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/chornomorsk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/chornomorsk/"
+                />
+  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/blog/</loc>
     <xhtml:link
                 rel="alternate"
@@ -144,6 +156,18 @@
                 rel="alternate"
                 hreflang="uk-UA"
                 href="https://umbrella-plus.com.ua/uk/blog/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/services/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/services/"
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/about-us/</loc>

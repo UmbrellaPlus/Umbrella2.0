@@ -1,5 +1,9 @@
 <div class="reviews">
+  {{if in .Site.Language "ru"}}
   <h2>Отзывы пациентов:</h2>
+   {{else}}
+  <h2>Відгуки пацієнтів:</h2>
+  {{end}}
   <section id="card-carousel" class="splide">
     <div class="splide__track">
       <ul class="reviews-container splide__list">
@@ -112,6 +116,13 @@
   </section>
 </div>
 <div class="reviews-disclaimer">
-  <a id="openDialog"><p>Нажмите если желаете оставить анонимный отзыв</p></a>
-  {{partial "reviews-dialog.html"}}
+  <a id="openDialog">
+    {{if in .Site.Language "ru"}}
+    <p>Нажмите если желаете оставить анонимный отзыв</p>
+     {{else}}
+    <p>Натисніть, якщо бажаєте залишити анонімний відгук</p>
+    {{end}}</a
+  >
+  {{if in .Site.Language "ru"}} {{partial
+  "reviews-dialog.html"}}{{else}}{{partial "reviews-dialog-ua.html"}}{{end}}
 </div>

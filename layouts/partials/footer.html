@@ -1,33 +1,38 @@
 <footer>
   <div class="footer">
-    <div class="footer-logo"><a href="/"><img src="/img/logo-bw.webp" alt="logo" /></a></div>
+    <div class="footer-logo">
+      {{range site.Home.AllTranslations}} {{if eq .Language.Lang
+      site.Language.Lang}}<a href="{{ .RelPermalink }}"
+        ><img src="/img/logo-bw.webp" alt="logo"
+      /></a>
+      {{end}}{{end}}
+    </div>
     <div class="footer-services">
       <div>
         <ul>
-          <li><a href="/services">Услуги</a></li>
-          <li><a href="/blog">Медицинский блог</a></li>
-          <li><a href="/about-us">О нас</a></li>
-          <li><a href="/contacts">Контакты</a></li>
+          {{ range site.Menus.main }}
+          <li><a href="{{ .URL }}"{{ if eq .Identifier "filials" }}style="display:none"{{end}}>{{ .Name }}</a></li>
+          {{end}}
         </ul>
       </div>
     </div>
     <div class="footer-services">
       <div>
+        {{ range site.Menus.main }}
+        {{if .HasChildren}}
         <ul>
-          <li><b style="color: whitesmoke;">Филиалы</b></li>
-          <li><a href="/lechenie-alc">Одесса</a></li>
-          <li><a href="/kiev">Киев</a></li>
-          <li><a href="/kharkiv">Харьков</a></li>
-          <li><a href="/lviv">Львов</a></li>
-          <li><a href="/dnepr">Днепр</a></li>
-          <li><a href="/zaporozie">Запорожье</a></li>
+          {{range .Children}}
+          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+          {{end}}
+          {{end}}
+          {{end}}
         </ul>
       </div>
     </div>
   </div>
 
   <!-- Год -->
-  <div class="year"><p>2019-2024 Все права защищены</p></div>
+  <div class="year"><p>2019-2024 Всі права захищені</p></div>
 </footer>
 <script src="/js/header.js"></script>
 <script src="/js/preheader.js"></script>

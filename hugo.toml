@@ -62,6 +62,16 @@ defaultContentLanguageInSubdir = false
                 pageRef = '/zaporozie'
                 weight = 60
                 parent = 'filials'
+            [[languages.ru.menus.main]]
+                name = 'Черноморск'
+                pageRef = '/chornomorsk'
+                weight = 70
+                parent = 'filials'
+            [[languages.ru.menus.main]]
+                name = 'Каменское'
+                pageRef = '/kamianske'
+                weight = 80
+                parent = 'filials'
     [languages.uk]
         contentDir = 'content/ua-lang'
         languageCode = 'uk-UA'
@@ -116,4 +126,14 @@ defaultContentLanguageInSubdir = false
                 name = 'Запоріжжя'
                 pageRef = '/zaporozie'
                 weight = 60
+                parent = 'filials'
+            [[languages.uk.menus.main]]
+                name = 'Чорноморськ'
+                pageRef = '/chornomorsk'
+                weight = 70
+                parent = 'filials'
+            [[languages.uk.menus.main]]
+                name = 'Кам’янське'
+                pageRef = '/kamianske'
+                weight = 80
                 parent = 'filials'

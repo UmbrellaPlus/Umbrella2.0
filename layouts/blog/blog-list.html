@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
   <head>
     <!-- Google Tag Manager -->
     <script>
@@ -47,11 +47,18 @@
       ></iframe
     ></noscript>
     <!-- End Google Tag Manager (noscript) -->
-    {{partial "sticky-phone.html"}} {{ partial "preheader.html"}} {{ partial
-    "header.html"}}
+    {{partial "sticky-phone.html"}} {{if in .Site.Language "ru"}} {{partial
+    "preheader.html" . }} {{ else }} {{partial "preheader-ua.html" . }}{{end}}
+    {{ partial "header.html"}}
     <div class="blog-padding">
+      {{if in .Site.Language "ru"}}
       <h1>Лечение зависимостей</h1>
       <h2>Последние статьи</h2>
+      {{ else }}
+      <h1>Лікування залежностей</h1>
+      <h2>Останні статті</h2>
+      {{end}}
+
       <ul class="blog-list-container">
         {{range where site.RegularPages "Type" "blog"}}
         <a href="{{ .Permalink }}"
@@ -65,6 +72,7 @@
         {{end}}
       </ul>
     </div>
-    {{partial "contacts.html" . }} {{partial "footer.html" .}}
+    {{if in .Site.Language "ru"}} {{partial "contacts.html" . }} {{ else }}
+    {{partial "contacts-ua.html" . }} {{end}} {{partial "footer.html" .}}
   </body>
 </html>

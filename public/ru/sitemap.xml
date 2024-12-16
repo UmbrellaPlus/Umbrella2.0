@@ -6,8 +6,6 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/kodirovka-ukolom-espiral/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/lechenie-alkogolizma-odessa/</loc>
-  </url><url>
     <loc>https://umbrella-plus.com.ua/podshivka-ot-alc/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/podshivka-ot-alkogolya-odessa/</loc>
@@ -68,7 +66,7 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/kapelnitsya-ot-alc/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/kapelnitsya-ot-alc-kharkiv/</loc>
+    <loc>https://umbrella-plus.com.ua/kharkiv/kapelnitsya-ot-alc/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/services/kapelnica-ot-alkogola-na-domy/</loc>
   </url><url>
@@ -122,6 +120,18 @@
                 href="https://umbrella-plus.com.ua/zaporozie/"
                 />
   </url><url>
+    <loc>https://umbrella-plus.com.ua/kamianske/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/kamianske/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/kamianske/"
+                />
+  </url><url>
     <loc>https://umbrella-plus.com.ua/kiev/</loc>
     <xhtml:link
                 rel="alternate"
@@ -146,6 +156,8 @@
                 href="https://umbrella-plus.com.ua/lechenie-alc/"
                 />
   </url><url>
+    <loc>https://umbrella-plus.com.ua/lechenie-alkogolizma-odessa/</loc>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/kharkiv/</loc>
     <xhtml:link
                 rel="alternate"
@@ -159,6 +171,18 @@
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/kharkiv/lechenie_alkogolizma_v_kharkove/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/chornomorsk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/chornomorsk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/chornomorsk/"
+                />
   </url><url>
     <loc>https://umbrella-plus.com.ua/lviv/</loc>
     <xhtml:link
