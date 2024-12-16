@@ -210,25 +210,25 @@ export default defineConfig({
       {
         name: "chornomorsk_ru",
         label: "Черноморск-RU",
-        path: "content/chornomorsk",
+        path: "content/ru-lang/chornomorsk",
         fields: [...cityTemplate],
       },
       {
         name: "chornomorsk_ua",
         label: "Черноморск-UA",
-        path: "content/uk/chornomorsk",
+        path: "content/ua-lang/chornomorsk",
         fields: [...cityTemplate],
       },
       {
         name: "kamianske_ru",
         label: "Каменское-RU",
-        path: "content/kamianske",
+        path: "content/ru-lang/kamianske",
         fields: [...cityTemplate],
       },
       {
         name: "kamianske_ua",
         label: "Каменское-UA",
-        path: "content/uk/kamianske",
+        path: "content/ua-lang/kamianske",
         fields: [...cityTemplate],
       },
       {
