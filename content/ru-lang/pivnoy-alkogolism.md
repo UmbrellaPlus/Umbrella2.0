@@ -3,7 +3,7 @@ tabTitle: Лечение пивного алкоголизма Одесса | Um
 title: Лечение пивного алкоголизма в Одессе
 description: Вылечиваем алкогольную зависимость с 100% случаев
 image: /img/ca15cc34-ab45-4708-8144-2e0bcbb545a4.jpg
-imageText: This is logo
+imageText: Лечение пивного алкоголизма Одесса
 ratingAvarage: 4.9/5
 rating: '578'
 reviewType: alk-2
