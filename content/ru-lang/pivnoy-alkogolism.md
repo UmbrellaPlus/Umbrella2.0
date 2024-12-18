@@ -2,7 +2,7 @@
 tabTitle: Лечение пивного алкоголизма Одесса | Umbrella Plus | От 999 грн
 title: Лечение пивного алкоголизма в Одессе
 description: Вылечиваем алкогольную зависимость с 100% случаев
-image: /img/goroda/pivoy-alkogolizm/odessa-pivnoy-alkoholism.jpg
+image: /img/ca15cc34-ab45-4708-8144-2e0bcbb545a4.jpg
 imageText: This is logo
 ratingAvarage: 4.9/5
 rating: '578'
