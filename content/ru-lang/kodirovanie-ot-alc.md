@@ -1,7 +1,7 @@
 ---
 tabTitle: Кодирование от алкоголизма Одесса | Umbrella Plus | От 1399 грн
 title: Кодирование от алкоголизма в Одессе
-description: Вылечиваем алкогольную зависимость с 100% случаев
+description: Кодируем при любой стадии алкогольной зависимости.
 image: /img/goroda/kodirovanie-ot-alkogolizma/kodirovanie-odessa.webp
 imageText: Кодирование от алкоголизма Одесса
 ratingAvarage: 4.9/5
