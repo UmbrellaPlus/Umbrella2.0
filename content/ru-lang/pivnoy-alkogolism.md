@@ -72,19 +72,21 @@ reviewType: alk-2
 
 Цена капельницы от алкогольной интоксикации включая пивного отравления в Одессе начинается от 1499грн.
 
-| Услуги                                                                                                 | Цена         |
-| ------------------------------------------------------------------------------------------------------ | ------------ |
-| [Лечение алкоголизма](https://umbrella-plus.com.ua/services/lechenie_alkogokizma/)                     | От 1499 грн  |
-| [Вывод из запоя](https://umbrella-plus.com.ua/services/vivod-iz-zapoia-glavnaia/)                      | От 1499 грн  |
-| [Вывод из запоя на дому](https://umbrella-plus.com.ua/services/vivod-iz-zapoia-na-domy/)               | От 1699 грн  |
-| [Капельница от алкоголя](https://umbrella-plus.com.ua/services/kapelnica_ot_alkogolia/)                | От 1499 грн  |
-| [Капельница от алкоголя на дому](https://umbrella-plus.com.ua/services/kapelnica-ot-alkogola-na-domy/) | От 1699 грн  |
-| [Лечение пивного алкоголизма](https://umbrella-plus.com.ua/services/lechenie_pivnogo_alkogolizm/)      | От 1499 грн  |
-| [Лечение женского алкоголизма](https://umbrella-plus.com.ua/services/lechenie_jenskogo_alkogolizma/)   | От 1499 грн  |
-| [Кодирование от алкоголизма](https://umbrella-plus.com.ua/services/kodirovka_ot_alkogolizma/)          | От 3999 грн  |
-| [Кодирование уколом](https://umbrella-plus.com.ua/services/kodirovka_ykolom/)                          | От 3999 грн  |
-| Подшивка от алкоголя                                                                                   | От 9999 грн  |
-| [Кодирование по методу Довженко](https://umbrella-plus.com.ua/services/kodirovka-po-dovjenko/)         | От 14999 грн |
+| Услуга                                                                       | Цена         |
+| ---------------------------------------------------------------------------- | ------------ |
+| [Лечение алкоголизма Одесса](lechenie-alkogolizma-odessa)                    | От 1499 грн  |
+| [Вывод из запоя Одесса](vivod-iz-zapoya)                                     | От 1499 грн  |
+| [Вывод из запоя на дому Одесса](vivod-iz-zapoya-na-domu-odessa)              | От 1699 грн  |
+| [Капельница от алкоголя Одесса](kapelnitsya-ot-alc)                          | От 1499 грн  |
+| [Капельница от алкоголя на дому Одесса](kapelnitsya-ot-alc-na-domu-odessa)   | От 1699 грн  |
+| [Лечение пивного алкоголизма Одесса](pivnoy-alkogolism)                      | От 1499 грн  |
+| [Лечение женского алкоголизма Одесса](genskiy-alc)                           | От 1499 грн  |
+| [Кодирование от алкоголизма Одесса](kodirovanie-ot-alc)                      | От 3999 грн  |
+| [Кодирование уколом Одесса](/kodirovanie-ukolom)                             | От 3999 грн  |
+| [Кодирование от алкоголизма уколом Дисульфирам](kodirovka-ukolom-disulfiram) | От 3999 грн  |
+| [Кодирование от алкоголизма уколом Эспераль](kodirovka-ukolom-espiral)       | От 5500 грн  |
+| [Подшивка от алкоголя Одесса](podshivka-ot-alkogolya-odessa)                 | От 9999 грн  |
+| [Кодирование по методу Довженко Одесса](/kodirovanie-dovgenko)               | От 14999 грн |
 
 ## Стадии развития пивного алкоголизма
 
