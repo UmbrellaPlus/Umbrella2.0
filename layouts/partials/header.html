@@ -1,10 +1,5 @@
 <header>
   <nav>
-    <div id="hamburger">
-      <span class="line"></span>
-      <span class="line"></span>
-      <span class="line"></span>
-    </div>
     {{range site.Home.AllTranslations}} {{if eq .Language.Lang
     site.Language.Lang}}
     <a href="{{ .RelPermalink }}"
@@ -50,5 +45,10 @@
       </li>
       {{end}}
     </ul>
+    <div id="hamburger">
+      <span class="line"></span>
+      <span class="line"></span>
+      <span class="line"></span>
+    </div>
   </nav>
 </header>
