@@ -1,3 +1,13 @@
+---
+tabTitle: Лечение алкоголизма в Каменском | Umbrella Plus | От 1499 грн
+title: Лечение алкоголизма Каменское
+description: Мы знаем самые эффективные методы лечения алкогольной зависимости
+image: /img/kodirovka_ot_alkogolizma.jpg
+imageText: Лечение алкоголизма Каменское
+ratingAvarage: 4.9/5
+rating: '477'
+reviewType: alk-2
+---
 
 ## Алкоголизм – что это?
 
