@@ -18,7 +18,7 @@ reviewType: alk-2
 | [Лікування алкоголізму Київ](likyvania-alkogolizmy-kiev)                 | От 1699 грн  |
 | [Виведення із запою Київ](Vivod-iz-zapoia-kiev-ua)                       | От 1699 грн  |
 | [Виведення із запою вдома Київ](Vivod-iz-zapoia-na-domy-kiev-ua)         | От 1999 грн  |
-| Крапельниця від алкоголю Київ                                            | От 1699 грн  |
+| [Крапельниця від алкоголю Київ](Kapelnica_ot_alkogola_kiev)              | От 1699 грн  |
 | [Крапельниця від алкоголю вдома Київ](Kapelnica_ot_alkogola_na_dom_kiev) | От 1999 грн  |
 | [Лікування пивного алкоголізму Київ](likyvania-pivnogo-alkogolizma-kyiv) | От 1699 грн  |
 | Лікування жіночого алкоголізму Київ                                      | От 1699 грн  |
