@@ -5,6 +5,7 @@ description: >-
   «Здобудь свободу та поверни гармонію – лікування жіночого алкоголізму, де
   кожна жінка на першому місці!»
 image: /img/generated_image (10).png
+imageText: Лікування жіночоно алкоголізму Київ
 ratingAvarage: 4.9/5
 rating: '911'
 reviewType: alk-1
