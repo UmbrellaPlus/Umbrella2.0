@@ -43,18 +43,18 @@ reviewType: kod-2
 
 **Вартість кодування від алкоголізму в Києві починається від 4999 грн і може змінюватися залежно від методу, використаного препарату та тривалості дії кодування.**
 
-| Послуга                                                                    | Ціна        |
-| -------------------------------------------------------------------------- | ----------- |
-| [Лікування алкоголізму Київ](likyvania-alkogolizmy-kiev)                   | От 1699 грн |
-| [Виведення із запою Київ](Vivod-iz-zapoia-kiev-ua)                         | От 1699 грн |
-| [Виведення із запою вдома Київ](Vivod-iz-zapoia-na-domy-kiev-ua)           | От 1999 грн |
-| [Крапельниця від алкоголю Київ](Kapelnica_ot_alkogola_kiev)                | От 1699 грн |
-| [Крапельниця від алкоголю вдома Київ](Kapelnica_ot_alkogola_na_dom_kiev)   | От 1999 грн |
-| [Лікування пивного алкоголізму Київ](likyvania-pivnogo-alkogolizma-kyiv)   | От 1699 грн |
-| [Лікування жіночого алкоголізму Київ](likyvania-jenskogo-alkogolizma-kiev) | От 1699 грн |
-| Кодування від алкоголізму Київ                                             | От 4999 грн |
-| Кодування від алкоголізму уколом Дисульфірам                               | От 4999 грн |
-| Кодування від алкоголізму уколом Еспераль                                  | От 6500 грн |
+| Послуга                                                                                                                         | Ціна         |
+| ------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [Лікування алкоголізму Київ](https://umbrella-plus.com.ua/uk/kiev/likyvania-alkogolizmy-kiev/)                                  | Від 1699 грн |
+| [Виведення із запою Київ](https://umbrella-plus.com.ua/uk/kiev/vivod-iz-zapoia-kiev-ua/)                                        | Від 1699 грн |
+| [Виведення із запою вдома Київ](https://umbrella-plus.com.ua/uk/kiev/vivod-iz-zapoia-na-domy-kiev-ua/)                          | Від 1999 грн |
+| [Крапельниця від алкоголю Київ](https://umbrella-plus.com.ua/uk/kiev/kapelnica_ot_alkogola_kiev/)                               | Від 1699 грн |
+| [Крапельниця від алкоголю вдома Київ](https://umbrella-plus.com.ua/uk/kiev/kapelnica_ot_alkogola_na_dom_kiev/)                  | Від 1999 грн |
+| [Лікування пивного алкоголізму Київ](https://umbrella-plus.com.ua/uk/kiev/likyvania-pivnogo-alkogolizma-kyiv/)                  | Від 1699 грн |
+| [Лікування жіночого алкоголізму Київ](https://umbrella-plus.com.ua/uk/kiev/likyvania-jenskogo-alkogolizma-kiev/)                | Від1699 грн  |
+| [Кодування від алкоголізму Київ](https://umbrella-plus.com.ua/uk/kiev/kodirovka-ot-alkogolia-kiev-ua/)                          | Від 4999 грн |
+| [Кодування від алкоголізму уколом Дисульфірам](https://umbrella-plus.com.ua/uk/kiev/kodirovka-ot-alkogolia-disulfiram-kiev-ua/) | Від 4999 грн |
+| [Кодування від алкоголізму уколом Еспераль](https://umbrella-plus.com.ua/uk/kiev/kodirovka-ot-alkogolizma-espiarl-kiev-ua/)     | Від 6500 грн |
 
 ## Яка найсильніша методика кодування від алкоголізму?
 
