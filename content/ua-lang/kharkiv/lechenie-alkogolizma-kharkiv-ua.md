@@ -4,6 +4,8 @@ title: Лікування алкоголізму у Харкові
 description: >-
   "Лікування алкоголізму - шлях до здоров'я, тверезості та нового життя з
   UmbrellaPlus!"
-image: /img/3bacfbc3cfd97838b95bec9203812d1b_high.jpg
+image: /img/cc1856c905eae6a4da6d69a200d241bd_high.jpg
+imageText: Лікування алкоголізму Київ
+ratingAvarage: 5/5
 ---
 
