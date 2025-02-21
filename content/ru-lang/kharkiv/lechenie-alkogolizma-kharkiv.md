@@ -4,13 +4,12 @@ title: Лечение алкоголизма в городе Харьков
 description: >-
   "Лечение алкоголизма — путь к здоровью, трезвости и новой жизни с
   UmbrellaPlus!"
-image: /img/cc1856c905eae6a4da6d69a200d241bd_high.webp
+image: /img/cc1856c905eae6a4da6d69a200d241bd_high.jpg
 imageText: Лечение алкоголизма Харьков
 ratingAvarage: 4.96/5
 rating: '973'
 reviewType: alk-1
 ---
-
 
 ## Алкоголизм
 
