@@ -6,8 +6,8 @@ description: >-
   методів.
 image: /img/Vivod_iz_zapoia_Kharkiv.jpg
 imageText: Лікування алкоголізму Київ
-ratingAvarage: 5/5
-rating: '2183'
+ratingAvarage: 4/5
+rating: '4822'
 reviewType: alk-2
 ---
 
