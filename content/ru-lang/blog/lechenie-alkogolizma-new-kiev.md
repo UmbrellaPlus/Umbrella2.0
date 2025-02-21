@@ -4,7 +4,7 @@ title: Лечение алкоголизма Киев
 description: >-
   "Лечение алкоголизма в Киеве с UmbrellaPlus — шаг к трезвости, здоровью и
   новой жизни!"
-image: /img/cc1856c905eae6a4da6d69a200d241bd_high.jpg
+image: /img/3bacfbc3cfd97838b95bec9203812d1b_high.jpg
 imageText: Лечение алкоголизма Киев
 ratingAvarage: 5/5
 rating: '344'
