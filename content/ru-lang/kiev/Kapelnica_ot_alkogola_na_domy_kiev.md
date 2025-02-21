@@ -7,7 +7,7 @@ description: >-
 image: /img/9b2aa3aa-70ce-47cb-825e-0b8190711beb.jpg
 imageText: Капельница от алкоголя Киев
 ratingAvarage: 5/5
-rating: '864'
+rating: '2664'
 reviewType: alk-2
 ---
 
