@@ -4,7 +4,7 @@ title: Лікування алкоголізму Київ
 description: >-
   "Лікування алкоголізму в Києві з UmbrellaPlus - крок до тверезості, здоров'я
   та нового життя!"
-image: /img/3bacfbc3cfd97838b95bec9203812d1b_high.webp
+image: /img/3bacfbc3cfd97838b95bec9203812d1b_high.jpg
 imageText: Лікування алкоголізму Київ
 ratingAvarage: 5/5
 rating: '344'
