@@ -9,16 +9,16 @@ imageText: Команда врачей
 
 ## Услуги, которые мы оказываем
 
-| Услуги                                                          | Цена         |
-| --------------------------------------------------------------- | ------------ |
-| [Лечение алкоголизма](lechenie_alkogokizma)                     | От 1499 грн  |
-| [Вывод из запоя](vivod-iz-zapoia-glavnaia)                      | От 1499 грн  |
-| [Вывод из запоя на дому](vivod-iz-zapoia-na-domy)               | От 1699 грн  |
-| [Капельница от алкоголя](kapelnica_ot_alkogolia)                | От 1499 грн  |
-| [Капельница от алкоголя на дому](kapelnica-ot-alkogola-na-domy) | От 1699 грн  |
-| [Лечение пивного алкоголизма](lechenie_pivnogo_alkogolizm)      | От 1499 грн  |
-| [Лечение женского алкоголизма](lechenie_jenskogo_alkogolizma)   | От 1499 грн  |
-| [Кодирование от алкоголизма](kodirovka_ot_alkogolizma)          | От 3999 грн  |
-| [Кодирование уколом](kodirovka_ykolom)                          | От 3999 грн  |
-| Подшивка от алкоголя                                            | От 9999 грн  |
-| [Кодирование по методу Довженко](kodirovka-po-dovjenko)         | От 14999 грн |
+| Услуга                                                                                                                     | Цена         |
+| -------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [Лечение алкоголизма Киев](https://umbrella-plus.com.ua/kiev/lechenie-alkogolizma-kiev/)                                   | От 1699 грн  |
+| [Вывод из запоя Киев](https://umbrella-plus.com.ua/kiev/vivod-iz-zapoia-kiev/)                                             | От 1699 грн  |
+| [Вывод из запоя на дому Киев](https://umbrella-plus.com.ua/kiev/vivod-iz-zapoia-na-domy-kiev/)                             | От 1999 грн  |
+| [Капельница от алкоголя Киев](https://umbrella-plus.com.ua/kiev/kapelnica_ot_alkogola_kiev/)                               | От 1699 грн  |
+| [Капельница от алкоголя на дому Киев](https://umbrella-plus.com.ua/kiev/kapelnica_ot_alkogola_na_domy_kiev/)               | От 1999 грн  |
+| [Лечение пивного алкоголизма Киев](https://umbrella-plus.com.ua/kiev/lechenie-pivnogi-alkogolizma-kiev/)                   | От 1699 грн  |
+| [Лечение женского алкоголизма Киев](https://umbrella-plus.com.ua/kiev/lechenie-jenskogo-alkogolizma-kiev/)                 | От 1699 грн  |
+| [Кодирование от алкоголизма Киев](https://umbrella-plus.com.ua/kiev/kodirovka-ot-alkogolia-kiev/)                          | От 4999 грн  |
+| [Кодирование от алкоголизма уколом Дисульфирам](https://umbrella-plus.com.ua/kiev/kodirovka-ot-alkogolia-disulfiram-kiev/) | От 4999 грн  |
+| [Кодирование от алкоголизма уколом Эспераль](https://umbrella-plus.com.ua/kiev/kodirovka-ot-alkogolizma-espiarl-kiev/)     | От 6500 грн  |
+| [Кодирование по методу Довженко](kodirovka-po-dovjenko)                                                                    | От 14999 грн |
