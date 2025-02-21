@@ -1,5 +1,5 @@
 ---
-title: О нашем центре | Umbrella +
+title: О нашем центре | UmbrellaPlus Безопасная Наркология
 layout: about
 ---
 
