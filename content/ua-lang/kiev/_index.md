@@ -7,7 +7,7 @@ description: >-
 image: /img/Vivod_iz_zapoia_Kharkiv.jpg
 imageText: Лікування алкоголізму Київ
 ratingAvarage: 4.9/5
-rating: '4822'
+rating: '4872'
 reviewType: alk-2
 ---
 
