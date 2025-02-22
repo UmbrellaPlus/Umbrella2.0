@@ -4,7 +4,7 @@ title: Лечение алкоголизма в Киеве
 description: Более 5 лет спасаем от алкогольной зависимости Киевлян
 image: /img/generated_image (1).png
 imageText: Лечение алкоголизма Киев
-ratingAvarage: 4.90/5
+ratingAvarage: 4.9/5
 rating: '2316'
 reviewType: alk-2
 ---
