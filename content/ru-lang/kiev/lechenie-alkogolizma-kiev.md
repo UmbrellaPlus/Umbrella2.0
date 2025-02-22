@@ -5,7 +5,7 @@ description: Более 5 лет спасаем от алкогольной за
 image: /img/generated_image (1).png
 imageText: Лечение алкоголизма Киев
 ratingAvarage: 4.9/5
-rating: '1023'
+rating: '2316'
 reviewType: alk-2
 ---
 
