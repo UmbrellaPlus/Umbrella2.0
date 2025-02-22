@@ -7,7 +7,7 @@ description: >-
 image: /img/985c67f2ffd5f19bff94517cdea21f0e_high (1).jpg
 imageText: Вывод из запоя Харьков
 ratingAvarage: 4.98/5
-rating: '982'
+rating: '1552'
 reviewType: alk-2
 ---
 
