@@ -7,7 +7,7 @@ description: >-
 image: /img/goroda/lechenie-alkogolizma/kiev-lechenie-alc.webp
 imageText: Врач беседует с пациентом
 ratingAvarage: 4.9/5
-rating: '4822'
+rating: '4872'
 reviewType: alk-1
 ---
 
