@@ -2,7 +2,7 @@
 tabTitle: Капельница от алкоголя Киев | Umbrella Plus | От 1699 грн
 title: Капельница от алкоголя Киев
 description: Капельница от алкоголя - проверенный метод лечения интоксикации
-image: /img/Kiev New/a21e36f0-cfb1-4a4e-bb57-6059b15ad6e6.jpg
+image: /img/a21e36f0-cfb1-4a4e-bb57-6059b15ad6e6 (2).jpg
 imageText: Капельница от алкоголя Киев
 ratingAvarage: 5/5
 rating: '2447'
