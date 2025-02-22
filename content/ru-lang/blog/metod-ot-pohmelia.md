@@ -3,6 +3,7 @@ tabTitle: Лучшие методы снятия похмелья | Umbrella Plu
 title: Лучшие методы снятия похмелья
 description: Лучший метод от похмелья - это капельница на дому
 image: /img/blog/fff085ad672d22b3043348432b81c675_high.webp
+imageText: Методы снятия похмелья
 ratingAvarage: 4.91/5
 rating: '154'
 reviewType: alk-2
