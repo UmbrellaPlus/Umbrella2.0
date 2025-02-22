@@ -7,7 +7,7 @@ description: >-
 image: /img/cc1856c905eae6a4da6d69a200d241bd_high.jpg
 imageText: Лікування алкоголізму Харків
 ratingAvarage: 4.96/5
-rating: '973'
+rating: '1209'
 reviewType: alk-1
 ---
 
