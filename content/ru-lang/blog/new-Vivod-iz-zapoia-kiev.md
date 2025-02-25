@@ -1,3 +1,13 @@
+---
+tabTitle: Вывод из похмелья Киев | Umbrella Plus | От 1699 грн
+title: Вывод из похмелья Киев | Umbrella Plus | Безопасная наркология
+description: '"Киев: избавься от похмелья – проснись с улыбкой!"'
+image: /img/blog/65f02c71465524a14c93a5aab96c9839_high.webp
+imageText: Срочный вызов нарколога Киев
+ratingAvarage: 4.9/5
+rating: '188'
+reviewType: alk-1
+---
 
 ## Вывести из похмелья Киев
 
