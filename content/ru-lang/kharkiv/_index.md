@@ -19,7 +19,7 @@ reviewType: alk-1
 | [Вывод из запоя Харьков](vivod-iz-zapoia-kharkiv)                               | От 1499 грн |
 | [Вывод из запоя на дому Харьков](Vivod-iz-zapoia-na-domy-kharkiv)               | от 1699 грн |
 | [Капельница от алкоголя Харьков](Kapelnica_ot_alkogola_kharkiv)                 | От 1499 грн |
-| [Капельница от алкоголя на дому Харьков](kapelnica-ot-alkogola-na-domy-kharkiv) | От 1699 грн |
+| [Капельница от алкоголя на дому Харьков](Kapelnica_ot_alkogola_na_domy_kharkiv) | От 1699 грн |
 | [Лечение пивного алкоголизма Харьков](lechenie_pivnogo_alkogolizma_kharkiv)     | От 1499 грн |
 | [Лечение женского алкоголизм Харьков](lechenie_jenskogo_alkogolizma_kharkiv)    | От 1499 грн |
 | [Кодирование от алкоголизма Харьков](kodirovka_ot_alkogolizma_kharkiv)          | От 3999 грн |
