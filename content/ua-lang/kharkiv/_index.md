@@ -7,7 +7,7 @@ description: >-
 image: /img/vivod-iz-zapoia-zaporoje.jpg
 imageText: Лікування алкоголізму в Харкові
 ratingAvarage: 4.9/5
-rating: '819'
+rating: '3316'
 reviewType: alk-1
 ---
 
