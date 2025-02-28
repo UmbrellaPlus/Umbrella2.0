@@ -6,7 +6,7 @@ description: >-
   від алкоголізму.
 image: /img/vivod-iz-zapoia-zaporoje.jpg
 imageText: Лікування алкоголізму в Харкові
-ratingAvarage: 4.9/5
+ratingAvarage: 4.93/5
 rating: '3316'
 reviewType: alk-1
 ---
