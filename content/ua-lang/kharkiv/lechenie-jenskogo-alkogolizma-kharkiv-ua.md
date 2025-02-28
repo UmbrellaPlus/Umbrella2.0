@@ -6,6 +6,7 @@ image: /img/e848a3e43ec53af58d912695e6490e2c_high.jpg
 imageText: Лікування жіночого алкоголізму Харків
 ratingAvarage: 4.91/5
 rating: '1021'
+reviewType: alk-1
 ---
 
 ## Лікування жіночого алкоголізму у Харкові: ефективна допомога від UmbrellaPlus
