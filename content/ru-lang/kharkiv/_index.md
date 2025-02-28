@@ -6,7 +6,7 @@ description: >-
   излечения от алкоголизма.
 image: /img/goroda/lechenie-alkogolizma/kharkiv-lechenie-alcogolisma.jpg
 imageText: Лечение алкоголизма в Харькове
-ratingAvarage: 4.9/5
+ratingAvarage: 4.93/5
 rating: '3316'
 reviewType: alk-1
 ---
@@ -21,7 +21,7 @@ reviewType: alk-1
 | [Капельница от алкоголя Харьков](Kapelnica_ot_alkogola_kharkiv)                 | От 1499 грн |
 | [Капельница от алкоголя на дому Харьков](Kapelnica_ot_alkogola_na_domy_kharkiv) | От 1699 грн |
 | [Лечение пивного алкоголизма Харьков](lechenie_pivnogo_alkogolizma_kharkiv)     | От 1499 грн |
-| [Лечение женского алкоголизм Харьков](lechenie_jenskogo_alkogolizma_kharkiv)    | От 1499 грн |
+| [Лечение женского алкоголизм Харьков](lechenie-jenskogo-alkogolizma-kharkiv)    | От 1499 грн |
 | [Кодирование от алкоголизма Харьков](kodirovka_ot_alkogolizma_kharkiv)          | От 3999 грн |
 | [Кодирование уколом Харьков](kodirovka_ot_alkogolizma_ykolom_kharkov)           | От 3999 грн |
 | Кодирование от алкоголизма укол Дисульфирам                                     | От 4000 грн |
