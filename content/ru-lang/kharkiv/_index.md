@@ -22,7 +22,7 @@ reviewType: alk-1
 | [Капельница от алкоголя на дому Харьков](Kapelnica_ot_alkogola_na_domy_kharkiv) | От 1699 грн |
 | [Лечение пивного алкоголизма Харьков](lechenie-pivnogo-alkogolizma-kharkiv)     | От 1499грн  |
 | [Лечение женского алкоголизм Харьков](lechenie-jenskogo-alkogolizma-kharkiv)    | От 1499 грн |
-| [Кодирование от алкоголизма Харьков](kodirovka_ot_alkogolizma_kharkiv)          | От 3999 грн |
+| [Кодирование от алкоголизма Харьков](kodirovka-ot-alkogolia-kharkiv)            | От 4000 грн |
 | Кодирование от алкоголизма укол Дисульфирам                                     | От 4000 грн |
 | Кодирование от алкоголизма укол Эспираль                                        | От 5500 грн |
 
