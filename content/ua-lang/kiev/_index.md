@@ -24,7 +24,7 @@ reviewType: alk-2
 | [Лікування жіночого алкоголізму Київ](likyvania-jenskogo-alkogolizma-kiev)                | Від1699 грн  |
 | [Кодування від алкоголізму Київ](kodirovka-ot-alkogolia-kiev-ua)                          | Від 4999 грн |
 | [Кодування від алкоголізму уколом Дисульфірам](kodirovka-ot-alkogolia-disulfiram-kiev-ua) | Від 4999 грн |
-| [Кодування від алкоголізму уколом Еспераль](kodirovka-ot-alkogolizma-espiarl-kharkiv-ua)  | Від 6500 грн |
+| [Кодування від алкоголізму уколом Еспераль](kodirovka-ot-alkogolizma-espiarl-kiev-ua)     | Від 6500 грн |
 
 ## Лікування алкоголізму
 
