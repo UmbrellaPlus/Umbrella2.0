@@ -24,7 +24,7 @@ reviewType: alk-1
 | [Лікування жіночого алкоголізму Харків](lechenie-jenskogo-alkogolizma-kharkiv-ua)          | Від 1499 грн |
 | [Кодування від алкоголізму Харків](kodirovka-ot-alkogolia-kharkiv-ua)                      | Від 3999 грн |
 | [Кодування від алкоголізму укол Дисульфірам](kodirovka-ot-alkogolia-disulfiram-kharkiv-ua) | Від 4000 грн |
-| Кодування від алкоголізму укол Еспіраль                                                    | Від 5500 грн |
+| [Кодування від алкоголізму укол Еспіраль](kodirovka-ot-alkogolizma-espiarl-kharkiv-ua)     | Від 5500 грн |
 
 ## Лікування алкогольної залежності
 
