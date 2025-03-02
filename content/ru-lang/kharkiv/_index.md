@@ -24,7 +24,7 @@ reviewType: alk-1
 | [Лечение женского алкоголизм Харьков](lechenie-jenskogo-alkogolizma-kharkiv)             | От 1499 грн |
 | [Кодирование от алкоголизма Харьков](kodirovka-ot-alkogolia-kharkiv)                     | От 4000 грн |
 | [Кодирование от алкоголизма укол Дисульфирам](kodirovka-ot-alkogolia-disulfiram-kharkiv) | От 4000 грн |
-| Кодирование от алкоголизма укол Эспираль                                                 | От 5500 грн |
+| [Кодирование от алкоголизма укол Эспираль](kodirovka-ot-alkogolizma-espiarl-kharkiv)     | От 5500 грн |
 
 ## Лечение алкогольной зависимости
 
