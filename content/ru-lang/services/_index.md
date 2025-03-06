@@ -1,7 +1,7 @@
 ---
 layout: services
 tabTitle: Услуги лечения алкоголизма и наркомании | Umbrella Plus
-title: ЛУЧШИЕ НАРКОЛОГИ | ЗВОНИТЕ
+title: ЛУЧШИЕ НАРКОЛОГИ - ЭКСТРЕННАЯ КАПЕЛЬНИЦА
 description: Безопасность пациента всегда на первом месте.
 image: /img/services.jpg
 imageText: Команда врачей
