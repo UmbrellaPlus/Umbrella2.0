@@ -2,7 +2,7 @@
 tabTitle: Крапельниця від алкоголю Харків | Umbrella Plus | Від 1699 грн
 title: 'Крапельниця від алкоголю Харків: Вихід із запою'
 description: Крапельниця від алкоголю - це термінова допомога за будь-якої інтоксикації
-image: /img/03fb9fba9c9fa827a5478323462dab3e_high.jpg
+image: /img/b060b968c116af03688ea5ce39803d76_high.jpg
 imageText: Крапельниця від алкоголю Харків
 ratingAvarage: 4.96/5
 rating: '1577'
