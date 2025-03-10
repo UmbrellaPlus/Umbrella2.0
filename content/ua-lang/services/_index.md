@@ -4,7 +4,7 @@ tabTitle: >-
   Наркологія
 title: Найкращі Наркологи України
 description: UmbrellaPlus — Безпека пацієнта завжди на першому місці.
-image: /img/services.jpg
+image: /img/home-page/9441da6c6d15326513bfee8aba89b7a3_high.jpg
 imageText: Лікування алкоголізму UmbrellaPLus Безпечна наркологія
 ratingAvarage: 4.89/5
 rating: '9782'
