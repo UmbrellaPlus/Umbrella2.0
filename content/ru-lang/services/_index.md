@@ -3,7 +3,7 @@ layout: services
 tabTitle: Услуги лечения алкоголизма и наркомании | Umbrella Plus
 title: Лучшие Наркологи Украины
 description: Безопасность пациента всегда на первом месте.
-image: /img/services.jpg
+image: /img/home-page/9441da6c6d15326513bfee8aba89b7a3_high.jpg
 imageText: Команда врачей
 ratingAvarage: 4.89/5
 rating: '9782'
