@@ -5,7 +5,7 @@ title: Лучшие Наркологи Украины
 description: Безопасность пациента всегда на первом месте.
 image: /img/services.jpg
 imageText: Команда врачей
-ratingAvarage: 4.8/5
+ratingAvarage: 4.89/5
 rating: '9782'
 ---
 
