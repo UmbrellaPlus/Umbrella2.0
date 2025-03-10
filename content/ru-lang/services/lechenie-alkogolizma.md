@@ -2,6 +2,7 @@
 tabTitle: Лечение алкоголизма — эффективные методы и помощь специалистов
 title: Лечение алкоголизма — эффективные методы и помощь специалистов
 description: Лучшие наркологи Украины в UmbrellaPlus
+image: /img/Услуги/563d264dc1d652c364e3d6f9ee5d45df_high.jpg
 imageText: Лечение алкоголизма UmbrellaPlus
 ratingAvarage: 4.98/5
 rating: '9283'
