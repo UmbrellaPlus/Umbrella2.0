@@ -13,7 +13,7 @@ rating: '9782'
 
 | Услуга                                                                                                                     | Цена        |
 | -------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [Лечение алкоголизма](echenie-alkogolizma)                                                                                 | От 1699 грн |
+| [Лечение алкоголизма](lechenie-alkogolizma)                                                                                | От 1699 грн |
 | [Вывод из запоя](https://umbrella-plus.com.ua/kiev/vivod-iz-zapoia-kiev/)                                                  | От 1699 грн |
 | [Вывод из запоя на дому](https://umbrella-plus.com.ua/kiev/vivod-iz-zapoia-na-domy-kiev/)                                  | От 1999 грн |
 | [Капельница от алкоголя](https://umbrella-plus.com.ua/kiev/kapelnica_ot_alkogola_kiev/)                                    | От 1699 грн |
