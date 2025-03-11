@@ -11,14 +11,14 @@ rating: '9782'
 reviewType: ''
 ---
 
-# **[Київ](https://umbrella-plus.com.ua/uk/kiev/) [Дніпро](https://umbrella-plus.com.ua/uk/dnepr/) [Одеса](https://umbrella-plus.com.ua/uk/lechenie-alc/) [Харків](https://umbrella-plus.com.ua/uk/kharkiv/) [Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/) [Львів](https://umbrella-plus.com.ua/uk/lviv/)**
+## **[Київ](https://umbrella-plus.com.ua/uk/kiev/) [Дніпро](https://umbrella-plus.com.ua/uk/dnepr/) [Одеса](https://umbrella-plus.com.ua/uk/lechenie-alc/) [Харків](https://umbrella-plus.com.ua/uk/kharkiv/) [Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/) [Львів](https://umbrella-plus.com.ua/uk/lviv/)**
 
 | Послуги                                                                                                                                                                      | Ціна         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | [Лікування алкоголізму](lechenie-alkogolizma-ua)                                                                                                                             | Від 1699 грн |
 | [Виведення із запою](Vivod-iz-zapoia-UmbrellaPlus-ua)                                                                                                                        | Від 1699 грн |
 | [Виведення із запою вдома](Vivod-iz-zapoia-na-domy-UmbrellaPlus-ua)                                                                                                          | Від 1999 грн |
-| [Крапельниця від алкоголю](Kapelnica_ot_alkogola_UmbrellaPlus)                                                                                                               | Від 1699 грн |
+| [Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/kiev/kapelnica_ot_alkogola_kiev/)                                                                                 | Від 1699 грн |
 | [Крапельниця від алкоголю вдома](https://umbrella-plus.com.ua/uk/kiev/kapelnica_ot_alkogola_na_dom_kiev/)                                                                    | Від 1999 грн |
 | [Лікування пивного алкоголізму](https://umbrella-plus.com.ua/uk/kiev/likyvania-pivnogo-alkogolizma-kyiv/)                                                                    | Від 1699 грн |
 | [Лікування жіночого алкоголізму](https://umbrella-plus.com.ua/uk/kiev/likyvania-jenskogo-alkogolizma-kiev/)                                                                  | Від1699 грн  |
