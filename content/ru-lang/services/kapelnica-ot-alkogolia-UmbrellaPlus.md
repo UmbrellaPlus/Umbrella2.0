@@ -4,6 +4,7 @@ tabTitle: >-
   здоровья
 title: Капельница от алкоголя с UmbrellaPlus Быстрое восстановление здоровья
 description: Наркологическая служба Украины
+image: /img/home-page/4037edf9954d6b4ca1ad07816ff5a279_high.jgp.webp
 imageText: Капельница от алкоголя UmbrellaPlus
 ratingAvarage: 4.96/5
 rating: '5923'
