@@ -1,7 +1,7 @@
 ---
 tabTitle: Вывод из запоя | UmbrellaPlus | Безопасная наркология
-title: Вывод из запоя | UmbrellaPlus | Безопасная наркология |  Украина
-description: Вывод из запоя без стресса и риска — UmbrellaPlus всегда рядом
+title: Вывод из запоя UmbrellaPlus Украина
+description: Вывод из запоя без стресса и риска UmbrellaPlus всегда рядом
 image: /img/home-page/fd5a40f48143d869fef90c0afc51e1db_high.jpg
 imageText: Вывод из запоя UmbrellaPlus Безопасная наркология
 ratingAvarage: 4.97/5
@@ -45,7 +45,7 @@ reviewType: alk-2
 * Анонимное лечение.
 * Все виды вывода из запоя (на дому) и детоксикации.
 
-**Телефон для консультации и вызова врача: 050-021-69-57. ** ([Киев](https://umbrella-plus.com.ua/kiev/) | [Днепр](https://umbrella-plus.com.ua/dnepr/) | [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) | [Харьков](https://umbrella-plus.com.ua/kharkiv/) | [Запорожье](https://umbrella-plus.com.ua/zaporozie/) | [Львов](https://umbrella-plus.com.ua/lviv/))
+\*\*Телефон для консультации и вызова врача: 050-021-69-57. \*\* ([Киев](https://umbrella-plus.com.ua/kiev/) | [Днепр](https://umbrella-plus.com.ua/dnepr/) | [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) | [Харьков](https://umbrella-plus.com.ua/kharkiv/) | [Запорожье](https://umbrella-plus.com.ua/zaporozie/) | [Львов](https://umbrella-plus.com.ua/lviv/))
 
 ## Заключение: Почему UmbrellaPlus — это ваш надежный выбор?
 
