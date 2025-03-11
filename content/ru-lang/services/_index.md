@@ -15,7 +15,7 @@ rating: '9782'
 | -------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [Лечение алкоголизма](lechenie-alkogolizma)                                                                                | От 1699 грн |
 | [Вывод из запоя](Vivod-iz-zapoia-UmbrellaPlus)                                                                             | От 1699 грн |
-| [Вывод из запоя на дому](https://umbrella-plus.com.ua/kiev/vivod-iz-zapoia-na-domy-kiev/)                                  | От 1999 грн |
+| [Вывод из запоя на дому](Vivod-iz-zapoia-na-domy-UmbrellaPlus)                                                             | От 1999 грн |
 | [Капельница от алкоголя](https://umbrella-plus.com.ua/kiev/kapelnica_ot_alkogola_kiev/)                                    | От 1699 грн |
 | [Капельница от алкоголя на дому](https://umbrella-plus.com.ua/kiev/kapelnica_ot_alkogola_na_domy_kiev/)                    | От 1999 грн |
 | [Лечение пивного алкоголизма](https://umbrella-plus.com.ua/kiev/lechenie-pivnogi-alkogolizma-kiev/)                        | От 1699 грн |
