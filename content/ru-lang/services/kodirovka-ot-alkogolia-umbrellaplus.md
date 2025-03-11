@@ -3,7 +3,12 @@ tabTitle: >-
   Кодирование от алкоголизма UmbrellaPlus: эффективное лечение зависимости с
   гарантией результата
 title: Кодирование от алкоголизма UmbrellaPlus гарантией результата
-description: ''
+description: Кодирование от алкоголизма с UmbrellaPlus — ключ к новой жизни!
+image: /img/home-page/ff8e5a67b3a6ee32d567ffa8d408801e_high.jpg
+imageText: Кодирование от алкоголизма UmbrellaPlus
+ratingAvarage: 4.96/5
+rating: '7531'
+reviewType: kod-2
 ---
 
 ## Кодирование от алкоголизма: эффективное лечение зависимости с гарантией результата
