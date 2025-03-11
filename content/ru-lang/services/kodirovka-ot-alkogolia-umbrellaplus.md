@@ -96,4 +96,4 @@ reviewType: kod-2
 2. **Согласовать удобное время визита врача.**
 3. **Получить качественную, анонимную помощь от специалистов UmbrellaPlus.**
 
-**Мы помогаем людям в** [Киев](https://umbrella-plus.com.ua/kiev/) [Днепр](https://umbrella-plus.com.ua/dnepr/) [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) [Харьков](https://umbrella-plus.com.ua/kharkiv/) [Запорожье](https://umbrella-plus.com.ua/zaporozie/) [Львов.](https://umbrella-plus.com.ua/lviv/) ***Работаем 24/7, чтобы поддержать в любой момент.***
+**Мы помогаем людям в** [Киеви](https://umbrella-plus.com.ua/kiev/) [Днепре](https://umbrella-plus.com.ua/dnepr/) [Одессе](https://umbrella-plus.com.ua/lechenie-alc/) [Харькове](https://umbrella-plus.com.ua/kharkiv/) [Запорожье](https://umbrella-plus.com.ua/zaporozie/) [Львове.](https://umbrella-plus.com.ua/lviv/) ***Работаем 24/7, чтобы поддержать в любой момент.***
