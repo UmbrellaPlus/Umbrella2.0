@@ -4,14 +4,14 @@ tabTitle: >-
   Наркологія
 title: Найкращі Наркологи України
 description: UmbrellaPlus — Безпека пацієнта завжди на першому місці.
-image: /img/home-page/9441da6c6d15326513bfee8aba89b7a3_high.jpg
+image: /img/home-page/87313b4741c5d0d21b1d97bff59cb84e_high.jpg
 imageText: Лікування алкоголізму UmbrellaPLus Безпечна наркологія
 ratingAvarage: 4.89/5
 rating: '9782'
 reviewType: ''
 ---
 
-## **| [Київ](https://umbrella-plus.com.ua/uk/kiev/) | [Дніпро](https://umbrella-plus.com.ua/uk/dnepr/) | [Одеса](https://umbrella-plus.com.ua/uk/lechenie-alc/) | [Харків](https://umbrella-plus.com.ua/uk/kharkiv/) | [Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/) | [Львів](https://umbrella-plus.com.ua/uk/lviv/)** **|**
+# **[Київ](https://umbrella-plus.com.ua/uk/kiev/) [Дніпро](https://umbrella-plus.com.ua/uk/dnepr/) [Одеса](https://umbrella-plus.com.ua/uk/lechenie-alc/) [Харків](https://umbrella-plus.com.ua/uk/kharkiv/) [Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/) [Львів](https://umbrella-plus.com.ua/uk/lviv/)**
 
 | Послуги                                                                                                                                                                      | Ціна         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
