@@ -50,7 +50,7 @@ reviewType: alk-2
 
 ## Как начать лечение женского алкоголизма?
 
-Если вы или ваши близкие столкнулись с проблемой алкоголизма, не откладывайте лечение.*** Обратитесь в UmbrellaPlus за профессиональной помощью. Мы работаем круглосуточно и готовы прийти на помощь в любое время. Для консультации или вызова нарколога на дом, позвоните по телефону 050-021-69-57.*** **(**[Киев](https://umbrella-plus.com.ua/kiev/) [Днепр](https://umbrella-plus.com.ua/dnepr/) [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) [Харьков](https://umbrella-plus.com.ua/kharkiv/) [Запорожье](https://umbrella-plus.com.ua/zaporozie/) [Львов](https://umbrella-plus.com.ua/lviv/))
+Если вы или ваши близкие столкнулись с проблемой алкоголизма, не откладывайте лечение. ***Обратитесь в UmbrellaPlus за профессиональной помощью. Мы работаем круглосуточно и готовы прийти на помощь в любое время. Для консультации или вызова нарколога на дом, позвоните по телефону 050-021-69-57.*** **(**[Киев](https://umbrella-plus.com.ua/kiev/) [Днепр](https://umbrella-plus.com.ua/dnepr/) [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) [Харьков](https://umbrella-plus.com.ua/kharkiv/) [Запорожье](https://umbrella-plus.com.ua/zaporozie/) [Львов](https://umbrella-plus.com.ua/lviv/))
 
 ### Заключение
 
