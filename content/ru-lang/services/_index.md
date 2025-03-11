@@ -9,7 +9,7 @@ ratingAvarage: 4.89/5
 rating: '9782'
 ---
 
-## **| [Киев](https://umbrella-plus.com.ua/kiev/) | [Днепр](https://umbrella-plus.com.ua/dnepr/) | [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) | [Харьков](https://umbrella-plus.com.ua/kharkiv/) | [Запорожье](https://umbrella-plus.com.ua/zaporozie/) | [Львов](https://umbrella-plus.com.ua/lviv/)** **|**
+## **[Киев](https://umbrella-plus.com.ua/kiev/) [Днепр](https://umbrella-plus.com.ua/dnepr/) [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) [Харьков](https://umbrella-plus.com.ua/kharkiv/) [Запорожье](https://umbrella-plus.com.ua/zaporozie/) [Львов](https://umbrella-plus.com.ua/lviv/)**
 
 | Услуга                                                                                                                     | Цена        |
 | -------------------------------------------------------------------------------------------------------------------------- | ----------- |
