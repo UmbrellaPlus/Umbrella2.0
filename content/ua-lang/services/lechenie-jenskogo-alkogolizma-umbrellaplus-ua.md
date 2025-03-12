@@ -50,7 +50,7 @@ reviewType: alk-2
 
 ## Як почати лікування жіночого алкоголізму?
 
-Якщо ви або ваші близькі зіткнулися з проблемою алкоголізму, не відкладайте лікування. **Зверніться в UmbrellaPlus за професійною допомогою**. Ми працюємо цілодобово і готові прийти на допомогу в будь-який час. **Для консультації або [виклику нарколога на дім](https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-na-domy-umbrellaplus-ua/), зателефонуйте за телефоном \[050-021-69-57]\(tel:0500216957**. ([Київ](https://umbrella-plus.com.ua/uk/kiev/) [Дніпро](https://umbrella-plus.com.ua/uk/dnepr/) [Одеса](https://umbrella-plus.com.ua/uk/lechenie-alc/) [Харків](https://umbrella-plus.com.ua/uk/kharkiv/) [Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/) [Львів](https://umbrella-plus.com.ua/uk/lviv/)).
+Якщо ви або ваші близькі зіткнулися з проблемою алкоголізму, не відкладайте лікування. **Зверніться в UmbrellaPlus за професійною допомогою**. Ми працюємо цілодобово і готові прийти на допомогу в будь-який час. **Для консультації або [виклику нарколога на дім](https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-na-domy-umbrellaplus-ua/), зателефонуйте за телефоном [050-021-69-57](tel:0500216957)**. ([Київ](https://umbrella-plus.com.ua/uk/kiev/) [Дніпро](https://umbrella-plus.com.ua/uk/dnepr/) [Одеса](https://umbrella-plus.com.ua/uk/lechenie-alc/) [Харків](https://umbrella-plus.com.ua/uk/kharkiv/) [Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/) [Львів](https://umbrella-plus.com.ua/uk/lviv/)).
 
 ### Заключення
 
