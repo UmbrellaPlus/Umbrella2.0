@@ -43,7 +43,7 @@ reviewType: alk-2
 
 * **Консультації та виїзд лікаря 24/7.**
 * **Анонімне лікування.**
-* **Усі види виведення з запою та детоксикації.**
+* **Усі види [виведення з запою](https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-umbrellaplus-ua/) та [детоксикації](https://umbrella-plus.com.ua/uk/services/kapelnica_ot_alkogola_umbrellaplus-ua/).**
 
 Телефон для консультацій та виклику лікаря: **[050-021-69-57](tel:0500216957)**. ([Київ](https://umbrella-plus.com.ua/uk/kiev/), [Дніпро](https://umbrella-plus.com.ua/uk/dnepr/), [Одеса](https://umbrella-plus.com.ua/uk/lechenie-alc/), [Харків](https://umbrella-plus.com.ua/uk/kharkiv/), [Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/), [Львів](https://umbrella-plus.com.ua/uk/lviv/))
 
