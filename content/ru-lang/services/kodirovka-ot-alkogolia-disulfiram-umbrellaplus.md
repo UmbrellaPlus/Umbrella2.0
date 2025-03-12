@@ -2,6 +2,7 @@
 tabTitle: Кодирование от алкоголизма уколом дисульфирам в UmbrellaPlus
 title: Кодирование от алкоголизма уколом дисульфирам в UmbrellaPlus
 description: Трезвая жизнь начинается здесь
+image: /img/home-page/31fb05f6d6f6dee219a1df949b29c4b3_high.jpg
 imageText: Кодирование от алкоголизма уколом дисульфирам в UmbrellaPlus
 ratingAvarage: 4.97/5
 rating: '6722'
