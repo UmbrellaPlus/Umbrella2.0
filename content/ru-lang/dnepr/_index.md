@@ -7,11 +7,11 @@ description: >-
 image: /img/goroda/lechenie-alkogolizma/dnepr-lechenie-alc.jpg
 imageText: Врач беседует с пациентом
 ratingAvarage: 4.8/5
-rating: '270'
+rating: '4865'
 reviewType: alk-1
 ---
 
-## Лечение алкоголизма в Днепре цены
+## Cтоимость лечения алкоголизма в Днепре
 
 | Услуга                                                  | Цена         |
 | ------------------------------------------------------- | ------------ |
