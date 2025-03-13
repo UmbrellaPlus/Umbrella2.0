@@ -4,9 +4,9 @@ title: Лечение алкоголизма в Днепре
 description: >-
   Методы которые мы используем приносят стабильные результаты в борьбе с
   алкогольной зависимостью
-image: /img/goroda/lechenie-alkogolizma/dnepr-lechenie-alc.jpg
+image: /img/Днепр/3515ffe0e493e05ee61b8efc76482c21_high.jpg
 imageText: Врач беседует с пациентом
-ratingAvarage: 4.8/5
+ratingAvarage: 4.9/5
 rating: '4865'
 reviewType: alk-1
 ---
