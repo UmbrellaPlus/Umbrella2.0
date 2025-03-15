@@ -6,7 +6,7 @@ description: >-
   методів.
 image: /img/Kiev New/ebf6bbf6812e669e29e09ba76038c020_high.jpg
 imageText: Лікування алкоголізму Київ
-ratingAvarage: 4.9/5
+ratingAvarage: 4.97/5
 rating: '4872'
 reviewType: alk-2
 ---
