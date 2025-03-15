@@ -2,7 +2,7 @@
 tabTitle: Виведення із запою Київ | Umbrella Plus | Від 1699 грн
 title: Виведення із запою Київ
 description: Лікуємо алкогольну залежність краще за всіх
-image: /img/generated_image (3).png
+image: /img/Kiev New/a6187d32d189d82de478da5935020376_high.jpg
 imageText: Виведення із запою Київ
 ratingAvarage: 4.95/5
 rating: '2773'
