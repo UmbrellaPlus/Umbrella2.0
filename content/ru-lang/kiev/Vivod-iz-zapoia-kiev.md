@@ -2,7 +2,7 @@
 tabTitle: Вывод из запоя Киев | Umbrella Plus | От 1699 грн
 title: Вывод из запоя Киев
 description: Лечим алкогольную зависимость на совесть
-image: /img/generated_image (3).png
+image: /img/Kiev New/a6187d32d189d82de478da5935020376_high.jpg
 imageText: Вывод из запоя Киев
 ratingAvarage: 4.95/5
 rating: '2773'
