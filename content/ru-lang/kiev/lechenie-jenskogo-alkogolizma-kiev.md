@@ -4,10 +4,10 @@ title: Лечение женского алкоголизма Киев
 description: >-
   «Обрети свободу и верни гармонию – лечение женского алкоголизма, где каждая
   женщина на первом месте!»
-image: /img/generated_image (10).png
+image: /img/Kiev New/a9a9212b8120e16988307b26fb8e9ce3_high.jpg
 imageText: Лечение женского алкоголизма Киев
 ratingAvarage: 4.91/5
-rating: '911'
+rating: '1764'
 reviewType: alk-1
 ---
 
