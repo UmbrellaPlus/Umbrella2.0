@@ -92,7 +92,7 @@ reviewType: alk-1
 * наладить отношения в семье,
 * вернуться к карьере и социальной активности.
 
-Не откладывайте лечение алкоголизма в Киеве — начните путь к свободной жизни прямо сейчас!
+**Не откладывайте лечение алкоголизма в Киеве — начните путь к свободной жизни прямо сейчас!**
 
 **Звоните 24/7: [050-021-69-57](tel:0500216957)**
 **Мы работаем в Киеве и по всей Украине:** [Киев](https://umbrella-plus.com.ua/kiev/) [Днепр](https://umbrella-plus.com.ua/dnepr/) [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) [Харьков](https://umbrella-plus.com.ua/kharkiv/) [Запорожье](https://umbrella-plus.com.ua/zaporozie/) [Львов](https://umbrella-plus.com.ua/lviv/).
