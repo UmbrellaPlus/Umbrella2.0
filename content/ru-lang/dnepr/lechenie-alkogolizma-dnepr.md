@@ -4,7 +4,7 @@ title: Лечение алкоголизма в Днепре начните св
 description: UmbrellaPlus Надежное решение для новой жизни
 image: /img/Днепр/0a5b2da7616e36bb5dd5fb8a8c68d3e2_high.jpg
 imageText: Лечение алкоголизма Днепр
-ratingAvarage: 4.96/5
+ratingAvarage: 4.98/5
 rating: '3011'
 reviewType: alk-2
 ---
