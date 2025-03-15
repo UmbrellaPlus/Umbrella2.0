@@ -66,4 +66,4 @@ reviewType: alk-2
 
 **Телефонуйте прямо зараз: 050-021-69-57**
 
-**Почніть свій шлях до нового життя з UmbrellaPlus!**
+**Почніть свій шлях до нового життя з UmbrellaPlus! Працюємо **[Київ](https://umbrella-plus.com.ua/uk/kiev/) [Дніпро](https://umbrella-plus.com.ua/uk/dnepr/) [Одеса](https://umbrella-plus.com.ua/uk/lechenie-alc/) [Харків](https://umbrella-plus.com.ua/uk/kharkiv/) [Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/) [Львів](https://umbrella-plus.com.ua/uk/lviv/).
