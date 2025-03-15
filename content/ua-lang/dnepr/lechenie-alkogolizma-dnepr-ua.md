@@ -64,6 +64,5 @@ reviewType: alk-2
 
 **Клініка UmbrellaPlus** – це ваш надійний партнер у боротьбі з алкоголізмом. Наші сучасні методики, індивідуальний підхід та постійна підтримка дозволяють досягти стійких результатів і повернути контроль над життям. Ми працюємо з кожним пацієнтом, допомагаючи не лише позбутися залежності, а й відновити здоров'я, покращити якість життя та повернутися до нормального соціального існування. Якщо ви або ваші близькі зіткнулися з проблемою алкоголізму, не відкладайте звернення за допомогою.
 
-**Телефонуйте прямо зараз: 050-021-69-57**
-
-**Почніть свій шлях до нового життя з UmbrellaPlus! Працюємо **[Київ](https://umbrella-plus.com.ua/uk/kiev/) [Дніпро](https://umbrella-plus.com.ua/uk/dnepr/) [Одеса](https://umbrella-plus.com.ua/uk/lechenie-alc/) [Харків](https://umbrella-plus.com.ua/uk/kharkiv/) [Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/) [Львів](https://umbrella-plus.com.ua/uk/lviv/).
+**Телефонуйте прямо зараз: 050-021-69-57
+Почніть свій шлях до нового життя з UmbrellaPlus! Працюємо 24/7 **[Київ](https://umbrella-plus.com.ua/uk/kiev/) [Дніпро](https://umbrella-plus.com.ua/uk/dnepr/) [Одеса](https://umbrella-plus.com.ua/uk/lechenie-alc/) [Харків](https://umbrella-plus.com.ua/uk/kharkiv/) [Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/) [Львів](https://umbrella-plus.com.ua/uk/lviv/)**.**
