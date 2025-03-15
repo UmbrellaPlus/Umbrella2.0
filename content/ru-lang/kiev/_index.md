@@ -5,7 +5,7 @@ description: >-
   Мы успешно справляемся с лечением алкоголизма благодаря нашим проверенным
   методам.
 image: /img/Kiev New/ebf6bbf6812e669e29e09ba76038c020_high.jpg
-imageText: Врач беседует с пациентом
+imageText: Лечение алкоголизма Киев
 ratingAvarage: 4.97/5
 rating: '4872'
 reviewType: alk-1
