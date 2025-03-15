@@ -111,5 +111,5 @@ reviewType: alk-2
 Не відкладайте лікування алкоголізму в Києві — розпочніть шлях до вільного життя вже зараз!
 
 **Дзвоніть 24/7: 050-021-69-57
-Ми працюємо у Києві та по всій Україні: Київ, Дніпро, Одеса, Харків, Запоріжжя, Львів.
+Ми працюємо у Києві та по всій Україні: **[Київ](https://umbrella-plus.com.ua/uk/kiev/) [Дніпро](https://umbrella-plus.com.ua/uk/dnepr/) [Одеса](https://umbrella-plus.com.ua/uk/lechenie-alc/) [Харків](https://umbrella-plus.com.ua/uk/kharkiv/) [Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/) [Львів](https://umbrella-plus.com.ua/uk/lviv/)**.
 UmbrellaPlus — безпечна наркологія Києва, якій можна довіряти!**
