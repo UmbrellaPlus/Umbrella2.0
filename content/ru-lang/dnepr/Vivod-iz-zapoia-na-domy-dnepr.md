@@ -2,6 +2,7 @@
 tabTitle: Вывод из запоя на дому Днепр — быстрая помощь без визита в клинику
 title: Вывод из запоя на дому Днепр UmbrellaPlus
 description: 'Вывод из запоя на дому — здоровье рядом, поддержка всегда!'
+image: /img/Днепр/43216e49aa80376d2eaa3bfc3df05399_high.1jpg.webp
 imageText: Вывод из запоя на дому Днепр
 ratingAvarage: 4.98/5
 rating: '2652'
