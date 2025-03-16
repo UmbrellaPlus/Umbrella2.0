@@ -89,4 +89,4 @@ reviewType: alk-1
 **Нарколог на дім у Дніпрі приїде протягом 40-60 хвилин після виклику,** проведе огляд, поставить крапельницю, підбере лікування. Ми допомагаємо людям повернутися до нормального життя без алкоголю.
 
 **Телефонуйте цілодобово: 050-021-69-57**
-**Працюємо по всьому Дніпру та області. UmbrellaPlus — професійне та безпечне виведення із запою на дому (**[Київ](https://umbrella-plus.com.ua/uk/kiev/) [Дніпро](https://umbrella-plus.com.ua/uk/dnepr/) [Одеса](https://umbrella-plus.com.ua/uk/lechenie-alc/) [Харків](https://umbrella-plus.com.ua/uk/kharkiv/) [Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/) [Львів](https://umbrella-plus.com.ua/uk/lviv/))
+**Працюємо по всьому Дніпру та області. UmbrellaPlus — професійне та безпечне виведення із запою на дому (**[Київ](https://umbrella-plus.com.ua/uk/kiev/) [Дніпро](https://umbrella-plus.com.ua/uk/dnepr/) [Одеса](https://umbrella-plus.com.ua/uk/lechenie-alc/) [Харків](https://umbrella-plus.com.ua/uk/kharkiv/) [Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/) [Львів](https://umbrella-plus.com.ua/uk/lviv/)).
