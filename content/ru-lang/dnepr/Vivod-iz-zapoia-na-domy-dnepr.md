@@ -89,4 +89,4 @@ reviewType: alk-2
 ***
 
 **Звоните круглосуточно: 050-021-69-57**
-**Работаем по всему Днепру и области. UmbrellaPlus — профессиональный и безопасный вывод из запоя на дому в Днепре.**
+**Работаем по всему Днепру и области. UmbrellaPlus — профессиональный и безопасный вывод из запоя на дому (**[Киев](https://umbrella-plus.com.ua/kiev/) [Днепр](https://umbrella-plus.com.ua/dnepr/) [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) [Харьков](https://umbrella-plus.com.ua/kharkiv/) [Запорожье](https://umbrella-plus.com.ua/zaporozie/) [Львов](https://umbrella-plus.com.ua/lviv/)).
