@@ -2,7 +2,7 @@
 tabTitle: Капельница от алкоголя на дому Днепр — Быстрое и надежное восстановление
 title: Капельница от алкоголя на дому Днепр UmbrellaPlus
 description: 'UmbrellaPlus Днепре: Ваш быстрый шаг к новой жизни!'
-image: /img/Днепр/9d9a039cb1f08b7ab394c47c7cbe3cf2_high.jpg
+image: /img/Днепр/eacda62b31540f651e9eb1df758bfe27_high.jpg
 imageText: Капельница от алкоголя Днепр
 ratingAvarage: 4.98/5
 rating: '2876'
