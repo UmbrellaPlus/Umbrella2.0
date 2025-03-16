@@ -90,5 +90,5 @@ reviewType: alk-1
 
 ***
 
-Звертайтеся зараз: 050-021-69-57
-Ми надаємо допомогу в таких містах, як Дніпро, Київ, Одеса, Харків, Запоріжжя, Львів, забезпечуючи підтримку 24/7. Ваш шлях до здоров'я і тверезості починається тут!
+**Звертайтеся зараз:** 050-021-69-57
+Ми надаємо допомогу в таких містах, як [Дніпро](https://umbrella-plus.com.ua/uk/dnepr/) [Київ](https://umbrella-plus.com.ua/uk/kiev/) [Одеса](https://umbrella-plus.com.ua/uk/lechenie-alc/) [Харків](https://umbrella-plus.com.ua/uk/kharkiv/) [Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/) [Львів](https://umbrella-plus.com.ua/uk/lviv/), забезпечуючи підтримку 24/7. Ваш шлях до здоров'я і тверезості починається тут!
