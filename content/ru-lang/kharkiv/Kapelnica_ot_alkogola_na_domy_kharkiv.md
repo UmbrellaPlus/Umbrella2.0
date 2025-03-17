@@ -7,7 +7,7 @@ description: >-
 image: /img/8786a34267f6694717cd5ba79e0d729c_high.jpg
 imageText: Вывод из запоя на дому Харьков
 ratingAvarage: 4.97/5
-rating: '1879'
+rating: '2879'
 reviewType: alk-2
 ---
 
