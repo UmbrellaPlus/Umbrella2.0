@@ -11,12 +11,12 @@ rating: '9782'
 
 ## [Киев](https://umbrella-plus.com.ua/kiev/) [Днепр](https://umbrella-plus.com.ua/dnepr/) [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) [Харьков](https://umbrella-plus.com.ua/kharkiv/) [Запорожье](https://umbrella-plus.com.ua/zaporozie/) [Львов](https://umbrella-plus.com.ua/lviv/)
 
-| Помощь при алкогольной интоксикации \| UmbrellaPlus                          | Цена        |
-| ---------------------------------------------------------------------------- | ----------- |
-| [Вывод из запоя](Vivod-iz-zapoia-UmbrellaPlus)                               | От 1699 грн |
-| [Капельница от алкоголя](kapelnica-ot-alkogolia-UmbrellaPlus)                | От 1999 грн |
-| [Вывод из запоя на дому](Vivod-iz-zapoia-na-domy-UmbrellaPlus)               | От 1699 грн |
-| [Капельница от алкоголя на дому](Kapelnica_ot_alkogola_na_domy_UmbrellaPlus) | От 1999 грн |
+| Помощь при алкогольной интоксикации \| UmbrellaPlus                              | Цена        |
+| -------------------------------------------------------------------------------- | ----------- |
+| **[Вывод из запоя](Vivod-iz-zapoia-UmbrellaPlus)**                               | От 1699 грн |
+| **[Капельница от алкоголя](kapelnica-ot-alkogolia-UmbrellaPlus)**                | От 1699 грн |
+| **[Вывод из запоя на дому](Vivod-iz-zapoia-na-domy-UmbrellaPlus)**               | От 1999 грн |
+| **[Капельница от алкоголя на дому](Kapelnica_ot_alkogola_na_domy_UmbrellaPlus)** | От 1999 грн |
 
 | Лечение зависимости \| UmbrellaPlus                                        | Цена        |
 | -------------------------------------------------------------------------- | ----------- |
