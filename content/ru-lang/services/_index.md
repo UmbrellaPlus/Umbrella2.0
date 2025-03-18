@@ -2,10 +2,10 @@
 layout: services
 tabTitle: Услуги лечения алкоголизма и наркомании | Umbrella Plus
 title: Лучшие Наркологи Украины
-description: Безопасность пациента всегда на первом месте.
+description: Безопасность пациента всегда на первом месте
 image: /img/home-page/87313b4741c5d0d21b1d97bff59cb84e_high.jpg
-imageText: Команда врачей
-ratingAvarage: 4.89/5
+imageText: Лечение алкоголизма UmbrellaPlus
+ratingAvarage: 4.98/5
 rating: '9782'
 ---
 
@@ -18,14 +18,14 @@ rating: '9782'
 | **[Вывод из запоя на дому](Vivod-iz-zapoia-na-domy-UmbrellaPlus)**               | От 1999 грн |
 | **[Капельница от алкоголя на дому](Kapelnica_ot_alkogola_na_domy_UmbrellaPlus)** | От 1999 грн |
 
-| Лечение зависимости \| UmbrellaPlus                                        | Цена        |
-| -------------------------------------------------------------------------- | ----------- |
-| [Лечение алкоголизма](lechenie-alkogolizma)                                | От 1699 грн |
-| [Лечение пивного алкоголизма](lechenie-pivnogo-alkogolizma-UmbrellaPlus)   | От 1699 грн |
-| [Лечение женского алкоголизма](lechenie-jenskogo-alkogolizma-umbrellaplus) | От 1699 грн |
+| Лечение зависимости \| UmbrellaPlus                                            | Цена        |
+| ------------------------------------------------------------------------------ | ----------- |
+| **[Лечение алкоголизма](lechenie-alkogolizma)**                                | От 1699 грн |
+| **[Лечение пивного алкоголизма](lechenie-pivnogo-alkogolizma-UmbrellaPlus)**   | От 1699 грн |
+| **[Лечение женского алкоголизма](lechenie-jenskogo-alkogolizma-umbrellaplus)** | От 1699 грн |
 
-| Кодировка \| UmbrellaPlus                                                                       | Цена        |
-| ----------------------------------------------------------------------------------------------- | ----------- |
-| [Кодирование от алкоголизма](kodirovka-ot-alkogolia-umbrellaplus)                               | От 4999 грн |
-| [Кодирование от алкоголизма уколом Дисульфирам](kodirovka-ot-alkogolia-disulfiram-umbrellaplus) | От 4999 грн |
-| [Кодирование от алкоголизма уколом Эспераль](kodirovka-ot-alkogolizma-espiarl-umbrellaplus)     | От 6500 грн |
+| Кодировка \| UmbrellaPlus                                                                           | Цена        |
+| --------------------------------------------------------------------------------------------------- | ----------- |
+| **[Кодирование от алкоголизма](kodirovka-ot-alkogolia-umbrellaplus)**                               | От 4999 грн |
+| **[Кодирование от алкоголизма уколом Дисульфирам](kodirovka-ot-alkogolia-disulfiram-umbrellaplus)** | От 4999 грн |
+| **[Кодирование от алкоголизма уколом Эспераль](kodirovka-ot-alkogolizma-espiarl-umbrellaplus)**     | От 6500 грн |
