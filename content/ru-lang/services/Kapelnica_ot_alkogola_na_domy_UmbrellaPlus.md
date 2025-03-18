@@ -2,8 +2,8 @@
 tabTitle: >-
   Капельница от алкоголя на дому с UmbrellaPlus: быстрая и безопасная помощь при
   запое
-title: Капельница от алкоголя на дому с UmbrellaPlus безопасная помощь при запое
-description: Выезд наркологов с опытом работы от 5 лет
+title: Капельница от алкоголя на дому с UmbrellaPlus
+description: Выезд докторов с опытом работы от 5 лет
 image: /img/home-page/edada76be4fa9739d5a796f8a5783409_high.jpg
 imageText: Капельница от алкоголя на дому UmbrellaPlus
 ratingAvarage: 4.97/5
