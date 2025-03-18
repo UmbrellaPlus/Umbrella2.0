@@ -4,8 +4,8 @@ title: 'Крапельниця від алкоголю Харків: Вихід 
 description: Швидкий порятунок від інтоксикації
 image: /img/b060b968c116af03688ea5ce39803d76_high.jpg
 imageText: Крапельниця від алкоголю Харків
-ratingAvarage: 4.96/5
-rating: '1577'
+ratingAvarage: 4.98/5
+rating: '2622'
 reviewType: alk-2
 ---
 
