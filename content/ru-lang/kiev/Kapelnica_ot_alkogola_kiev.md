@@ -38,20 +38,28 @@ reviewType: alk-1
 
 ## Сколько стоит капельница от алкоголя Киев
 
-**Капельница от алкогольной интоксикации в городе Киев стоит от 1699грн. *Другие услуги наркологической службы UmbrellaPlus Киев:***
+**Капельница от алкогольной интоксикации в городе Киев стоит от 1699грн.**
 
-| Услуга                                                                                                                     | Цена        |
-| -------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [Лечение алкоголизма Киев](https://umbrella-plus.com.ua/kiev/lechenie-alkogolizma-kiev/)                                   | От 1699 грн |
-| [Вывод из запоя Киев](https://umbrella-plus.com.ua/kiev/vivod-iz-zapoia-kiev/)                                             | От 1699 грн |
-| [Вывод из запоя на дому Киев](https://umbrella-plus.com.ua/kiev/vivod-iz-zapoia-na-domy-kiev/)                             | От 1999 грн |
-| [Капельница от алкоголя Киев](https://umbrella-plus.com.ua/kiev/kapelnica_ot_alkogola_kiev/)                               | От 1699 грн |
-| [Капельница от алкоголя на дому Киев](https://umbrella-plus.com.ua/kiev/kapelnica_ot_alkogola_na_domy_kiev/)               | От 1999 грн |
-| [Лечение пивного алкоголизма Киев](https://umbrella-plus.com.ua/kiev/lechenie-pivnogi-alkogolizma-kiev/)                   | От 1699 грн |
-| [Лечение женского алкоголизма Киев](https://umbrella-plus.com.ua/kiev/lechenie-jenskogo-alkogolizma-kiev/)                 | От 1699 грн |
-| [Кодирование от алкоголизма Киев](https://umbrella-plus.com.ua/kiev/kodirovka-ot-alkogolia-kiev/)                          | От 4999 грн |
-| [Кодирование от алкоголизма уколом Дисульфирам](https://umbrella-plus.com.ua/kiev/kodirovka-ot-alkogolia-disulfiram-kiev/) | От 4999 грн |
-| [Кодирование от алкоголизма уколом Эспераль](https://umbrella-plus.com.ua/kiev/kodirovka-ot-alkogolizma-espiarl-kiev/)     | От 6500 грн |
+| Помощь при алкогольной интоксикации Киев \| UmbrellaPlus                                                     | Цена        |
+| ------------------------------------------------------------------------------------------------------------ | ----------- |
+| [Вывод из запоя Киев](https://umbrella-plus.com.ua/kiev/vivod-iz-zapoia-kiev/)                               | От 1699 грн |
+| [Капельница от алкоголя Киев](https://umbrella-plus.com.ua/kiev/kapelnica_ot_alkogola_kiev/)                 | От 1699 грн |
+| [Вывод из запоя на дому Киев](https://umbrella-plus.com.ua/kiev/vivod-iz-zapoia-na-domy-kiev/)               | От 1999 грн |
+| [Капельница от алкоголя на дому Киев](https://umbrella-plus.com.ua/kiev/kapelnica_ot_alkogola_na_domy_kiev/) | От 1999 грн |
+
+| Лечение зависимости Киев \| UmbrellaPlus                                                                   | Цена        |
+| ---------------------------------------------------------------------------------------------------------- | ----------- |
+| [Лечение алкоголизма Киев](https://umbrella-plus.com.ua/kiev/lechenie-alkogolizma-kiev/)                   | От 1699 грн |
+| [Лечение пивного алкоголизма Киев](https://umbrella-plus.com.ua/kiev/lechenie-pivnogi-alkogolizma-kiev/)   | От 1699 грн |
+| [Лечение женского алкоголизма Киев](https://umbrella-plus.com.ua/kiev/lechenie-jenskogo-alkogolizma-kiev/) | От 1699 грн |
+
+| Кодировка Киев \| UmbrellaPlus                                                                                             | Цена         |
+| -------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [Кодирование от алкоголизма Киев](https://umbrella-plus.com.ua/kiev/kodirovka-ot-alkogolia-kiev/)                          | От 4999 грн  |
+| [Кодирование от алкоголизма уколом Дисульфирам](https://umbrella-plus.com.ua/kiev/kodirovka-ot-alkogolia-disulfiram-kiev/) | От 4999 грн  |
+| [Кодирование от алкоголизма уколом Эспераль](https://umbrella-plus.com.ua/kiev/kodirovka-ot-alkogolizma-espiarl-kiev/)     | От 6500 грн  |
+| Подшивка от алкоголя Киев                                                                                                  | От 9999 грн  |
+| Кодирование по методу Довженко Киев                                                                                        | От 14999 грн |
 
 ## Что происходит с человеком после капельницы от алкогольной интоксикации
 
