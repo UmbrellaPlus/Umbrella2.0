@@ -5,7 +5,7 @@ description: Капельница от алкоголя - проверенный
 image: /img/Kiev New/965a2585666a480936cd340c7b8e7c3d_high.jpg
 imageText: Капельница от алкоголя Киев
 ratingAvarage: 4.98/5
-rating: '2447'
+rating: '6728'
 reviewType: alk-1
 ---
 
