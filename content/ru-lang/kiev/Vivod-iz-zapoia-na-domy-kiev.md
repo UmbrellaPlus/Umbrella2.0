@@ -5,7 +5,7 @@ description: Вывод из запоя с помощью проверенных
 image: /img/07f82f98-9bb5-4526-9e40-d0784b533af6.jpg
 imageText: Вывод из запоя на дому Киев
 ratingAvarage: 4.98/5
-rating: '2943'
+rating: '5423'
 reviewType: alk-1
 ---
 
