@@ -36,18 +36,26 @@ reviewType: alk-2
 
 **Стоимость вывода из запоя на дому в городе Харькове** **начинается от 1699 грн.** **Выезд нарколога осуществляется с** **05:00** **до** **23:00.**
 
-| Услуга                                                                                                                         | Цена        |
-| ------------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| [Лечение алкоголизма Харьков](https://umbrella-plus.com.ua/kharkiv/lechenie-alkogolizma-kharkiv/)                              | От 1499 грн |
-| [Вывод из запоя Харьков](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-kharkiv/)                                        | От 1499 грн |
-| [Вывод из запоя на дому Харьков](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/)                        | От 1699 грн |
-| [Капельница от алкоголя Харьков](https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_kharkiv/)                          | От 1499 грн |
-| [Капельница от алкоголя на дому Харьков](https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_na_domy_kharkiv/)          | От 1699 грн |
-| [Лечение пивного алкоголизма Харьков](https://umbrella-plus.com.ua/kharkiv/lechenie-pivnogo-alkogolizma-kharkiv/)              | От 1499 грн |
-| [Лечение женского алкоголизм Харьков](https://umbrella-plus.com.ua/kharkiv/lechenie-jenskogo-alkogolizma-kharkiv/)             | От 1499 грн |
-| [Кодирование от алкоголизма Харьков](https://umbrella-plus.com.ua/kharkiv/kodirovka-ot-alkogolia-kharkiv/)                     | От 4000 грн |
-| [Кодирование от алкоголизма укол Дисульфирам](https://umbrella-plus.com.ua/kharkiv/kodirovka-ot-alkogolia-disulfiram-kharkiv/) | От 4000 грн |
-| [Кодирование от алкоголизма укол Эспираль](https://umbrella-plus.com.ua/kharkiv/kodirovka-ot-alkogolizma-espiarl-kharkiv/)     | От 5500 грн |
+| Помощь при алкогольной интоксикации \| UmbrellaPlus                                                                 | Цена        |
+| ------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [Вывод из запоя](https://umbrella-plus.com.ua/services/vivod-iz-zapoia-umbrellaplus/)                               | От 1699 грн |
+| [Капельница от алкоголя](https://umbrella-plus.com.ua/services/kapelnica-ot-alkogolia-umbrellaplus/)                | От 1699 грн |
+| [Вывод из запоя на дому](https://umbrella-plus.com.ua/services/vivod-iz-zapoia-na-domy-umbrellaplus/)               | От 1999 грн |
+| [Капельница от алкоголя на дому](https://umbrella-plus.com.ua/services/kapelnica_ot_alkogola_na_domy_umbrellaplus/) | От 1999 грн |
+
+| Лечение зависимости \| UmbrellaPlus                                                                               | Цена        |
+| ----------------------------------------------------------------------------------------------------------------- | ----------- |
+| [Лечение алкоголизма](https://umbrella-plus.com.ua/services/lechenie-alkogolizma/)                                | От 1699 грн |
+| [Лечение пивного алкоголизма](https://umbrella-plus.com.ua/services/lechenie-pivnogo-alkogolizma-umbrellaplus/)   | От 1699 грн |
+| [Лечение женского алкоголизма](https://umbrella-plus.com.ua/services/lechenie-jenskogo-alkogolizma-umbrellaplus/) | От 1699 грн |
+
+| Кодировка Харьков \| UmbrellaPlus                                                        | Цена         |
+| ---------------------------------------------------------------------------------------- | ------------ |
+| [Кодирование от алкоголизма Харьков](kodirovka-ot-alkogolia-kharkiv)                     | От 4999 грн  |
+| [Кодирование от алкоголизма укол Дисульфирам](kodirovka-ot-alkogolia-disulfiram-kharkiv) | От 4999 грн  |
+| [Кодирование от алкоголизма укол Эспераль](kodirovka-ot-alkogolizma-espiarl-kharkiv)     | От 6500 грн  |
+| Подшивка от алкоголя Харьков                                                             | От 9999 грн  |
+| Кодирование по методу Довженко Харьков                                                   | От 14999 грн |
 
 ## Прокапаться от алкоголя на дому Харьков
 
