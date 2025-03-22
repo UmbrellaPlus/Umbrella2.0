@@ -7,7 +7,7 @@ description: >-
 image: /img/Kiev New/ebf6bbf6812e669e29e09ba76038c020_high.jpg
 imageText: Лечение алкоголизма Киев
 ratingAvarage: 4.97/5
-rating: '4872'
+rating: '6324'
 reviewType: alk-1
 ---
 
