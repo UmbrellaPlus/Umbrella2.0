@@ -2,8 +2,8 @@
 tabTitle: >-
   Вывод из запоя на дому с UmbrellaPlus: Быстрая помощь, гарантированная
   безопасность
-title: Вывод из запоя на дому с UmbrellaPlus Гарантированная безопасность
-description: Выезд Наркологов с опытом работы не менее 5 лет
+title: Вывод из запоя на дому с UmbrellaPlus гарантированная безопасность
+description: Выезд наркологов с опытом работы не менее 5 лет
 image: /img/home-page/c8dd588a74422e326f30c5564734eff9_high.jpg
 imageText: Вывод из запоя на дому UmbrellaPlus
 ratingAvarage: 4.98/5
@@ -40,7 +40,7 @@ reviewType: alk-1
 
 ## Стоимость вывода из запоя на дому UmbrellaPlus
 
-**Стоимость при вывода из запоя на дому в UmbrellaPlus начинается от 1999грн.**
+**UmbrellaPlus Безопасная наркология** — [Киев](https://umbrella-plus.com.ua/kiev/) [Днепр](https://umbrella-plus.com.ua/dnepr/) [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) [Харьков](https://umbrella-plus.com.ua/kharkiv/) [Запорожье](https://umbrella-plus.com.ua/zaporozie/) [Львов](https://umbrella-plus.com.ua/lviv/). **Стоимость вывода из запоя на дому в UmbrellaPlus начинается от 1999грн.**
 
 | Помощь при алкогольной интоксикации \| UmbrellaPlus                                                                 | Цена        |
 | ------------------------------------------------------------------------------------------------------------------- | ----------- |
