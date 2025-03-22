@@ -5,7 +5,7 @@ description: 'Топовые врачи для экстренного выход
 image: /img/харьков/b1e1e5a12bf99612e3b0d0d60c07882a_high1.jpg
 imageText: Вывод из запоя на дому Харьков
 ratingAvarage: 4.97/5
-rating: '1423'
+rating: '5928'
 reviewType: alk-2
 ---
 
