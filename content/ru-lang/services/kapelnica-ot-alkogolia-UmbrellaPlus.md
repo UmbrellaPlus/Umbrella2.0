@@ -6,7 +6,7 @@ title: Капельница от алкоголя с UmbrellaPlus Быстрое
 description: Наркологическая служба Украины
 image: /img/home-page/4037edf9954d6b4ca1ad07816ff5a279_high.jgp.webp
 imageText: Капельница от алкоголя UmbrellaPlus
-ratingAvarage: 4.96/5
+ratingAvarage: 4.98/5
 rating: '5923'
 reviewType: alk-1
 ---
@@ -36,7 +36,7 @@ reviewType: alk-1
 
 ## Стоимость капельницы от алкоголя UmbrellaPlus
 
-**Стоимость капельницы от алкоголя в UmbrellaPlus начинается от 1699грн.**
+**UmbrellaPlus Безопасная наркология** — [Киев](https://umbrella-plus.com.ua/kiev/) [Днепр](https://umbrella-plus.com.ua/dnepr/) [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) [Харьков](https://umbrella-plus.com.ua/kharkiv/) [Запорожье](https://umbrella-plus.com.ua/zaporozie/) [Львов](https://umbrella-plus.com.ua/lviv/). **Стоимостькапельницы от алкоголя в UmbrellaPlus начинается от 1699грн.**
 
 | Помощь при алкогольной интоксикации \| UmbrellaPlus                                                                 | Цена        |
 | ------------------------------------------------------------------------------------------------------------------- | ----------- |
