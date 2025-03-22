@@ -36,7 +36,7 @@ reviewType: alk-2
 
 ## Стоимость вывода из запоя UmbrellaPlus
 
-**UmbrellaPlus Безопасная наркология** — [Киев](https://umbrella-plus.com.ua/kiev/) [Днепр](https://umbrella-plus.com.ua/dnepr/) [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) [Харьков](https://umbrella-plus.com.ua/kharkiv/) [Запорожье](https://umbrella-plus.com.ua/zaporozie/) [Львов](https://umbrella-plus.com.ua/lviv/).
+**UmbrellaPlus Безопасная наркология** — [Киев](https://umbrella-plus.com.ua/kiev/) [Днепр](https://umbrella-plus.com.ua/dnepr/) [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) [Харьков](https://umbrella-plus.com.ua/kharkiv/) [Запорожье](https://umbrella-plus.com.ua/zaporozie/) [Львов](https://umbrella-plus.com.ua/lviv/). Стоимость вывода из запоя в UmbrellaPlus начинается от 1699грн.
 
 | Помощь при алкогольной интоксикации \| UmbrellaPlus                                                                 | Цена        |
 | ------------------------------------------------------------------------------------------------------------------- | ----------- |
