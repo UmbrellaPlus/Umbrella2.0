@@ -36,7 +36,7 @@ reviewType: alk-1
 
 ## Стоимость капельницы от алкоголя UmbrellaPlus
 
-Стоимость капельницы от алкоголя в UmbrellaPlus начинается от 1699грн.
+**Стоимость капельницы от алкоголя в UmbrellaPlus начинается от 1699грн.**
 
 | Помощь при алкогольной интоксикации \| UmbrellaPlus                                                                 | Цена        |
 | ------------------------------------------------------------------------------------------------------------------- | ----------- |
@@ -78,4 +78,4 @@ reviewType: alk-1
 * Выезд на дом: [капельница от алкоголя на дому](https://umbrella-plus.com.ua/services/kapelnica_ot_alkogola_na_domy_umbrellaplus/) — удобное решение для тех, кто не хочет посещать клинику.
 * Анонимность: полная конфиденциальность на всех этапах лечения.
 
-***Не откладывайте заботу о здоровье — обратитесь в UmbrellaPlus прямо сейчас для получения квалифицированной помощи [050-021-69-57](tel:0500216957)! ([Киев](https://umbrella-plus.com.ua/kiev/) [Днепр](https://umbrella-plus.com.ua/dnepr/) [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) [Харьков](https://umbrella-plus.com.ua/kharkiv/) [Запорожье](https://umbrella-plus.com.ua/zaporozie/) [Львов](https://umbrella-plus.com.ua/lviv/)).***
+**Не откладывайте заботу о здоровье — обратитесь в UmbrellaPlus прямо сейчас для получения квалифицированной помощи [050-021-69-57](tel:0500216957)! ([Киев](https://umbrella-plus.com.ua/kiev/) [Днепр](https://umbrella-plus.com.ua/dnepr/) [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) [Харьков](https://umbrella-plus.com.ua/kharkiv/) [Запорожье](https://umbrella-plus.com.ua/zaporozie/) [Львов](https://umbrella-plus.com.ua/lviv/)).**
