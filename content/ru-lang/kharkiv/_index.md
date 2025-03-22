@@ -7,7 +7,7 @@ description: >-
 image: /img/goroda/lechenie-alkogolizma/kharkiv-lechenie-alcogolisma.jpg
 imageText: Лечение алкоголизма в Харькове
 ratingAvarage: 4.93/5
-rating: '3316'
+rating: '5511'
 reviewType: alk-1
 ---
 
