@@ -256,11 +256,11 @@ export default defineConfig({
         fields: [...cityTemplate],
       },
       {
-        name: "about_ru",
-        label: "О нас-RU",
+        name: "contacts_ru",
+        label: "Контакты-RU",
         path: "content/ru-lang",
         match: {
-          include: "about-us",
+          include: "contacts",
         },
         format: "md",
         fields: [
@@ -275,11 +275,11 @@ export default defineConfig({
         ],
       },
       {
-        name: "about_ua",
-        label: "О нас-UA",
+        name: "contacts_ua",
+        label: "Контакты-UA",
         path: "content/ua-lang",
         match: {
-          include: "about-us",
+          include: "contacts",
         },
         format: "md",
         fields: [

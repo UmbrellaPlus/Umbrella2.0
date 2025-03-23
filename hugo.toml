@@ -20,10 +20,6 @@ defaultContentLanguageInSubdir = false
                 pageRef = '/blog'
                 weight = 20
             [[languages.ru.menus.main]]
-                name = 'О нас'
-                pageRef = '/about-us'
-                weight = 30
-            [[languages.ru.menus.main]]
                 name = 'Контакты'
                 pageRef = '/contacts'
                 weight = 40
@@ -85,10 +81,6 @@ defaultContentLanguageInSubdir = false
                 name = 'Медичний блог'
                 pageRef = '/blog'
                 weight = 20
-            [[languages.uk.menus.main]]
-                name = 'Про нас'
-                pageRef = '/about-us'
-                weight = 30
             [[languages.uk.menus.main]]
                 name = 'Контакти'
                 pageRef = '/contacts'

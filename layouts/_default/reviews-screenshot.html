@@ -32,11 +32,10 @@
     <!-- Default meta -->
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    {{partial "style-links.html"}}
-    <title>{{.Title}}</title>
     {{/* Canonial URL */}}
     <link rel="canonical" href="{{ .Permalink }}" />
-    {{/* Styles */}}
+    {{/* Styles */}} {{partial "style-links.html"}}
+    <title>{{.Title}}</title>
   </head>
   <body>
     <!-- Google Tag Manager (noscript) -->
@@ -51,29 +50,30 @@
     <!-- End Google Tag Manager (noscript) -->
     {{partial "sticky-phone.html"}} {{ partial "preheader.html"}} {{ partial
     "header.html"}}
-    <!-- О нас -->
-    {{if in .Site.Language "ru"}}
-    <div class="about-container">
-      <h1>О нас</h1>
-      <h2>Ради чего мы работаем</h2>
-      <div class="about-inside">
-        <p>{{.Content}}</p>
-        <img src="" alt="" />
-      </div>
-    </div>
-    {{ else }}
-    <div class="about-container">
-      <h1>Про нас</h1>
-      <h2>Заради чого ми працюємо</h2>
-      <div class="about-inside">
-        <p>{{.Content}}</p>
-        <img src="" alt="" />
-      </div>
-    </div>
-
-    {{end}} {{if in .Site.Language "ru"}} {{partial "doctors-slider.html"}}
-    {{partial "contacts.html" . }} {{ else }} {{partial
-    "doctors-slider-ua.html"}} {{partial "contacts-ua.html" . }} {{end}}
-    {{partial "footer.html" .}}
+        <!-- Отзывы-скриншоты -->
+        {{if in .Site.Language "ru"}}
+        <div class="reviws-screenshot-container">
+          <h1>Отзывы</h1>
+          <div class="reviws-screenshot-image">
+            <ul>
+            {{range .Site.RegularPages}}
+            {{if strings.HasPrefix .File.Dir "reviews"}}
+            <li>
+              <h1>{{ .Title }}</h1>
+            </li>
+            {{end}}
+            {{end}}
+          </ul>
+          </div>
+        </div>
+        {{ else }}
+        <div class="rs-container">
+          <h1>Відгуки</h1>
+          <div class="about-inside">
+            <p>{{.Content}}</p>
+            <img src="" alt="" />
+          </div>
+        </div>
+        {{end}} {{partial "footer.html" .}}
   </body>
 </html>
