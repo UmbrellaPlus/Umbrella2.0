@@ -4,7 +4,7 @@ tabTitle: >-
   запое
 title: Капельница от алкоголя на дому
 description: Экстренный вызов нарколога
-image: /img/home-page/edada76be4fa9739d5a796f8a5783409_high.jpg
+image: /img/home-page/749d11473d543618f5d799f9369b42d6_high.jpg
 imageText: Капельница от алкоголя на дому UmbrellaPlus
 ratingAvarage: 4.97/5
 rating: '8412'
