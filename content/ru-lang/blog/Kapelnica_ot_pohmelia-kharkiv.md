@@ -29,12 +29,12 @@ reviewType: alk-2
 
 ## Сколько стоит вывести из запоя на дому?
 
-**[Вывод из запоя на дому](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/)** – услуга, доступная для тех, кто нуждается в оперативной помощи, не желая посещать стационар. **В Харькове стоимость процедуры начинается от 1699 грн.**
+**[Вывод из запоя на дому](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/)** – услуга, доступная для тех, кто нуждается в оперативной помощи, не желая посещать стационар. **В Харькове стоимость процедуры начинается от 1999 грн.**
 
 | Самые Популярные Услуги \| UmbrellaPlus Харьков                                                                         | Цена        |
 | ----------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [Капельница от алкоголя Харьков ](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-kharkiv/)                        | От 1699 грн |
-| [Капельница от алкоголя на дому Харьков](https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_na_domy_kharkiv/)   | От 1699 грн |
+| [Капельница от алкоголя на дому Харьков](https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_na_domy_kharkiv/)   | От 1999 грн |
 | [Вывод из запоя на дому Харьков](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/)                 | От 1999 грн |
 | [&#xD;Кодирование от алкоголизма Харьков ](https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_na_domy_kharkiv/) | От 3999 грн |
 
