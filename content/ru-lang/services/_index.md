@@ -11,7 +11,7 @@ rating: '9782'
 
 ## [Киев](https://umbrella-plus.com.ua/kiev/) [Днепр](https://umbrella-plus.com.ua/dnepr/) [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) [Харьков](https://umbrella-plus.com.ua/kharkiv/) [Запорожье](https://umbrella-plus.com.ua/zaporozie/) [Львов](https://umbrella-plus.com.ua/lviv/)
 
-**Выезд нарколога в UmbrellaPlus осуществляется с 05:00 до 23:00**.
+**Выезд нарколога на дом в UmbrellaPlus осуществляется с 05:00 до 23:00**.
 
 | Самые Популярные Услуги \| UmbrellaPlus                                          | Цена        |
 | -------------------------------------------------------------------------------- | ----------- |
