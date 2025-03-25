@@ -1,8 +1,8 @@
 ---
 layout: services
 tabTitle: Услуги лечения алкоголизма и наркомании | Umbrella Plus
-title: Лучшая Наркология
-description: UmbrellaPlus
+title: Umbrella Plus Безопасная Наркология
+description: Наркология с опытом от пяти лет - гарантия на все услуги
 image: /img/home-page/87313b4741c5d0d21b1d97bff59cb84e_high.jpg
 imageText: Лечение алкоголизма UmbrellaPlus
 ratingAvarage: 4.98/5
@@ -13,7 +13,7 @@ rating: '9782'
 
 **Выезд нарколога в UmbrellaPlus осуществляется с 05:00 до 23:00**.
 
-| **Самые Популярные Услуги \| UmbrellaPlus**                               | **Цена**    |
+| Самые Популярные Услуги \| UmbrellaPlus                                   | Цена        |
 | ------------------------------------------------------------------------- | ----------- |
 | **[Капельница от алкоголя](kapelnica-ot-alkogolia-UmbrellaPlus)**         | От 1699 грн |
 | **[Капельница от алкоголя на дому](kapelnica-ot-alkogolia-UmbrellaPlus)** | От 1699 грн |
