@@ -2,7 +2,7 @@
 layout: services
 tabTitle: Услуги лечения алкоголизма и наркомании | Umbrella Plus
 title: Umbrella Plus Безопасная Наркология
-description: Наркология с опытом от пяти лет - гарантия на все услуги
+description: Все доктора с опытом от пяти лет – гарантия на все услуги!
 image: /img/home-page/87313b4741c5d0d21b1d97bff59cb84e_high.jpg
 imageText: Лечение алкоголизма UmbrellaPlus
 ratingAvarage: 4.98/5
