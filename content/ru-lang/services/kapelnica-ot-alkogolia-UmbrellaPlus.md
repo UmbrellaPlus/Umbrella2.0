@@ -2,8 +2,8 @@
 tabTitle: >-
   Капельница от алкоголя с UmbrellaPlus — Быстрое и безопасное восстановление
   здоровья
-title: Капельница от алкоголя с UmbrellaPlus Быстрое восстановление здоровья
-description: Наркологическая служба Украины
+title: Капельница от алкоголя
+description: Быстрый способ убрать любое похмелье
 image: /img/home-page/4037edf9954d6b4ca1ad07816ff5a279_high.jgp.webp
 imageText: Капельница от алкоголя UmbrellaPlus
 ratingAvarage: 4.98/5
