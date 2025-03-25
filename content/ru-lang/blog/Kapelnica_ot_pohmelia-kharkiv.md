@@ -36,7 +36,7 @@ reviewType: alk-2
 | [Капельница от алкоголя Харьков ](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-kharkiv/)                        | От 1699 грн |
 | [Капельница от алкоголя на дому Харьков](https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_na_domy_kharkiv/)   | От 1699 грн |
 | [Вывод из запоя на дому Харьков](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/)                 | От 1999 грн |
-| [&#xD;Кодирование от алкоголизма Харьков ](https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_na_domy_kharkiv/) | От 1999 грн |
+| [&#xD;Кодирование от алкоголизма Харьков ](https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_na_domy_kharkiv/) | От 3999 грн |
 
 ***
 
