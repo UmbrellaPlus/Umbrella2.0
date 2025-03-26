@@ -40,7 +40,7 @@ reviewType: alk-1
 | -------------------------------------------------------------------------------- | ----------- |
 | **[Капельница от похмелья](kapelnica-ot-alkogolia-UmbrellaPlus)**                | От 1699 грн |
 | **[Капельница от похмелья на дому](Kapelnica_ot_alkogola_na_domy_UmbrellaPlus)** | От 1999 грн |
-| **[Вывод из запоя ](Vivod-iz-zapoia-na-domy-UmbrellaPlus)**                      | От 1699 грн |
+| **[Вывод из запоя ](Vivod-iz-zapoia-UmbrellaPlus)**                              | От 1699 грн |
 | **[Вывод из запоя на дому](Vivod-iz-zapoia-na-domy-UmbrellaPlus)**               | От 1999 грн |
 
 ## Вызов нарколога на дом
