@@ -45,12 +45,12 @@ reviewType: alk-1
 
 **Стоимость капельницы от алкоголя на дому начинается от 1699 грн.** **Выезд нарколога осуществляется с 05:00 до 23:00.**
 
-| Самые Популярные Услуги \| UmbrellaPlus                                                                             | Цена        |
-| ------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [Капельница от алкоголя](https://umbrella-plus.com.ua/services/kapelnica-ot-alkogolia-umbrellaplus/)                | От 1699 грн |
-| [Капельница от алкоголя на дому](https://umbrella-plus.com.ua/services/kapelnica_ot_alkogola_na_domy_umbrellaplus/) | От 1699 грн |
-| [Вывод из запоя на дому](https://umbrella-plus.com.ua/services/vivod-iz-zapoia-na-domy-umbrellaplus/)               | От 1999 грн |
-| [Кодирование от алкоголизма](https://umbrella-plus.com.ua/services/kodirovka-ot-alkogolia-umbrellaplus/)            | От 3999 грн |
+| Самые Популярные Услуги \| UmbrellaPlus                                          | Цена        |
+| -------------------------------------------------------------------------------- | ----------- |
+| **[Капельница от похмелья](kapelnica-ot-alkogolia-UmbrellaPlus)**                | От 1699 грн |
+| **[Капельница от похмелья на дому](Kapelnica_ot_alkogola_na_domy_UmbrellaPlus)** | От 1999 грн |
+| **[Вывод из запоя ](Vivod-iz-zapoia-na-domy-UmbrellaPlus)**                      | От 1699 грн |
+| **[Вывод из запоя на дому](Vivod-iz-zapoia-na-domy-UmbrellaPlus)**               | От 1999 грн |
 
 ***
 
