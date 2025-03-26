@@ -11,9 +11,7 @@ rating: '9782'
 reviewType: ''
 ---
 
-## **[Київ](https://umbrella-plus.com.ua/uk/kiev/) [Дніпро](https://umbrella-plus.com.ua/uk/dnepr/) [Одеса](https://umbrella-plus.com.ua/uk/lechenie-alc/) [Харків](https://umbrella-plus.com.ua/uk/kharkiv/) [Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/) [Львів](https://umbrella-plus.com.ua/uk/lviv/)**
-
-**Безкоштовна консультація відповідального лікаря** **UmbrellaPlus** [097-369-7665](tel:0973697665) – ми завжди поруч, варто лише зателефонувати!
+### **Безкоштовна консультація відповідального лікаря** **UmbrellaPlus** [097-369-7665](tel:0973697665) – ми завжди поруч, варто лише зателефонувати!
 
 | Найпопулярніші послуги \| UmbrellaPlus                                              | Вартість     |
 | ----------------------------------------------------------------------------------- | ------------ |
@@ -21,6 +19,8 @@ reviewType: ''
 | **[Крапельниця від похмілля вдома](Kapelnica_ot_alkogola_na_domy_umbrellaplus-ua)** | Від 1999 грн |
 | **[Виведення із запою](Vivod-iz-zapoia-UmbrellaPlus-ua)**                           | Від 1699 грн |
 | **[Виведення із запою вдома](Vivod-iz-zapoia-na-domy-UmbrellaPlus-ua)**             | Від 1999 грн |
+
+## **[Київ](https://umbrella-plus.com.ua/uk/kiev/) [Дніпро](https://umbrella-plus.com.ua/uk/dnepr/) [Одеса](https://umbrella-plus.com.ua/uk/lechenie-alc/) [Харків](https://umbrella-plus.com.ua/uk/kharkiv/) [Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/) [Львів](https://umbrella-plus.com.ua/uk/lviv/)**
 
 | Послуги                                                                                           | Ціна         |
 | ------------------------------------------------------------------------------------------------- | ------------ |
