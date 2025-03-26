@@ -31,4 +31,5 @@ rating: '9782'
 | [Кодирование от алкоголизма](kodirovka-ot-alkogolia-umbrellaplus)                               | От 3999 грн |   |   |
 | [Кодирование от алкоголизма уколом Дисульфирам](kodirovka-ot-alkogolia-disulfiram-umbrellaplus) | От 3999 грн |   |   |
 | [Кодирование от алкоголизма уколом Эспераль](kodirovka-ot-alkogolizma-espiarl-umbrellaplus)     | От 5999 грн |   |   |
-| Киев Днепр Одесса Харьков Запорожье Львов                                                       |             |   |   |
+
+## [Киев](https://umbrella-plus.com.ua/kiev/) [Днепр](https://umbrella-plus.com.ua/dnepr/) [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) [Харьков](https://umbrella-plus.com.ua/kharkiv/) [Запорожье](https://umbrella-plus.com.ua/zaporozie/) [Львов](https://umbrella-plus.com.ua/lviv/)
