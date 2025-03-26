@@ -15,10 +15,10 @@ rating: '9782'
 
 | Самые Популярные Услуги \| UmbrellaPlus                                          | Цена        |
 | -------------------------------------------------------------------------------- | ----------- |
-| **[Капельница от алкоголя](kapelnica-ot-alkogolia-UmbrellaPlus)**                | От 1699 грн |
-| **[Капельница от алкоголя на дому](Kapelnica_ot_alkogola_na_domy_UmbrellaPlus)** | От 1699 грн |
+| **[Капельница от похмелья](kapelnica-ot-alkogolia-UmbrellaPlus)**                | От 1699 грн |
+| **[Капельница от похмелья на дому](Kapelnica_ot_alkogola_na_domy_UmbrellaPlus)** | От 1999 грн |
+| **[Вывод из запоя ](Vivod-iz-zapoia-na-domy-UmbrellaPlus)**                      | От 1699 грн |
 | **[Вывод из запоя на дому](Vivod-iz-zapoia-na-domy-UmbrellaPlus)**               | От 1999 грн |
-| **[Кодирование от алкоголизма](kodirovka-ot-alkogolia-umbrellaplus)**            | От 3999 грн |
 
 | Полный Список Услуг \| UmbrellaPlus                                                             | Цена        |
 | ----------------------------------------------------------------------------------------------- | ----------- |
