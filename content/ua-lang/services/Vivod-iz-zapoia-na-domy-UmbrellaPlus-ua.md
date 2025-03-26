@@ -1,6 +1,6 @@
 ---
 tabTitle: 'Виведення з запою на дому з UmbrellaPlus: Швидка допомога, гарантована безпека'
-title: Виведення з запою на дому
+title: Виведення із запою вдома
 description: Гарантуємо плавний вихід із будь-якого запою
 image: /img/home-page/c8dd588a74422e326f30c5564734eff9_high.jpg
 imageText: Виведення із запою вдома UmbrellaPlus
