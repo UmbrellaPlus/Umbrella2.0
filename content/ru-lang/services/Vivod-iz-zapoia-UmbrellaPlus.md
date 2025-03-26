@@ -38,24 +38,12 @@ reviewType: alk-2
 
 **UmbrellaPlus Безопасная наркология** — [Киев](https://umbrella-plus.com.ua/kiev/) [Днепр](https://umbrella-plus.com.ua/dnepr/) [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) [Харьков](https://umbrella-plus.com.ua/kharkiv/) [Запорожье](https://umbrella-plus.com.ua/zaporozie/) [Львов](https://umbrella-plus.com.ua/lviv/). **Стоимость вывода из запоя в UmbrellaPlus начинается от 1699грн.**
 
-| Помощь при алкогольной интоксикации \| UmbrellaPlus                                                                 | Цена        |
-| ------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [Вывод из запоя](https://umbrella-plus.com.ua/services/vivod-iz-zapoia-umbrellaplus/)                               | От 1699 грн |
-| [Капельница от алкоголя](https://umbrella-plus.com.ua/services/kapelnica-ot-alkogolia-umbrellaplus/)                | От 1699 грн |
-| [Вывод из запоя на дому](https://umbrella-plus.com.ua/services/vivod-iz-zapoia-na-domy-umbrellaplus/)               | От 1999 грн |
-| [Капельница от алкоголя на дому](https://umbrella-plus.com.ua/services/kapelnica_ot_alkogola_na_domy_umbrellaplus/) | От 1999 грн |
-
-| Лечение зависимости \| UmbrellaPlus                                                                               | Цена        |
-| ----------------------------------------------------------------------------------------------------------------- | ----------- |
-| [Лечение алкоголизма](https://umbrella-plus.com.ua/services/lechenie-alkogolizma/)                                | От 1699 грн |
-| [Лечение пивного алкоголизма](https://umbrella-plus.com.ua/services/lechenie-pivnogo-alkogolizma-umbrellaplus/)   | От 1699 грн |
-| [Лечение женского алкоголизма](https://umbrella-plus.com.ua/services/lechenie-jenskogo-alkogolizma-umbrellaplus/) | От 1699 грн |
-
-| Кодировка \| UmbrellaPlus                                                                                                              | Цена        |
-| -------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [Кодирование от алкоголизма](https://umbrella-plus.com.ua/services/kodirovka-ot-alkogolia-umbrellaplus/)                               | От 4999 грн |
-| [Кодирование от алкоголизма уколом Дисульфирам](https://umbrella-plus.com.ua/services/kodirovka-ot-alkogolia-disulfiram-umbrellaplus/) | От 4999 грн |
-| [Кодирование от алкоголизма уколом Эспераль](https://umbrella-plus.com.ua/services/kodirovka-ot-alkogolizma-espiarl-umbrellaplus/)     | От 6500 грн |
+| Самые Популярные Услуги \| UmbrellaPlus                                          | Цена        |
+| -------------------------------------------------------------------------------- | ----------- |
+| **[Капельница от похмелья](kapelnica-ot-alkogolia-UmbrellaPlus)**                | От 1699 грн |
+| **[Капельница от похмелья на дому](Kapelnica_ot_alkogola_na_domy_UmbrellaPlus)** | От 1999 грн |
+| **[Вывод из запоя ](Vivod-iz-zapoia-na-domy-UmbrellaPlus)**                      | От 1699 грн |
+| **[Вывод из запоя на дому](Vivod-iz-zapoia-na-domy-UmbrellaPlus)**               | От 1999 грн |
 
 ## Вывод из запоя капельница: когда необходима процедура
 
