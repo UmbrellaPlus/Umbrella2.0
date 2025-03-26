@@ -9,7 +9,7 @@ ratingAvarage: 4.98/5
 rating: '9782'
 ---
 
-#### **Бесплатная консультация ответственного доктора UmbrellaPlus** [097-369-7665](tel:0973697665) – мы всегда рядом, стоит только позвонить!
+### **Бесплатная консультация ответственного доктора UmbrellaPlus** [097-369-7665](tel:0973697665) – мы всегда рядом, стоит только позвонить! [Киев](https://umbrella-plus.com.ua/kiev/) [Днепр](https://umbrella-plus.com.ua/dnepr/) [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) [Харьков](https://umbrella-plus.com.ua/kharkiv/) [Запорожье](https://umbrella-plus.com.ua/zaporozie/) [Львов](https://umbrella-plus.com.ua/lviv/)
 
 | Самые Популярные Услуги \| UmbrellaPlus                                          | Цена        |
 | -------------------------------------------------------------------------------- | ----------- |
@@ -17,8 +17,6 @@ rating: '9782'
 | **[Капельница от похмелья на дому](Kapelnica_ot_alkogola_na_domy_UmbrellaPlus)** | От 1999 грн |
 | **[Вывод из запоя ](Vivod-iz-zapoia-UmbrellaPlus)**                              | От 1699 грн |
 | **[Вывод из запоя на дому](Vivod-iz-zapoia-na-domy-UmbrellaPlus)**               | От 1999 грн |
-
-## [Киев](https://umbrella-plus.com.ua/kiev/) [Днепр](https://umbrella-plus.com.ua/dnepr/) [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) [Харьков](https://umbrella-plus.com.ua/kharkiv/) [Запорожье](https://umbrella-plus.com.ua/zaporozie/) [Львов](https://umbrella-plus.com.ua/lviv/)
 
 | Полный Список Услуг \| UmbrellaPlus                                                             | Цена        |
 | ----------------------------------------------------------------------------------------------- | ----------- |
