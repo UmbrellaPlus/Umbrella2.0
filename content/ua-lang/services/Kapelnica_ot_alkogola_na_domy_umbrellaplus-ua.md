@@ -2,8 +2,8 @@
 tabTitle: >-
   Крапельниця від алкоголю вдома з UmbrellaPlus: швидка та безпечна допомога при
   запої
-title: Крапельниця від алкоголю вдома з UmbrellaPlus
-description: Виїзд наркологів з досвідом роботи від 5 років
+title: Крапельниця від алкоголю вдома
+description: Екстрений виклик нарколога
 image: /img/home-page/edada76be4fa9739d5a796f8a5783409_high.jpg
 imageText: Крапельниця від алкоголю вдома UmbrellaPlus
 ratingAvarage: 4.97/5
