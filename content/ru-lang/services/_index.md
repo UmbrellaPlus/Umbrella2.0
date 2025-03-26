@@ -9,9 +9,9 @@ ratingAvarage: 4.98/5
 rating: '9782'
 ---
 
-* **Экстренный вызов нарколога домой -** 050-021-69-57
+* **#FF0000 Экстренный вызов нарколога домой -** 050-021-69-57
 * Бесплатная консультация дежурного доктора - 097-369-76-65
-*  [Киев](https://umbrella-plus.com.ua/kiev/) [Днепр](https://umbrella-plus.com.ua/dnepr/) [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) [Харьков](https://umbrella-plus.com.ua/kharkiv/) [Запорожье](https://umbrella-plus.com.ua/zaporozie/) [Львов](https://umbrella-plus.com.ua/lviv/)
+* [Киев](https://umbrella-plus.com.ua/kiev/) [Днепр](https://umbrella-plus.com.ua/dnepr/) [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) [Харьков](https://umbrella-plus.com.ua/kharkiv/) [Запорожье](https://umbrella-plus.com.ua/zaporozie/) [Львов](https://umbrella-plus.com.ua/lviv/)
 
 | Самые Популярные Услуги \| UmbrellaPlus                                          | Цена        |
 | -------------------------------------------------------------------------------- | ----------- |
