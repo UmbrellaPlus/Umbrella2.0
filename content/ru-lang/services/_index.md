@@ -9,7 +9,7 @@ ratingAvarage: 4.98/5
 rating: '9782'
 ---
 
-### **Бесплатная консультация ответственного доктора UmbrellaPlus** [097-369-7665](tel:0973697665) – мы всегда рядом, стоит только позвонить! [Киев](https://umbrella-plus.com.ua/kiev/) [Днепр](https://umbrella-plus.com.ua/dnepr/) [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) [Харьков](https://umbrella-plus.com.ua/kharkiv/) [Запорожье](https://umbrella-plus.com.ua/zaporozie/) [Львов](https://umbrella-plus.com.ua/lviv/)
+**Бесплатная консультация ответственного доктора UmbrellaPlus** [097-369-7665](tel:0973697665) – мы всегда рядом, стоит только позвонить! [Киев](https://umbrella-plus.com.ua/kiev/) [Днепр](https://umbrella-plus.com.ua/dnepr/) [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) [Харьков](https://umbrella-plus.com.ua/kharkiv/) [Запорожье](https://umbrella-plus.com.ua/zaporozie/) [Львов](https://umbrella-plus.com.ua/lviv/)
 
 | Самые Популярные Услуги \| UmbrellaPlus                                          | Цена        |
 | -------------------------------------------------------------------------------- | ----------- |
