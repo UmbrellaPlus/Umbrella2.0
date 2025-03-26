@@ -8,6 +8,7 @@ image: /img/home-page/edada76be4fa9739d5a796f8a5783409_high.jpg
 imageText: Крапельниця від алкоголю вдома UmbrellaPlus
 ratingAvarage: 4.97/5
 rating: '8412'
+reviewType: alk-1
 ---
 
 ## Крапельниця від алкоголю на дому
