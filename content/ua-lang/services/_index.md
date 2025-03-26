@@ -2,16 +2,25 @@
 tabTitle: >-
   Послуги лікування алкоголізму та наркоманії | Umbrella Plus Безпечна
   Наркологія
-title: Найкращі Наркологи України
-description: UmbrellaPlus — Безпека пацієнта завжди на першому місці.
+title: UmbrellaPlus Наркологія №1
+description: Лікарі з досвідом роботи від п'яти років – гарантія на всі послуги!
 image: /img/home-page/87313b4741c5d0d21b1d97bff59cb84e_high.jpg
 imageText: Лікування алкоголізму UmbrellaPLus Безпечна наркологія
-ratingAvarage: 4.89/5
+ratingAvarage: 4.98/5
 rating: '9782'
 reviewType: ''
 ---
 
 ## **[Київ](https://umbrella-plus.com.ua/uk/kiev/) [Дніпро](https://umbrella-plus.com.ua/uk/dnepr/) [Одеса](https://umbrella-plus.com.ua/uk/lechenie-alc/) [Харків](https://umbrella-plus.com.ua/uk/kharkiv/) [Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/) [Львів](https://umbrella-plus.com.ua/uk/lviv/)**
+
+Безкоштовна консультація відповідального лікаря **UmbrellaPlus** [097-369-7665](tel:0973697665) – ми завжди поруч, варто лише зателефонувати!
+
+| Найпопулярніші послуги \| UmbrellaPlus                                          | Вартість     |
+| ------------------------------------------------------------------------------- | ------------ |
+| [Крапельниця від похмілля](Kapelnica_ot_alkogola_UmbrellaPlus-ua)               | Від1699 грн  |
+| [Крапельниця від похмілля вдома](Kapelnica_ot_alkogola_na_domy_umbrellaplus-ua) | Від 1999 грн |
+| [Виведення із запою](Vivod-iz-zapoia-UmbrellaPlus-ua)                           | Від 1699 грн |
+| [Виведення із запою вдома](Vivod-iz-zapoia-na-domy-UmbrellaPlus-ua)             | Від 1999 грн |
 
 | Послуги                                                                                           | Ціна         |
 | ------------------------------------------------------------------------------------------------- | ------------ |
