@@ -42,18 +42,12 @@ reviewType: alk-2
 
 **Вартість виведення з запою в місті Харків починається від 1699 грн.**
 
-| Послуга                                                                                                                             | Ціна         |
-| ----------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [Лікування алкоголізму Харків](https://umbrella-plus.com.ua/uk/kharkiv/lechenie-alkogolizma-kharkiv-ua/)                            | Від 1499 грн |
-| [Виведення із запою Харків](https://umbrella-plus.com.ua/uk/kharkiv/vivod-iz-zapoia-kharkiv-ua/)                                    | Від 1499 грн |
-| [Виведення із запою вдома Харків](https://umbrella-plus.com.ua/uk/kharkiv/vivod-iz-zapoia-na-domy-kharkiv-ua/)                      | від 1699 грн |
-| [Крапельниця від алкоголю Харків](https://umbrella-plus.com.ua/uk/kharkiv/kapelnica_ot_alkogola_kharkiv-ua/)                        | Від 1499 грн |
-| [Крапельниця від алкоголю вдома Харків](https://umbrella-plus.com.ua/uk/kharkiv/kapelnica_ot_alkogola_na_domy_kharkiv_ua/)          | Від 1699 грн |
-| [Лікування пивного алкоголізму Харків](https://umbrella-plus.com.ua/uk/kharkiv/lechenie-pivnogo-alkogolizma-kharkiv-ua/)            | Від 1499 грн |
-| [Лікування жіночого алкоголізму Харків](https://umbrella-plus.com.ua/uk/kharkiv/lechenie-jenskogo-alkogolizma-kharkiv-ua/)          | Від 1499 грн |
-| [Кодування від алкоголізму Харків](https://umbrella-plus.com.ua/uk/kharkiv/kodirovka-ot-alkogolia-kharkiv-ua/)                      | Від 3999 грн |
-| [Кодування від алкоголізму укол Дисульфірам](https://umbrella-plus.com.ua/uk/kharkiv/kodirovka-ot-alkogolia-disulfiram-kharkiv-ua/) | Від 4000 грн |
-| [Кодування від алкоголізму укол Еспіраль](https://umbrella-plus.com.ua/uk/kharkiv/kodirovka-ot-alkogolizma-espiarl-kharkiv-ua/)     | Від 5500 грн |
+| Найпопулярніші Послуги у Харкові \| UmbrellaPlus                                  | Ціна         |
+| --------------------------------------------------------------------------------- | ------------ |
+| [Виведення із запою Харків](Vivod-iz-zapoia-kharkiv-ua)                           | Від 1699 грн |
+| [Виведення із запою вдома Харків](Vivod-iz-zapoia-na-domy-kharkiv-ua)             | Від 1999 грн |
+| [Крапельниця від похмілля Харків](Kapelnica_ot_alkogola_kharkiv-ua)               | Від 1699 грн |
+| [Крапельниця від похмілля вдома Харків](Kapelnica_ot_alkogola_na_domy_kharkiv_ua) | Від 1999 грн |
 
 ## Нарколог на дім Харків
 
