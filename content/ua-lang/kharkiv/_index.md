@@ -21,15 +21,17 @@ reviewType: alk-1
 | [Крапельниця від похмілля Харків](Kapelnica_ot_alkogola_kharkiv-ua)               | Від 1699 грн |
 | [Крапельниця від похмілля вдома Харків](Kapelnica_ot_alkogola_na_domy_kharkiv_ua) | Від 1999 грн |
 
-| Повний Перелік Послуг \| UmbrellaPlus                                                      | Ціна         |
-| ------------------------------------------------------------------------------------------ | ------------ |
-| [Лікування алкоголізму Харків](lechenie-alkogolizma-kharkiv-ua)                            | Від 1699 грн |
-| [Виведення із запою Харків](Vivod-iz-zapoia-kharkiv-ua)                                    | Від 1699 грн |
-| [Виведення із запою вдома Харків](Vivod-iz-zapoia-na-domy-kharkiv-ua)                      | Від 1999 грн |
-| [Крапельниця від алкоголю Харків](Kapelnica_ot_alkogola_kharkiv-ua)                        | Від 1699 грн |
-| [Крапельниця від алкоголю вдома Харків](Kapelnica_ot_alkogola_na_domy_kharkiv_ua)          | Від 1999 грн |
-| [Лікування пивного алкоголізму Харків](lechenie-pivnogo-alkogolizma-kharkiv-ua)            | Від 1699 грн |
-| [Лікування жіночого алкоголізму Харків](lechenie-jenskogo-alkogolizma-kharkiv-ua)          | Від 1699 грн |
-| [Кодування від алкоголізму Харків](kodirovka-ot-alkogolia-kharkiv-ua)                      | Від 3999 грн |
-| [Кодування від алкоголізму укол Дисульфірам](kodirovka-ot-alkogolia-disulfiram-kharkiv-ua) | Від 3999 грн |
-| [Кодування від алкоголізму укол Еспіраль](kodirovka-ot-alkogolizma-espiarl-kharkiv-ua)     | Від 5999 грн |
+| Повний Перелік Послуг \| UmbrellaPlus                                                      | Ціна          |
+| ------------------------------------------------------------------------------------------ | ------------- |
+| [Лікування алкоголізму Харків](lechenie-alkogolizma-kharkiv-ua)                            | Від 1699 грн  |
+| [Виведення із запою Харків](Vivod-iz-zapoia-kharkiv-ua)                                    | Від 1699 грн  |
+| [Виведення із запою вдома Харків](Vivod-iz-zapoia-na-domy-kharkiv-ua)                      | Від 1999 грн  |
+| [Крапельниця від алкоголю Харків](Kapelnica_ot_alkogola_kharkiv-ua)                        | Від 1699 грн  |
+| [Крапельниця від алкоголю вдома Харків](Kapelnica_ot_alkogola_na_domy_kharkiv_ua)          | Від 1999 грн  |
+| [Лікування пивного алкоголізму Харків](lechenie-pivnogo-alkogolizma-kharkiv-ua)            | Від 1699 грн  |
+| [Лікування жіночого алкоголізму Харків](lechenie-jenskogo-alkogolizma-kharkiv-ua)          | Від 1699 грн  |
+| [Кодування від алкоголізму Харків](kodirovka-ot-alkogolia-kharkiv-ua)                      | Від 3999 грн  |
+| [Кодування від алкоголізму укол Дисульфірам](kodirovka-ot-alkogolia-disulfiram-kharkiv-ua) | Від 3999 грн  |
+| [Кодування від алкоголізму укол Еспіраль](kodirovka-ot-alkogolizma-espiarl-kharkiv-ua)     | Від 5999 грн  |
+| Підшивка від алкоголю Харків                                                               | Від 9999 грн  |
+| Кодування за методом Довженка Харків                                                       | Від 13999 грн |
