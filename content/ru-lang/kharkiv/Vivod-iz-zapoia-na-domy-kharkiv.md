@@ -2,7 +2,7 @@
 tabTitle: Вывод из запоя на дому Харьков | Umbrella Plus | От 1699 грн
 title: ' Вывод из запоя на дому в Харькове'
 description: UmbrellaPlus — при запое каждая секунда на вес золота
-image: /img/харьков/b1e1e5a12bf99612e3b0d0d60c07882a_high1.jpg
+image: /img/Харьков Новое/889e0b16bc784b8430dfc42b7ead4e22323f_high.jpg
 imageText: Вывод из запоя на дому Харьков
 ratingAvarage: 4.97/5
 rating: '5928'
