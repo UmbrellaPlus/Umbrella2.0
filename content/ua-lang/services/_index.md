@@ -18,14 +18,12 @@ reviewType: ''
 
 | Найпопулярніші послуги \| UmbrellaPlus                                              | Вартість     |
 | ----------------------------------------------------------------------------------- | ------------ |
-| **[Крапельниця від похмілля](Kapelnica_ot_alkogola_UmbrellaPlus-ua)**               | Від1699 грн  |
+| **[Крапельниця від похмілля](Kapelnica_ot_alkogola_UmbrellaPlus-ua)**               | Від 1699 грн |
 | **[Крапельниця від похмілля вдома](Kapelnica_ot_alkogola_na_domy_umbrellaplus-ua)** | Від 1999 грн |
 | **[Виведення із запою](Vivod-iz-zapoia-UmbrellaPlus-ua)**                           | Від 1699 грн |
 | **[Виведення із запою вдома](Vivod-iz-zapoia-na-domy-UmbrellaPlus-ua)**             | Від 1999 грн |
 
-## **[Київ](https://umbrella-plus.com.ua/uk/kiev/) [Дніпро](https://umbrella-plus.com.ua/uk/dnepr/) [Одеса](https://umbrella-plus.com.ua/uk/lechenie-alc/) [Харків](https://umbrella-plus.com.ua/uk/kharkiv/) [Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/) [Львів](https://umbrella-plus.com.ua/uk/lviv/)**
-
-| Послуги                                                                                           | Ціна         |
+| Послуги \| UmbrellaPlus                                                                           | Ціна         |
 | ------------------------------------------------------------------------------------------------- | ------------ |
 | [Лікування алкоголізму](lechenie-alkogolizma-ua)                                                  | Від 1699 грн |
 | [Виведення із запою](Vivod-iz-zapoia-UmbrellaPlus-ua)                                             | Від 1699 грн |
@@ -37,3 +35,5 @@ reviewType: ''
 | [Кодування від алкоголізму](kodirovka-ot-alkogolia-umbrellaplus-ua)                               | Від 4999 грн |
 | [Кодування від алкоголізму уколом Дисульфірам](kodirovka-ot-alkogolia-disulfiram-umbrellaplus-ua) | Від 4999 грн |
 | [Кодування від алкоголізму уколом Еспераль](kodirovka-ot-alkogolizma-espiarl-umbrellaplus-ua)     | Від 6500 грн |
+
+## **[Київ](https://umbrella-plus.com.ua/uk/kiev/) [Дніпро](https://umbrella-plus.com.ua/uk/dnepr/) [Одеса](https://umbrella-plus.com.ua/uk/lechenie-alc/) [Харків](https://umbrella-plus.com.ua/uk/kharkiv/) [Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/) [Львів](https://umbrella-plus.com.ua/uk/lviv/)**
