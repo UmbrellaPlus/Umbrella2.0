@@ -5,7 +5,7 @@ description: Экстренный вызов нарколога UmbrellaPlus
 image: /img/Харьков Новое/c319aecfd3f863143299966a3d501f4c242424242_high.jpg
 imageText: Вывод из запоя на дому Харьков
 ratingAvarage: 4.97/5
-rating: '2879'
+rating: '5879'
 reviewType: alk-2
 ---
 
@@ -36,18 +36,12 @@ reviewType: alk-2
 
 **Стоимость капельницы от алкоголя на дому в Харькове начинается от 1699 грн.** **Выезд нарколога осуществляется с 05:00 до 23:00.**
 
-| Услуга                                                                                                                         | Цена        |
-| ------------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| [Лечение алкоголизма Харьков](https://umbrella-plus.com.ua/kharkiv/lechenie-alkogolizma-kharkiv/)                              | От 1499 грн |
-| [Вывод из запоя Харьков](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-kharkiv/)                                        | От 1499 грн |
-| [Вывод из запоя на дому Харьков](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/)                        | От 1699 грн |
-| [Капельница от алкоголя Харьков](https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_kharkiv/)                          | От 1499 грн |
-| [Капельница от алкоголя на дому Харьков](https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_na_domy_kharkiv/)          | От 1699 грн |
-| [Лечение пивного алкоголизма Харьков](https://umbrella-plus.com.ua/kharkiv/lechenie-pivnogo-alkogolizma-kharkiv/)              | От 1499 грн |
-| [Лечение женского алкоголизм Харьков](https://umbrella-plus.com.ua/kharkiv/lechenie-jenskogo-alkogolizma-kharkiv/)             | От 1499 грн |
-| [Кодирование от алкоголизма Харьков](https://umbrella-plus.com.ua/kharkiv/kodirovka-ot-alkogolia-kharkiv/)                     | От 4000 грн |
-| [Кодирование от алкоголизма укол Дисульфирам](https://umbrella-plus.com.ua/kharkiv/kodirovka-ot-alkogolia-disulfiram-kharkiv/) | От 4000 грн |
-| [Кодирование от алкоголизма укол Эспираль](https://umbrella-plus.com.ua/kharkiv/kodirovka-ot-alkogolizma-espiarl-kharkiv/)     | От 5500 грн |
+| Самые Популярные Услуги в Харькове \| UmbrellaPlus                              | Цена        |
+| ------------------------------------------------------------------------------- | ----------- |
+| [Вывод из запоя Харьков](vivod-iz-zapoia-kharkiv)                               | От 1699 грн |
+| [Капельница от похмелья Харьков](Kapelnica_ot_alkogola_kharkiv)                 | От 1699 грн |
+| [Вывод из запоя на дому Харьков](Vivod-iz-zapoia-na-domy-kharkiv)               | От 1999 грн |
+| [Капельница от похмелья на дому Харьков](Kapelnica_ot_alkogola_na_domy_kharkiv) | От 1999 грн |
 
 ## Как работает капельница от алкоголя?
 
