@@ -2,7 +2,7 @@
 tabTitle: Лікування алкоголізму у Харкові | Umbrella Plus | Від 1699 грн
 title: Лікування алкоголізму в Харкові
 description: UmbrellaPlus – крок до свободи від залежності
-image: /img/vivod-iz-zapoia-zaporoje.jpg
+image: /img/Харьков Новое/5f9e77b2c696490fdb9fbe4f96b9b59b2323_high.jpg
 imageText: Лікування алкоголізму в Харкові
 ratingAvarage: 4.97/5
 rating: '6211'
