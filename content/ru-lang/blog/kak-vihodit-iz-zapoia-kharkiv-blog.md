@@ -5,7 +5,7 @@ description: 'UmbrellaPlus Наркология Харькова №1 '
 image: /img/blog/a5d0c744d1d4306aa83884c56851a50c_high.jpg
 imageText: Как безопасно выйти из запоя?
 ratingAvarage: 4.97/5
-rating: '781'
+rating: '1781'
 reviewType: alk-2
 ---
 
