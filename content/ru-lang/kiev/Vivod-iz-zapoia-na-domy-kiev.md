@@ -1,5 +1,5 @@
 ---
-tabTitle: Вывод из запоя на дому Киев | Umbrella Plus | От 1699 грн
+tabTitle: Вывод из запоя на дому Киев | Umbrella Plus | От 1999 грн
 title: Вывод из запоя на дому Киев
 description: Капельница от алкоголя экстренная помощь вашему организму
 image: /img/Kiev New/0e03ddc36f48b8e5b3bfcbffe0f1d797_high.jpg
