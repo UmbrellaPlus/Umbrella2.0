@@ -5,7 +5,7 @@ description: Прокопатися вдома – швидкий метод у 
 image: /img/Kiev New/9b2aa3aa-70ce-47cb-825e-0b8190711beb.jpg
 imageText: ' Крапельниця від алкоголю Київ'
 ratingAvarage: 4.97/5
-rating: '2664'
+rating: '6664'
 reviewType: alk-2
 ---
 
