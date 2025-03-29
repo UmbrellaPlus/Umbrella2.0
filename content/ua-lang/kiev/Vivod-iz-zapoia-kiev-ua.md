@@ -32,12 +32,12 @@ reviewType: alk-2
 
 **Вартість процедури виведення із запою в Києві починається від 1699 грн.**
 
-| Найпопулярніші Послуги \| UmbrellaPlus                                                                         | Цена        |
-| -------------------------------------------------------------------------------------------------------------- | ----------- |
-| [Крапельниця від похмілля Київ](https://umbrella-plus.com.ua/uk/kiev/kapelnica_ot_alkogola_kiev/)              | От 1699 грн |
-| [Крапельниця від похмілля вдома Київ](https://umbrella-plus.com.ua/uk/kiev/Kapelnica_ot_alkogola_na_domy_kiev) | От 1999 грн |
-| [Виведення із запою Київ](https://umbrella-plus.com.ua/uk/kiev/Vivod-iz-zapoia-kiev)                           | От 1699 грн |
-| [Виведення із запою вдома Київ](https://umbrella-plus.com.ua/uk/kiev/vivod-iz-zapoia-na-domy-kiev-ua/)         | От 1999 грн |
+| Найпопулярніші Послуги \| UmbrellaPlus                                                   | Цена        |
+| ---------------------------------------------------------------------------------------- | ----------- |
+| [Крапельниця від похмілля Київ](Kapelnica_ot_alkogola_kiev)                              | От 1699 грн |
+| **[Крапельниця від похмілля вдома Київ](Kapelnica_ot_alkogola_na_dom_kiev)**             | От 1999 грн |
+| [Виведення із запою Київ](https://umbrella-plus.com.ua/uk/kiev/vivod-iz-zapoia-kiev-ua/) | От 1699 грн |
+| [Виведення із запою вдома Київ](Vivod-iz-zapoia-na-domy-kiev-ua)                         | От 1999 грн |
 
 ## Як вийти із запою?
 
