@@ -1,6 +1,12 @@
 ---
 tabTitle: Вывод из запоя Одесса | Umbrella Plus | От 1699 грн
+title: Вывод из запоя Одесса
+description: UmbrellaPlus – свобода от алкоголя начинается здесь
 image: /img/Odessa new/4e83c438f36cbfd9b0c721cbd8fab2ea_high.jpg
+imageText: Вывод из запоя Одесса
+ratingAvarage: 4.99/5
+rating: '4923'
+reviewType: alk-2
 ---
 
 ## Вывод из запоя в Одессе
