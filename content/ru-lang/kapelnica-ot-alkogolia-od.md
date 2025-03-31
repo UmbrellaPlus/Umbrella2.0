@@ -2,6 +2,7 @@
 tabTitle: Капельница от алкоголя Одесса | Umbrella Plus | От 1699 грн
 title: Капельница от алкоголя в Одессе
 description: Самый быстрый метод снять похмелье
+image: /img/Odessa new/0ee88472da39787c79dc380de79b33323_high.jpg
 imageText: Капельница от алкоголя Одесса
 ratingAvarage: 4.98/5
 rating: '3612'
