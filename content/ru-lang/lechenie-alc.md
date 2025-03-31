@@ -1,5 +1,5 @@
 ---
-tabTitle: Лечение алкоголизма в Одессе | Umbrella Plus | От 1499 грн
+tabTitle: Лечение алкоголизма в Одессе | Umbrella Plus | От 1699 грн
 title: Лечение алкоголизма в Одессе
 description: UmbrellaPlus полное восстановление и новая жизнь без зависимости
 image: /img/goroda/lechenie-alkogolizma/kiev-lechenie-alc.webp
