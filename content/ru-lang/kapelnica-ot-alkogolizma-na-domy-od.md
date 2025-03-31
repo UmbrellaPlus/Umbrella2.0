@@ -38,12 +38,12 @@ reviewType: alk-1
 
 **Стоимость капельницы от похмелья на дому в Одессе начинается от 1999грн.**
 
-| Помощь при алкогольной интоксикации Одесса \| UmbrellaPlus                                                  | Цена        |
-| ----------------------------------------------------------------------------------------------------------- | ----------- |
-| [Вывод из запоя Одесса](https://umbrella-plus.com.ua/services/vivod-iz-zapoia-umbrellaplus/)                | От 1699 грн |
-| [Капельница от алкоголя Одесса](https://umbrella-plus.com.ua/services/kapelnica-ot-alkogolia-umbrellaplus/) | От 1699 грн |
-| [Вывод из запоя на дому Одесса](https://umbrella-plus.com.ua/vivod-iz-zapoya-na-domu-odessa/)               | От 1999 грн |
-| [Капельница от алкоголя на дому Одесса](https://umbrella-plus.com.ua/kapelnitsya-ot-alc-na-domu-odessa/)    | От 1999 грн |
+| Самые Популярные Услуги \| UmbrellaPlus                                                                    | Цена        |
+| ---------------------------------------------------------------------------------------------------------- | ----------- |
+| [Капельница от похмелья Одесса](https://umbrella-plus.com.ua/kapelnica-ot-alkogolia-od/)                   | От 1699 грн |
+| [Капельница от похмелья на дому Одесса](https://umbrella-plus.com.ua/kapelnica-ot-alkogolizma-na-domy-od/) | От 1999 грн |
+| [Вывод из запоя Одесса](https://umbrella-plus.com.ua/vivod-iz-zapoia-od/)                                  | От 1699 грн |
+| [Вывод из запоя на дому Одесса](https://umbrella-plus.com.ua/vivod-iz-zapoia-na-domy-od/)                  | От 1999 грн |
 
 ## Прокапаться от алкоголя на дому
 
