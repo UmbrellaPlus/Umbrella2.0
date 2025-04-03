@@ -3,7 +3,7 @@ tabTitle: Лечение алкоголизма в Одессе | Umbrella Plus 
 title: Лечение алкоголизма в Одессе
 description: UmbrellaPlus полное восстановление и новая жизнь без зависимости
 image: /img/Odessa new/bce8014531d61cae6e4e8d7b588b1e86_high.jpg
-imageText: Врач беседует с пациентом
+imageText: Лечение алкоголизма в Одессе
 ratingAvarage: 4.98/5
 rating: '5622'
 reviewType: alk-2
