@@ -143,7 +143,7 @@ export default defineConfig({
         fields: [...cityTemplate],
         match: {
           include:
-            "{vivod-iz-zapoya-od-ua,vivod-iz-zapoia-na-domy-od-ua,lechenie-alc,kapelnica-ot-alkogolia-od-ua}",
+            "{vivod-iz-zapoia-od-ua,vivod-iz-zapoia-na-domy-od-ua,lechenie-alc,kapelnica-ot-alkogolia-od-ua}",
         },
         format: "md",
       },

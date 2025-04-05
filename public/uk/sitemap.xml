@@ -6,7 +6,7 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/vivod-iz-zapoia-na-domy-od-ua/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/vivod-iz-zapoya-od-ua/</loc>
+    <loc>https://umbrella-plus.com.ua/uk/vivod-iz-zapoia-od-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kiev/kapelnica_ot_alkogola_na_dom_kiev/</loc>
   </url><url>
@@ -46,13 +46,27 @@
                 href="https://umbrella-plus.com.ua/uk/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-na-domy-umbrellaplus-ua/</loc>
+    <loc>https://umbrella-plus.com.ua/uk/services/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/services/"
+                />
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/blog/new-ua-vivod-iz-zapoia-kiev/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-umbrellaplus-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/dnepr/vivod-iz-zapoia-dnepr-ua/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/blog/-vivedenie-iz-zapoia-kharkiv-blog-ua/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-na-domy-umbrellaplus-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kiev/vivod-iz-zapoia-na-domy-kiev-ua/</loc>
   </url><url>
@@ -96,9 +110,13 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kharkiv/kodirovka-ot-alkogolizma-espiarl-kharkiv-ua/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/dnepr/kapelnica_ot_alkogola_na_domy_dnepr/</loc>
+    <loc>https://umbrella-plus.com.ua/uk/blog/kapelnica-ot-pohmelia-kharkiv-blog-ua/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/services/kapelnica_ot_alkogola_umbrellaplus-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/services/kapelnica_ot_alkogola_na_domy_umbrellaplus-ua/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/dnepr/kapelnica_ot_alkogola_na_domy_dnepr/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kharkiv/kapelnica_ot_alkogola_na_domy_kharkiv_ua/</loc>
   </url><url>
@@ -114,8 +132,6 @@
                 href="https://umbrella-plus.com.ua/uk/dnepr/kapelnica_ot_alkogola_dnepr/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/services/kapelnica_ot_alkogola_umbrellaplus-ua/</loc>
-  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kiev/kapelnica_ot_alkogola_kiev/</loc>
     <xhtml:link
                 rel="alternate"
@@ -129,6 +145,8 @@
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kharkiv/kapelnica_ot_alkogola_kharkiv-ua/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/blog/krapelnica_vid_pohmelia-kharkiv-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/blog/kapelnica-ot-alkogolia-kharkiv-blog-ua/</loc>
   </url><url>
@@ -276,18 +294,6 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/blog/metod-ot-pohmelia-ua/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/services/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/services/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/services/"
-                />
-  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/about-us/</loc>
     <xhtml:link
                 rel="alternate"
@@ -303,6 +309,8 @@
     <loc>https://umbrella-plus.com.ua/uk/blog/prokapatsa-na-domy-kharkiv-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/blog/sostav_kapelnici_ot_alkogolia-ua/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/blog/kak-vihodit-iz-zapoia-blog-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/blog/kak-vihodit-iz-zapoia-dnepr-new-ua/</loc>
   </url><url>
