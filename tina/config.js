@@ -143,7 +143,7 @@ export default defineConfig({
         fields: [...cityTemplate],
         match: {
           include:
-            "{vivod-iz-zapoya,vivod-iz-zapoya-na-domu-odessa,podshivka-ot-alkogolya-odessa,poshivka-ot-alc,pivnoy-alkogolism,lechenie-alkogolizma-odessa,lechenie-alc,kodirovka-ukolom-espiral,kodirovka-ukolom-disulfiram,kodirovanie-ukolom,kodirovanie-ot-alc,kodirovanie-dovgenko,kapelnitsya-ot-alc,kapelnitsya-ot-alc-na-domu-odessa,genskiy-alc}",
+            "{vivod-iz-zapoya-od-ua,vivod-iz-zapoia-na-domy-od-ua,podshivka-ot-alkogolya-odessa,poshivka-ot-alc,pivnoy-alkogolism,lechenie-alkogolizma-odessa,lechenie-alc,kodirovka-ukolom-espiral,kodirovka-ukolom-disulfiram,kodirovanie-ukolom,kodirovanie-ot-alc,kodirovanie-dovgenko,kapelnica-ot-alkogolia-od-ua,kapelnitsya-ot-alc-na-domu-odessa,genskiy-alc}",
         },
         format: "md",
       },
