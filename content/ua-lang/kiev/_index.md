@@ -1,5 +1,5 @@
 ---
-tabTitle: Лікування алкоголізму у Києві | Umbrella Plus | Від 1699 грн
+tabTitle: Лікування алкоголізму у Києві | Umbrella Plus | Від 3000 грн
 title: Лікування алкоголізму в Києві
 description: Цілодобова екстрена допомога у Києві
 image: /img/Kiev New/ebf6bbf6812e669e29e09ba76038c020_high.jpg
