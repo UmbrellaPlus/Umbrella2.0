@@ -2,7 +2,7 @@
 tabTitle: >-
   Крапельниця від алкоголю з UmbrellaPlus — Швидке та безпечне відновлення
   здоров'я
-title: Крапельниця від алкоголю
+title: Крапельниця від алкоголю стаціонар
 description: Швидкий спосіб прибрати будь-яке похмілля
 image: /img/home-page/4037edf9954d6b4ca1ad07816ff5a279_high.jgp.webp
 imageText: Крапельниця від алкоголю UmbrellaPlus
