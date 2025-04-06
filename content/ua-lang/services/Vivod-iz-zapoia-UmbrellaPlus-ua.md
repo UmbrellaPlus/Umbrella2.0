@@ -1,6 +1,6 @@
 ---
 tabTitle: Виведення із запою | UmbrellaPlus | Безпечна наркологія
-title: Виведення із запою
+title: Виведення із запою стаціонар
 description: 'Виведення із запою за годину - не відкладайте рішення, викличте допомогу'
 image: /img/home-page/fd5a40f48143d869fef90c0afc51e1db_high.jpg
 imageText: Виведення із запою UmbrellaPlus Безпечна наркологія
