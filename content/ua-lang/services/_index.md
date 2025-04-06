@@ -18,9 +18,9 @@ reviewType: ''
 
 | Найпопулярніші послуги \| UmbrellaPlus                                              | Вартість     |
 | ----------------------------------------------------------------------------------- | ------------ |
-| **[Крапельниця від похмілля](Kapelnica_ot_alkogola_UmbrellaPlus-ua)**               | Від 1699 грн |
+| **[Крапельниця від похмілля стационар](Kapelnica_ot_alkogola_UmbrellaPlus-ua)**     | Від 1699 грн |
 | **[Крапельниця від похмілля вдома](Kapelnica_ot_alkogola_na_domy_umbrellaplus-ua)** | Від 1999 грн |
-| **[Виведення із запою](Vivod-iz-zapoia-UmbrellaPlus-ua)**                           | Від 1699 грн |
+| **[Виведення із запоя стационар](Vivod-iz-zapoia-UmbrellaPlus-ua)**                 | Від 1699 грн |
 | **[Виведення із запою вдома](Vivod-iz-zapoia-na-domy-UmbrellaPlus-ua)**             | Від 1999 грн |
 
 | Послуги \| UmbrellaPlus                                                                           | Ціна         |
