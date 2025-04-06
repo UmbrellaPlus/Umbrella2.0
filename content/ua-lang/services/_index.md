@@ -4,7 +4,7 @@ tabTitle: >-
   Наркологія
 title: UmbrellaPlus Наркологія №1
 description: Лікарі з досвідом роботи від п'яти років – гарантія на всі послуги!
-image: /img/0e03ddc36f48b8e5b3bfcbffe0f1d797_high.jpg
+image: /img/home-page/bdbcf8713f555999e0b6dd392e9e294f11111131_high.jpg
 imageText: Лікування алкоголізму UmbrellaPLus Безпечна наркологія
 ratingAvarage: 4.98/5
 rating: '9782'
