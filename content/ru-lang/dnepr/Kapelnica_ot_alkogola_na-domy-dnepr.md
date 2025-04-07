@@ -3,7 +3,7 @@ tabTitle: Капельница от алкоголя на дому Днепр | 
 title: Капельница от алкоголя на дому Днепр
 description: Избавляем от похмелья легко и эффективно
 image: /img/Днепр new/271b8ff6b3c5604ba7cf01e3bd8f26ef_high1111111.jpg
-imageText: Капельница от алкоголя Днепр
+imageText: Капельница от алкоголя на дому Днепр
 ratingAvarage: 4.98/5
 rating: '2876'
 reviewType: alk-1
