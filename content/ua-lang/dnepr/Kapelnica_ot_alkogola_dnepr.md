@@ -75,4 +75,3 @@ reviewType: alk-2
 **Зв’яжіться з нами за телефоном [050-021-69-57](tel:0500216957). Ми працюємо 24/7.**
 Фахівці **UmbrellaPlus** **готові приїхати в будь-який район Дніпра** швидко та анонімно.
 **UmbrellaPlus** — надійна допомога при алкогольній інтоксикації. Ваш шлях до тверезості починається тут.
-Ми працюємо в таких містах, як [Київ](https://umbrella-plus.com.ua/uk/kiev/) [Дніпро](https://umbrella-plus.com.ua/uk/dnepr/) [Одеса](https://umbrella-plus.com.ua/uk/lechenie-alc/) [Харків](https://umbrella-plus.com.ua/uk/kharkiv/) [Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/) [Львів](https://umbrella-plus.com.ua/uk/lviv/).
