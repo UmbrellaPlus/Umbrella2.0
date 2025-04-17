@@ -1,7 +1,12 @@
 ---
 tabTitle: Выйти из запоя в домашних условиях | Umbrella Plus | Советы Доктора
 title: Как выйти из запоя в домашних условиях?
+description: 'Выйти из запоя дома — легко, когда с вами UmbrellaPlus.'
 image: /img/blog/4613136f96e2134a6f761da407a6ec1d_high.webp
+imageText: Как выйти из запоя в домашних условиях?
+ratingAvarage: 4.98/5
+rating: '1322'
+reviewType: alk-2
 ---
 
 ## Выйти с запоя в домашних условиях
