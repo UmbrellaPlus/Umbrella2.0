@@ -2,7 +2,7 @@
 tabTitle: Кодирование от алкоголизма Харьков | Umbrella Plus | От 3999 грн
 title: Кодирование от алкоголизма в Харькове
 description: Кодирование – надежный выбор на пути к выздоровлению.
-image: /img/fb8e4f5a2680a6eac1a4abac7e8745b7_high.jpg
+image: /img/Харьков Новое/8859692f0c28d15dc315e577636afcb0131313131_high.jpg
 imageText: Кодирование от алкоголизма Харьков
 ratingAvarage: 4.97/5
 rating: '2013'
