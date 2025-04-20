@@ -1,3 +1,13 @@
+---
+tabTitle: Как вывести из запоя в домашних условиях срочно | Umbrella Plus |
+title: Как вывести из запоя в домашних условиях
+description: UmbrellaPlus - качественная медицинская помощь в Харькове
+image: /img/blog/f895c68c39a075ce6f5e30223f1e956aFFFFF_high.jpg
+imageText: Как вывести из запоя в домашних условиях
+ratingAvarage: 4.99/5
+rating: '781'
+reviewType: alk-1
+---
 
 ## Как вывести из запоя в домашних условиях срочно: алгоритм действий  
 
