@@ -1,5 +1,5 @@
 ---
-tabTitle: Як вивести із запою в домашніх умовах терміново Umbrella Plus |
+tabTitle: Як вивести із запою в домашніх умовах терміново | Umbrella Plus
 title: Як вивести із запою в домашніх умовах
 description: UmbrellaPlus - якісна медична допомога у Харкові
 image: /img/blog/f895c68c39a075ce6f5e30223f1e956aFFFFF_high.jpg
