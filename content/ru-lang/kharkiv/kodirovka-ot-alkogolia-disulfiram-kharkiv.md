@@ -6,7 +6,7 @@ description: >-
   восстановлению.
 image: /img/Харьков/04-02-2020-12-04-50.jpg
 imageText: Кодирование от алкоголизма укол Дисульфирам
-ratingAvarage: 4.95/5
+ratingAvarage: 4.98/5
 rating: '2496'
 reviewType: kod-2
 ---
