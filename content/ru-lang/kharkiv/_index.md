@@ -4,7 +4,7 @@ title: Лечение алкоголизма в Харькове
 description: Наркологи с опытом работы от пяти лет – гарантия на все услуги!
 image: /img/Харьков Новое/5f9e77b2c696490fdb9fbe4f96b9b59b2323_high.jpg
 imageText: Лечение алкоголизма в Харькове
-ratingAvarage: 4.97/5
+ratingAvarage: 4.98/5
 rating: '6211'
 reviewType: alk-1
 ---
