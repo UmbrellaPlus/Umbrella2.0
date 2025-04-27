@@ -4,6 +4,7 @@ tabTitle: >-
   грн
 title: Снятие алкогольной интоксикации на дому в Харькове
 description: Umbrella-Plus Безопасная Наркология
+image: /img/Днепр/b8cf0def9c79a6ecdda6817b3ac0ad16_high123.jpg
 imageText: Снятие алкогольной интоксикации на дому в Харькове
 ratingAvarage: 4.89/5
 rating: '1521'
