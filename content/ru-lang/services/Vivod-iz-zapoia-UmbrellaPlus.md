@@ -1,7 +1,7 @@
 ---
 tabTitle: Вывод из запоя | UmbrellaPlus | Безопасная наркология
 title: Вывод из запоя UmbrellaPlus
-description: 'Вывод из запоя за час — не откладывайте решение, вызовите помощь'
+description: 'Вывод из запоя за час — не откладывайте решение, вызовите анонимно нарколога!'
 image: /img/home-page/fd5a40f48143d869fef90c0afc51e1db_high.jpg
 imageText: Вывод из запоя UmbrellaPlus Безопасная наркология
 ratingAvarage: 4.97/5
