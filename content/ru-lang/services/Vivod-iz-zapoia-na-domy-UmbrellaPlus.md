@@ -2,8 +2,8 @@
 tabTitle: >-
   Вывод из запоя на дому с UmbrellaPlus: Быстрая помощь, гарантированная
   безопасность
-title: Вывод из запоя на дому
-description: Гарантируем плавный выход из любого запоя
+title: Анонимный вывод из запоя на дому
+description: Гарантируем анонимный вывод из любого запоя!
 image: /img/home-page/c8dd588a74422e326f30c5564734eff9_high.jpg
 imageText: Вывод из запоя на дому UmbrellaPlus
 ratingAvarage: 4.98/5
