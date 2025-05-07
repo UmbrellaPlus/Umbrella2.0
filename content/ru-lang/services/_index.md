@@ -1,8 +1,8 @@
 ---
 layout: services
 tabTitle: Услуги лечения алкоголизма и наркомании | Umbrella Plus
-title: Наркологический Центр UmbrellaPlus
-description: До 31.05.2025 Скидка на все капельницы 600-950грн
+title: Наркологический Центр
+description: ' UmbrellaPlus Безопасная Наркология'
 image: /img/home-page/bdbcf8713f555999e0b6dd392e9e294f_high.jpg
 imageText: Лечение алкоголизма UmbrellaPlus
 ratingAvarage: 4.98/5
