@@ -2,7 +2,9 @@
 layout: services
 tabTitle: Услуги лечения алкоголизма и наркомании | Umbrella Plus
 title: Наркологический Центр UmbrellaPlus
-description: Безопасная Наркология Скидки до 31.05.2025
+description: |-
+  Безопасная Наркология 
+  Скидки на капельницы до 31.05.2025
 image: /img/home-page/bdbcf8713f555999e0b6dd392e9e294f_high.jpg
 imageText: Лечение алкоголизма UmbrellaPlus
 ratingAvarage: 4.98/5
