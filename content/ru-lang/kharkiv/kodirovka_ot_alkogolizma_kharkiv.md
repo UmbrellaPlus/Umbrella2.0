@@ -1,11 +1,11 @@
 ---
-tabTitle: Кодирование от алкоголизма Харьков | Umbrella Plus | От 999 грн
+tabTitle: Кодирование от алкоголизма Харьков | Umbrella Plus | От 6999 грн
 title: Кодирование от алкоголизма Харьков
 description: Кодировка верный путь к выздоровлению.
 image: /img/Pivnoi_alkogolizm.jpg
 imageText: Кодирование от алкоголизма Харьков
-ratingAvarage: 5/5
-rating: '972'
+ratingAvarage: 4.98/5
+rating: '3972'
 reviewType: kod-2
 ---
 
