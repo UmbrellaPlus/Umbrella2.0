@@ -2,9 +2,7 @@
 layout: services
 tabTitle: Услуги лечения алкоголизма и наркомании | Umbrella Plus
 title: Наркологический Центр UmbrellaPlus
-description: |-
-  Безопасная Наркология 
-  Скидки на капельницы до 31.05.2025
+description: Скидки на капельницы до 31.05.2025
 image: /img/home-page/bdbcf8713f555999e0b6dd392e9e294f_high.jpg
 imageText: Лечение алкоголизма UmbrellaPlus
 ratingAvarage: 4.98/5
@@ -16,7 +14,7 @@ rating: '9782'
 | **До 31.05.2025 Скидка на капельницы от 600 до 1050 грн ([Киев](https://umbrella-plus.com.ua/kiev/) / [Харьков](https://umbrella-plus.com.ua/kharkiv/) / [Одесса](https://umbrella-plus.com.ua/lechenie-alc/)**) |
 | **Экстренный вызов нарколога – [050-021-69-57 ](tel:0500216957) I [097-369-76-65](tel:097-369-7665)**                                                                                                            |
 
-| Самые **Популярные Услуги в Апреле** 2025 \| UmbrellaPlus                        | Цена        |
+| Популярные Услуги в Апреле 2025 \| UmbrellaPlus                                  | Цена        |
 | -------------------------------------------------------------------------------- | ----------- |
 | **[Капельница от похмелья](kapelnica-ot-alkogolia-UmbrellaPlus)**                | От 1699 грн |
 | **[Капельница от похмелья на дому](Kapelnica_ot_alkogola_na_domy_UmbrellaPlus)** | От 1999 грн |
