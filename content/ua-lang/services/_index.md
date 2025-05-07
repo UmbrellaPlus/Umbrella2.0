@@ -36,4 +36,4 @@ reviewType: ''
 | [Кодування від алкоголізму уколом Дисульфірам](kodirovka-ot-alkogolia-disulfiram-umbrellaplus-ua) | Від 4999 грн |
 | [Кодування від алкоголізму уколом Еспераль](kodirovka-ot-alkogolizma-espiarl-umbrellaplus-ua)     | Від 6500 грн |
 
-## **[Київ](https://umbrella-plus.com.ua/uk/kiev/) [Дніпро](https://umbrella-plus.com.ua/uk/dnepr/) [Одеса](https://umbrella-plus.com.ua/uk/lechenie-alc/) [Харків](https://umbrella-plus.com.ua/uk/kharkiv/) [Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/) [Львів](https://umbrella-plus.com.ua/uk/lviv/)**
+##
