@@ -1,3 +1,13 @@
+---
+tabTitle: Капельница от алкоголизма | Umbrella Plus | От 1999 грн
+title: Капельница от алкоголизма Харьков
+description: UmbrellaPlus - Безопасная Наркология
+image: /img/blog/ef114db9f9b21d722b19d9459b308824444444444444444444444_high.jpg
+imageText: Капельница от алкоголизма Харьков
+ratingAvarage: 4.96/5
+rating: '1423'
+reviewType: alk-1
+---
 
 # Капельница от алкоголизма: вывод из запоя на дому — UmbrellaPlus
 
