@@ -2,6 +2,7 @@
 tabTitle: Запойный алкоголик | Лечение алкоголизма | Umbrella Plus | От 1699 грн
 title: 'Запойный алкоголик '
 description: UmbrellaPlus Безопасная Наркология
+image: /img/blog/7a5b7dd947638f3da01533d2014d6802333333333333_high.jpg
 imageText: Запойный алкоголик
 ratingAvarage: 4.98/5
 rating: '723'
