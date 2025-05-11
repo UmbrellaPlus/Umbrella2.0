@@ -2,6 +2,7 @@
 tabTitle: Запійний алкоголік | Лікування алкоголізму | Umbrella Plus | Від 1699 грн
 title: Запійний алкоголік
 description: UmbrellaPlus Безпечна Наркологія
+image: /img/blog/7a5b7dd947638f3da01533d2014d6802333333333333_high.jpg
 imageText: Запійний алкоголік
 ratingAvarage: 4.98/5
 rating: '723'
