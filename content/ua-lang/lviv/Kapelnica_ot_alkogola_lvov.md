@@ -1,8 +1,8 @@
 ---
-tabTitle: Капельница от алкоголя Львов | Umbrella Plus | От 1999 грн
-title: Капельница от алкоголя Львов
-description: Первый шаг к трезвости — звонок
-imageText: Капельница от алкоголя Львов
+tabTitle: Крапельниця від алкоголю Львів | Umbrella Plus | Від 1999 грн
+title: Крапельниця від алкоголю Львів
+description: Перший крок до тверезості – дзвінок
+imageText: Крапельниця від алкоголю Львів
 ratingAvarage: 4.98/5
 rating: '5111'
 reviewType: alk-1
