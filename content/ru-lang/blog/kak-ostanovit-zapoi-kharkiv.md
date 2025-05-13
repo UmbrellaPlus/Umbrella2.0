@@ -6,6 +6,7 @@ image: /img/блог/17ae8a0e4a1d6537657c534135203b4f_high1234.jpg
 imageText: Как остановить запой
 ratingAvarage: 4.97/5
 rating: '612'
+reviewType: alk-1
 ---
 
 ## Как остановить запой
