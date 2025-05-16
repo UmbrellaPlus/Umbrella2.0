@@ -18,20 +18,20 @@ reviewType: alk-1
 
 | Самые Популярные Услуги \| UmbrellaPlus                                   | Цена     |
 | ------------------------------------------------------------------------- | -------- |
-| [Капельница от похмелья Киев](Kapelnica_ot_alkogola_kiev)                 | 3200 грн |
-| [Капельница от похмелья на дому Киев](Kapelnica_ot_alkogola_na_domy_kiev) | 3500 грн |
-| [Вывод из запоя Киев](Vivod-iz-zapoia-kiev)                               | 3200 грн |
-| [Вывод из запоя на дому Киев](Vivod-iz-zapoia-na-domy-kiev)               | 3500 грн |
+| [Капельница от похмелья Киев](Kapelnica_ot_alkogola_kiev)                 | 2200 грн |
+| [Капельница от похмелья на дому Киев](Kapelnica_ot_alkogola_na_domy_kiev) | 2500 грн |
+| [Вывод из запоя Киев](Vivod-iz-zapoia-kiev)                               | 2200 грн |
+| [Вывод из запоя на дому Киев](Vivod-iz-zapoia-na-domy-kiev)               | 2500 грн |
 
 | Полный Список Услуг \| UmbrellaPlus                                                     | Цена         |
 | --------------------------------------------------------------------------------------- | ------------ |
-| [Лечение алкоголизма Киев](lechenie-alkogolizma-kiev)                                   | От 3200 грн  |
-| [Капельница от алкоголя Киев](Kapelnica_ot_alkogola_kiev)                               | От 3200 грн  |
-| [Капельница от алкоголя на дому Киев](Kapelnica_ot_alkogola_na_domy_kiev)               | От 3500 грн  |
-| [Вывод из запоя Киев](Vivod-iz-zapoia-kiev)                                             | От 3200 грн  |
-| [Вывод из запоя на дому Киев](Vivod-iz-zapoia-na-domy-kiev)                             | От 3500 грн  |
-| [Лечение пивного алкоголизма Киев](lechenie-pivnogi-alkogolizma-kiev)                   | От 3200 грн  |
-| [Лечение женского алкоголизма Киев](lechenie-jenskogo-alkogolizma-kiev)                 | От 3200 грн  |
+| [Лечение алкоголизма Киев](lechenie-alkogolizma-kiev)                                   | От 2200 грн  |
+| [Капельница от алкоголя Киев](Kapelnica_ot_alkogola_kiev)                               | От 2200 грн  |
+| [Капельница от алкоголя на дому Киев](Kapelnica_ot_alkogola_na_domy_kiev)               | От 2500 грн  |
+| [Вывод из запоя Киев](Vivod-iz-zapoia-kiev)                                             | От 2200 грн  |
+| [Вывод из запоя на дому Киев](Vivod-iz-zapoia-na-domy-kiev)                             | От 2500 грн  |
+| [Лечение пивного алкоголизма Киев](lechenie-pivnogi-alkogolizma-kiev)                   | От 2200 грн  |
+| [Лечение женского алкоголизма Киев](lechenie-jenskogo-alkogolizma-kiev)                 | От 2200 грн  |
 | [Кодирование от алкоголизма Киев](kodirovka-ot-alkogolia-kiev)                          | От 4999 грн  |
 | [Кодирование от алкоголизма уколом Дисульфирам](kodirovka-ot-alkogolia-disulfiram-kiev) | От 4999 грн  |
 | [Кодирование от алкоголизма уколом Эспераль](kodirovka-ot-alkogolizma-espiarl-kiev)     | От 6999 грн  |
