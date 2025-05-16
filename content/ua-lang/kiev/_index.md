@@ -16,18 +16,18 @@ reviewType: alk-2
 
 | Найпопулярніші Послуги \| UmbrellaPlus                                                             | Цена     |
 | -------------------------------------------------------------------------------------------------- | -------- |
-| [Крапельниця від похмілля стаціонар Київ](Kapelnica_ot_alkogola_kiev)                              | 3200 грн |
-| [Крапельниця від похмілля вдома Київ](Kapelnica_ot_alkogola_na_dom_kiev)                           | 3500 грн |
-| [Виведення із запою стаціонар Київ](https://umbrella-plus.com.ua/uk/kiev/vivod-iz-zapoia-kiev-ua/) | 3200 грн |
-| [Виведення із запою вдома Київ](Vivod-iz-zapoia-na-domy-kiev-ua)                                   | 3500 грн |
+| [Крапельниця від похмілля стаціонар Київ](Kapelnica_ot_alkogola_kiev)                              | 2200 грн |
+| [Крапельниця від похмілля вдома Київ](Kapelnica_ot_alkogola_na_dom_kiev)                           | 2500 грн |
+| [Виведення із запою стаціонар Київ](https://umbrella-plus.com.ua/uk/kiev/vivod-iz-zapoia-kiev-ua/) | 2200 грн |
+| [Виведення із запою вдома Київ](Vivod-iz-zapoia-na-domy-kiev-ua)                                   | 2500 грн |
 
 | Послуга                                                                                   | Ціна          |
 | ----------------------------------------------------------------------------------------- | ------------- |
-| [Лікування алкоголізму Київ](likyvania-alkogolizmy-kiev)                                  | Від 3000 грн  |
-| [Виведення із запою Київ](Vivod-iz-zapoia-kiev-ua)                                        | Від 3000  грн |
-| [Виведення із запою вдома Київ](Vivod-iz-zapoia-na-domy-kiev-ua)                          | Від 3500 грн  |
-| [Крапельниця від алкоголю Київ](Kapelnica_ot_alkogola_kiev)                               | Від 3000  грн |
-| [Крапельниця від алкоголю вдома Київ](Kapelnica_ot_alkogola_na_dom_kiev)                  | Від 3500грн   |
+| [Лікування алкоголізму Київ](likyvania-alkogolizmy-kiev)                                  | Від 2200 грн  |
+| [Виведення із запою Київ](Vivod-iz-zapoia-kiev-ua)                                        | Від 2200  грн |
+| [Виведення із запою вдома Київ](Vivod-iz-zapoia-na-domy-kiev-ua)                          | Від 2500 грн  |
+| [Крапельниця від алкоголю Київ](Kapelnica_ot_alkogola_kiev)                               | Від 2200  грн |
+| [Крапельниця від алкоголю вдома Київ](Kapelnica_ot_alkogola_na_dom_kiev)                  | Від 2500грн   |
 | [Лікування пивного алкоголізму Київ](likyvania-pivnogo-alkogolizma-kyiv)                  | Від 3000 грн  |
 | [Лікування жіночого алкоголізму Київ](likyvania-jenskogo-alkogolizma-kiev)                | Від 3000 грн  |
 | [Кодування від алкоголізму Київ](kodirovka-ot-alkogolia-kiev-ua)                          | Від 4999 грн  |
