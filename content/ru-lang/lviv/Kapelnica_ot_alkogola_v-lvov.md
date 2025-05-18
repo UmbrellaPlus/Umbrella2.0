@@ -2,6 +2,7 @@
 tabTitle: Капельница от алкоголя Львов | Umbrella Plus | От 1999 грн
 title: Капельница от алкоголя Львов
 description: Первый шаг к трезвости — звонок
+image: /img/Lvov new/lvov2.jpg
 imageText: Капельница от алкоголя Львов
 ratingAvarage: 4.98/5
 rating: '5111'
