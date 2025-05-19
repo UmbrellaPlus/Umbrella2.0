@@ -9,7 +9,7 @@ rating: '4872'
 reviewType: alk-2
 ---
 
-| Найпопулярніші Послуги \| UmbrellaPlus                                                      | Цена         |
+| UmbrellaPlus Київ \| Працюємо без вихідних                                                  | Цена         |
 | ------------------------------------------------------------------------------------------- | ------------ |
 | [Екстрений виклик нарколога](https://umbrella-plus.com.ua/uk/blog/narcolog-na-dom-kiev-ua/) | Від 2000 грн |
 | [Виведення із запою](https://umbrella-plus.com.ua/uk/kiev/vivod-iz-zapoia-kiev-ua/)         | Від 2200 грн |
