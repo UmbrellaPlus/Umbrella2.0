@@ -1,8 +1,8 @@
 ---
 layout: services
 tabTitle: Услуги лечения алкоголизма и наркомании | Umbrella Plus
-title: Наркологический Центр UmbrellaPlus
-description: Капельница на дому со скидкой 850грн до 31.05.2025
+title: Umbrella-Plus
+description: Частная Безопасная Наркологическая Служба
 image: /img/home-page/bdbcf8713f555999e0b6dd392e9e294f_high.jpg
 imageText: Лечение алкоголизма UmbrellaPlus
 ratingAvarage: 4.98/5
