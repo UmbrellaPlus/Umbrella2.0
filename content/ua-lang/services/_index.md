@@ -2,8 +2,8 @@
 tabTitle: >-
   Послуги лікування алкоголізму та наркоманії | Umbrella Plus Безпечна
   Наркологія
-title: Наркологічний Центр UmbrellaPlus
-description: Крапельниця вдома із знижкою 850 грн до 31.05.2025
+title: Umbrella-Plus
+description: Приватна Безпечна Наркологічна Служба
 image: /img/home-page/bdbcf8713f555999e0b6dd392e9e294f11111131_high.jpg
 imageText: Лікування алкоголізму UmbrellaPLus Безпечна наркологія
 ratingAvarage: 4.98/5
