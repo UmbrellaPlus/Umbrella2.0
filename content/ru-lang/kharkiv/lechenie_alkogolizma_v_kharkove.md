@@ -4,8 +4,8 @@ title: Лечение алкоголизма в Харькове
 description: Мы знаем как уговорить лечиться!
 image: /img/57b92216-f371-4eb6-bc51-eca29d52f3f0.jpg
 imageText: Лечение алкоголизма Харьков
-ratingAvarage: 4.9/5
-rating: '871'
+ratingAvarage: 4.96/5
+rating: '2871'
 reviewType: alk-1
 ---
 
