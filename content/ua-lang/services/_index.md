@@ -2,8 +2,8 @@
 tabTitle: >-
   Послуги лікування алкоголізму та наркоманії | Umbrella Plus Безпечна
   Наркологія
-title: Umbrella-Plus
-description: Приватна Безпечна Наркологічна Служба
+title: Наркологія Umbrella-Plus
+description: Безпечне Лікування Алкоголізму та Наркоманії
 image: /img/home-page/bdbcf8713f555999e0b6dd392e9e294f11111131_high.jpg
 imageText: Лікування алкоголізму UmbrellaPLus Безпечна наркологія
 ratingAvarage: 4.98/5
