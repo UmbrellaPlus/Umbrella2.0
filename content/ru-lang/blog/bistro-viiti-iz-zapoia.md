@@ -6,6 +6,7 @@ image: /img/Харьков Новое/2.jpg
 imageText: Быстрый выход из запоя
 ratingAvarage: 4.97/5
 rating: '1923'
+reviewType: alk-2
 ---
 
 ## Быстрый выход из запоя
