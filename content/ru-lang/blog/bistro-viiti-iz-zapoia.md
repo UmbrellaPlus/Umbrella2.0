@@ -2,6 +2,10 @@
 tabTitle: Быстрый выход из запоя | Umbrella Plus | От 1999 грн
 title: Быстрый выход из запоя
 description: Umbrella Plus Безопасная Наркология
+image: /img/Харьков Новое/2.jpg
+imageText: Быстрый выход из запоя
+ratingAvarage: 4.97/5
+rating: '1923'
 ---
 
 ## Быстрый выход из запоя
