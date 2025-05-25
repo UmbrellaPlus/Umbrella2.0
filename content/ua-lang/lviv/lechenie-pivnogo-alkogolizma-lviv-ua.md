@@ -2,6 +2,7 @@
 tabTitle: Лікування пивного алкоголізму Львів | Umbrella Plus | Від 1999 грн
 title: Лікування пивного алкоголізму Львів
 description: Umbrella Plus Безпечна Наркологія
+image: /img/Lvov new/6.jpg
 imageText: Лікування пивного алкоголізму Львів
 ratingAvarage: 4.97/5
 rating: '3211'
