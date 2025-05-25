@@ -6,6 +6,7 @@ image: /img/Kiev New/5.jpg
 imageText: Як допомогти людині вийти із запою
 ratingAvarage: 4.97/5
 rating: '1199'
+reviewType: alk-2
 ---
 
 ## Як допомогти людині вийти із запою
