@@ -1,3 +1,13 @@
+---
+tabTitle: Лікування жіночого алкоголізму у Львові | Umbrella Plus | Від 1999 грн
+title: Лікування жіночого алкоголізму у Львові
+description: Umbrella Plus Безпечна Наркологія
+image: /img/Lvov new/7.jpg
+imageText: Лікування жіночого алкоголізму у Львові
+ratingAvarage: 4.98/5
+rating: '2088'
+reviewType: alk-2
+---
 
 ## Лікування жіночого алкоголізму у Львові
 
