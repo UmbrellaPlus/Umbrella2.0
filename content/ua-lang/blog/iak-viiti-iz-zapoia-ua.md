@@ -1,7 +1,7 @@
 ---
 tabTitle: Як правильно вийти із запою | Umbrella Plus | Безпечна Наркологія
 title: Як правильно вийти із запою?
-description: Umbrella Plus Алкоголізм
+description: Umbrella Plus Лікування Алкоголізму
 image: /img/blog/3.jpg
 imageText: Як правильно вийти із запою?
 ratingAvarage: 4.97/5
