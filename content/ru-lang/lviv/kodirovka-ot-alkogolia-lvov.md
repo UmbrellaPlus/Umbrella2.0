@@ -1,6 +1,7 @@
 ---
 tabTitle: Кодирование от алкоголизма Львов | Umbrella Plus | От 4999 грн
 title: Кодирование от алкоголизма Львов
+description: UmbrellaPlus Безопасная Наркология
 image: /img/Lvov new/а4.jpg
 imageText: Кодирование от алкоголизма Львов
 ratingAvarage: 4.98/5
