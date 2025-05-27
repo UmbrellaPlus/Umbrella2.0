@@ -1,5 +1,12 @@
 ---
+tabTitle: Швидко позбутися похмілля | Umbrella Plus | Безпечна наркологія
+title: Швидко позбутися похмілля
+description: UmbrellaPlus Алкоголізм
 image: /img/blog/23.jpg
+imageText: Швидко позбутися похмілля
+ratingAvarage: 4.98/5
+rating: '1522'
+reviewType: kod-2
 ---
 
 ## Швидко позбутися похмілля
