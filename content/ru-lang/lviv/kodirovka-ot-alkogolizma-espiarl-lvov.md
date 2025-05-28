@@ -6,6 +6,7 @@ image: /img/Lvov new/123.jpg
 imageText: Кодирование от алкоголизма уколом Эспераль
 ratingAvarage: 4.98/5
 rating: '2311'
+reviewType: kod-2
 ---
 
 ## Кодирование от алкоголизма уколом Эспераль
