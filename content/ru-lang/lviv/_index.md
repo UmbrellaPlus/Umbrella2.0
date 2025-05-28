@@ -21,16 +21,16 @@ reviewType: alk-1
 | [Капельница от похмелья](Kapelnica_ot_alkogola_v-lvov)               | От 1999 грн |
 | [Капельница от похмелья на дому](Kapelnica_ot_alkogola_na-domy-lvov) | От 1999 грн |
 
-| Все Услуги \| UmbrellaPlus \| Львов                                                   | Цена        |
-| ------------------------------------------------------------------------------------- | ----------- |
-| [Лечение алкоголизма](lechenie-alkogolizma-lviv)                                      | От 1699 грн |
-| [Вывод из запоя](vivod-iz-zapoia-lvov)                                                | От 1999 грн |
-| [Вывод из запоя на дому](Vivod-iz-zapoia-na-domy-lvov)                                | От 1999 грн |
-| [Капельница от похмелья](Kapelnica_ot_alkogola_v-lvov)                                | От 1999 грн |
-| [Капельница от похмелья на дому](Kapelnica_ot_alkogola_na-domy-lvov)                  | От 1999 грн |
-| [Лечение пивного алкоголизма](lechenie-pivnogo-alkogolizma-lviv)                      | От 1699 грн |
-| [Лечение женского алкоголизм](lechenie-jenskogo-alkogolizma-lvov)                     | От 1699 грн |
-| [Кодирование от алкоголизма](kodirovka-ot-alkogolia-lvov)                             | От 3999 грн |
-| [Кодирование от алкоголизма укол Дисульфирам](kodirovka-ot-alkogolia-disulfiram-lvov) | От 3999 грн |
-| [Кодирование от алкоголизма укол Эспераль](kodirovka-ot-alkogolizma-espiarl-lvov)     | От 5999 грн |
-| [Подшивка от алкоголя](podshivka-ot-alkogolia-lvov)                                   | От 9999 грн |
+| Все Услуги \| UmbrellaPlus \| Львов                                               | Цена        |
+| --------------------------------------------------------------------------------- | ----------- |
+| [Лечение алкоголизма](lechenie-alkogolizma-lviv)                                  | От 1699 грн |
+| [Вывод из запоя](vivod-iz-zapoia-lvov)                                            | От 1999 грн |
+| [Вывод из запоя на дому](Vivod-iz-zapoia-na-domy-lvov)                            | От 1999 грн |
+| [Капельница от похмелья](Kapelnica_ot_alkogola_v-lvov)                            | От 1999 грн |
+| [Капельница от похмелья на дому](Kapelnica_ot_alkogola_na-domy-lvov)              | От 1999 грн |
+| [Лечение пивного алкоголизма](lechenie-pivnogo-alkogolizma-lviv)                  | От 1699 грн |
+| [Лечение женского алкоголизм](lechenie-jenskogo-alkogolizma-lvov)                 | От 1699 грн |
+| [Кодирование от алкоголизма](kodirovka-ot-alkogolia-lvov)                         | От 3999 грн |
+| \[Кодирование от алкоголизма укол Дисульфирам])                                   | От 3999 грн |
+| [Кодирование от алкоголизма укол Эспераль](kodirovka-ot-alkogolizma-espiarl-lvov) | От 5999 грн |
+| [Подшивка от алкоголя](podshivka-ot-alkogolia-lvov)                               | От 9999 грн |
