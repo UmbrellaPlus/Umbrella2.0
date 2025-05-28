@@ -31,6 +31,6 @@ reviewType: alk-1
 | [Лечение пивного алкоголизма](lechenie-pivnogo-alkogolizma-lviv)                      | От 1699 грн |
 | [Лечение женского алкоголизм](lechenie-jenskogo-alkogolizma-lvov)                     | От 1699 грн |
 | [Кодирование от алкоголизма](kodirovka-ot-alkogolia-lvov)                             | От 3999 грн |
-| [Кодирование от алкоголизма укол Дисульфирам](kodirovka-ot-alkogolia-disulfiram-lvov) | От 3999 грн |
+| [Кодирование от алкоголизма укол Дисульфирам](kodirovka-ot-alkogolia-disulfiram-lvov) |             |
 | [Кодирование от алкоголизма укол Эспераль](kodirovka-ot-alkogolizma-espiarl-lvov)     | От 5999 грн |
 | [Подшивка от алкоголя](podshivka-ot-alkogolia-lvov)                                   | От 9999 грн |
