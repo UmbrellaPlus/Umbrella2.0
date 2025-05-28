@@ -33,5 +33,5 @@ reviewType: alk-1
 | [Лікування жіночого алкоголізму](lechenie-jenskogo-alkogolizma-lviv)                 | От 1699 грн  |
 | [Кодування від алкоголізму](kodirovka-ot-alkogolia-lviv-ua)                          | От 3999 грн  |
 | [Кодування від алкоголізму укол Дисульфірам](kodirovka-ot-alkogolia-disulfiram-lviv) | От 3999 грн  |
-| Кодування від алкоголізму укол Еспераль                                              | От 5999 грн  |
+| [Кодування від алкоголізму укол Еспераль](kodirovka-ot-alkogolizma-espiarl-lviv-ua)  | От 5999 грн  |
 | Підшивка від алкоголю                                                                | От 9999 грн  |
