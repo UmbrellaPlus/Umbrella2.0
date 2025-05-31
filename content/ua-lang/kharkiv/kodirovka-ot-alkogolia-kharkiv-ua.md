@@ -1,5 +1,5 @@
 ---
-tabTitle: Кодування від алкоголізму у Харкові | Umbrella Plus | Від 3999 грн
+tabTitle: Кодування від алкоголізму у Харкові | Umbrella Plus | Від 4000 грн
 title: Кодування від алкоголізму у Харкові
 description: UmbrellaPlus Безпечна Наркологія
 image: /img/Харьков Новое/8859692f0c28d15dc315e577636afcb0131313131_high.jpg
