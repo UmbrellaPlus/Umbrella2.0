@@ -1,5 +1,14 @@
 ---
-tabTitle: Как пошагово выйти из запоя
+tabTitle: >-
+  Как пошагово выйти из запоя | Umbrella Plus Безопасная Наркология  | От 1999
+  грн
+title: Как пошагово выйти из запоя
+description: Umbrella Plus Безопасная Наркология
+image: /img/blog/78.jpg
+imageText: Как пошагово выйти из запоя
+ratingAvarage: 4.96/5
+rating: '922'
+reviewType: alk-1
 ---
 
 ## Как пошагово выйти из запоя
