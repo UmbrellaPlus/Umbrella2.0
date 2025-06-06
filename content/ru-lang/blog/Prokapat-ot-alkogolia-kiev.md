@@ -70,6 +70,14 @@ reviewType: alk-2
 
 Стоимость капельницы от алкоголя на дому в Киеве начинается от 2200 грн.
 
+| UmbrellaPlus Киев \| Работаем без выходных                                                              | Цена        |
+| ------------------------------------------------------------------------------------------------------- | ----------- |
+| [Экстренный вызов нарколога](https://umbrella-plus.com.ua/blog/narcolog-na-dom-kiev/)                   | От 2000 грн |
+| [Вывод из запоя](https://umbrella-plus.com.ua/kiev/vivod-iz-zapoia-kiev/)                               | От 2200 грн |
+| [Вывод из запоя на дому](https://umbrella-plus.com.ua/kiev/vivod-iz-zapoia-na-domy-kiev/)               | От 2500 грн |
+| [Капельница от похмелья](https://umbrella-plus.com.ua/kiev/kapelnica_ot_alkogola_kiev/)                 | От 2200 грн |
+| [Капельница от похмелья на дому](https://umbrella-plus.com.ua/kiev/kapelnica_ot_alkogola_na_domy_kiev/) | От 2500 грн |
+
 ## Что делать после запоя
 
 После успешно проведенной процедуры детоксикации организм все еще нуждается в комплексном восстановлении. Врачи UmbrellaPlus рекомендуют:
