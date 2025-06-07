@@ -2,6 +2,7 @@
 tabTitle: Що робити при запої в домашніх умовах? | Umbrella Plus | Поради нарколога
 title: Що робити при запої в домашніх умовах
 description: Umbrella Plus | Безпечна наркологія
+image: /img/blog/2a.jpg
 imageText: Що робити при запої в домашніх умовах?
 ratingAvarage: 4.97/5
 rating: '1317'
