@@ -2,6 +2,7 @@
 tabTitle: Что делать при запое в домашних условиях? | Umbrella Plus | Советы нарколога
 title: Что делать при запое в домашних условиях?
 description: Umbrella Plus Безопасная Наркология
+image: /img/blog/2a.jpg
 imageText: Что делать при запое в домашних условиях?
 ratingAvarage: 4.97/5
 rating: '1317'
