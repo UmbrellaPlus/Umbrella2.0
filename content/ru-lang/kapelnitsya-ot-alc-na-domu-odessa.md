@@ -4,7 +4,7 @@ tabTitle: >-
   Безопасная Наркология
 title: Капельница от алкоголя на дому в Одессе
 description: UmbrellaPlus Безопасная Наркология
-image: /img/goroda/kapelnitsya-ot-alkogolisma/kapelnica-ot-alkogolisma-odessa.jpg
+image: /img/Odessa new/3f.jpg
 imageText: Капельница от алкоголя на дому Одесса
 ratingAvarage: 4.97/5
 rating: '2723'
