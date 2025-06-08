@@ -32,8 +32,9 @@
 }
 .preheader-numbers p a img{
   width: 20px;
-  opacity: 50%;
+  filter: invert(32%) sepia(62%) saturate(1927%) hue-rotate(337deg) brightness(78%) contrast(117%);
 }
+
 @media (min-width: 1000px){
   .preheader-hours{
     display: block;
