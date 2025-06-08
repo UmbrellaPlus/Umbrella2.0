@@ -2,6 +2,7 @@
 tabTitle: Наркология на дом Харьков | Umbrella Plus | От 1999 грн
 title: Наркология на дом Харьков
 description: Umbrella Plus Безопасная Наркология
+image: /img/blog/2d.jpg
 imageText: Наркология на дом Харьков
 ratingAvarage: 4.97/5
 rating: '2116'
