@@ -143,7 +143,7 @@ export default defineConfig({
         fields: [...cityTemplate],
         match: {
           include:
-            "{vivod-iz-zapoia-od-ua,vivod-iz-zapoia-na-domy-od-ua,lechenie-alc,kapelnica-ot-alkogolia-od-ua}",
+            "{kapelnica-ot-alkogolia-na-domu-od-ua,kapelnica-ot-alkogolia-od-ua,kodirovanie-po-dovjenko-od-ua,kodirovka-ot-alkogolia-od-ua,kodirovka-ot-alkogolia-ykol-disylfiram-od-ua,kodirovka-ot-alkogolia-ykolom-esperal-od-ua,lechenie-alc,lechenie-alkogolizma-od-ua,lechenie-jenskogo-alkogolizma-od-ua,lechenie-pivnogo-alkogolizma-od-ua,podshivka-ot-alkogolia-od-ua,vivod-iz-zapoia-na-domu-od-us,vivod-iz-zapoia-na-domy-od-ua,vivod-iz-zapoia-od-ua,vizov-narkologa-od-ua}",
         },
         format: "md",
       },
