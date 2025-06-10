@@ -4,6 +4,7 @@ tabTitle: >-
   От 2200 грн
 title: Как безопасно прокапаться от алкоголя Киев
 description: Umbrella Plus Безопасная Наркология
+image: /img/blog/2e.jpg
 imageText: Как безопасно прокапаться от алкоголя Киев
 ratingAvarage: 4.96/5
 rating: '1992'
