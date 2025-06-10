@@ -7,6 +7,7 @@ description: Umbrella Plus Безпечна Наркологія
 imageText: Як безпечно прокапатися від алкоголю
 ratingAvarage: 4.96/5
 rating: '1992'
+reviewType: alk-2
 ---
 
 ## Як безпечно прокапатися від алкоголю | Umbrella Plus | Безпечна наркологія Від 2200 грн
