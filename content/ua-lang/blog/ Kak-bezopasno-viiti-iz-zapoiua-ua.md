@@ -4,6 +4,7 @@ tabTitle: >-
   2200 грн
 title: Як безпечно прокапатися від алкоголю
 description: Umbrella Plus Безпечна Наркологія
+image: /img/blog/2e.jpg
 imageText: Як безпечно прокапатися від алкоголю
 ratingAvarage: 4.96/5
 rating: '1992'
