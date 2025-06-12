@@ -1,5 +1,5 @@
 ---
-tabTitle: Кодирование по методике Довженко Одесса | Umbrella Plus | От 1399 грн
+tabTitle: Кодирование по методике Довженко Одесса | Umbrella Plus | От 9999 грн
 title: Кодирование от алкоголизма по методике Довженко в Одессе
 description: Umbrella Plus Безопасная Наркология
 image: /img/goroda/dovgenko-kodirovanie/odessa-dovgenko-kodirovanie.jpg
