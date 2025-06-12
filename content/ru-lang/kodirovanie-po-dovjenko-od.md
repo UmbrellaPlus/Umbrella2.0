@@ -3,6 +3,8 @@ tabTitle: >-
   Кодирование от Алкоголизма Методом Довженко в Одессе | Umbrella Plus
   Безопасная Наркология | От 9999 грн
 title: Кодирование от Алкоголизма Методом Довженко в Одессе
+description: Umbrella Plus Безопасная Наркология
+image: /img/Odessa new/dowjenko.jpg
 imageText: Кодирование от Алкоголизма Методом Довженко в Одессе
 ratingAvarage: 4.98/5
 rating: '3102'
