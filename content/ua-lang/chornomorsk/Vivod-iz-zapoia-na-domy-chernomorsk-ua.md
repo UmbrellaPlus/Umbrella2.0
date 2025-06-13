@@ -1,5 +1,12 @@
 ---
 tabTitle: Виведення із запою на дому в Чорноморську | Umbrella Plus | Від 1999 грн
+title: Виведення із запою на дому в Чорноморську
+description: Umbrella Plus Безпечна Наркологія
+image: /img/chernomorsc/2pe.jpg
+imageText: Виведення із запою на дому в Чорноморську
+ratingAvarage: 4.98/5
+rating: '2013'
+reviewType: alk-1
 ---
 
 ## Виведення із запою на дому в Чорноморську
