@@ -2,6 +2,7 @@
 tabTitle: Быстро выйти из запоя в домашних условиях | Umbrella Plus | От 1999 грн
 title: Быстро выйти из запоя в домашних условиях
 description: Umbrella Plus Безопасная Наркология
+image: /img/blog/222e.jpg
 imageText: Быстро выйти из запоя в домашних условиях
 ratingAvarage: 4.98/5
 rating: '1216'
