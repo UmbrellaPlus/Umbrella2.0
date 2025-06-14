@@ -5,6 +5,7 @@ description: Umbrella Plus Безопасная Наркология
 imageText: Капельница от алкоголя в Черноморске
 ratingAvarage: 4.98/5
 rating: '1663'
+reviewType: alk-2
 ---
 
 ## Капельница от алкоголя в Черноморске
