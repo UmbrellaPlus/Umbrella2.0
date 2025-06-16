@@ -2,6 +2,7 @@
 tabTitle: Крапельниця від алкоголю вдома у Чорноморську | Umbrella Plus | Від 1999 грн
 title: Крапельниця від алкоголю вдома у Чорноморську
 description: Umbrella Plus Безпечна Наркологія
+image: /img/chernomorsc/555.jpg
 imageText: Крапельниця від алкоголю вдома у Чорноморську
 ratingAvarage: 4.99/5
 rating: '2098'
