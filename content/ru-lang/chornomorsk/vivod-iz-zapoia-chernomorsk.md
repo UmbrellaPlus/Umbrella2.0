@@ -73,7 +73,16 @@ reviewType: alk-1
 
 ## Стоимость вывода из запоя в Черноморске
 
-Стоимость вывода из запоя в Черноморске начинается от 1999 грн.
+Стоимость вывода из запоя в Черноморске начинается от 1999 грн
+
+| Самые Популярные Услуги \| UmbrellaPlus \| Черноморск                                                                 | Цена        |
+| --------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [Вывод из запоя](https://umbrella-plus.com.ua/chornomorsk/vivod-iz-zapoia-chernomorsk/)                               | От 1699 грн |
+| [Вывод из запоя на дому](https://umbrella-plus.com.ua/chornomorsk/vivod-iz-zapoia-na-domy-chernomorsk/)               | От 1999 грн |
+| [Капельница от алкоголя](https://umbrella-plus.com.ua/chornomorsk/kapelnica_ot_alkogola_chernomorsk/)                 | От 1699 грн |
+| [Капельница от алкоголя на дому](https://umbrella-plus.com.ua/chornomorsk/kapelnica_ot_alkogola_na_domy_chernomorsk/) | От 1999 грн |
+
+.
 
 ## Вызвать нарколога в Черноморске: Оперативно и конфиденциально
 
