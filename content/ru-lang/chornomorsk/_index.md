@@ -1,13 +1,11 @@
 ---
-tabTitle: Лечение алкоголизма в Черноморске | Umbrella Plus | От 1000 грн
+tabTitle: Лечение алкоголизма в Черноморске | Umbrella Plus | От 1699 грн
 title: Лечение алкоголизма в Черноморске
-description: >-
-  Методы которые мы используем приносят стабильные результаты в борьбе с
-  алкогольной зависимостью
+description: UmbrellaPlus Безопасная Наркология
 image: /img/goroda/lechenie-alkogolizma/dnepr-lechenie-alc.jpg
-imageText: Врач беседует с пациентом
-ratingAvarage: 4.8/5
-rating: '132'
+imageText: Лечение алкоголизма Черноморск
+ratingAvarage: 4.98/5
+rating: '3012'
 reviewType: alk-1
 ---
 
