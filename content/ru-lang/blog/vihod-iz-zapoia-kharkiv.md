@@ -2,6 +2,7 @@
 tabTitle: Выход из Запоя в Харькове | Umbrella Plus | От 1999 грн
 title: Выход из Запоя в Харькове
 description: Umbrella Plus Безопасная Наркология
+image: /img/blog/2424.jpg
 imageText: Выход из Запоя в Харькове
 ratingAvarage: 4.97/5
 rating: '1722'
