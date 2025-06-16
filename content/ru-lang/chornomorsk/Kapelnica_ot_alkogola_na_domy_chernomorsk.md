@@ -2,6 +2,7 @@
 tabTitle: Капельница от алкоголя на дому в Черноморске | Umbrella Plus | От 1999 грн
 title: Капельница от алкоголя на дому в Черноморске
 description: Umbrella Plus Безопасная Наркология
+image: /img/chernomorsc/555.jpg
 imageText: Капельница от алкоголя на дому в Черноморске
 ratingAvarage: 4.99/5
 rating: '2098'
