@@ -2,6 +2,7 @@
 tabTitle: Капельница от алкоголя в Черноморске | Umbrella Plus | От 1699 грн
 title: Капельница от алкоголя в Черноморске
 description: Umbrella Plus Безопасная Наркология
+image: /img/chernomorsc/341.jpg
 imageText: Капельница от алкоголя в Черноморске
 ratingAvarage: 4.98/5
 rating: '1663'
