@@ -1,6 +1,8 @@
 ---
 tabTitle: Вихід із Запою у Харкові | Umbrella Plus | Від 1999 грн
 title: Вихід із Запою у Харкові
+description: Umbrella Plus Безпечна Наркологія
+image: /img/blog/2424.jpg
 imageText: Вихід із Запою у Харкові
 ratingAvarage: 4.97/5
 rating: '1722'
