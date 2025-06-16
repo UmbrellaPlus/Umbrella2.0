@@ -3,7 +3,7 @@ tabTitle: >-
   Як вийти із запою в домашніх умовах: поради та рекомендації | Umbrella Plus |
   Безпечна наркологія
 title: 'Як вийти із запою в домашніх умовах: поради та рекомендації'
-description: «Заспівай не вирок - почни нове життя з UmbrellaPlus!»
+description: UmbrellaPlus Безпечна Наркологія
 image: /img/blog/155d1cfa9939af765746d1a107ec8a34_high.webp
 imageText: Як вийти із запою в домашніх умовах?
 ratingAvarage: 4.89/5
