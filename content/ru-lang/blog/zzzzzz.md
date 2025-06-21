@@ -2,6 +2,7 @@
 tabTitle: Капельница от похмелья в Харькове Umbrella Plus От 1999 грн
 title: Капельница от похмелья в Харькове
 description: UmbrellaPlus Безопасная Наркология
+image: /img/blog/12.jpg
 imageText: Капельница от похмелья в Харькове
 ratingAvarage: 4.98/5
 rating: '2190'
