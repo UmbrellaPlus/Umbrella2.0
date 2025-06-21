@@ -4,6 +4,7 @@ tabTitle: >-
   грн
 title: Кодирование от алкоголизма уколом Эспераль в Одессе
 description: UmbrellaPlus Безопасная Наркология
+image: /img/Odessa new/kodesperal.jpg
 imageText: Кодирование от алкоголизма уколом Эспераль в Одессе
 ratingAvarage: 4.98/5
 rating: '4122'
