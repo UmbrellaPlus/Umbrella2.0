@@ -2,6 +2,7 @@
 tabTitle: Лечение алкоголизма в Черноморске | Umbrella Plus | От 1699 грн
 title: Лечение алкоголизма в Черноморске
 description: UmbrellaPlus Безопасная Наркология
+image: /img/chernomorsc/lechenieAChernomor.jpg
 imageText: Лечение алкоголизма в Черноморске
 ratingAvarage: 4.97/5
 rating: '2119'
