@@ -4,8 +4,8 @@ title: Как вылечить алкоголизм - советы наркол�
 description: UmbrellaPlus Безопасная Наркология
 image: /img/4e51dcec-0213-49fa-8fd5-adf22c5edc3a.jpg
 imageText: Как вылечить алкоголизм
-ratingAvarage: 5/5
-rating: '967'
+ratingAvarage: 4.96/5
+rating: '1967'
 reviewType: alk-2
 ---
 
