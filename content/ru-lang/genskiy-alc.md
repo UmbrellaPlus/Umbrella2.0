@@ -1,9 +1,9 @@
 ---
-tabTitle: Лечение женского алкоголизма в Одессе | Umbrella Plus | От 1899 грн
-title: Лечение женского алкоголизма в Одессе
+tabTitle: Как вылечить женский алкоголизм | Umbrella Plus | Советы Нарколога
+title: Как вылечить женский алкоголизм
 description: Umbrella Plus Безопасная Наркология
 image: /img/goroda/genskiy-alkogolizm/genskiy-alc-odessa.jpg
-imageText: Лечение женского алкоголизма Одесса
+imageText: Как вылечить женский алкоголизм
 ratingAvarage: 4.96/5
 rating: '2532'
 reviewType: alk-1
