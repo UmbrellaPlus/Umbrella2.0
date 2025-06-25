@@ -2,7 +2,11 @@
 tabTitle: Подшивка от алкоголя в Одессе | Umbrella Plus | От 6999 грн
 title: Подшивка от алкоголя в Одессе
 description: Umbrella Plus Безпасная Наркология
+image: /img/Odessa new/podhivka.jpg
 imageText: Подшивка от алкоголя в Одессе
+ratingAvarage: 4.98/5
+rating: '3155'
+reviewType: kod-2
 ---
 
 ## Подшивка от алкоголя в Одессе
