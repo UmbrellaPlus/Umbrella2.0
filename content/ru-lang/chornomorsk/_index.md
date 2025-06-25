@@ -1,6 +1,6 @@
 ---
 tabTitle: Современное лечение алкоголизма Черноморск | Umbrella Plus | От 1699 грн
-title: Современное лечение алкоголизма Черноморск Umbrella Plus
+title: Современное лечение алкоголизма Черноморск
 description: UmbrellaPlus Безопасная Наркология
 image: /img/chernomorsc/черн.jpg
 imageText: Лечение алкоголизма Черноморск
