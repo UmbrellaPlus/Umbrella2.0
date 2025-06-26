@@ -1,6 +1,6 @@
 ---
 tabTitle: Услуги Лечения Алкоголизма в Одессе | Umbrella Plus | Безопасная Наркология
-title: Услуги Лечения Алкоголизма в Одессе
+title: Услуги Лечение Алкоголизма Одесса
 description: Umbrella Plus | Безопасная Наркология
 image: /img/Odessa new/bce8014531d61cae6e4e8d7b588b1e86_high.jpg
 imageText: Услуги Лечения Алкоголизма в Одессе | Umbrella Plus | Безопасная Наркология
