@@ -17,13 +17,14 @@ reviewType: alk-2
 | Капельница от алкоголя                                            | От 1999 грн |
 | Капельница от алкоголя на дому                                    | От 1999 грн |
 
-| Полный Список Услуг \| UmbrellaPlus                                                                                                    | Цена        |
+| Полный Список Услуг \| UmbrellaPlus \| Одесса                                                                                          | Цена        |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [Экстренный вызов нарколога](vizov-narkologa-od)                                                                                       | От 1699 грн |
 | [Лечение алкоголизма](https://umbrella-plus.com.ua/services/lechenie-alkogolizma/)                                                     | От 1699 грн |
-| [Капельница от алкоголя](https://umbrella-plus.com.ua/services/kapelnica-ot-alkogolia-umbrellaplus/)                                   | От 1699 грн |
-| [Капельница от алкоголя на дому](https://umbrella-plus.com.ua/services/kapelnica_ot_alkogola_na_domy_umbrellaplus/)                    | От 1999 грн |
 | [Вывод из запоя](https://umbrella-plus.com.ua/services/vivod-iz-zapoia-umbrellaplus/)                                                  | От 1699 грн |
 | [Вывод из запоя на дому](https://umbrella-plus.com.ua/services/vivod-iz-zapoia-na-domy-umbrellaplus/)                                  | От 1999 грн |
+| [Капельница от алкоголя](https://umbrella-plus.com.ua/services/kapelnica-ot-alkogolia-umbrellaplus/)                                   | От 1699 грн |
+| [Капельница от алкоголя на дому](https://umbrella-plus.com.ua/services/kapelnica_ot_alkogola_na_domy_umbrellaplus/)                    | От 1999 грн |
 | [Лечение пивного алкоголизма](https://umbrella-plus.com.ua/services/lechenie-pivnogo-alkogolizma-umbrellaplus/)                        | От 1699 грн |
 | [Лечение женского алкоголизма](https://umbrella-plus.com.ua/services/lechenie-jenskogo-alkogolizma-umbrellaplus/)                      | От 1699 грн |
 | [Кодирование от алкоголизма](https://umbrella-plus.com.ua/services/kodirovka-ot-alkogolia-umbrellaplus/)                               | От 3999 грн |
