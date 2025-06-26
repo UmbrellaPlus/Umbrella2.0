@@ -2,6 +2,7 @@
 tabTitle: Нарколог на дом Одесса | Umbrella Plus | От 1699 грн
 title: Нарколог на дом Одесса
 description: Umbrella Plus Безопасная Наркология
+image: /img/Odessa new/nark.jpg
 imageText: Нарколог на дом Одесса
 ratingAvarage: 4.98/5
 rating: '3189'
