@@ -3,7 +3,7 @@ tabTitle: Кодирование от алкоголизма гипнозом О
 title: Кодирование от алкоголизма гипнозом Одесса
 description: Umbrella Plus Безопасная Наркология
 image: /img/goroda/dovgenko-kodirovanie/odessa-dovgenko-kodirovanie.jpg
-imageText: Кодирование от алкоголизма по методике Довженко
+imageText: Кодирование от алкоголизма гипнозом
 ratingAvarage: 4.97/5
 rating: '877'
 reviewType: alk-2
