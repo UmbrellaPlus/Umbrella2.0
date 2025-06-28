@@ -2,6 +2,7 @@
 tabTitle: Помогите Выйти из Запоя | Советы Нарколога Харьков | Umbrella Plus
 title: Помогите Выйти из Запоя | Советы Нарколога
 description: Umbrella Plus Безопасная Наркология
+image: /img/blog/blog2.jpg
 imageText: Помогите Выйти из Запоя
 ratingAvarage: 4.97/5
 rating: '1323'
