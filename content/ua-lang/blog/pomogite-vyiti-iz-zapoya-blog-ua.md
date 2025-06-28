@@ -2,6 +2,7 @@
 tabTitle: Допоможіть Вийти із Запою | Поради Нарколога Харків | Umbrella Plus
 title: Допоможіть Вийти із Запою
 description: Umbrella Plus Безпечна Наркологія
+image: /img/blog/blog2.jpg
 imageText: Допоможіть Вийти із Запою
 ratingAvarage: 4.97/5
 rating: '1323'
