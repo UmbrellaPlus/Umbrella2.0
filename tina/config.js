@@ -132,7 +132,7 @@ export default defineConfig({
         fields: [...cityTemplate],
         match: {
           include:
-            "{vizov-narkologa-od,vivod-iz-zapoya,vivod-iz-zapoya-na-domu-odessa,vivod-iz-zapoia-od,vivod-iz-zapoia-na-domy-od,podshivka-ot-alkogolya-odessa,podshivka-ot-alkogolia-od,poshivka-ot-alc,pivnoy-alkogolism,lechenie-pivnogo-alkogolizma-od,lechenie-jenskogo-alkogolizma,lechenie-alkogolizma-odessa,lechenie-alkogolizma-od,lechenie-alc,kodirovka-ukolom-espiral,kodirovka-ukolom-disulfiram,kodirovka-ot-alkogolia-ykolom-esperal-od,kodirovka-ot-alkogolia-od,kodirovka-ot-alkogolia-ykol-disylfiram-od,kodirovanie-ukolom,kodirovanie-po-dovjenko-od,kodirovanie-ot-alc,kodirovanie-dovgenko,kapelnitsya-ot-alc,kapelnitsya-ot-alc-na-domu-odessa,kapelnica-ot-alkogolizma-na-domy-od,kapelnica-ot-alkogolia-od,genskiy-alc}",
+            "{vizov-narkologa-od,vivod-iz-zapoya-na-domu-odessa,vivod-iz-zapoia-od,vivod-iz-zapoia-na-domy-od,podshivka-ot-alkogolya-odessa,podshivka-ot-alkogolia-od,poshivka-ot-alc,pivnoy-alkogolism,lechenie-pivnogo-alkogolizma-od,lechenie-jenskogo-alkogolizma,lechenie-alkogolizma-odessa,lechenie-alkogolizma-od,lechenie-alc,kodirovka-ukolom-espiral,kodirovka-ukolom-disulfiram,kodirovka-ot-alkogolia-ykolom-esperal-od,kodirovka-ot-alkogolia-od,kodirovka-ot-alkogolia-ykol-disylfiram-od,kodirovanie-ukolom,kodirovanie-po-dovjenko-od,kodirovanie-ot-alc,kodirovanie-dovgenko,kapelnitsya-ot-alc,kapelnitsya-ot-alc-na-domu-odessa,kapelnica-ot-alkogolizma-na-domy-od,kapelnica-ot-alkogolia-od,genskiy-alc}",
         },
         format: "md",
       },
