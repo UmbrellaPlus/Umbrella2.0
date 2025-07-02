@@ -6,6 +6,7 @@ image: /img/blog/7a5b7dd947638f3da01533d2014d6802333333333333_high.jpg
 imageText: Запойный алкоголик
 ratingAvarage: 4.98/5
 rating: '723'
+date: 2023-10-19T00:40:04-07:00
 reviewType: alk-2
 ---
 

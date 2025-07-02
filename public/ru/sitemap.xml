@@ -2,6 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://umbrella-plus.com.ua/</loc>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/blog/</loc>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/blog/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/blog/chem-kapaut-ot-zapoia-blog/</loc>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/blog/zapoiniu-alkogoliz-blog/</loc>
+    <lastmod>2023-10-19T00:40:04-07:00</lastmod>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/podshivka-ot-alc/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/zaporozie/lechenie-pivnogo-alkogolizma-zaporoje/</loc>
@@ -34,18 +66,6 @@
                 rel="alternate"
                 hreflang="ru-UA"
                 href="https://umbrella-plus.com.ua/tags/"
-                />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/"
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/services/vivod-iz-zapoia-na-domy-umbrellaplus/</loc>
@@ -103,8 +123,6 @@
     <loc>https://umbrella-plus.com.ua/blog/new-vivod-iz-zapoia-kiev/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/blog/vihod-iz-zapoia-kharkiv/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/zapoiniu-alkogoliz-blog/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/blog/kak-vihodit-iz-zapoia-kharkiv-blog/</loc>
   </url><url>
@@ -404,18 +422,6 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/kharkiv/lechenie_jenskogo_alkogolizma_kharkiv/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/blog/"
-                />
-  </url><url>
     <loc>https://umbrella-plus.com.ua/services/lechenie_pivnogo_alkogolizm/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/kiev/lechenie-pivnogi-alkogolizma-kiev/</loc>
@@ -505,8 +511,6 @@
     <loc>https://umbrella-plus.com.ua/blog/sniatie-alkogolnoi-intocsikacii-kharkov/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/blog/sostav_kapelnici_ot_alkogolia/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/chem-kapaut-ot-zapoia-blog/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/blog/chto-delat-pri-zapoiah-kharkiv-blog/</loc>
   </url><url>

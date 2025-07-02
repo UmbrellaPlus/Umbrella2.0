@@ -6,6 +6,7 @@ image: /img/Харьков Новое/33232.jpg
 imageText: Чем Капают От Запоя
 ratingAvarage: 4.98/5
 rating: '1743'
+date: 2025-07-02T00:00:00.000Z
 reviewType: alk-1
 ---
 

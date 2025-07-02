@@ -59,18 +59,20 @@
       <h2>Останні статті</h2>
       {{end}}
 
-      <ul class="blog-list-container">
-        {{range where site.RegularPages "Type" "blog"}}
-        <a href="{{ .Permalink }}"
-          ><li class="blog-list-post">
-            <div class="blog-list-post-text-container">
-              <h3>{{.Title}}</h3>
-              <p>{{.Params.Description}}</p>
-            </div>
-            <img src="{{.Params.image}}" alt="{{.Params.imageText}}" /></li
-        ></a>
-        {{end}}
-      </ul>
+<ul class="blog-list-container">
+  {{ range sort (where site.RegularPages "Type" "blog") "Date" "desc" }}
+    <a href="{{ .Permalink }}">
+      <li class="blog-list-post">
+        <div class="blog-list-post-text-container">
+          <h3>{{ .Title }}</h3>
+          <p>{{ .Params.Description }}</p>
+        </div>
+        <img src="{{ .Params.image }}" alt="{{ .Params.imageText }}" />
+      </li>
+    </a>
+  {{ end }}
+</ul>
+
     </div>
     {{if in .Site.Language "ru"}} {{partial "contacts.html" . }} {{ else }}
     {{partial "contacts-ua.html" . }} {{end}} {{partial "footer.html" .}}
