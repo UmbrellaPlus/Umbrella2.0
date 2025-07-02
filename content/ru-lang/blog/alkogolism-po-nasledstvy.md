@@ -6,6 +6,7 @@ image: /img/blog/alkogolism-po-nasledstvy.webp
 imageText: Отец напился сын смотрит
 ratingAvarage: 4.8/5
 rating: '104'
+date: 2025-01-10T00:00:00.000Z
 reviewType: blog
 ---
 
