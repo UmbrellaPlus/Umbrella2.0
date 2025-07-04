@@ -18,8 +18,8 @@ reviewType: alk-1
 | Популярні Послуги                                                              | Ціна         |
 | ------------------------------------------------------------------------------ | ------------ |
 | Екстрений виклик нарколога                                                     | Від 1699 грн |
-| [Виведення із запою](vivod-iz-zapoia-chernomorsk-ua)                           | Від 1699 грн |
-| [Виведення із запою вдома](Vivod-iz-zapoia-na-domy-chernomorsk-ua)             | Від 1999 грн |
+| [Виведення з запою](vivod-iz-zapoia-chernomorsk-ua)                            | Від 1699 грн |
+| [Виведення з запою вдома](Vivod-iz-zapoia-na-domy-chernomorsk-ua)              | Від 1999 грн |
 | [Крапельниця від алкоголю](Kapelnica_ot_alkogola_chernomorsk-ua)               | Від 1699 грн |
 | [Крапельниця від алкоголю вдома](Kapelnica_ot_alkogola_na_domy_chernomorsk_ua) | Від 1999 грн |
 
