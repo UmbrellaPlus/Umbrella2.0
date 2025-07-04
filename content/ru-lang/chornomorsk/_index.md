@@ -1,9 +1,9 @@
 ---
-tabTitle: Эффективное лечение алкоголизма Черноморск | Umbrella Plus | От 1699 грн
-title: Современное Лечение Алкоголизма | Черноморск
-description: UmbrellaPlus | Безопасная Наркология
+tabTitle: Услуги Лечения Алкоголизма Черноморск | Umbrella Plus | Безопасная Наркология
+title: Лечение Алкоголизма Черноморск
+description: Umbrella Plus | Безопасная Наркология
 image: /img/chernomorsc/черн.jpg
-imageText: Лечение алкоголизма Черноморск
+imageText: Услуги Лечения Алкоголизма Черноморск
 ratingAvarage: 4.98/5
 rating: '3012'
 reviewType: alk-1
