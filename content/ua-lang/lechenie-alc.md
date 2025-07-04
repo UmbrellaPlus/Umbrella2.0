@@ -1,7 +1,7 @@
 ---
-tabTitle: Сучасне лікування алкоголізму Одеса Umbrella Plus | Від 1699 грн
-title: Сучасне лікування алкоголізму Одеса
-description: UmbrellaPlus Безпечна Наркологія
+tabTitle: Послуги Лікування Алкоголізму в Одесі | Umbrella Plus | Від 1699 грн
+title: Лікування Алкоголізму Одеса
+description: UmbrellaPlus | Безпечна Наркологія
 image: /img/Odessa new/bce8014531d61cae6e4e8d7b588b1e86_high.jpg
 imageText: Сучасне лікування алкоголізму Одеса
 ratingAvarage: 4.98/5
