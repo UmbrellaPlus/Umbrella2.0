@@ -1,5 +1,5 @@
 ---
-tabTitle: Послуги Лікування Алкоголізму в Одесі | Umbrella Plus | Від 1699 грн
+tabTitle: Послуги Лікування Алкоголізму В Одесі | Umbrella Plus | Від 1699 грн
 title: Лікування Алкоголізму Одеса
 description: Umbrella Plus | Безпечна Наркологія
 image: /img/Odessa new/bce8014531d61cae6e4e8d7b588b1e86_high.jpg
