@@ -20,16 +20,16 @@ reviewType: alk-2
 | [Виведення із запою](https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-umbrellaplus-ua/)                           | Від 1699 грн |
 | [Виведення із запою вдома](https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-na-domy-umbrellaplus-ua/)             | Від 1999 грн |
 
-| Послуги \| UmbrellaPlus                                                                                                                     | Ціна         |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| Екстрений виклик нарколога                                                                                                                  | Від 1699 грн |
-| [Лікування алкоголізму](https://umbrella-plus.com.ua/uk/services/lechenie-alkogolizma-ua/)                                                  | Від 1699 грн |
-| [Виведення із запою](https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-umbrellaplus-ua/)                                             | Від 1699 грн |
-| [Виведення із запою вдома](https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-na-domy-umbrellaplus-ua/)                               | Від 1999 грн |
-| [Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/services/kapelnica_ot_alkogola_umbrellaplus-ua/)                                 | Від 1699 грн |
-| [Крапельниця від алкоголю вдома](https://umbrella-plus.com.ua/uk/services/kapelnica_ot_alkogola_na_domy_umbrellaplus-ua/)                   | Від 1999 грн |
-| [Лікування пивного алкоголізму](https://umbrella-plus.com.ua/uk/services/lechenie-pivnogo-alkogolizma-umbrellaplus-ua/)                     | Від 1699 грн |
-| [Лікування жіночого алкоголізму](https://umbrella-plus.com.ua/uk/services/lechenie-jenskogo-alkogolizma-umbrellaplus-ua/)                   | Від1699 грн  |
-| [Кодування від алкоголізму](https://umbrella-plus.com.ua/uk/services/kodirovka-ot-alkogolia-umbrellaplus-ua/)                               | Від 4999 грн |
-| [Кодування від алкоголізму уколом Дисульфірам](https://umbrella-plus.com.ua/uk/services/kodirovka-ot-alkogolia-disulfiram-umbrellaplus-ua/) | Від 4999 грн |
-| [Кодування від алкоголізму уколом Еспераль](https://umbrella-plus.com.ua/uk/services/kodirovka-ot-alkogolizma-espiarl-umbrellaplus-ua/)     | Від 6500 грн |
+| Послуги \| UmbrellaPlus                      | Ціна         |
+| -------------------------------------------- | ------------ |
+| Екстрений виклик нарколога                   | Від 1699 грн |
+| Лікування алкоголізму                        | Від 1699 грн |
+| Виведення із запою                           | Від 1699 грн |
+| Виведення із запою вдома                     | Від 1999 грн |
+| Крапельниця від алкоголю                     | Від 1699 грн |
+| Крапельниця від алкоголю вдома               | Від 1999 грн |
+| Лікування пивного алкоголізму                | Від 1699 грн |
+| Лікування жіночого алкоголізму               | Від1699 грн  |
+| Кодування від алкоголізму                    | Від 4999 грн |
+| Кодування від алкоголізму уколом Дисульфірам | Від 4999 грн |
+| Кодування від алкоголізму уколом Еспераль    | Від 6500 грн |
