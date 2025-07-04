@@ -30,6 +30,7 @@ reviewType: alk-2
 | [Кодирование от алкоголизма](kodirovka-ot-alkogolia-od)                                    | От 3999 грн |
 | [Кодирование от алкоголизма уколом Дисульфирам](kodirovka-ot-alkogolia-ykol-disylfiram-od) | От 3999 грн |
 | [Кодирование от алкоголизма уколом Эспераль](kodirovka-ot-alkogolia-ykolom-esperal-od)     | От 6999 грн |
+| [Подшивка от алкоголя](podshivka-ot-alkogolia-od)                                          | От 9999 грн |
 
 ## Лечение алкоголизма Одесса: Эффективные методы и этапы терапии
 
