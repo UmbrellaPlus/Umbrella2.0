@@ -22,6 +22,7 @@ reviewType: alk-2
 
 | Послуги \| UmbrellaPlus                                                                                                                     | Ціна         |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| Екстрений виклик нарколога                                                                                                                  | Від 1699 грн |
 | [Лікування алкоголізму](https://umbrella-plus.com.ua/uk/services/lechenie-alkogolizma-ua/)                                                  | Від 1699 грн |
 | [Виведення із запою](https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-umbrellaplus-ua/)                                             | Від 1699 грн |
 | [Виведення із запою вдома](https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-na-domy-umbrellaplus-ua/)                               | Від 1999 грн |
