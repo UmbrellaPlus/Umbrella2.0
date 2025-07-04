@@ -1,7 +1,9 @@
 ---
-tabTitle: Послуги Лікування Алкоголізму Чорноморськ | Umbrella Plus | Від 1699 грн
+tabTitle: >-
+  Послуги Лікування Алкоголізму Чорноморськ | Umbrella Plus | Безпечна
+  Наркологія
 title: Лікування Алкоголізму Чорноморськ
-description: Umbrella Plus Безпечна Наркологія
+description: Umbrella Plus | Безпечна Наркологія
 image: /img/chernomorsc/черн.jpg
 imageText: Лікування алкоголізму Чорноморськ
 ratingAvarage: 4.98/5
