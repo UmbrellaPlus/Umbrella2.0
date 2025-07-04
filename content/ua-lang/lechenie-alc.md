@@ -3,7 +3,7 @@ tabTitle: Послуги Лікування Алкоголізму В Одесі
 title: Лікування Алкоголізму Одеса
 description: Umbrella Plus | Безпечна Наркологія
 image: /img/Odessa new/bce8014531d61cae6e4e8d7b588b1e86_high.jpg
-imageText: Сучасне лікування алкоголізму Одеса
+imageText: Послуги Лікування Алкоголізму В Одесі
 ratingAvarage: 4.98/5
 rating: '5622'
 reviewType: alk-2
