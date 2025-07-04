@@ -15,6 +15,7 @@ reviewType: alk-2
 
 | Найпопулярніші послуги \| UmbrellaPlus                                                                                    | Вартість     |
 | ------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [Екстрений виклик нарколога](vizov-narkologa-od-ua)                                                                       | Від 1699 грн |
 | [Крапельниця від похмілля](https://umbrella-plus.com.ua/uk/services/kapelnica_ot_alkogola_umbrellaplus-ua/)               | Від 1699 грн |
 | [Крапельниця від похмілля вдома](https://umbrella-plus.com.ua/uk/services/kapelnica_ot_alkogola_na_domy_umbrellaplus-ua/) | Від 1999 грн |
 | [Виведення із запою](https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-umbrellaplus-ua/)                           | Від 1699 грн |
