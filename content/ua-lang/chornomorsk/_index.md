@@ -5,7 +5,7 @@ tabTitle: >-
 title: Лікування Алкоголізму Чорноморськ
 description: Umbrella Plus | Безпечна Наркологія
 image: /img/chernomorsc/черн.jpg
-imageText: Лікування алкоголізму Чорноморськ
+imageText: Послуги Лікування Алкоголізму Чорноморськ
 ratingAvarage: 4.98/5
 rating: '3012'
 reviewType: alk-1
