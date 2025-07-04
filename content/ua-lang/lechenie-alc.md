@@ -1,5 +1,5 @@
 ---
-tabTitle: Послуги Лікування Алкоголізму В Одесі | Umbrella Plus | Від 1699 грн
+tabTitle: Послуги Лікування Алкоголізму В Одесі | Umbrella Plus | Безпечна Наркологія
 title: Лікування Алкоголізму Одеса
 description: Umbrella Plus | Безпечна Наркологія
 image: /img/Odessa new/bce8014531d61cae6e4e8d7b588b1e86_high.jpg
@@ -13,13 +13,13 @@ reviewType: alk-2
 | --------------------------------------------------------- |
 | **Викликати Нарколога –** [050-021-69-57](tel:0500216957) |
 
-| Найпопулярніші Послуги \| UmbrellaPlus                                                                                    | Вартість     |
-| ------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [Екстрений виклик нарколога](vizov-narkologa-od-ua)                                                                       | Від 1699 грн |
-| [Крапельниця від похмілля](https://umbrella-plus.com.ua/uk/services/kapelnica_ot_alkogola_umbrellaplus-ua/)               | Від 1699 грн |
-| [Крапельниця від похмілля вдома](https://umbrella-plus.com.ua/uk/services/kapelnica_ot_alkogola_na_domy_umbrellaplus-ua/) | Від 1999 грн |
-| [Виведення із запою](https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-umbrellaplus-ua/)                           | Від 1699 грн |
-| [Виведення із запою вдома](https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-na-domy-umbrellaplus-ua/)             | Від 1999 грн |
+| Популярні Послуги \| UmbrellaPlus                                                                            | Вартість     |
+| ------------------------------------------------------------------------------------------------------------ | ------------ |
+| [Екстрений виклик нарколога](https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-umbrellaplus-ua/)      | Від 1699 грн |
+| [Виведення з запою](https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-umbrellaplus-ua/)               | Від 1699 грн |
+| [Виведення з запою вдома](https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-na-domy-umbrellaplus-ua/) | Від 1999 грн |
+| [Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/services/kapelnica_ot_alkogola_umbrellaplus-ua/)  | Від 1699 грн |
+| [Крапельниця від алкоголю вдома](vizov-narkologa-od-ua)                                                      | Від 1999 грн |
 
 | Послуги \| UmbrellaPlus                             | Ціна         |
 | --------------------------------------------------- | ------------ |
