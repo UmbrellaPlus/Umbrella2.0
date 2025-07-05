@@ -1,3 +1,13 @@
+---
+tabTitle: Як Відійти Від Запою Та Зняти Похмілля | Umbrella Plus | Поради Нарколога
+title: Як відійти від запою
+description: Umbrella Plus | Безпечна Наркологія
+imageText: Як відійти від запою
+ratingAvarage: 4.97/5
+rating: '1887'
+date: 2025-07-05T21:00:00.000Z
+reviewType: alk-1
+---
 
 ## Як Відійти від Запою та Зняти Похмілля
 
