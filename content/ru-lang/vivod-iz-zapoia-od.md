@@ -1,5 +1,5 @@
 ---
-tabTitle: Вывод из запоя Одесса | Umbrella Plus | От 1699 грн
+tabTitle: Вывод из запоя Одесса | Umbrella Plus | От 1999 грн
 title: Вывод из запоя Одесса
 description: UmbrellaPlus – свобода от алкоголя начинается здесь
 image: /img/Odessa new/7fd64f133c5ef9c774fc9d3600177857_high.jpg
@@ -46,14 +46,14 @@ reviewType: alk-2
 
 ## Стоимость вывод из запоя в Одессе
 
-Стоимость **вывода из запоя в Одессе** начинается от 1699грн.
+Стоимость **вывода из запоя в Одессе** начинается от 1999грн.
 
 | Самые Популярные Услуги \| UmbrellaPlus                                                                    | Цена        |
 | ---------------------------------------------------------------------------------------------------------- | ----------- |
-| [Капельница от похмелья Одесса](https://umbrella-plus.com.ua/kapelnica-ot-alkogolia-od/)                   | От 1699 грн |
-| [Капельница от похмелья на дому Одесса](https://umbrella-plus.com.ua/kapelnica-ot-alkogolizma-na-domy-od/) | От 1999 грн |
-| [Вывод из запоя Одесса](https://umbrella-plus.com.ua/vivod-iz-zapoia-od/)                                  | От 1699 грн |
-| [Вывод из запоя на дому Одесса](https://umbrella-plus.com.ua/vivod-iz-zapoia-na-domy-od/)                  | От 1999 грн |
+| [Капельница от похмелья Одесса](https://umbrella-plus.com.ua/kapelnica-ot-alkogolia-od/)                   | От 1999 грн |
+| [Капельница от похмелья на дому Одесса](https://umbrella-plus.com.ua/kapelnica-ot-alkogolizma-na-domy-od/) | От 2199 грн |
+| [Вывод из запоя Одесса](https://umbrella-plus.com.ua/vivod-iz-zapoia-od/)                                  | От 1999 грн |
+| [Вывод из запоя на дому Одесса](https://umbrella-plus.com.ua/vivod-iz-zapoia-na-domy-od/)                  | От 2199 грн |
 
 ## Основные Компоненты Детоксикационной Капельницы при выводе из запоя
 
