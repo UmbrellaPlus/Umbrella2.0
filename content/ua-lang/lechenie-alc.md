@@ -15,7 +15,6 @@ reviewType: alk-2
 
 | Популярні Послуги                                                                                            | Вартість     |
 | ------------------------------------------------------------------------------------------------------------ | ------------ |
-| [Екстрений виклик нарколога](https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-umbrellaplus-ua/)      | Від 1999 грн |
 | [Виведення з запою](vivod-iz-zapoia-od-ua)                                                                   | Від 1999 грн |
 | [Виведення з запою вдома](https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-na-domy-umbrellaplus-ua/) | Від 2199 грн |
 | [Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/services/kapelnica_ot_alkogola_umbrellaplus-ua/)  | Від 1999 грн |
