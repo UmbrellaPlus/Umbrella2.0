@@ -1,3 +1,13 @@
+---
+tabTitle: Виведення з запою Одеса | Umbrella Plus | Від 1999 грн
+title: Виведення з запою Одеса
+description: Umbrella Plus Безпечна Наркологія
+image: /img/Odessa new/7fd64f133c5ef9c774fc9d3600177857_high.jpg
+imageText: Виведення з запою Одеса
+ratingAvarage: 4.99/5
+rating: '4923'
+reviewType: alk-2
+---
 
 ## Виведення з запою Одеса
 
