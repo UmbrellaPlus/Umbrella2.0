@@ -2,6 +2,7 @@
 tabTitle: Лікування пивного алкоголізму Одеса | Umbrella Plus | Від 1999 грн
 title: Лікування пивного алкоголізму Одеса
 description: UmbrellaPlus Безпечна Наркологія
+image: /img/Odessa new/24242.jpg
 imageText: Лікування пивного алкоголізму Одеса
 ratingAvarage: 4.97/5
 rating: '2661'
