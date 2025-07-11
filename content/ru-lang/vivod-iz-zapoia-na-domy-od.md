@@ -1,7 +1,7 @@
 ---
 tabTitle: Вывод из запоя на дому в Одессе | Umbrella Plus | От 2199 грн
 title: Вывод из запоя на дому Одесса
-description: UmbrellaPlus Безопасная Наркология
+description: Umbrella Plus Безопасная Наркология
 image: /img/Odessa new/a0c3155db37994e3425d008cd8ad9257_high.jpg
 imageText: Вывод из запоя на дому Одесса
 ratingAvarage: 4.99/5
