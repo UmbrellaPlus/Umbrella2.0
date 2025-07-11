@@ -9,14 +9,14 @@ rating: '5622'
 reviewType: alk-2
 ---
 
-| Працюємо 24/7 Одеса \| UmbrellaPlus                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Екстрений виклик нарколога](https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-umbrellaplus-ua/)** –** [050-021-69-57](tel:0500216957) |
+| Працюємо 24/7 Одеса \| UmbrellaPlus                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------- |
+| [Екстрений виклик нарколога](https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-umbrellaplus-ua/) – [050-021-69-57](tel:0500216957) |
 
 | Популярні Послуги                                                                                            | Вартість     |
 | ------------------------------------------------------------------------------------------------------------ | ------------ |
 | [Екстрений виклик нарколога](https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-umbrellaplus-ua/)      | Від 1999 грн |
-| [Виведення з запою](https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-umbrellaplus-ua/)               | Від 1999 грн |
+| [Виведення з запою](vivod-iz-zapoia-od-ua)                                                                   | Від 1999 грн |
 | [Виведення з запою вдома](https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-na-domy-umbrellaplus-ua/) | Від 2199 грн |
 | [Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/services/kapelnica_ot_alkogola_umbrellaplus-ua/)  | Від 1999 грн |
 | [Крапельниця від алкоголю вдома](vizov-narkologa-od-ua)                                                      | Від 2199 грн |
