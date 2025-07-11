@@ -4,6 +4,9 @@ title: Крапельниця від алкоголю Одеса
 description: Umbrella Plus Безпечна Наркологія
 image: /img/Odessa new/0ee88472da39787c79dc380de79b33323_high.jpg
 imageText: Крапельниця від алкоголю Одеса
+ratingAvarage: 4.98/5
+rating: '3612'
+reviewType: alk-2
 ---
 
 ## Крапельниця від алкоголю Одеса
