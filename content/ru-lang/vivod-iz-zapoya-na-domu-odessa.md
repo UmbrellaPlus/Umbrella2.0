@@ -1,5 +1,5 @@
 ---
-tabTitle: Вывод из запоя Поселок Котовского Одесса | Umbrella Plus | От 1699 грн
+tabTitle: Вывод из запоя Поселок Котовского Одесса | Umbrella Plus | От 1999 грн
 title: Вывод из запоя на Поселке Котовского Одесса
 description: UmbrellaPlus Безопасная Наркология
 image: /img/Odessa new/pasich.jpg
