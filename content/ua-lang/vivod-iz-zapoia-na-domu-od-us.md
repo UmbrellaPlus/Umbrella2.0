@@ -1,3 +1,13 @@
+---
+tabTitle: Виведення з запою Селище Котовського Одеса | Umbrella Plus | Від 1999 грн
+title: 'Виведення з запою Селище Котовського, Одеса'
+description: UmbrellaPlus Безпечна Наркологія
+image: /img/Odessa new/pasich.jpg
+imageText: Виведення з запою Селище Котовського Одеса
+ratingAvarage: 4.98/5
+rating: '1734'
+reviewType: alk-2
+---
 
 ## Виведення із запою на селищі Котовського, Одеса
 
