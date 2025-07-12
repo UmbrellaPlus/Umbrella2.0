@@ -1,6 +1,6 @@
 ---
 tabTitle: Прокапаться от алкоголя в Одессе | Umbrella Plus | От 1999 грн
-title: Капельница от алкоголя в Одессе
+title: Прокапаться от алкоголя в Одессе
 description: Umbrella Plus Безопасная Наркология
 image: /img/Odessa new/fem6.jpg
 imageText: Капельница от алкоголя Одесса
