@@ -4,6 +4,7 @@ tabTitle: >-
   грн
 title: Кодування від алкоголізму уколом Дисульфірам
 description: Umbrella Plus Безпечна Наркологія
+image: /img/Odessa new/452koddis.jpg
 imageText: Кодування від алкоголізму уколом Дисульфірам
 ratingAvarage: 4.98/5
 rating: '2114'
