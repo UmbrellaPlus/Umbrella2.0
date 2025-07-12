@@ -33,4 +33,4 @@ reviewType: alk-2
 | [Кодування від алкоголізму](kodirovka-ot-alkogolia-od-ua)                                    | Від 4999 грн |
 | [Кодування від алкоголізму уколом Дисульфірам](kodirovka-ot-alkogolia-ykol-disylfiram-od-ua) | Від 4999 грн |
 | [Кодування від алкоголізму уколом Еспераль](kodirovka-ot-alkogolia-ykolom-esperal-od-ua)     | Від 6999 грн |
-| Подшівка від алкоголізму                                                                     | Від 9999 грн |
+| [Подшівка від алкоголізму](podshivka-ot-alkogolia-od-ua)                                     | Від 9999 грн |
