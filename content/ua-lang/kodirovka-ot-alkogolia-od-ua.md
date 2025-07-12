@@ -1,3 +1,13 @@
+---
+tabTitle: Кодування від алкоголізму Одеса | Umbrella Plus | Від 4999 грн
+title: Кодування від алкоголізму Одеса
+description: UmbrellaPlus Безпечна Наркологія
+image: /img/Odessa new/24kod.jpg
+imageText: Кодування від алкоголізму Одеса
+ratingAvarage: 4.98/5
+rating: '2611'
+reviewType: kod-2
+---
 
 ## Кодування від алкоголізму Одеса
 
