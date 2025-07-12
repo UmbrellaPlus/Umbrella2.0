@@ -48,12 +48,12 @@ reviewType: alk-2
 
 Вартість **крапельниці від алкоголю на дому в Одесі** починається від 2199 грн.
 
-| Популярні Послуги                                                                                           | Вартість     |
-| ----------------------------------------------------------------------------------------------------------- | ------------ |
-| [Виведення з запою](https://umbrella-plus.com.ua/uk/vivod-iz-zapoia-od-ua/)                                 | Від 1999 грн |
-| [Виведення з запою вдома](https://umbrella-plus.com.ua/uk/vivod-iz-zapoia-na-domy-od-ua/)                   | Від 2199 грн |
-| [Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/services/kapelnica_ot_alkogola_umbrellaplus-ua/) | Від 1999 грн |
-| [Крапельниця від алкоголю вдома](https://umbrella-plus.com.ua/uk/vizov-narkologa-od-ua/)                    | Від 2199 грн |
+| Популярні Послуги                                                                                       | Вартість     |
+| ------------------------------------------------------------------------------------------------------- | ------------ |
+| [Виведення з запою](https://umbrella-plus.com.ua/uk/vivod-iz-zapoia-od-ua/)                             | Від 1999 грн |
+| [Виведення з запою вдома](https://umbrella-plus.com.ua/uk/vivod-iz-zapoia-na-domy-od-ua/)               | Від 2199 грн |
+| [Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/kapelnica-ot-alkogolia-od-ua/)               | Від 1999 грн |
+| [Крапельниця від алкоголю вдома](https://umbrella-plus.com.ua/uk/kapelnica-ot-alkogolia-na-domu-od-ua/) | Від 2199 грн |
 
 ## Виведення з запою вдома: Показання, протипоказання та процес
 
