@@ -2,6 +2,7 @@
 tabTitle: Кодування від алкоголізму уколом Еспераль Одеса | Umbrella Plus | Від 6999 грн
 title: Кодування від алкоголізму уколом Еспераль
 description: Umbrella Plus Безпечна Наркологія
+image: /img/Odessa new/kodesperal.jpg
 imageText: Кодування від алкоголізму уколом Еспераль
 ratingAvarage: 4.98/5
 rating: '4122'
