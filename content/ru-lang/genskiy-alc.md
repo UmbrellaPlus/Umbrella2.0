@@ -1,5 +1,5 @@
 ---
-tabTitle: Как вылечить женский алкоголизм | Umbrella Plus | Советы Нарколога
+tabTitle: Как вылечить женский алкоголизм | Umbrella Plus | От 1999 грн
 title: Как вылечить женский алкоголизм
 description: Umbrella Plus Безопасная Наркология
 image: /img/goroda/genskiy-alkogolizm/genskiy-alc-odessa.jpg
