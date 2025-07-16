@@ -69,12 +69,12 @@ reviewType: kod-2
 
 Стоимость **кодирования от алкоголизма в Одессе** начинается от 4999 грн.
 
-| Самые Популярные Услуги \| UmbrellaPlus                                                                    | Цена        |
-| ---------------------------------------------------------------------------------------------------------- | ----------- |
-| [Капельница от похмелья Одесса](https://umbrella-plus.com.ua/kapelnica-ot-alkogolia-od/)                   | От 1699 грн |
-| [Капельница от похмелья на дому Одесса](https://umbrella-plus.com.ua/kapelnica-ot-alkogolizma-na-domy-od/) | От 1999 грн |
-| [Вывод из запоя Одесса](https://umbrella-plus.com.ua/vivod-iz-zapoia-od/)                                  | От 1699 грн |
-| [Вывод из запоя на дому Одесса](https://umbrella-plus.com.ua/vivod-iz-zapoia-na-domy-od/)                  | От 1999 грн |
+| Популярные Услуги                                                                                   | Цена        |
+| --------------------------------------------------------------------------------------------------- | ----------- |
+| [Вывод из запоя](https://umbrella-plus.com.ua/vivod-iz-zapoia-od/)                                  | От 1999 грн |
+| [Вывод из запоя на дому](https://umbrella-plus.com.ua/vivod-iz-zapoia-na-domy-od/)                  | От 2199 грн |
+| [Капельница от алкоголя](https://umbrella-plus.com.ua/kapelnica-ot-alkogolia-od/)                   | От 1999 грн |
+| [Капельница от алкоголя на дому](https://umbrella-plus.com.ua/kapelnica-ot-alkogolizma-na-domy-od/) | От 2199 грн |
 
 ## Показания к кодированию от алкоголя: Когда Кодирование Необходимо
 
