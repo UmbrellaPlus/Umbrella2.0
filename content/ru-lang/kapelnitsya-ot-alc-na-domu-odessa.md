@@ -1,7 +1,7 @@
 ---
 tabTitle: >-
   Капельница от алкогольной интоксикации на дому Одесса | Umbrella Plus | От
-  2199грн 
+  2199 грн 
 title: Капельница от алкогольной интоксикации Одесса
 description: UmbrellaPlus Безопасная Наркология
 image: /img/Odessa new/3f.jpg
