@@ -11,11 +11,11 @@ reviewType: alk-2
 
 | UmbrellaPlus Київ \| Працюємо без вихідних                                                  | Цена         |
 | ------------------------------------------------------------------------------------------- | ------------ |
-| [Екстрений виклик нарколога](https://umbrella-plus.com.ua/uk/blog/narcolog-na-dom-kiev-ua/) | Від 2000 грн |
-| [Виведення із запою](https://umbrella-plus.com.ua/uk/kiev/vivod-iz-zapoia-kiev-ua/)         | Від 2200 грн |
-| [Виведення із запою вдома](Vivod-iz-zapoia-na-domy-kiev-ua)                                 | Від 2500 грн |
-| [Крапельниця від похмілля](Kapelnica_ot_alkogola_kiev)                                      | Від 2200 грн |
-| [Крапельниця від похмілля вдома](Kapelnica_ot_alkogola_na_dom_kiev)                         | Від 2500 грн |
+| [Екстрений виклик нарколога](https://umbrella-plus.com.ua/uk/blog/narcolog-na-dom-kiev-ua/) | Від 2500 грн |
+| [Виведення із запою](https://umbrella-plus.com.ua/uk/kiev/vivod-iz-zapoia-kiev-ua/)         | Від 2500 грн |
+| [Виведення із запою вдома](Vivod-iz-zapoia-na-domy-kiev-ua)                                 | Від 2700 грн |
+| [Крапельниця від алкоголю ](Kapelnica_ot_alkogola_kiev)                                     | Від 2500 грн |
+| [Крапельниця від алкоголю вдома](Kapelnica_ot_alkogola_na_dom_kiev)                         | Від 2700 грн |
 
 | Послуга                                                                                   | Ціна          |
 | ----------------------------------------------------------------------------------------- | ------------- |
