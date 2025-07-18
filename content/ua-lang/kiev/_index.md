@@ -1,11 +1,11 @@
 ---
-tabTitle: Лікування алкоголізму у Києві | Umbrella Plus | Від 2200 грн
+tabTitle: Послуги Лікування Алкоголізму в Києві | Umbrella Plus | Безпечна наркологія
 title: Лікування алкоголізму в Києві
-description: Цілодобова екстрена допомога у Києві
+description: UmbrellaPlus Безпечна Наркологія
 image: /img/Kiev New/ebf6bbf6812e669e29e09ba76038c020_high.jpg
-imageText: Лікування алкоголізму Київ
+imageText: Послуги Лікування Алкоголізму в Києві
 ratingAvarage: 4.97/5
-rating: '4872'
+rating: '6324'
 reviewType: alk-2
 ---
 
