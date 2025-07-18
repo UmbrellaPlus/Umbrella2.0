@@ -12,16 +12,16 @@ reviewType: alk-2
 | UmbrellaPlus Київ \| Працюємо без вихідних                                                  | Цена         |
 | ------------------------------------------------------------------------------------------- | ------------ |
 | [Екстрений виклик нарколога](https://umbrella-plus.com.ua/uk/blog/narcolog-na-dom-kiev-ua/) | Від 2500 грн |
-| [Виведення із запою](https://umbrella-plus.com.ua/uk/kiev/vivod-iz-zapoia-kiev-ua/)         | Від 2500 грн |
-| [Виведення із запою вдома](Vivod-iz-zapoia-na-domy-kiev-ua)                                 | Від 2700 грн |
+| [Виведення з запою](https://umbrella-plus.com.ua/uk/kiev/vivod-iz-zapoia-kiev-ua/)          | Від 2500 грн |
+| [Виведення з запою вдома](Vivod-iz-zapoia-na-domy-kiev-ua)                                  | Від 2700 грн |
 | [Крапельниця від алкоголю ](Kapelnica_ot_alkogola_kiev)                                     | Від 2500 грн |
 | [Крапельниця від алкоголю вдома](Kapelnica_ot_alkogola_na_dom_kiev)                         | Від 2700 грн |
 
 | Послуга                                                                                   | Ціна          |
 | ----------------------------------------------------------------------------------------- | ------------- |
 | [Лікування алкоголізму Київ](likyvania-alkogolizmy-kiev)                                  | Від 2500 грн  |
-| [Виведення із запою Київ](Vivod-iz-zapoia-kiev-ua)                                        | Від 2500 грн  |
-| [Виведення із запою вдома Київ](Vivod-iz-zapoia-na-domy-kiev-ua)                          | Від 2700 грн  |
+| [Виведення з запою Київ](Vivod-iz-zapoia-kiev-ua)                                         | Від 2500 грн  |
+| [Виведення з запою вдома Київ](Vivod-iz-zapoia-na-domy-kiev-ua)                           | Від 2700 грн  |
 | [Крапельниця від алкоголю Київ](Kapelnica_ot_alkogola_kiev)                               | Від 2500 грн  |
 | [Крапельниця від алкоголю вдома Київ](Kapelnica_ot_alkogola_na_dom_kiev)                  | Від 2700 грн  |
 | [Лікування пивного алкоголізму Київ](likyvania-pivnogo-alkogolizma-kyiv)                  | Від 2500 грн  |
