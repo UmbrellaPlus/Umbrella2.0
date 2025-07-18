@@ -1,11 +1,9 @@
 ---
-tabTitle: Лечение алкоголизма в Киеве | Umbrella Plus | От 2200 грн
-title: Лечение алкоголизма в Киеве
-description: >-
-  Выводим даже из самых затяжных и тяжелых запоев – быстро, безопасно и
-  анонимно!
+tabTitle: Послуги Лікування Алкоголізму в Києві | Umbrella Plus | Безпечна наркологія
+title: Лечение Алкоголизма в Киеве
+description: UmbrellaPlus Безопасная Наркология
 image: /img/Kiev New/ebf6bbf6812e669e29e09ba76038c020_high.jpg
-imageText: Лечение алкоголизма Киев
+imageText: Послуги Лікування Алкоголізму в Києві
 ratingAvarage: 4.97/5
 rating: '6324'
 reviewType: alk-1
