@@ -19,16 +19,16 @@ reviewType: alk-2
 
 | Послуга                                                                                   | Ціна          |
 | ----------------------------------------------------------------------------------------- | ------------- |
-| [Лікування алкоголізму Київ](likyvania-alkogolizmy-kiev)                                  | Від 2200 грн  |
-| [Виведення із запою Київ](Vivod-iz-zapoia-kiev-ua)                                        | Від 2200  грн |
-| [Виведення із запою вдома Київ](Vivod-iz-zapoia-na-domy-kiev-ua)                          | Від 2500 грн  |
-| [Крапельниця від алкоголю Київ](Kapelnica_ot_alkogola_kiev)                               | Від 2200  грн |
-| [Крапельниця від алкоголю вдома Київ](Kapelnica_ot_alkogola_na_dom_kiev)                  | Від 2500грн   |
-| [Лікування пивного алкоголізму Київ](likyvania-pivnogo-alkogolizma-kyiv)                  | Від 3000 грн  |
-| [Лікування жіночого алкоголізму Київ](likyvania-jenskogo-alkogolizma-kiev)                | Від 3000 грн  |
-| [Кодування від алкоголізму Київ](kodirovka-ot-alkogolia-kiev-ua)                          | Від 4999 грн  |
-| [Кодування від алкоголізму уколом Дисульфірам](kodirovka-ot-alkogolia-disulfiram-kiev-ua) | Від 4999 грн  |
-| [Кодування від алкоголізму уколом Еспераль](kodirovka-ot-alkogolizma-espiarl-kiev-ua)     | Від 6999 грн  |
+| [Лікування алкоголізму Київ](likyvania-alkogolizmy-kiev)                                  | Від 2500 грн  |
+| [Виведення із запою Київ](Vivod-iz-zapoia-kiev-ua)                                        | Від 2500 грн  |
+| [Виведення із запою вдома Київ](Vivod-iz-zapoia-na-domy-kiev-ua)                          | Від 2700 грн  |
+| [Крапельниця від алкоголю Київ](Kapelnica_ot_alkogola_kiev)                               | Від 2500 грн  |
+| [Крапельниця від алкоголю вдома Київ](Kapelnica_ot_alkogola_na_dom_kiev)                  | Від 2700 грн  |
+| [Лікування пивного алкоголізму Київ](likyvania-pivnogo-alkogolizma-kyiv)                  | Від 2500 грн  |
+| [Лікування жіночого алкоголізму Київ](likyvania-jenskogo-alkogolizma-kiev)                | Від 2500 грн  |
+| [Кодування від алкоголізму Київ](kodirovka-ot-alkogolia-kiev-ua)                          | Від 6999 грн  |
+| [Кодування від алкоголізму уколом Дисульфірам](kodirovka-ot-alkogolia-disulfiram-kiev-ua) | Від 6999 грн  |
+| [Кодування від алкоголізму уколом Еспераль](kodirovka-ot-alkogolizma-espiarl-kiev-ua)     | Від 8999 грн  |
 | Підшивка від алкоголю Київ                                                                | Від 9999 грн  |
 | Кодування за методом Довженка Київ                                                        | Від 14999 грн |
 
