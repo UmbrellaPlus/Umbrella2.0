@@ -1,7 +1,7 @@
 ---
-tabTitle: Капельница от алкоголя на дому Киев | Umbrella Plus | От 1699 грн
+tabTitle: Капельница от алкоголя на дому Киев | Umbrella Plus | От 2700 грн
 title: Капельница от алкоголя на дому Киев
-description: Прокапаться дома – быстрый метод в лечении похмелья
+description: UmbrellaPlus Безопасная Наркология
 image: /img/Kiev New/9b2aa3aa-70ce-47cb-825e-0b8190711beb.jpg
 imageText: Капельница от алкоголя Киев
 ratingAvarage: 4.97/5
