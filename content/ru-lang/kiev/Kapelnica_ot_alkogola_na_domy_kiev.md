@@ -4,7 +4,7 @@ title: Капельница от алкоголя на дому Киев
 description: UmbrellaPlus Безопасная Наркология
 image: /img/Kiev New/9b2aa3aa-70ce-47cb-825e-0b8190711beb.jpg
 imageText: Капельница от алкоголя Киев
-ratingAvarage: 4.97/5
+ratingAvarage: 4.98/5
 rating: '6664'
 reviewType: alk-2
 ---
