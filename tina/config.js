@@ -252,15 +252,26 @@ export default defineConfig({
         fields: [...cityTemplate],
       },
       {
-        name: "services_ru",
-        label: "Услуги-RU",
+        name: "lech_alc_ru",
+        label: "Лечение-алкоголизма-RU",
         path: "content/ru-lang/services",
         fields: [...cityTemplate],
       },
       {
-        name: "services_ua",
-        label: "Услуги-UA",
+        name: "lech_nark_ru",
+        label: "Лечение-накромании-RU",
+        path: "content/ru-lang/services-nark",
+        fields: [...cityTemplate],
+      },
+      {
+        name: "lech_alc_ua",
+        label: "Лечение-алкоголзима-UA",
         path: "content/ua-lang/services",
+        fields: [...cityTemplate],
+      },      {
+        name: "lech_nark_ua",
+        label: "Лечение-наркомании-UA",
+        path: "content/ua-lang/services-nark",
         fields: [...cityTemplate],
       },
       {

@@ -12,9 +12,13 @@ defaultContentLanguageInSubdir = false
         languageName = 'RU'
         weight = 10
             [[languages.ru.menus.main]]
-                name = 'Услуги'
+                name = 'Лечение алкоголизма'
                 pageRef = '/services'
                 weight = 10
+            [[languages.ru.menus.main]]
+                name = 'Лечение наркомании'
+                pageRef = '/services-nark'
+                weight = 15
             [[languages.ru.menus.main]]
                 name = 'Медицинский блог'
                 pageRef = '/blog'
@@ -74,9 +78,13 @@ defaultContentLanguageInSubdir = false
         languageName = 'UA'
         weight = 20
             [[languages.uk.menus.main]]
-                name = 'Послуги'
+                name = 'Лікування алкоголізму'
                 pageRef = '/services'
                 weight = 10
+            [[languages.uk.menus.main]]
+                name = 'Лікування наркоманії'
+                pageRef = '/services-nark'
+                weight = 15
             [[languages.uk.menus.main]]
                 name = 'Медичний блог'
                 pageRef = '/blog'

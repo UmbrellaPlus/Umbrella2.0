@@ -3,10 +3,19 @@ document.addEventListener("DOMContentLoaded", function () {
   new Splide("#image-carousel", {
     type: "loop",
     speed: 800,
-    perPage: 2,
+    perPage: 3,
     breakpoints: {
       640: {
         perPage: 1,
+      },
+      1280: {
+        perPage: 2,
+      },
+      1640: {
+        perPage: 3,
+      },
+      1920: {
+        perPage: 4,
       },
     },
   }).mount();

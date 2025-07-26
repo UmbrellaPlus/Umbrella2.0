@@ -38,7 +38,7 @@
 }
 .clinic-img img {
   object-fit: contain;
-  width: 100%;
+  width: 80%;
   box-shadow: -7px 7px 0px var(--blue);
   border-radius: 0px 10px 0px 0px;
 }

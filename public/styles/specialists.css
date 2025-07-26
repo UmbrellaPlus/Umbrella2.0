@@ -42,12 +42,15 @@
 .doctor-block img {
   object-fit: fill;
   height: auto;
-  width: 50%;
-  box-shadow: 5px -5px 0px var(--blue);
-  border-radius: 0 0 0 10px;
+  width: 75%;
+  box-shadow: -3px 3px 0px var(--blue);
+  border-radius: 0 10px 0 0;
+  margin-bottom:10px;
 }
-.doctor-block p {
-  font-size: 0.9rem;
+.doctor-name{
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--blue)
 }
 @media (max-width: 768px) {
   .splide{
