@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Лікування алкоголізму в Запоріжжі on Umbrella Plus</title>
-    <link>https://umbrella-plus.com.ua/uk/zaporozie/</link>
+    <link>http://localhost:1313/uk/zaporozie/</link>
     <description>Recent content in Лікування алкоголізму в Запоріжжі on Umbrella Plus</description>
     <generator>Hugo</generator>
     <language>uk-UA</language>
-    <atom:link href="https://umbrella-plus.com.ua/uk/zaporozie/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/uk/zaporozie/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
