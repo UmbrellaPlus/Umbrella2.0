@@ -57,6 +57,7 @@
 <link rel="stylesheet" href="../../styles/partners-carousel.css" />
 <link rel="stylesheet" href="../../styles/reviews-screenshots.css" />
 <link rel="stylesheet" href="../../styles/media-query.css" />
+
 <link
   href="
 https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
@@ -105,54 +106,114 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
     
     <header>
   <nav>
-     
-    <a href="../../"
-      ><img src="../../img/header-preheader/logo.webp" alt="Logo"
-    /></a>
-     
+    
+    
+    <a href="../../">
+      <img src="../../img/header-preheader/logo.webp" alt="Logo" />
+    </a>
+    
+    
+    
+    
+
     <ul class="language-switcher">
-       
+      
+      
       <li>
         <a>
-          RU<img
-            src="../../img/header-preheader/down-arrow.png"
-            alt="down-arrow"
-            style="width: 15px; vertical-align: middle"
-        /></a>
+          RU
+          <img
+                  src="../../img/header-preheader/down-arrow.png"
+                  alt="down-arrow"
+                  style="width: 15px; vertical-align: middle"
+          />
+        </a>
       </li>
-          
-      <li><a href="../../uk/">UA</a></li>
-       
+      
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="../../uk/">UA</a>
+      </li>
+      
+      
     </ul>
 
-    <a href="https://t.me/umbrellaplus" class="telegram-header"
-      ><img src="../../img/header-preheader/telegram.png" alt="Telegram"
-    /></a>
+    <a href="https://t.me/umbrellaplus" class="telegram-header">
+      <img src="../../img/header-preheader/telegram.png" alt="Telegram" />
+    </a>
+
     <ul id="nav-links">
       
       <li>
-        <a href="../../services/">Лечение алкоголизма 
+        <a href="../../services/"
+           
+        id="services"
+        onclick="event.preventDefault();"
+        >
+        Услуги
+        
+        <img
+                src="../../img/header-preheader/down-arrow.png"
+                alt="down-arrow"
+                style="width: 15px; vertical-align: middle"
+        />
+        
+        </a>
+
+        
+        <ul id="services-list">
+          
+          <li><a href="../../services/">Лечение алкоголизма</a></li>
+          
+          <li><a href="../../services-nark/">Лечение наркомании</a></li>
+          
+        </ul>
+        
       </li>
       
       <li>
-        <a href="../../services-nark/">Лечение наркомании 
+        <a href="../../#doctors"
+           >
+        Врачи
+        
+        </a>
+
+        
       </li>
       
       <li>
-        <a href="../../blog/">Медицинский блог 
+        <a href="../../blog/"
+           >
+        Блог
+        
+        </a>
+
+        
       </li>
       
       <li>
-        <a href="../../contacts/">Контакты 
-      </li>
-      
-      <li>
-        <a href=""id="filials"
-        onclick="event.preventDefault();">Филиалы<img
-          src="../../img/header-preheader/down-arrow.png"
-          alt="down-arrow"
-          style="width: 15px; vertical-align: middle"
-        /> 
+        <a href=""
+           
+        id="filials"
+        onclick="event.preventDefault();"
+        >
+        Филиалы
+        
+        <img
+                src="../../img/header-preheader/down-arrow.png"
+                alt="down-arrow"
+                style="width: 15px; vertical-align: middle"
+        />
+        
+        </a>
+
+        
         <ul id="filials-list">
           
           <li><a href="../../lechenie-alc/">Одесса</a></li>
@@ -175,7 +236,45 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
         
       </li>
       
+      <li>
+        <a href="../../#image-carousel"
+           >
+        Отзывы
+        
+        </a>
+
+        
+      </li>
+      
+      <li>
+        <a href=""
+           
+        id="extra"
+        onclick="event.preventDefault();"
+        >
+        Дополнительно
+        
+        <img
+                src="../../img/header-preheader/down-arrow.png"
+                alt="down-arrow"
+                style="width: 15px; vertical-align: middle"
+        />
+        
+        </a>
+
+        
+        <ul id="extra-list">
+          
+          <li><a href="../../contacts/">Контакты</a></li>
+          
+          <li><a href="">О нас</a></li>
+          
+        </ul>
+        
+      </li>
+      
     </ul>
+
     <div id="hamburger">
       <span class="line"></span>
       <span class="line"></span>
@@ -494,15 +593,17 @@ UmbrellaPlus — ваш надежный шаг к свободной и тре�
       <div>
         <ul>
           
-          <li><a href="../../services/">Лечение алкоголизма</a></li>
+          <li><a href="../../services/">Услуги</a></li>
           
-          <li><a href="../../services-nark/">Лечение наркомании</a></li>
+          <li><a href="../../#doctors">Врачи</a></li>
           
-          <li><a href="../../blog/">Медицинский блог</a></li>
-          
-          <li><a href="../../contacts/">Контакты</a></li>
+          <li><a href="../../blog/">Блог</a></li>
           
           <li><a href=""style="display:none">Филиалы</a></li>
+          
+          <li><a href="../../#image-carousel">Отзывы</a></li>
+          
+          <li><a href="">Дополнительно</a></li>
           
         </ul>
       </div>
@@ -511,8 +612,13 @@ UmbrellaPlus — ваш надежный шаг к свободной и тре�
       <div>
         
         
+        <ul>
           
-        
+          <li><a href="../../services/">Лечение алкоголизма</a></li>
+          
+          <li><a href="../../services-nark/">Лечение наркомании</a></li>
+          
+          
           
         
           
@@ -536,6 +642,17 @@ UmbrellaPlus — ваш надежный шаг к свободной и тре�
           <li><a href="../../chornomorsk/">Черноморск</a></li>
           
           <li><a href="../../kamianske/">Каменское</a></li>
+          
+          
+          
+        
+          
+        
+        <ul>
+          
+          <li><a href="../../contacts/">Контакты</a></li>
+          
+          <li><a href="">О нас</a></li>
           
           
           

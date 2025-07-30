@@ -1,0 +1,26 @@
+.collaboration-page {
+    padding: 2rem;
+    background: #f9f9f9;
+}
+
+.collaboration-form {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.collaboration-form input,
+.collaboration-form textarea {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+}
+
+.collaboration-form button {
+    background-color: var(--blue);
+    color: white;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    cursor: pointer;
+}

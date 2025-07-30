@@ -58,6 +58,7 @@
 <link rel="stylesheet" href="../styles/partners-carousel.css" />
 <link rel="stylesheet" href="../styles/reviews-screenshots.css" />
 <link rel="stylesheet" href="../styles/media-query.css" />
+
 <link
   href="
 https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
@@ -108,54 +109,114 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 </div>
  <header>
   <nav>
-      
-    <a href="../uk/"
-      ><img src="../img/header-preheader/logo.webp" alt="Logo"
-    /></a>
     
+    
+    
+    
+    <a href="../uk/">
+      <img src="../img/header-preheader/logo.webp" alt="Logo" />
+    </a>
+    
+    
+
     <ul class="language-switcher">
-         
+      
+      
+      
+      
       <li>
         <a>
-          UA<img
-            src="../img/header-preheader/down-arrow.png"
-            alt="down-arrow"
-            style="width: 15px; vertical-align: middle"
-        /></a>
+          UA
+          <img
+                  src="../img/header-preheader/down-arrow.png"
+                  alt="down-arrow"
+                  style="width: 15px; vertical-align: middle"
+          />
+        </a>
       </li>
-       
-      <li><a href="../">RU</a></li>
-        
+      
+      
+      
+      
+      <li>
+        <a href="../">RU</a>
+      </li>
+      
+      
+      
+      
     </ul>
 
-    <a href="https://t.me/umbrellaplus" class="telegram-header"
-      ><img src="../img/header-preheader/telegram.png" alt="Telegram"
-    /></a>
+    <a href="https://t.me/umbrellaplus" class="telegram-header">
+      <img src="../img/header-preheader/telegram.png" alt="Telegram" />
+    </a>
+
     <ul id="nav-links">
       
       <li>
-        <a href="../uk/services/">Лікування алкоголізму 
+        <a href="../uk/services/"
+           
+        id="services"
+        onclick="event.preventDefault();"
+        >
+        Послуги
+        
+        <img
+                src="../img/header-preheader/down-arrow.png"
+                alt="down-arrow"
+                style="width: 15px; vertical-align: middle"
+        />
+        
+        </a>
+
+        
+        <ul id="services-list">
+          
+          <li><a href="../uk/services/">Лікування алкоголізму</a></li>
+          
+          <li><a href="../uk/services-nark/">Лікування наркоманії</a></li>
+          
+        </ul>
+        
       </li>
       
       <li>
-        <a href="../uk/services-nark/">Лікування наркоманії 
+        <a href="../#doctors"
+           >
+        Лікарі
+        
+        </a>
+
+        
       </li>
       
       <li>
-        <a href="../uk/blog/">Медичний блог 
+        <a href="../uk/blog/"
+           >
+        Блог
+        
+        </a>
+
+        
       </li>
       
       <li>
-        <a href="../uk/contacts/">Контакти 
-      </li>
-      
-      <li>
-        <a href=""id="filials"
-        onclick="event.preventDefault();">Філіали<img
-          src="../img/header-preheader/down-arrow.png"
-          alt="down-arrow"
-          style="width: 15px; vertical-align: middle"
-        /> 
+        <a href=""
+           
+        id="filials"
+        onclick="event.preventDefault();"
+        >
+        Філіали
+        
+        <img
+                src="../img/header-preheader/down-arrow.png"
+                alt="down-arrow"
+                style="width: 15px; vertical-align: middle"
+        />
+        
+        </a>
+
+        
         <ul id="filials-list">
           
           <li><a href="../uk/lechenie-alc/">Одеса</a></li>
@@ -178,7 +239,45 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
         
       </li>
       
+      <li>
+        <a href="../#image-carousel"
+           >
+        Відгуки
+        
+        </a>
+
+        
+      </li>
+      
+      <li>
+        <a href=""
+           
+        id="extra"
+        onclick="event.preventDefault();"
+        >
+        Додатково
+        
+        <img
+                src="../img/header-preheader/down-arrow.png"
+                alt="down-arrow"
+                style="width: 15px; vertical-align: middle"
+        />
+        
+        </a>
+
+        
+        <ul id="extra-list">
+          
+          <li><a href="../uk/contacts/">Контакти</a></li>
+          
+          <li><a href="">Про нас</a></li>
+          
+        </ul>
+        
+      </li>
+      
     </ul>
+
     <div id="hamburger">
       <span class="line"></span>
       <span class="line"></span>
@@ -220,28 +319,6 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
       </div>
     </main>
 
-    
-    <div class="partners-carousel-container">
-      <h2>Наші партнери</h2>
-      <section id="partners-carousel" class="splide">
-        <div class="splide__track">
-          <ul class="partners-block-container splide__list">
-            <li class="partner splide__slide">
-              <img src="../img/partners/partner-synevo.webp" alt="Synevo" />
-            </li>
-            <li class="partner splide__slide">
-              <img src="../img/partners/partner-analitika.webp" alt="Analitika" />
-            </li>
-            <li class="partner splide__slide">
-              <img src="../img/partners/partner-invivo.webp" alt="Invivo" />
-            </li>
-            <li class="partner splide__slide">
-              <img src="../img/partners/partner-smartlab.webp" alt="Smartlab" />
-            </li>
-          </ul>
-        </div>
-      </section>
-    </div>
 
     
 
@@ -404,7 +481,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
       </div>
     </div>
 
-    <div class="doctors">
+    <div class="doctors" id="doctors">
   <h2>Наші спеціалісти</h2>
   <section id="image-carousel" class="splide">
     <div class="splide__track">
@@ -635,6 +712,29 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 </dialog>
 
     </div>
+    
+    <div class="partners-carousel-container">
+      <h2>Наші партнери</h2>
+      <section id="partners-carousel" class="splide">
+        <div class="splide__track">
+          <ul class="partners-block-container splide__list">
+            <li class="partner splide__slide">
+              <img src="../img/partners/partner-synevo.webp" alt="Synevo" />
+            </li>
+            <li class="partner splide__slide">
+              <img src="../img/partners/partner-analitika.webp" alt="Analitika" />
+            </li>
+            <li class="partner splide__slide">
+              <img src="../img/partners/partner-invivo.webp" alt="Invivo" />
+            </li>
+            <li class="partner splide__slide">
+              <img src="../img/partners/partner-smartlab.webp" alt="Smartlab" />
+            </li>
+          </ul>
+        </div>
+      </section>
+    </div>
+
     <div class="contacts">
   <div class="contacts-container">
     <div class="contacts-numbers">
@@ -674,15 +774,17 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
       <div>
         <ul>
           
-          <li><a href="../uk/services/">Лікування алкоголізму</a></li>
+          <li><a href="../uk/services/">Послуги</a></li>
           
-          <li><a href="../uk/services-nark/">Лікування наркоманії</a></li>
+          <li><a href="../#doctors">Лікарі</a></li>
           
-          <li><a href="../uk/blog/">Медичний блог</a></li>
-          
-          <li><a href="../uk/contacts/">Контакти</a></li>
+          <li><a href="../uk/blog/">Блог</a></li>
           
           <li><a href=""style="display:none">Філіали</a></li>
+          
+          <li><a href="../#image-carousel">Відгуки</a></li>
+          
+          <li><a href="">Додатково</a></li>
           
         </ul>
       </div>
@@ -691,8 +793,13 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
       <div>
         
         
+        <ul>
           
-        
+          <li><a href="../uk/services/">Лікування алкоголізму</a></li>
+          
+          <li><a href="../uk/services-nark/">Лікування наркоманії</a></li>
+          
+          
           
         
           
@@ -716,6 +823,17 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
           <li><a href="../uk/chornomorsk/">Чорноморськ</a></li>
           
           <li><a href="../uk/kamianske/">Кам’янське</a></li>
+          
+          
+          
+        
+          
+        
+        <ul>
+          
+          <li><a href="../uk/contacts/">Контакти</a></li>
+          
+          <li><a href="">Про нас</a></li>
           
           
           

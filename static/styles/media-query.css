@@ -1,3 +1,25 @@
+@media (max-width: 1299px) {
+    #nav-links {
+        font-size: 0.9rem;
+    }
+}
+@media (max-width: 1075px) {
+    #nav-links {
+        font-size: 0.8rem;
+    }
+    #extra:hover + #extra-list,
+    #extra-list:hover {
+        right: 5rem;
+    }
+    #services:hover + #services-list,
+    #services-list:hover  {
+        left: 15rem;
+    }
+    #filials:hover + #filials-list,
+    #filials-list:hover {
+        right: 15rem;
+    }
+}
 @media (min-width: 1149px) {
     body .preview {
         object-fit: contain;
@@ -5,6 +27,18 @@
         box-shadow: -7px 7px 0px var(--blue);
         border-radius: 0px 10px 0px 0px;
         backface-visibility: hidden;
+    }
+    #extra:hover + #extra-list,
+    #extra-list:hover {
+        right: 10rem;
+    }
+    #services:hover + #services-list,
+    #services-list:hover  {
+        left: 10rem;
+    }
+    #filials:hover + #filials-list,
+    #filials-list:hover {
+        right: 20rem;
     }
 }
 @media (min-width: 1399px) {
@@ -15,6 +49,18 @@
         border-radius: 0px 10px 0px 0px;
         backface-visibility: hidden;
     }
+    #extra:hover + #extra-list,
+    #extra-list:hover {
+        right: 10rem;
+    }
+    #services:hover + #services-list,
+    #services-list:hover  {
+        left: 15rem;
+    }
+    #filials:hover + #filials-list,
+    #filials-list:hover {
+        right: 25rem;
+    }
 }
 @media (min-width: 1649px) {
     body .preview {
@@ -23,5 +69,17 @@
         box-shadow: -7px 7px 0px var(--blue);
         border-radius: 0px 10px 0px 0px;
         backface-visibility: hidden;
+    }
+    #extra:hover + #extra-list,
+    #extra-list:hover {
+        right: 10rem;
+    }
+    #services:hover + #services-list,
+    #services-list:hover  {
+        left: 25rem;
+    }
+    #filials:hover + #filials-list,
+    #filials-list:hover {
+        right: 35rem;
     }
 }
