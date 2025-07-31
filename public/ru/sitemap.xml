@@ -530,6 +530,16 @@
     <loc>http://localhost:1313/blog/sostav_kapelnici_ot_alkogolia/</loc>
   </url><url>
     <loc>http://localhost:1313/collaboration/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/uk/collaboration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="http://localhost:1313/collaboration/"
+                />
   </url><url>
     <loc>http://localhost:1313/blog/chto-delat-pri-zapoiah-kharkiv-blog/</loc>
   </url><url>

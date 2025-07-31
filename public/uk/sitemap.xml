@@ -423,6 +423,18 @@
   </url><url>
     <loc>http://localhost:1313/uk/blog/sostav_kapelnici_ot_alkogolia-ua/</loc>
   </url><url>
+    <loc>http://localhost:1313/uk/collaboration/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="http://localhost:1313/collaboration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/uk/collaboration/"
+                />
+  </url><url>
     <loc>http://localhost:1313/uk/blog/chem-kapaut-ot-zapoia-blog-ua/</loc>
   </url><url>
     <loc>http://localhost:1313/uk/blog/bistro-viiti-iz-zapoia-ua/</loc>
