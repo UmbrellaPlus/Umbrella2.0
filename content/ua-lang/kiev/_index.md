@@ -1,6 +1,6 @@
 ---
 tabTitle: Послуги Лікування Алкоголізму в Києві | Umbrella Plus | Безпечна наркологія
-title: Лікування алкоголізму в Києві
+title: Лікування алкоголізму Київ
 description: UmbrellaPlus Безпечна Наркологія
 image: /img/Kiev New/ebf6bbf6812e669e29e09ba76038c020_high.jpg
 imageText: Послуги Лікування Алкоголізму в Києві
