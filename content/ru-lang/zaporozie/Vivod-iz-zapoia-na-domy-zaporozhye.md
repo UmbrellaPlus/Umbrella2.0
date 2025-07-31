@@ -1,11 +1,11 @@
 ---
-tabTitle: Вывод из запоя на дому Запорожье | Umbrella Plus | От 1699 грн
-title: Вывод из запоя на дому в Запорожье
-description: Вывод из запоя на дому безопасен с помощью капельницы от алкоголя.
+tabTitle: Вывод из запоя на дому Запорожье | Umbrella Plus | От 1999 грн
+title: Вывод из запоя на дому Запорожье
+description: UmbrellaPlus Безопасная Наркология
 image: /img/191f4070-9652-4794-b9dc-ce4d34cecf0f.jpg
 imageText: Вывод из запоя на дому Запорожье
-ratingAvarage: 5/5
-rating: '577'
+ratingAvarage: 4.98/5
+rating: '3577'
 reviewType: alk-2
 ---
 
