@@ -2,7 +2,7 @@
 tabTitle: Услуги Лечения Алкоголизма Запорожье | Umbrella Plus | Безопасная Наркология
 title: Лечение алкоголизма Запорожье
 description: UmbrellaPlus Безопасная Наркология
-image: /img/goroda/lechenie-alkogolizma/zaporozje-lechenie-alc.jpg
+image: /img/zaporoje/2osnova.jpg
 imageText: Лечение алкоголизма Запорожье
 ratingAvarage: 4.98/5
 rating: '4532'
