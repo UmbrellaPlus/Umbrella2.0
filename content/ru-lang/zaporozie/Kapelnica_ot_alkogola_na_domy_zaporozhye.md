@@ -4,8 +4,8 @@ title: ' Капельница от алкоголя на дому Запорож
 description: UmbrellaPlus Безопасная Наркология
 image: /img/zaporoje/1.jpg
 imageText: Капельница от алкоголя на дому Запорожье
-ratingAvarage: 4.9/5
-rating: '595'
+ratingAvarage: 4.99/5
+rating: '2595'
 reviewType: alk-1
 ---
 
