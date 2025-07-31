@@ -11,15 +11,25 @@
       <div>
         <ul>
           {{ range site.Menus.main }}
-          <li><a href="{{ .URL }}"{{ if eq .Identifier "filials" }}style="display:none"{{end}}>{{ .Name }}</a></li>
-          {{end}}
+          {{ if or (eq .Identifier "extra") (eq .Identifier "services") }}
+          {{ if .HasChildren }}
+          <!-- Выводим только детей, без самого пункта -->
+          {{ range .Children }}
+          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }}
+          {{ end }}
+          {{ else if eq .Identifier "filials" }}
+          {{ else }}
+          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }}
+          {{ end }}
         </ul>
       </div>
     </div>
     <div class="footer-services">
       <div>
         {{ range site.Menus.main }}
-        {{if .HasChildren}}
+        {{if and (eq .Identifier "filials") .HasChildren}}
         <ul>
           {{range .Children}}
           <li><a href="{{ .URL }}">{{ .Name }}</a></li>
