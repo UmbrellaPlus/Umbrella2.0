@@ -1,9 +1,9 @@
 ---
 tabTitle: Услуги Лечение Алкоголизма в Киеве | Umbrella Plus | Безопасная наркология
-title: Лечение Алкоголизма в Киеве
+title: Лечение алкоголизма Киев
 description: UmbrellaPlus Безопасная Наркология
 image: /img/Kiev New/ebf6bbf6812e669e29e09ba76038c020_high.jpg
-imageText: Услуги Лечение Алкоголизма в Киеве | Umbrella Plus | Безопасная наркология
+imageText: Лечение алкоголизма Киев
 ratingAvarage: 4.97/5
 rating: '6324'
 reviewType: alk-1
