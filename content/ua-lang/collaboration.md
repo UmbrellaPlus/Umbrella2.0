@@ -1,6 +1,7 @@
 ---
 title: Співпраця з UmbrellaPlus
 layout: collaboration
+image: img/collaboration/2L4A0685.jpg
 ---
 
 ## Шановні колеги та рекламодавці!

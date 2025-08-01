@@ -98,6 +98,11 @@ defaultContentLanguageInSubdir = false
                         pageRef = '/about'
                         weight = 20
                         parent = 'extra'
+                    [[languages.ru.menus.main]]
+                        name = 'Сотрудничество'
+                        pageRef = '/collaboration'
+                        weight = 30
+                        parent = 'extra'
     [languages.uk]
         contentDir = 'content/ua-lang'
         languageCode = 'uk-UA'
@@ -188,4 +193,9 @@ defaultContentLanguageInSubdir = false
                         name = 'Про нас'
                         pageRef = '/about'
                         weight = 20
+                        parent = 'extra'
+                    [[languages.uk.menus.main]]
+                        name = 'Співпраця'
+                        pageRef = '/collaboration'
+                        weight = 30
                         parent = 'extra'
