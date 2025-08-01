@@ -56,9 +56,19 @@
       <h1 class="title">{{ .Title }}</h1>
 
       <div class="content">
-        {{ with .Params.image }}
-        <img class="collaboration-img" src="{{ . | relURL }}" alt="Collaboration image">
-        {{ end }}
+        <div class="collaboration-title">
+          {{ with .Params.image }}
+          <img class="collaboration-img" src="{{ . | relURL }}" alt="Collaboration image">
+          <div class="collaboration-title-text">
+            <h2>Уважаемые коллеги и рекламодатели!</h2>
+            <p>Медицинская служба <strong>UmbrellaPlus Безопасная Наркология</strong>активно развивает свою деятельность
+              в Украине и приглашает к взаимовыгодному сотрудничеству врачей различных специальностей, а также
+              представителей рекламной индустрии. Мы нацелены на оказание скорой и квалифицированной помощи всем
+              пациентам, с особым акцентом на наркологическую помощь, и стремимся расширять охват нашей аудитории..</p>
+
+          </div>
+          {{ end }}
+        </div>
         {{ .Content }}
       </div>
 
