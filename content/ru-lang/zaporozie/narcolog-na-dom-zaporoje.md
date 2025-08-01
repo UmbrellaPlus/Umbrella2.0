@@ -6,6 +6,7 @@ image: /img/zaporoje/5nark.jpg
 imageText: Нарколог на дом Запорожье
 ratingAvarage: 4.99/5
 rating: '1744'
+reviewType: alk-1
 ---
 
 ## Нарколог на дом в Запорожье
