@@ -4,10 +4,14 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #222;
     line-height: 1.6;
+    padding-top: 9rem;
 }
 .container{
     max-width: 70%;
     margin: auto;
+}
+.collaboration-img {
+    max-width: 100%;
 }
 .collaboration-page h1.title {
     text-align: center;

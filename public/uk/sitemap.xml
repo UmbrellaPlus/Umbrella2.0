@@ -286,16 +286,6 @@
     <loc>http://localhost:1313/uk/lechenie-alkogolizma-od-ua/</loc>
   </url><url>
     <loc>http://localhost:1313/uk/lechenie-alc/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="http://localhost:1313/lechenie-alc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/uk/lechenie-alc/"
-                />
   </url><url>
     <loc>http://localhost:1313/uk/dnepr/lechenie-alkogolizma-dnepr-ua/</loc>
   </url><url>

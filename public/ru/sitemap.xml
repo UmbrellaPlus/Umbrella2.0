@@ -253,8 +253,6 @@
   </url><url>
     <loc>http://localhost:1313/kharkiv/kodirovka-ot-alkogolia-kharkiv/</loc>
   </url><url>
-    <loc>http://localhost:1313/kodirovanie-dovgenko/</loc>
-  </url><url>
     <loc>http://localhost:1313/kiev/kodirovka-ot-alkogolia-kiev/</loc>
   </url><url>
     <loc>http://localhost:1313/lviv/kodirovka-ot-alkogolia-lvov/</loc>
@@ -397,18 +395,6 @@
                 rel="alternate"
                 hreflang="ru-UA"
                 href="http://localhost:1313/blog/lechenie-alkogolizma-new-kiev/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/lechenie-alc/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/uk/lechenie-alc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="http://localhost:1313/lechenie-alc/"
                 />
   </url><url>
     <loc>http://localhost:1313/kharkiv/lechenie-alkogolizma-kharkiv/</loc>
