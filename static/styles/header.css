@@ -75,7 +75,7 @@ nav a img {
   background-color: whitesmoke;
   z-index: 10000;
   font-weight: 500;
-  font-size: 0.8rem;
+  font-size: 1.2rem;
   list-style: none;
 }
 #nav-links.active {
@@ -83,9 +83,19 @@ nav a img {
 }
 #nav-links.active li {
   width: 100%;
-  padding: 0.2srem;
+  padding: 0.2rem;
 }
-#filials-list {
+#extra-list {
+  display: none;
+  list-style: none;
+}
+#extra-list.active {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  margin-top: 0.1rem;
+}
+#filials-list{
   display: none;
   list-style: none;
 }
@@ -95,7 +105,16 @@ nav a img {
   gap: 0.1rem;
   margin-top: 0.1rem;
 }
-
+#services-list {
+  display: none;
+  list-style: none;
+}
+#services-list.active {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  margin-top: 0.1rem;
+}
 @media (min-width: 1000px) {
   #hamburger {
     display: none;
@@ -129,7 +148,31 @@ nav a img {
     background-color: whitesmoke;
     border-radius: 10px;
     top: 2.75rem;
-    right: 10rem;
+    right: 15rem;
+    padding: 1rem 8rem;
+  }
+  #services:hover + #services-list,
+  #services-list:hover  {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    position: absolute;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    top: 2.75rem;
+    left: 15rem;
+    padding: 1rem 8rem;
+  }
+  #extra:hover + #extra-list,
+  #extra-list:hover {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    position: absolute;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    top: 2.75rem;
+    right: 5rem;
     padding: 1rem 8rem;
   }
 }

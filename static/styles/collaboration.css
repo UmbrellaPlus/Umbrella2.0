@@ -1,0 +1,66 @@
+.collaboration-page {
+    background: #f9f9f9;
+    padding: 0 1.5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #222;
+    line-height: 1.6;
+    padding-top: 9rem;
+}
+.container{
+    max-width: 70%;
+    margin: auto;
+}
+.collaboration-img {
+    max-width: 100%;
+}
+.collaboration-page h1.title {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: var(--blue, #007BFF);
+}
+
+.collaboration-page h2,
+.collaboration-page h3 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: #333;
+}
+
+.collaboration-page p {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+}
+
+.collaboration-page hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 2rem 0;
+}
+
+.collaboration-page ul {
+    list-style: disc inside;
+    margin-left: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.collaboration-page ul li {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+}
+
+.content p a{
+    display: inline-block;
+    color: #007BFF; /* Синий цвет ссылки */
+    font-size: 1rem;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px 15px;
+    border: 2px solid #007BFF;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+.content p a:hover {
+    background-color: #007BFF;
+    color: white;
+}

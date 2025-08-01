@@ -1,50 +1,70 @@
 <header>
   <nav>
-    {{range site.Home.AllTranslations}} {{if eq .Language.Lang
-    site.Language.Lang}}
-    <a href="{{ .RelPermalink }}"
-      ><img src="/img/header-preheader/logo.webp" alt="Logo"
-    /></a>
-    {{end}}{{end}}
+    {{ range site.Home.AllTranslations }}
+    {{ if eq .Language.Lang site.Language.Lang }}
+    <a href="{{ .RelPermalink }}">
+      <img src="/img/header-preheader/logo.webp" alt="Logo" />
+    </a>
+    {{ end }}
+    {{ end }}
+
     <ul class="language-switcher">
-      {{range site.Home.AllTranslations}} {{if eq .Language.Lang
-      site.Language.Lang}}
+      {{ range site.Home.AllTranslations }}
+      {{ if eq .Language.Lang site.Language.Lang }}
       <li>
         <a>
-          {{ .Language.LanguageName }}<img
-            src="/img/header-preheader/down-arrow.png"
-            alt="down-arrow"
-            style="width: 15px; vertical-align: middle"
-        /></a>
+          {{ .Language.LanguageName }}
+          <img
+                  src="/img/header-preheader/down-arrow.png"
+                  alt="down-arrow"
+                  style="width: 15px; vertical-align: middle"
+          />
+        </a>
       </li>
-      {{end}} {{end}}{{range site.Home.AllTranslations}}{{if ne .Language.Lang
-      site.Language.Lang}}
-      <li><a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a></li>
-      {{end}} {{end}}
+      {{ end }}
+      {{ end }}
+      {{ range site.Home.AllTranslations }}
+      {{ if ne .Language.Lang site.Language.Lang }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+      </li>
+      {{ end }}
+      {{ end }}
     </ul>
 
-    <a href="https://t.me/umbrellaplus" class="telegram-header"
-      ><img src="/img/header-preheader/telegram.png" alt="Telegram"
-    /></a>
+    <a href="https://t.me/umbrellaplus" class="telegram-header">
+      <img src="/img/header-preheader/telegram.png" alt="Telegram" />
+    </a>
+
     <ul id="nav-links">
       {{ range site.Menus.main }}
       <li>
-        <a href="{{ .URL }}"{{ if eq .Identifier "filials" }}id="filials"
-        onclick="event.preventDefault();"{{ end }}>{{ .Name }}{{if
-        .HasChildren}}<img
-          src="/img/header-preheader/down-arrow.png"
-          alt="down-arrow"
-          style="width: 15px; vertical-align: middle"
-        />{{end}} {{if .HasChildren}}
-        <ul id="filials-list">
-          {{range .Children}}
+        <a href="{{ .URL }}"
+           {{ if or (eq .Identifier "filials") (eq .Identifier "services") (eq .Identifier "extra")}}
+        id="{{ .Identifier }}"
+        onclick="event.preventDefault();"
+        {{ end }}>
+        {{ .Name }}
+        {{ if .HasChildren }}
+        <img
+                src="/img/header-preheader/down-arrow.png"
+                alt="down-arrow"
+                style="width: 15px; vertical-align: middle"
+        />
+        {{ end }}
+        </a>
+
+        {{ if .HasChildren }}
+        <ul id="{{ .Identifier }}-list">
+          {{ range .Children }}
           <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-          {{end}}
+          {{ end }}
         </ul>
-        {{end}}
+        {{ end }}
       </li>
-      {{end}}
+      {{ end }}
     </ul>
+
     <div id="hamburger">
       <span class="line"></span>
       <span class="line"></span>

@@ -69,29 +69,6 @@
       </div>
     </main>
 
-    <!-- Наши партнеры -->
-    <div class="partners-carousel-container">
-      <h2>Наши партнеры</h2>
-      <section id="partners-carousel" class="splide">
-        <div class="splide__track">
-          <ul class="partners-block-container splide__list">
-            <li class="partner splide__slide">
-              <img src="/img/partners/partner-synevo.webp" alt="Synevo" />
-            </li>
-            <li class="partner splide__slide">
-              <img src="/img/partners/partner-analitika.webp" alt="Analitika" />
-            </li>
-            <li class="partner splide__slide">
-              <img src="/img/partners/partner-invivo.webp" alt="Invivo" />
-            </li>
-            <li class="partner splide__slide">
-              <img src="/img/partners/partner-smartlab.webp" alt="Smartlab" />
-            </li>
-          </ul>
-        </div>
-      </section>
-    </div>
-
     <!-- О нашей задаче -->
 
     <div class="about-clinic">
@@ -114,7 +91,7 @@
         </p>
       </div>
       <div class="clinic-img">
-        <img src="/img/main-about.jpg" alt="clinic-pic" />
+        <img class="preview" src="/img/main-about.jpg" alt="clinic-pic" />
       </div>
     </div>
     {{/* Города в которых мы работаем */}} {{partial "cities-carousel.html" .}}
@@ -344,6 +321,28 @@
         ><p>Нажмите если желаете оставить анонимный отзыв</p></a
       >
       {{partial "reviews-dialog.html"}}
+    </div>
+    <!-- Наши партнеры -->
+    <div class="partners-carousel-container">
+      <h2>Наши партнеры</h2>
+      <section id="partners-carousel" class="splide">
+        <div class="splide__track">
+          <ul class="partners-block-container splide__list">
+            <li class="partner splide__slide">
+              <img src="/img/partners/partner-synevo.webp" alt="Synevo" />
+            </li>
+            <li class="partner splide__slide">
+              <img src="/img/partners/partner-analitika.webp" alt="Analitika" />
+            </li>
+            <li class="partner splide__slide">
+              <img src="/img/partners/partner-invivo.webp" alt="Invivo" />
+            </li>
+            <li class="partner splide__slide">
+              <img src="/img/partners/partner-smartlab.webp" alt="Smartlab" />
+            </li>
+          </ul>
+        </div>
+      </section>
     </div>
     {{partial "contacts.html" . }} {{partial "footer.html" .}}
   </body>
