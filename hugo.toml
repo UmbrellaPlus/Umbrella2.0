@@ -89,7 +89,7 @@ defaultContentLanguageInSubdir = false
                 weight = 60
                 identifier = 'extra'
                     [[languages.ru.menus.main]]
-                        name = 'Контакты'
+                        name = 'Справочник'
                         pageRef = '/contacts'
                         weight = 10
                         parent = 'extra'
@@ -185,7 +185,7 @@ defaultContentLanguageInSubdir = false
                 weight = 60
                 identifier = 'extra'
                     [[languages.uk.menus.main]]
-                        name = 'Контакти'
+                        name = 'Довідник'
                         pageRef = '/contacts'
                         weight = 10
                         parent = 'extra'
