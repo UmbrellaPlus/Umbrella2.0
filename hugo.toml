@@ -41,28 +41,28 @@ defaultContentLanguageInSubdir = false
                 pageRef = '#'
                 identifier = 'filials'
                     [[languages.ru.menus.main]]
-                        name = 'Одесса'
-                        pageRef = '/lechenie-alc'
-                        weight = 10
-                        parent = 'filials'
-                    [[languages.ru.menus.main]]
                         name = 'Киев'
                         pageRef = '/kiev'
-                        weight = 20
+                        weight = 10
                         parent = 'filials'
                     [[languages.ru.menus.main]]
                         name = 'Харьков'
                         pageRef = '/kharkiv'
-                        weight = 30
+                        weight = 20
                         parent = 'filials'
                     [[languages.ru.menus.main]]
-                        name = 'Львов'
-                        pageRef = '/lviv'
-                        weight = 40
+                        name = 'Одесса'
+                        pageRef = '/lechenie-alc'
+                        weight = 30
                         parent = 'filials'
                     [[languages.ru.menus.main]]
                         name = 'Днепр'
                         pageRef = '/dnepr'
+                        weight = 40
+                        parent = 'filials'
+                    [[languages.ru.menus.main]]
+                        name = 'Львов'
+                        pageRef = '/lviv'
                         weight = 50
                         parent = 'filials'
                     [[languages.ru.menus.main]]
@@ -125,7 +125,7 @@ defaultContentLanguageInSubdir = false
                         parent = 'services'
             [[languages.uk.menus.main]]
                 name = 'Лікарі'
-                url = '/#doctors'
+                url = '/uk/#doctors'
                 weight = 20
                 identifier = 'doctors'
             [[languages.uk.menus.main]]
@@ -137,28 +137,28 @@ defaultContentLanguageInSubdir = false
             weight = 30
             identifier = 'filials'
                     [[languages.uk.menus.main]]
-                        name = 'Одеса'
-                        pageRef = '/lechenie-alc'
-                        weight = 10
-                        parent = 'filials'
-                    [[languages.uk.menus.main]]
                         name = 'Київ'
                         pageRef = '/kiev'
-                        weight = 20
+                        weight = 10
                         parent = 'filials'
                     [[languages.uk.menus.main]]
                         name = 'Харьків'
                         pageRef = '/kharkiv'
-                        weight = 30
+                        weight = 20
                         parent = 'filials'
                     [[languages.uk.menus.main]]
-                        name = 'Львів'
-                        pageRef = '/lviv'
-                        weight = 40
+                        name = 'Одеса'
+                        pageRef = '/lechenie-alc'
+                        weight = 30
                         parent = 'filials'
                     [[languages.uk.menus.main]]
                         name = 'Дніпро'
                         pageRef = '/dnepr'
+                        weight = 40
+                        parent = 'filials'
+                    [[languages.uk.menus.main]]
+                        name = 'Львів'
+                        pageRef = '/lviv'
                         weight = 50
                         parent = 'filials'
                     [[languages.uk.menus.main]]
@@ -178,7 +178,7 @@ defaultContentLanguageInSubdir = false
                         parent = 'filials'
             [[languages.uk.menus.main]]
                 name = 'Відгуки'
-                url = '/#image-carousel'
+                url = '/uk/#image-carousel'
                 weight = 50
             [[languages.uk.menus.main]]
                 name = 'Додатково'
