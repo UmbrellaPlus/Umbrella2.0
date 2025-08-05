@@ -10,7 +10,7 @@ document.getElementById("tg").addEventListener("submit", function (e) {
       document.querySelector(".main-consult button").style.display = "none";
   
       axios
-        .post("https://sprout-dapper-patient.glitch.me/send-message", {
+        .post("https://umbrella-bot-edgx.onrender.com/sendMessage", {
           phone: phone,
         })
         .then((res) => {
