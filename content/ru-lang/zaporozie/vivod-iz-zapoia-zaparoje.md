@@ -1,13 +1,11 @@
 ---
-tabTitle: Вывод из запоя Запорожье | Umbrella Plus | От 1499 грн
-title: Вывод из запоя Запорожье по доступным ценам
-description: >-
-  Вывод из запоя в стационаре - мы знаем как плавно выйти из запоя без
-  последствий для организма.
-image: /img/vivod-iz-zapoia-zaporoje.jpg
+tabTitle: Вывод из запоя Запорожье | Umbrella Plus | От 1999 грн
+title: Вывод из запоя Запорожье
+description: Umbrella Plus Безопасная Наркология
+image: /img/zaporoje/6vivod-iz-zapou.jpg
 imageText: Врач ведет беседу с пациентом
-ratingAvarage: 4.9/5
-rating: '722'
+ratingAvarage: 4.99/5
+rating: '3722'
 reviewType: alk-2
 ---
 
