@@ -3,7 +3,7 @@
   margin-top: 2em;
   height: auto;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   background: rgb(17, 56, 96);
   background: linear-gradient(
     90deg,
@@ -21,6 +21,12 @@
 }
 .footer-logo {
   padding-bottom: 1em;
+  flex: 0 0 33%;
+}
+.footer-urls {
+  display: flex;
+  flex: 0 0 50%;
+  justify-content: space-around;
 }
 .footer-logo a img{
   width: 250px;
