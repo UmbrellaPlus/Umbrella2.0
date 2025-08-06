@@ -1,3 +1,13 @@
+---
+tabTitle: Лечение пивного алкоголизма Запорожье | Umbrella Plus | От 1999 грн
+title: Лечение пивного алкоголизма Запорожье
+description: Umbrella Plus Безопасная Наркология
+image: /img/zaporoje/7lechpiv.jpg
+imageText: Лечение пивного алкоголизма Запорожье
+ratingAvarage: 4.98/5
+rating: '1923'
+reviewType: alk-2
+---
 
 ## Лечение пивного алкоголизма в Запорожье
 
