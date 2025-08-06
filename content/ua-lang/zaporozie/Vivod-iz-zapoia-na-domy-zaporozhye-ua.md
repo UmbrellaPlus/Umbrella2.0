@@ -45,7 +45,7 @@ reviewType: alk-1
 | --------------------------------------------------------------------------------- | ------------ |
 | **[Виведення із запою](vivod-iz-zapoia-zaparoje-ua)**                             | Від 1999 грн |
 | **[Виведення із запою вдома](Vivod-iz-zapoia-na-domy-zaporozhye-ua)**             | Від 1999 грн |
-| **[Крапельниця від алкоголю](Kapelnica_ot_alkogola_zaporozhye-ua)**               | Від 1999 грн |
+| **[Крапельниця від алкоголю](kapelnica_ot_alkogola_zaporozhye-ua)**               | Від 1999 грн |
 | **[Крапельниця від алкоголю вдома](Kapelnica_ot_alkogola_na_domy_zaporozhye-ua)** | Від 1999 грн |
 
 ## Як наркологи виводять із запою вдома
