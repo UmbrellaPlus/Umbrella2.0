@@ -312,6 +312,18 @@ export default defineConfig({
           },
         ],
       },
+      {
+        name: "directory_ru",
+        label: "Справочник-RU",
+        path: "content/ru-lang/directory",
+        fields: [...cityTemplate],
+      },
+      {
+        name: "directory_ua",
+        label: "Справочник-UA",
+        path: "content/ua-lang/directory",
+        fields: [...cityTemplate],
+      },
     ],
   },
 });
