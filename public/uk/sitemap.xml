@@ -83,6 +83,8 @@
   </url><url>
     <loc>http://localhost:1313/uk/dnepr/vivod-iz-zapoia-dnepr-ua/</loc>
   </url><url>
+    <loc>http://localhost:1313/uk/zaporozie/vivod-iz-zapoia-zaparoje-ua/</loc>
+  </url><url>
     <loc>http://localhost:1313/uk/kiev/vivod-iz-zapoia-kiev-ua/</loc>
   </url><url>
     <loc>http://localhost:1313/uk/lviv/vivod-iz-zapoia-lvov-ua/</loc>
@@ -155,6 +157,18 @@
   </url><url>
     <loc>http://localhost:1313/uk/kharkiv/kodirovka-ot-alkogolia-disulfiram-kharkiv-ua/</loc>
   </url><url>
+    <loc>http://localhost:1313/uk/directory/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="http://localhost:1313/directory/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/uk/directory/"
+                />
+  </url><url>
     <loc>http://localhost:1313/uk/blog/kapelnica-ot-pohmelia-kharkiv-blog-ua/</loc>
   </url><url>
     <loc>http://localhost:1313/uk/blog/kapelnica_ot_alkogolizma_khrakiv-ua/</loc>
@@ -187,7 +201,7 @@
                 href="http://localhost:1313/uk/dnepr/kapelnica_ot_alkogola_dnepr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/uk/zaporozie/-kapelnica_ot_alkogola_zaporozhye-ua/</loc>
+    <loc>http://localhost:1313/uk/zaporozie/kapelnica_ot_alkogola_zaporozhye-ua/</loc>
   </url><url>
     <loc>http://localhost:1313/uk/kiev/kapelnica_ot_alkogola_kiev/</loc>
     <xhtml:link
@@ -305,6 +319,8 @@
   </url><url>
     <loc>http://localhost:1313/uk/dnepr/lechenie-alkogolizma-dnepr-ua/</loc>
   </url><url>
+    <loc>http://localhost:1313/uk/zaporozie/-lechenie-alkogolizma-zaporoje-ua/</loc>
+  </url><url>
     <loc>http://localhost:1313/uk/kamianske/</loc>
     <xhtml:link
                 rel="alternate"
@@ -382,6 +398,8 @@
     <loc>http://localhost:1313/uk/dnepr/lechenie-pivnogo-alkogolizma-dnepr-ua/</loc>
   </url><url>
     <loc>http://localhost:1313/uk/services/lechenie-pivnogo-alkogolizma-umbrellaplus-ua/</loc>
+  </url><url>
+    <loc>http://localhost:1313/uk/zaporozie/lechenie-pivnogo-alkogolizma-zaporoje-ua/</loc>
   </url><url>
     <loc>http://localhost:1313/uk/lviv/lechenie-pivnogo-alkogolizma-lviv-ua/</loc>
   </url><url>

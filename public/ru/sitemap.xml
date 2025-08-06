@@ -45,8 +45,6 @@
   </url><url>
     <loc>http://localhost:1313/podshivka-ot-alc/</loc>
   </url><url>
-    <loc>http://localhost:1313/zaporozie/lechenie-pivnogo-alkogolizma-zaporoje/</loc>
-  </url><url>
     <loc>http://localhost:1313/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/</loc>
   </url><url>
     <loc>http://localhost:1313/zaporozie/kapelnica_ot_alkogola_na_domy_zaporozhye/</loc>
@@ -457,6 +455,8 @@
   </url><url>
     <loc>http://localhost:1313/dnepr/lechenie-pivnogo-alkogolizma-dnepr/</loc>
   </url><url>
+    <loc>http://localhost:1313/zaporozie/lechenie-pivnogo-alkogolizma-zaporoje/</loc>
+  </url><url>
     <loc>http://localhost:1313/kiev/lechenie_pivnogo_alkogolizma/</loc>
   </url><url>
     <loc>http://localhost:1313/lviv/lechenie-pivnogo-alkogolizma-lviv/</loc>
@@ -498,6 +498,18 @@
     <loc>http://localhost:1313/kharkiv/podshivka_ot_alkogolizma_kharkiv/</loc>
   </url><url>
     <loc>http://localhost:1313/podshivka-ot-alkogolia-od/</loc>
+  </url><url>
+    <loc>http://localhost:1313/directory/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/uk/directory/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="http://localhost:1313/directory/"
+                />
   </url><url>
     <loc>http://localhost:1313/blog/pomogite-vyiti-iz-zapoya-blog/</loc>
   </url><url>
