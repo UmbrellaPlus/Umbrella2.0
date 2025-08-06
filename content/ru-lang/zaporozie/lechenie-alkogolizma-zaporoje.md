@@ -1,11 +1,11 @@
 ---
-tabTitle: Лечение алкоголизма в Запорожье | Umbrella Plus | От 1499 грн
+tabTitle: Лечение алкоголизма в Запорожье | Umbrella Plus | От 1999 грн
 title: Лечение алкоголизма Запорожье
-description: Эффективное лечение алкоголизма в Запорожье
+description: UmbrellaPlus Безопасная Наркология
 image: /img/75a07586-05f2-45f5-8c6b-a53b19bd6922.jpg
 imageText: Лечение алкоголизма в Запорожье
-ratingAvarage: 4.9/5
-rating: '620'
+ratingAvarage: 4.98/5
+rating: '2620'
 reviewType: alk-2
 ---
 
