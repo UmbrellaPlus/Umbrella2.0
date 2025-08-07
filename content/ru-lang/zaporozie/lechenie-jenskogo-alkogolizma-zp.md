@@ -2,6 +2,7 @@
 tabTitle: Лечение женского алкоголизма в Запорожье | Umbrella Plus | От 1999 грн
 title: Лечение женского алкоголизма в Запорожье
 description: Umbrella Plus Безопасная Наркология
+image: /img/zaporoje/9lechjensk.jpg
 imageText: Лечение женского алкоголизма в Запорожье
 ratingAvarage: 4.98/5
 rating: '2118'
