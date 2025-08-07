@@ -29,7 +29,7 @@ reviewType: alk-1
 | [Капельница от алкоголя](https://umbrella-plus.com.ua/zaporozie/kapelnica_ot_alkogola_zaporozhye/)                 | От 1999 грн  |
 | [Капельница от алкоголя на дому](https://umbrella-plus.com.ua/zaporozie/kapelnica_ot_alkogola_na_domy_zaporozhye/) | От 1999 грн  |
 | [Лечение пивного алкоголизма](lechenie-pivnogo-alkogolizma-zaporoje)                                               | От 1999 грн  |
-| Лечение женского алкоголизма                                                                                       | От 1999 грн  |
+| [Лечение женского алкоголизма](lechenie-jenskogo-alkogolizma-zp)                                                   | От 1999 грн  |
 | Кодирование от алкоголизма                                                                                         | От 4999 грн  |
 | Кодирование от алкоголизма уколом Дисульфирам                                                                      | От 4999 грн  |
 | Кодирование от алкоголизма уколом Эспераль                                                                         | От 6999 грн  |
