@@ -419,6 +419,42 @@
   </url><url>
     <loc>http://localhost:1313/uk/blog/narcolog-na-dom-kharkiv-ua/</loc>
   </url><url>
+    <loc>http://localhost:1313/uk/feedback/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="http://localhost:1313/feedback/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/uk/feedback/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/uk/feedback/example_two/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="http://localhost:1313/feedback/example_two/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/uk/feedback/example_two/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/uk/feedback/example_three/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="http://localhost:1313/feedback/example_three/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/uk/feedback/example_three/"
+                />
+  </url><url>
     <loc>http://localhost:1313/uk/blog/chto-delat-pri-zapoi-ua/</loc>
   </url><url>
     <loc>http://localhost:1313/uk/lviv/podshivka-ot-alkogolia-lviv/</loc>

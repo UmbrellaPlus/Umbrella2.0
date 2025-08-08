@@ -111,6 +111,18 @@ const cityTemplate = [
   },
 ];
 
+const feedbackTemplate = [
+  {
+    type: "string",
+    label: "Расшифровка текста",
+    name: "title",
+  },
+  {
+    type: "image",
+    label: "Картинка",
+    name: "image",
+  },
+]
 export default defineConfig({
   branch,
   local: { enabled: true, userRelativeMedia: true },
@@ -323,6 +335,18 @@ export default defineConfig({
         label: "Справочник-UA",
         path: "content/ua-lang/directory",
         fields: [...cityTemplate],
+      },
+      {
+        name: "feedback_ru",
+        label: "Отзывы-RU",
+        path: "content/ru-lang/feedback",
+        fields: [...feedbackTemplate],
+      },
+      {
+        name: "feedback_ua",
+        label: "Отзывы-UA",
+        path: "content/ua-lang/feedback",
+        fields: [...feedbackTemplate],
       },
     ],
   },

@@ -82,7 +82,7 @@ defaultContentLanguageInSubdir = false
                         parent = 'filials'
             [[languages.ru.menus.main]]
                 name = 'Отзывы'
-                url = '/#image-carousel'
+                url = '/feedback'
                 weight = 50
             [[languages.ru.menus.main]]
                 name = 'Дополнительно'
@@ -178,7 +178,7 @@ defaultContentLanguageInSubdir = false
                         parent = 'filials'
             [[languages.uk.menus.main]]
                 name = 'Відгуки'
-                url = '/uk/#image-carousel'
+                url = '/uk/feedback'
                 weight = 50
             [[languages.uk.menus.main]]
                 name = 'Додатково'

@@ -40,6 +40,22 @@
     <loc>http://localhost:1313/blog/alkogolism-po-nasledstvy/</loc>
     <lastmod>2025-01-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/directory/example/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/directory/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/uk/directory/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="http://localhost:1313/directory/"
+                />
+  </url><url>
     <loc>http://localhost:1313/blog/zapoiniu-alkogoliz-blog/</loc>
     <lastmod>2023-10-19T00:40:04-07:00</lastmod>
   </url><url>
@@ -80,6 +96,8 @@
     <loc>http://localhost:1313/blog/bistro-izbavitsa-ot-pohmelia/</loc>
   </url><url>
     <loc>http://localhost:1313/blog/bistro-viiti-iz-zapoia/</loc>
+  </url><url>
+    <loc>http://localhost:1313/directory/example_two/</loc>
   </url><url>
     <loc>http://localhost:1313/blog/vivedenie-iz-zapoia-kharkiv-blog/</loc>
   </url><url>
@@ -127,6 +145,8 @@
   </url><url>
     <loc>http://localhost:1313/blog/new-vivod-iz-zapoia-kiev/</loc>
   </url><url>
+    <loc>http://localhost:1313/directory/example_three/</loc>
+  </url><url>
     <loc>http://localhost:1313/blog/vihod-iz-zapoia-kharkiv/</loc>
   </url><url>
     <loc>http://localhost:1313/blog/kak-vihodit-iz-zapoia-kharkiv-blog/</loc>
@@ -150,6 +170,8 @@
     <loc>http://localhost:1313/blog/kak-ostanovit-zapoi-kharkiv/</loc>
   </url><url>
     <loc>http://localhost:1313/blog/kak-pomoch-cheloveku-iz-zapoia/</loc>
+  </url><url>
+    <loc>http://localhost:1313/directory/example_one/</loc>
   </url><url>
     <loc>http://localhost:1313/blog/kak-pohagovo-viiti-iz-zapoia-kharkiv/</loc>
   </url><url>
@@ -491,6 +513,42 @@
   </url><url>
     <loc>http://localhost:1313/reviews/</loc>
   </url><url>
+    <loc>http://localhost:1313/feedback/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/uk/feedback/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="http://localhost:1313/feedback/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/feedback/example_two/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/uk/feedback/example_two/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="http://localhost:1313/feedback/example_two/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/feedback/example_three/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/uk/feedback/example_three/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="http://localhost:1313/feedback/example_three/"
+                />
+  </url><url>
     <loc>http://localhost:1313/kharkiv/lechenie_pivnogo_alkogolizma_kharkiv/</loc>
   </url><url>
     <loc>http://localhost:1313/lviv/podshivka-ot-alkogolia-lvov/</loc>
@@ -498,18 +556,6 @@
     <loc>http://localhost:1313/kharkiv/podshivka_ot_alkogolizma_kharkiv/</loc>
   </url><url>
     <loc>http://localhost:1313/podshivka-ot-alkogolia-od/</loc>
-  </url><url>
-    <loc>http://localhost:1313/directory/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/uk/directory/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="http://localhost:1313/directory/"
-                />
   </url><url>
     <loc>http://localhost:1313/blog/pomogite-vyiti-iz-zapoya-blog/</loc>
   </url><url>

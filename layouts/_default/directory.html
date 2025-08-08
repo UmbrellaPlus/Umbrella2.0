@@ -57,15 +57,15 @@
       <h1>Корисна інформація</h1>
       {{end}}
 
-<ul class="blog-list-container">
+<ul class="directory-list-container">
   {{ range sort (where site.RegularPages "Type" "directory") "Date" "desc" }}
-    <a href="{{ .Permalink }}">
-      <li class="blog-list-post">
+    <a class="directory-link" href="{{ .Permalink }}">
+      <li class="directory-list-post">
+        <img class="directory-image" src="{{ .Params.image }}" alt="{{ .Params.imageText }}" />
         <div class="blog-list-post-text-container">
           <h3>{{ .Title }}</h3>
           <p>{{ .Params.Description }}</p>
         </div>
-        <img src="{{ .Params.image }}" alt="{{ .Params.imageText }}" />
       </li>
     </a>
   {{ end }}
