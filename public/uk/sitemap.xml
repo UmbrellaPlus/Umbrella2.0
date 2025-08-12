@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/uk/</loc>
-    <lastmod>2025-07-05T21:00:00+00:00</lastmod>
+    <lastmod>2025-08-05T21:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
@@ -13,6 +13,22 @@
                 rel="alternate"
                 hreflang="uk-UA"
                 href="http://localhost:1313/uk/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/uk/directory/alkogolizm-spravka-ua/</loc>
+    <lastmod>2025-08-05T21:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/uk/directory/</loc>
+    <lastmod>2025-08-05T21:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="http://localhost:1313/directory/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/uk/directory/"
                 />
   </url><url>
     <loc>http://localhost:1313/uk/blog/</loc>
@@ -156,18 +172,6 @@
     <loc>http://localhost:1313/uk/services/kodirovka-ot-alkogolizma-espiarl-umbrellaplus-ua/</loc>
   </url><url>
     <loc>http://localhost:1313/uk/kharkiv/kodirovka-ot-alkogolia-disulfiram-kharkiv-ua/</loc>
-  </url><url>
-    <loc>http://localhost:1313/uk/directory/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="http://localhost:1313/directory/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/uk/directory/"
-                />
   </url><url>
     <loc>http://localhost:1313/uk/blog/kapelnica-ot-pohmelia-kharkiv-blog-ua/</loc>
   </url><url>
@@ -319,7 +323,7 @@
   </url><url>
     <loc>http://localhost:1313/uk/dnepr/lechenie-alkogolizma-dnepr-ua/</loc>
   </url><url>
-    <loc>http://localhost:1313/uk/zaporozie/-lechenie-alkogolizma-zaporoje-ua/</loc>
+    <loc>http://localhost:1313/uk/zaporozie/lechenie-alkogolizma-zp-ua/</loc>
   </url><url>
     <loc>http://localhost:1313/uk/kamianske/</loc>
     <xhtml:link
@@ -377,6 +381,8 @@
   </url><url>
     <loc>http://localhost:1313/uk/dnepr/lechenie-jenskogo-alkogolizma-dnipro-ua/</loc>
   </url><url>
+    <loc>http://localhost:1313/uk/zaporozie/lechenie-jenskogo-alkogolizma-zp-ua/</loc>
+  </url><url>
     <loc>http://localhost:1313/uk/lviv/lechenie-jenskogo-alkogolizma-lviv/</loc>
   </url><url>
     <loc>http://localhost:1313/uk/kharkiv/lechenie-jenskogo-alkogolizma-kharkiv-ua/</loc>
@@ -431,30 +437,6 @@
                 href="http://localhost:1313/uk/feedback/"
                 />
   </url><url>
-    <loc>http://localhost:1313/uk/feedback/example_two/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="http://localhost:1313/feedback/example_two/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/uk/feedback/example_two/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/uk/feedback/example_three/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="http://localhost:1313/feedback/example_three/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/uk/feedback/example_three/"
-                />
-  </url><url>
     <loc>http://localhost:1313/uk/blog/chto-delat-pri-zapoi-ua/</loc>
   </url><url>
     <loc>http://localhost:1313/uk/lviv/podshivka-ot-alkogolia-lviv/</loc>
@@ -478,6 +460,8 @@
     <loc>http://localhost:1313/uk/blog/prokapat-ot-alkogolia-kiev-ua/</loc>
   </url><url>
     <loc>http://localhost:1313/uk/blog/prokapatsa-ot-alkogolia-kiev-ua/</loc>
+  </url><url>
+    <loc>http://localhost:1313/uk/kiev/kapelnitsya-ot-alkogolya-ua/</loc>
   </url><url>
     <loc>http://localhost:1313/uk/blog/prokapatsa-na-domy-kharkiv-ua/</loc>
   </url><url>

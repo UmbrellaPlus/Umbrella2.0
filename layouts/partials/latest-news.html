@@ -1,0 +1,19 @@
+{{ $blogPosts := where .Site.RegularPages "Params.reviewType" "alk-2" }}
+
+<div class="latest-news-container">
+    <h2>Актуальные новости</h2>
+    <div class="card-container">
+
+    {{ range first 4 $blogPosts }}
+        <div class="latest-news-card">
+            <img class="latest-news-image" src="{{ .Params.image }}" alt="{{ .Params.imageText }}" />
+            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            <p>{{ .Description }}</p>
+        </div>
+    {{ end }}
+    </div>
+    <a class="latest-news-btn" href="/blog">Актуальные новости</a>
+</div>
+
+
+

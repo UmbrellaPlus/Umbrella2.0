@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-07-05T21:00:00+00:00</lastmod>
+    <lastmod>2025-08-05T21:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
@@ -13,6 +13,22 @@
                 rel="alternate"
                 hreflang="ru-UA"
                 href="http://localhost:1313/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/directory/alkogolizm-spravka/</loc>
+    <lastmod>2025-08-05T21:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/directory/</loc>
+    <lastmod>2025-08-05T21:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/uk/directory/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="http://localhost:1313/directory/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/kak-otoiti-ot-zapoya-i-snyat-pokhmele/</loc>
@@ -42,19 +58,6 @@
   </url><url>
     <loc>http://localhost:1313/directory/example/</loc>
     <lastmod>2025-01-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/directory/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/uk/directory/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="http://localhost:1313/directory/"
-                />
   </url><url>
     <loc>http://localhost:1313/blog/zapoiniu-alkogoliz-blog/</loc>
     <lastmod>2023-10-19T00:40:04-07:00</lastmod>
@@ -188,8 +191,6 @@
     <loc>http://localhost:1313/services/kapelnica-ot-alkogolia-umbrellaplus/</loc>
   </url><url>
     <loc>http://localhost:1313/services/kapelnica_ot_alkogolia/</loc>
-  </url><url>
-    <loc>http://localhost:1313/kiev/kapelnitsya-ot-alkogolya/</loc>
   </url><url>
     <loc>http://localhost:1313/kharkiv/kapelnitsya-ot-alc/</loc>
   </url><url>
@@ -447,6 +448,8 @@
   </url><url>
     <loc>http://localhost:1313/dnepr/lechenie-jenskogo-alkogolizma-dnepr/</loc>
   </url><url>
+    <loc>http://localhost:1313/zaporozie/lechenie-jenskogo-alkogolizma-zp/</loc>
+  </url><url>
     <loc>http://localhost:1313/kharkiv/lechenie-jenskogo-alkogolizma-kharkiv/</loc>
   </url><url>
     <loc>http://localhost:1313/lviv/lechenie-jenskogo-alkogolizma-lvov/</loc>
@@ -525,30 +528,6 @@
                 href="http://localhost:1313/feedback/"
                 />
   </url><url>
-    <loc>http://localhost:1313/feedback/example_two/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/uk/feedback/example_two/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="http://localhost:1313/feedback/example_two/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/feedback/example_three/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/uk/feedback/example_three/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="http://localhost:1313/feedback/example_three/"
-                />
-  </url><url>
     <loc>http://localhost:1313/kharkiv/lechenie_pivnogo_alkogolizma_kharkiv/</loc>
   </url><url>
     <loc>http://localhost:1313/lviv/podshivka-ot-alkogolia-lvov/</loc>
@@ -566,6 +545,8 @@
     <loc>http://localhost:1313/blog/prokapatsa-ot-alkogolia-kiev/</loc>
   </url><url>
     <loc>http://localhost:1313/blog/prokapatsa-ot-alkogola-kiev/</loc>
+  </url><url>
+    <loc>http://localhost:1313/kiev/kapelnitsya-ot-alkogolya/</loc>
   </url><url>
     <loc>http://localhost:1313/kapelnitsya-ot-alc/</loc>
   </url><url>
