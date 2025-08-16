@@ -2,6 +2,7 @@
 tabTitle: Кодування від алкоголю дисульфірам Запоріжжя | Umbrella Plus | Від 4999 грн
 title: Кодування від алкоголю дисульфірам Запоріжжя
 description: Umbrella Plus Безпечна Наркологія
+image: /img/zaporoje/kod2.jpg
 imageText: Кодування від алкоголю дисульфірам Запоріжжя
 ratingAvarage: 4.98/5
 rating: '2174'
