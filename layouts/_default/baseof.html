@@ -61,19 +61,21 @@
     "alk-2" }} {{ partial "reviews/alk-2.html" . }} {{ else if eq
     .Params.reviewType "kod-1" }} {{ partial "reviews/kod-1.html" . }} {{else if
     eq .Params.reviewType "kod-2"}}{{partial "reviews/kod-2.html" .}}{{ end
-    }}{{if in .Site.Language "ru"}}{{partial "faq.html"}}{{ else }} {{partial
-    "faq-ua.html"}}{{end}}
+    }}{{if in .Site.Language "ru"}}{{ else }}{{end}}
     <div style="text-align: center">
+      {{ if in .Site.Language "ru" }}
       <h2>Последние статьи из блога</h2>
-      <ul style="list-style: none">
+      {{ else }}
+      <h2>Останні статті з блогу</h2>
+      {{ end }}
+      <ul class="card-container" style="list-style: none">
         {{range first 3 (where site.RegularPages "Type" "blog")}}
-        <a
-          href="{{ .Permalink }}"
-          style="text-decoration: underline; color: dodgerblue"
-          ><li>
-            <p style="color: dodgerblue">{{.Title}}</p>
-          </li></a
-        >
+        <a class="latest-news-card" href="{{ .RelPermalink }}">
+          <img class="latest-news-image" src="{{ .Params.image }}" alt="{{ .Params.imageText }}" />
+          <div class="latest-news-text-container">
+            <h3>{{ .Title }}</h3>
+          </div>
+        </a>
         {{end}}
       </ul>
     </div>
