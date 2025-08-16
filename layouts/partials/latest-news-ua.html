@@ -1,16 +1,30 @@
-{{ $blogPosts := where .Site.RegularPages "Params.reviewType" "alk-1" }}
+{{ $types := slice "alk-1" "alk-2" "kod-1" "kod-2" "blog" }}
+
+{{ $blogPosts := where .Site.RegularPages "Params.reviewType" "in" $types }}
+
+{{ $blogPosts = where $blogPosts ".Date" "!=" nil }}
+
+{{ $blogPosts = sort $blogPosts ".Date" "desc" }}
+{{ $months := dict "01" "січня" "02" "лютого" "03" "березня" "04" "квітня" "05" "травня" "06" "червня" "07" "липня" "08" "серпня" "09" "вересня" "10" "жовтня" "11" "листопада" "12" "грудня" }}
+
 
 <div class="latest-news-container">
     <h2>Актуальні новини</h2>
     <div class="card-container">
 
-    {{ range first 4 $blogPosts }}
-        <div class="latest-news-card">
+        {{ range first 3 $blogPosts }}
+        {{ $d := .Date.Format "02" }}
+        {{ $m := index $months (.Date.Format "01") }}
+        {{ $y := .Date.Format "2006" }}
+        <a class="latest-news-card" href="{{ .RelPermalink }}">
             <img class="latest-news-image" src="{{ .Params.image }}" alt="{{ .Params.imageText }}" />
-            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-            <p>{{ .Description }}</p>
-        </div>
-    {{ end }}
+            <div class="latest-news-text-container">
+                <h3>{{ .Title }}</h3>
+                <p>{{ .Description }}</p>
+                <h6> Дата публікаціі: {{ $d }} {{ $m }} {{ $y }}</h6>
+            </div>
+        </a>
+        {{ end }}
     </div>
     <a class="latest-news-btn" href="/blog">Актуальні новини</a>
 </div>
