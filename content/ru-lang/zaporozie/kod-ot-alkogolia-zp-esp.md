@@ -1,3 +1,13 @@
+---
+tabTitle: Кодирование от алкоголизма уколом Эспераль | Umbrella Plus | От 6999 грн
+title: Кодирование от алкоголизма уколом Эспераль
+description: Umbrella Plus Безопасная Наркология
+image: /img/zaporoje/kod-esp.jpg
+imageText: Кодирование от алкоголизма уколом Эспераль
+ratingAvarage: 4.98/5
+rating: '2722'
+reviewType: kod-2
+---
 
 ## Кодирование от алкоголизма уколом Эспераль
 
