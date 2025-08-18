@@ -19,6 +19,9 @@
     #filials-list:hover {
         right: 15rem;
     }
+    .clinic-img p {
+        font-size: 1.5rem;
+    }
 }
 @media (min-width: 1149px) {
     body .preview {

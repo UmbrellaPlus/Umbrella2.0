@@ -34,8 +34,15 @@
   width: auto;
   display: flex;
   align-items: center;
+  text-align: center;
   justify-content: center;
   padding: 1em;
+  flex-direction: column;
+}
+.clinic-img p {
+  width: 60%;
+  margin-top: 1rem;
+  font-weight: 500;
 }
 .clinic-img img {
   object-fit: contain;

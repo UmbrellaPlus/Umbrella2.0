@@ -62,8 +62,6 @@
     <loc>http://localhost:1313/blog/zapoiniu-alkogoliz-blog/</loc>
     <lastmod>2023-10-19T00:40:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/zaporozie/kod-ot-alkogolia-zp-esp/</loc>
-  </url><url>
     <loc>http://localhost:1313/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/</loc>
   </url><url>
     <loc>http://localhost:1313/zaporozie/kapelnica_ot_alkogola_na_domy_zaporozhye/</loc>
@@ -287,6 +285,8 @@
     <loc>http://localhost:1313/kharkiv/kodirovka-ot-alkogolizma-espiarl-kharkiv/</loc>
   </url><url>
     <loc>http://localhost:1313/lviv/kodirovka-ot-alkogolizma-espiarl-lvov/</loc>
+  </url><url>
+    <loc>http://localhost:1313/zaporozie/kod-ot-alkogolia-zp-esp/</loc>
   </url><url>
     <loc>http://localhost:1313/services/kodirovka-ot-alkogolizma-espiarl-umbrellaplus/</loc>
   </url><url>
