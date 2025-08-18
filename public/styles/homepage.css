@@ -1,7 +1,6 @@
 /* О клинике */
 
 .about-clinic {
-  padding:1em 0;
   display: flex;
   flex-direction: column;
   max-width: 95%;
