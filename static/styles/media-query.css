@@ -21,6 +21,7 @@
     }
     .clinic-img p {
         font-size: 1.5rem;
+        width: 75%;
     }
 }
 @media (min-width: 1149px) {
