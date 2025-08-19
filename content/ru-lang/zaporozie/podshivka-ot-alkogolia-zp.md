@@ -2,6 +2,7 @@
 tabTitle: Подшивка от алкоголизма в Запорожье | Umbrella Plus | От 9999 грн
 title: Подшивка от алкоголизма в Запорожье
 description: UmbrellaPlus Безопасная Наркология
+image: /img/zaporoje/podh.jpg
 imageText: Подшивка от алкоголизма в Запорожье
 ratingAvarage: 4.97/5
 rating: '2118'
