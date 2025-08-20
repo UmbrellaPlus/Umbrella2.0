@@ -1,4 +1,5 @@
 ---
+layout: services
 tabTitle: >-
   Послуги лікування алкоголізму та наркоманії | Umbrella Plus Безпечна
   Наркологія

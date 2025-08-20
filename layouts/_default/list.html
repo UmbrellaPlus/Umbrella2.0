@@ -6,11 +6,6 @@
   {{ partial "telegram-form.html" . }} 
   {{ else }}
   {{partial "telegram-form-ua.html" . }} 
-  {{end}} 
-  {{if in .Site.Language "ru"}}
-  {{partial "cities-we-work.html"}} 
-  {{else}} 
-  {{partial "cities-we-work-ua.html"}} 
   {{end}}
 </div>
 <div class="main-image">
