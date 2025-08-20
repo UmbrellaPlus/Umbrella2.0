@@ -34,7 +34,7 @@ reviewType: alk-1
 | [Кодування від алкоголізму уколом Дисульфірам](https://umbrella-plus.com.ua/uk/zaporozie/kod-ot-alkogolia-disulfiram-zp/) | Від 4999 грн  |
 | [Кодування від алкоголізму уколом Еспераль](https://umbrella-plus.com.ua/uk/zaporozie/kodirovka-esperal-zp-ua/)           | Від 6999 грн  |
 | [Підшивка від алкоголю](podshivka-ot-alkogolia-zp-ua)                                                                     | Від 9999 грн  |
-| Кодування за методом Довженка                                                                                             | Від 14999 грн |
+| [Кодування за методом Довженка](Dovjenko-zp-ua)                                                                           | Від 14999 грн |
 
 ## Лікування алкоголізму Запоріжжя від UmbrellaPlus
 
