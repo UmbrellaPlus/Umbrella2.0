@@ -4,6 +4,7 @@ tabTitle: >-
   14999 грн
 title: Кодирование от алкоголизма по методу Довженко Запорожье
 description: Umbrella Plus Безопасная Наркология
+image: /img/zaporoje/dowgenko-zp.jpg
 imageText: Кодирование от алкоголизма по методу Довженко Запорожье
 ratingAvarage: 4.98/5
 rating: '3711'
