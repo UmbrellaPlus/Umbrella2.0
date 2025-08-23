@@ -16,23 +16,25 @@ reviewType: alk-1
 | Капельница от наркотиков                                                                                   | От 1999 грн |
 | [Кодирование от алкоголизма уколом](kodirovka-ot-alkogolia-zp)                                             | От 4999 грн |
 
-| Полный Список Услуг                                                                                                | Цена         |
-| ------------------------------------------------------------------------------------------------------------------ | ------------ |
-| [Экстренные вызов нарколога](narcolog-na-dom-zaporoje)                                                             | От 1999 грн  |
-| [Лечение алкоголизма](lechenie-alkogolizma-zaporoje)                                                               | От 1999 грн  |
-| [Вывод из запоя](https://umbrella-plus.com.ua/zaporozie/vivod-iz-zapoia-zaparoje/)                                 | От 1999 грн  |
-| [Вывод из запоя на дому](https://umbrella-plus.com.ua/zaporozie/vivod-iz-zapoia-na-domy-zaporozhye/)               | От 1999 грн  |
-| [Капельница от алкоголя](https://umbrella-plus.com.ua/zaporozie/kapelnica_ot_alkogola_zaporozhye/)                 | От 1999 грн  |
-| [Капельница от алкоголя на дому](https://umbrella-plus.com.ua/zaporozie/kapelnica_ot_alkogola_na_domy_zaporozhye/) | От 1999 грн  |
-| [Лечение пивного алкоголизма](lechenie-pivnogo-alkogolizma-zaporoje)                                               | От 1999 грн  |
-| [Лечение женского алкоголизма](lechenie-jenskogo-alkogolizma-zp)                                                   | От 1999 грн  |
-| [Кодирование от алкоголизма](kodirovka-ot-alkogolia-zp)                                                            | От 4999 грн  |
-| [Кодирование от алкоголизма уколом Дисульфирам](kodirovka-ot-alkogolia-disulfiram-zp)                              | От 4999 грн  |
-| [Кодирование от алкоголизма уколом Эспераль](kod-ot-alkogolia-zp-esp)                                              | От 6999 грн  |
-| [Подшивка от алкоголя](podshivka-ot-alkogolia-zp)                                                                  | От 9999 грн  |
-| [Кодирование по методу Довженко](Dovjenko-zp)                                                                      | От 14999 грн |
+| Услуги \| Лечение алкоголизма                                                                      | Цена        |
+| -------------------------------------------------------------------------------------------------- | ----------- |
+| [Экстренные вызов нарколога](narcolog-na-dom-zaporoje)                                             | От 1999 грн |
+| [Вывод из запоя](https://umbrella-plus.com.ua/zaporozie/vivod-iz-zapoia-zaparoje/)                 |             |
+| [Капельница от алкоголя](https://umbrella-plus.com.ua/zaporozie/kapelnica_ot_alkogola_zaporozhye/) |             |
+| [Лечение алкоголизма](lechenie-alkogolizma-zaporoje)                                               | От 1999 грн |
+| [Лечение пивного алкоголизма](lechenie-pivnogo-alkogolizma-zaporoje)                               |             |
+| [Лечение женского алкоголизма](lechenie-jenskogo-alkogolizma-zp)                                   |             |
 
-***
+| Услуги \| Лечение наркомании |   |
+| ---------------------------- | - |
+| Капельница от наркотиков     |   |
+
+| Услуги \| Кодирование от алкоголизма                                                  |   |
+| ------------------------------------------------------------------------------------- | - |
+| [Кодирование от алкоголизма уколом Дисульфирам](kodirovka-ot-alkogolia-disulfiram-zp) |   |
+| [Кодирование от алкоголизма уколом Эспераль](kod-ot-alkogolia-zp-esp)                 |   |
+| [Подшивка от алкоголя](podshivka-ot-alkogolia-zp)                                     |   |
+| [Кодирование по методу Довженко](Dovjenko-zp)                                         |   |
 
 ## Лечение алкоголизма Запорожье от UmbrellaPlus
 
