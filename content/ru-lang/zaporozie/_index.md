@@ -13,7 +13,7 @@ reviewType: alk-1
 | ---------------------------------------------------------------------------------------------------------- | ----------- |
 | [Вывод из запоя на дому](https://umbrella-plus.com.ua/zaporozie/vivod-iz-zapoia-na-domy-zaporozhye/)       | От 1999 грн |
 | [Капельница от алкоголя](https://umbrella-plus.com.ua/zaporozie/kapelnica_ot_alkogola_na_domy_zaporozhye/) | От 1999 грн |
-| Капельница от наркотиков                                                                                   | От 1999 грн |
+| [Капельница от наркотиков](kapelnica-ot-nakrotikov-zp)                                                     | От 1999 грн |
 | [Кодирование от алкоголизма уколом](kodirovka-ot-alkogolia-zp)                                             | От 4999 грн |
 
 | Услуги \| Лечение алкоголизма                                                                      | Цена        |
