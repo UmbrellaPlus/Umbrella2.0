@@ -1,7 +1,7 @@
 ---
 tabTitle: Капельница от алкоголя Запорожье | Umbrella Plus | От 1999 грн
 title: Капельница от алкоголя Запорожье
-description: UmbrellaPlus Безопасная Наркология
+description: Забота о здоровье без лишних слов
 image: /img/zaporoje/3.jpg
 imageText: Капельница от алкоголя Запорожье
 ratingAvarage: 4.98/5
