@@ -1,7 +1,7 @@
 ---
 tabTitle: Капельница от алкоголя на дому Запорожье | Umbrella Plus | От 1999 грн
 title: ' Капельница от алкоголя на дому Запорожье'
-description: ''
+description: Быстрая помощь при похмелье
 image: /img/zaporoje/1.jpg
 imageText: Капельница от алкоголя на дому Запорожье
 ratingAvarage: 4.99/5
