@@ -6,6 +6,7 @@ image: /img/zaporoje/kap-ot-nark-zp.jpg
 imageText: Капельница от наркотиков Запорожье
 ratingAvarage: 4.99/5
 rating: '4566'
+reviewType: alk-2
 ---
 
 ## Капельница от наркотиков в Запорожье
