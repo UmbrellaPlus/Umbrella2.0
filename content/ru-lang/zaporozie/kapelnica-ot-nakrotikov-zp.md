@@ -2,6 +2,7 @@
 tabTitle: Капельница от наркотиков в Запорожье | Umbrella Plus | От 2399 грн
 title: Капельница от наркотиков Запорожье
 description: Анонимная помощь нарколога 24/7
+image: /img/zaporoje/kap-ot-nark-zp.jpg
 imageText: Капельница от наркотиков Запорожье
 ratingAvarage: 4.99/5
 rating: '4566'
