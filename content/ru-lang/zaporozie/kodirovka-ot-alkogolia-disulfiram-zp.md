@@ -1,7 +1,7 @@
 ---
 tabTitle: Кодирование от алкоголя дисульфирам Запорожье | Umbrella Plus | От 4999 грн
 title: Кодирование от алкоголя Дисульфирам Запорожье
-description: Umbrella Plus Безопасная Наркология
+description: Свобода начинается здесь
 image: /img/zaporoje/kod2.jpg
 imageText: Кодирование от алкоголя дисульфирам Запорожье
 ratingAvarage: 4.98/5
@@ -46,12 +46,12 @@ reviewType: kod-2
 
 Стоимость **кодирование от алкоголя дисульфирамом в Запорожье** начинается от 4999 грн.
 
-| Популярные Услуги                                                                                                  | Цена        |
-| ------------------------------------------------------------------------------------------------------------------ | ----------- |
-| [Вывод из запоя](https://umbrella-plus.com.ua/zaporozie/vivod-iz-zapoia-zaparoje/)                                 | От 1999 грн |
-| [Вывод из запоя на дому](https://umbrella-plus.com.ua/zaporozie/vivod-iz-zapoia-na-domy-zaporozhye/)               | От 1999 грн |
-| [Капельница от алкоголя](https://umbrella-plus.com.ua/zaporozie/kapelnica_ot_alkogola_zaporozhye/)                 | От 1999 грн |
-| [Капельница от алкоголя на дому](https://umbrella-plus.com.ua/zaporozie/kapelnica_ot_alkogola_na_domy_zaporozhye/) | От 1999 грн |
+| Популярные Услуги Нарколога \| Запорожье                                                                   | Цена        |
+| ---------------------------------------------------------------------------------------------------------- | ----------- |
+| [Вывод из запоя на дому](https://umbrella-plus.com.ua/zaporozie/vivod-iz-zapoia-na-domy-zaporozhye/)       | От 1999 грн |
+| [Капельница от алкоголя](https://umbrella-plus.com.ua/zaporozie/kapelnica_ot_alkogola_na_domy_zaporozhye/) | От 1999 грн |
+| [Капельница от наркотиков](kapelnica-ot-nakrotikov-zp)                                                     | От 1999 грн |
+| [Кодирование от алкоголизма уколом](kodirovka-ot-alkogolia-zp)                                             | От 4999 грн |
 
 ## Преимущества кодирования уколом дисульфирам
 
