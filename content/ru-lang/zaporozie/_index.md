@@ -9,7 +9,7 @@ rating: '4532'
 reviewType: alk-1
 ---
 
-| Популярные Услуги Нарколога \| Запорожье                                                                   | Цена        |
+| Экстренные Услуги Нарколога \| Запорожье                                                                   | Цена        |
 | ---------------------------------------------------------------------------------------------------------- | ----------- |
 | [Вывод из запоя на дому](https://umbrella-plus.com.ua/zaporozie/vivod-iz-zapoia-na-domy-zaporozhye/)       | От 1999 грн |
 | [Капельница от алкоголя](https://umbrella-plus.com.ua/zaporozie/kapelnica_ot_alkogola_na_domy_zaporozhye/) | От 1999 грн |
