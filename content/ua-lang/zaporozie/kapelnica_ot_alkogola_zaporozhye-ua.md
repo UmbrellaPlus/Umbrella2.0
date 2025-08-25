@@ -1,7 +1,7 @@
 ---
 tabTitle: Крапельниця від алкоголю Запоріжжя | Umbrella Plus | Від 1999 грн
 title: Крапельниця від алкоголю Запоріжжя
-description: UmbrellaPlus Безпечна Наркологія
+description: Турбота про здоров'я без зайвих слів
 image: /img/zaporoje/3.jpg
 imageText: Крапельниця від алкоголю Запоріжжя
 ratingAvarage: 4.98/5
