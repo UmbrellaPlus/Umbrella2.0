@@ -1,15 +1,13 @@
 ---
 tabTitle: Кодування від алкоголізму в Запоріжжі | Umbrella Plus | От 4999 грн
 title: Кодування від алкоголізму в Запоріжжі
-description: UmbrellaPlus Безпечна Наркологія
+description: Шанс на нове життя
 image: /img/zaporoje/kod-zp.jpg
 imageText: Кодування від алкоголізму в Запоріжжі
 ratingAvarage: 4.98/5
 rating: '2313'
 reviewType: kod-2
 ---
-
-
 
 ## Кодування від алкоголізму в Запоріжжі
 
