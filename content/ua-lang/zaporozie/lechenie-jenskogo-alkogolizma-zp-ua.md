@@ -1,7 +1,7 @@
 ---
 tabTitle: Лікування жіночого алкоголізму у Запоріжжі | Umbrella Plus | Від 1999 грн
 title: Лікування жіночого алкоголізму у Запоріжжі
-description: ' Umbrella Plus Безпечна Наркологія'
+description: Шлях до тверезості починається з першого кроку
 image: /img/zaporoje/9lechjensk.jpg
 imageText: Лікування жіночого алкоголізму у Запоріжжі
 ratingAvarage: 4.98/5
