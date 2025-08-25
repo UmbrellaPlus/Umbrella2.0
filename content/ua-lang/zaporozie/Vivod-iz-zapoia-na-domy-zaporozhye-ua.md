@@ -1,7 +1,7 @@
 ---
 tabTitle: Виведення із запою вдома Запоріжжя | Umbrella Plus | Від 1999 грн
 title: Виведення із запою вдома Запоріжжя
-description: UmbrellaPlus Безпечна Наркологія
+description: Анонімна допомога прямо у вас вдома
 image: /img/zaporoje/4.jpg
 imageText: Виведення із запою вдома Запоріжжя
 ratingAvarage: 4.98/5
