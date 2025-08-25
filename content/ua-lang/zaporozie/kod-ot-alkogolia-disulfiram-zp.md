@@ -46,12 +46,12 @@ reviewType: kod-2
 
 Вартість **кодування від алкоголю дисульфірамом у Запоріжжі** починається від 4999 грн.
 
-| Популярні послуги                                                                                                        | Ціна         |
-| ------------------------------------------------------------------------------------------------------------------------ | ------------ |
-| [Виведення із запою](https://umbrella-plus.com.ua/uk/zaporozie/vivod-iz-zapoia-zaparoje-ua/)                             | Від 1999 грн |
-| [Виведення із запою вдома](https://umbrella-plus.com.ua/uk/zaporozie/vivod-iz-zapoia-na-domy-zaporozhye-ua/)             | Від 1999 грн |
-| [Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/zaporozie/kapelnica_ot_alkogola_zaporozhye-ua/)               | Від 1999 грн |
-| [Крапельниця від алкоголю вдома](https://umbrella-plus.com.ua/uk/zaporozie/kapelnica_ot_alkogola_na_domy_zaporozhye-ua/) | Від 1999 грн |
+| Екстрені послуги Нарколога \| Запоріжжя                                                                    | Ціна         |
+| ---------------------------------------------------------------------------------------------------------- | ------------ |
+| **[Виведення із запою вдома](Vivod-iz-zapoia-na-domy-zaporozhye-ua)**                                      | Від 1999 грн |
+| **[Крапельниця від алкоголю](Kapelnica_ot_alkogola_na_domy_zaporozhye-ua)**                                | Від 1999 грн |
+| **[Крапельниця від наркотиків](https://umbrella-plus.com.ua/uk/zaporozie/kapelnica-ot-narkotikov-zp-ua/)** | Від 2399 грн |
+| **[Кодування від алкоголізму уколому](https://umbrella-plus.com.ua/uk/zaporozie/kod-ot-alkogolia-zp_ua/)** | Від 4999 грн |
 
 ## Переваги кодування уколом дисульфірам
 
