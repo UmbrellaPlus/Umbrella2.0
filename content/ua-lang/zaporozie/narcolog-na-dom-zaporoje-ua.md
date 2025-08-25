@@ -1,7 +1,7 @@
 ---
 tabTitle: Нарколог додому Запоріжжя | Umbrella Plus | Від 1999 грн
 title: Нарколог додому Запоріжжя
-description: ' Umbrella Plus Безпечна Наркологія'
+description: Анонімна наркологічна допомога вдома
 image: /img/zaporoje/5nark.jpg
 imageText: Нарколог додому Запоріжжя
 ratingAvarage: 4.99/5
