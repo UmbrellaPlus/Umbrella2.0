@@ -1,9 +1,11 @@
 ---
-tabTitle: Послуги Лікування Алкоголізму Запоріжжя | Umbrella Plus | Безпечна наркологія
-title: Лікування алкоголізму Запоріжжя
+tabTitle: >-
+  Лікування алкоголізму та наркоманії в Запоріжжі | Umbrella Plus | Безпечна
+  наркологія
+title: Лікування алкоголізму та наркоманії в Запоріжжі
 description: UmbrellaPlus Безпечна Наркологія
 image: /img/zaporoje/2osnova.jpg
-imageText: Лікування алкоголізму Запоріжжя
+imageText: Лікування алкоголізму та наркоманії в Запоріжжі
 ratingAvarage: 4.98/5
 rating: '4532'
 reviewType: alk-1
