@@ -1,14 +1,13 @@
 ---
 tabTitle: Кодування від алкоголізму уколом Еспераль
 title: Кодування від алкоголізму уколом Еспераль
-description: Umbrella Plus Безпечна Наркологія
+description: Вибери тверезість із гарантією
 image: /img/zaporoje/kod-esp.jpg
 imageText: Кодування від алкоголізму уколом Еспераль
 ratingAvarage: 4.98/5
 rating: '2722'
 reviewType: kod-2
 ---
-
 
 ## Кодування від алкоголізму уколом Еспераль
 
