@@ -2,7 +2,7 @@
 tabTitle: Крапельниця від наркотиків у Запоріжжі | Umbrella Plus | Від 2399 грн
 title: Крапельниця від наркотиків у Запоріжжі
 description: Анонімна допомога нарколога 24/7
-image: ''
+image: /img/zaporoje/kap-ot-nark-zp.jpg
 imageText: Крапельниця від наркотиків у Запоріжжі
 ratingAvarage: 4.99/5
 rating: '4566'
