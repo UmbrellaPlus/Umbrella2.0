@@ -6,6 +6,7 @@ image: /img/zaporoje/6vivod-iz-zapou.jpg
 imageText: Виведення із запою Запоріжжя
 ratingAvarage: 4.99/5
 rating: '3722'
+reviewType: alk-2
 ---
 
 ## Виведення із запою Запоріжжя
