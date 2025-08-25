@@ -1,7 +1,7 @@
 ---
 tabTitle: Крапельниця від алкоголю вдома Запоріжжя | Umbrella Plus | Від 1999 грн
 title: Крапельниця від алкоголю вдома Запоріжжя
-description: UmbrellaPlus Безпечна Наркологія
+description: Швидка допомога під час похмілля
 image: /img/zaporoje/1.jpg
 imageText: Крапельниця від алкоголю вдома Запоріжжя
 ratingAvarage: 4.99/5
