@@ -3,7 +3,7 @@ tabTitle: >-
   Лечение алкоголизма и наркомании в Запорожье | Umbrella Plus | Безопасная
   Наркология
 title: Лечение алкоголизма и наркомании в Запорожье
-description: UmbrellaPlus Безопасная Наркология
+description: Наркологи с опытом работы от пяти лет – гарантия на все услуги!
 image: /img/zaporoje/2osnova.jpg
 imageText: Лечение алкоголизма и наркомании в Запорожье
 ratingAvarage: 4.98/5
