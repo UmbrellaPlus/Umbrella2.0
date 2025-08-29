@@ -2,7 +2,7 @@
 tabTitle: Капельница от алкоголя Харьков | Umbrella Plus | От 2199 грн
 title: Капельница от алкоголя Харьков
 description: Помощь при похмелье круглосуточно!
-image: /img/b060b968c116af03688ea5ce39803d76_high.jpg
+image: /img/Харьков Новое/kap-ot-alk-kharkiv.jpg
 imageText: Капельница от алкоголя Харьков
 ratingAvarage: 4.98/5
 rating: '5912'
