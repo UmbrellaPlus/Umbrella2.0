@@ -1,5 +1,5 @@
 ---
-tabTitle: Капельница от алкоголя Харьков | Umbrella Plus | От 1699 грн
+tabTitle: Капельница от алкоголя Харьков | Umbrella Plus | От 2199 грн
 title: Капельница от алкоголя Харьков
 description: UmbrellaPlus Безопасная Наркология
 image: /img/b060b968c116af03688ea5ce39803d76_high.jpg
