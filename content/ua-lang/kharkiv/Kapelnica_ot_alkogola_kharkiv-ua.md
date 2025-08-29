@@ -2,7 +2,7 @@
 tabTitle: Крапельниця від алкоголю Харків | Umbrella Plus | Від 2199 грн
 title: Крапельниця від алкоголю Харків
 description: Допомога при похмілля цілодобово!
-image: /img/b060b968c116af03688ea5ce39803d76_high.jpg
+image: /img/Харьков Новое/kap-ot-alk-kharkiv.jpg
 imageText: Крапельниця від алкоголю Харків
 ratingAvarage: 4.98/5
 rating: '5912'
