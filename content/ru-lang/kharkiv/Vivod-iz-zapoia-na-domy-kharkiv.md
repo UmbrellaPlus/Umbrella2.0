@@ -1,7 +1,7 @@
 ---
 tabTitle: Вывод из запоя на дому Харьков | Umbrella Plus | От 2199 грн
 title: ' Вывод из запоя на дому Харьков'
-description: Umbrella Plus Безопасная Наркология
+description: Снимаем интоксикацию быстро и безопасно без стресса и лишних глаз
 image: /img/Харьков Новое/889e0b16bc784b8430dfc42b7ead4e22323f_high.jpg
 imageText: Вывод из запоя на дому Харьков
 ratingAvarage: 4.97/5
