@@ -2,7 +2,7 @@
 tabTitle: Капельница от алкоголя на дому Харьков | Umbrella Plus | От 2199 грн
 title: Капельница от алкоголя на дому Харьков
 description: Экстренная помощь при интоксикации
-image: /img/Харьков Новое/c319aecfd3f863143299966a3d501f4c242424242_high.jpg
+image: /img/Харьков Новое/kap-ot-alk-na-domy-kharkiv.jpg
 imageText: Капельница от алкоголя на дому Харьков
 ratingAvarage: 4.97/5
 rating: '5879'
