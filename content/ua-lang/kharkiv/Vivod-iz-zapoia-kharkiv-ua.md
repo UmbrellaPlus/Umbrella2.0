@@ -1,7 +1,7 @@
 ---
 tabTitle: Виведення із запою Харків | Umbrella Plus | Від 2199 грн
 title: Виведення із запою Харків
-description: Umbrella Plus Безпечна Наркологія
+description: Перший крок до тверезого життя
 image: /img/Харьков Новое/985c67f2ffd5f19bff94517cdea21f0e_high (1).jpg
 imageText: Виведення із запою Харків
 ratingAvarage: 4.98/5
