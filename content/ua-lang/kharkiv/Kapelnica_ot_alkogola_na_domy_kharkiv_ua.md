@@ -2,7 +2,7 @@
 tabTitle: Крапельниця від алкоголю вдома Харків | Umbrella Plus | Від 2199 грн
 title: Крапельниця від алкоголю вдома Харків
 description: Екстрена допомога при інтоксикації
-image: /img/Харьков Новое/c319aecfd3f863143299966a3d501f4c242424242_high.jpg
+image: /img/Харьков Новое/kap-ot-alk-na-domy-kharkiv.jpg
 imageText: Крапельниця від алкоголю вдома Харків
 ratingAvarage: 4.97/5
 rating: '5879'
