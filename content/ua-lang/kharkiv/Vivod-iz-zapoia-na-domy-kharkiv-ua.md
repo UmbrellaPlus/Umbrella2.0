@@ -2,7 +2,7 @@
 tabTitle: Виведення із запою вдома Харків | Umbrella Plus | Від 2199 грн
 title: Виведення із запою вдома Харків
 description: Знімаємо інтоксикацію швидко та безпечно без стресу та зайвих очей
-image: /img/Харьков Новое/889e0b16bc784b8430dfc42b7ead4e22323f_high.jpg
+image: /img/Харьков Новое/vivid-iz-zapoi-doma-kharkiv.jpg
 imageText: Виведення із запою вдома Харків
 ratingAvarage: 4.97/5
 rating: '5928'
