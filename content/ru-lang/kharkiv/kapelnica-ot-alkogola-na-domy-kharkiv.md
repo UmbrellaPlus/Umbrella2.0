@@ -1,8 +1,8 @@
 ---
 tabTitle: Капельница от наркотиков в Харькове | Umbrella Plus | От 2499грн
 title: Капельница от наркотиков в Харькове
-description: UmbrellaPlus первый шаг к трезвой жизни
-image: ''
+description: Первый шаг к трезвой жизни
+image: /img/Харьков Новое/kap-ot-nakr-khark.jpg
 imageText: Капельница от наркотиков в Харькове
 ratingAvarage: 4.99/5
 rating: '2988'
