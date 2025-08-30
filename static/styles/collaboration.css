@@ -12,6 +12,7 @@
 }
 .collaboration-title{
     display: flex;
+    align-items: center;
     justify-content: space-around;
 }
 .collaboration-title-text{
@@ -23,7 +24,8 @@
     padding: 0 1.5rem;
 }
 .collaboration-img {
-    max-width: 30%;
+    max-width: 35%;
+    height: 95%;
 }
 .collaboration-page h1.title {
     text-align: center;
@@ -75,4 +77,15 @@
 .content p a:hover {
     background-color: #007BFF;
     color: white;
+}
+
+@media (max-width: 1250px) {
+    .collaboration-title {
+        flex-direction: column;
+    }
+    .collaboration-img {
+        max-width: 100%;
+        display: block;
+        height: auto;
+    }
 }

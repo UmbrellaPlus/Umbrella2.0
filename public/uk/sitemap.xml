@@ -145,7 +145,7 @@
   </url><url>
     <loc>http://localhost:1313/uk/zaporozie/kod-ot-alkogolia-zp_ua/</loc>
   </url><url>
-    <loc>http://localhost:1313/uk/zaporozie/-dovjenko-zp-ua/</loc>
+    <loc>http://localhost:1313/uk/zaporozie/dovjenko-zp-ua/</loc>
   </url><url>
     <loc>http://localhost:1313/uk/kiev/kodirovka-ot-alkogolia-kiev-ua/</loc>
   </url><url>
@@ -237,6 +237,10 @@
   </url><url>
     <loc>http://localhost:1313/uk/kharkiv/kapelnica_ot_alkogola_kharkiv-ua/</loc>
   </url><url>
+    <loc>http://localhost:1313/uk/zaporozie/kapelnica-ot-narkotikov-zp-ua/</loc>
+  </url><url>
+    <loc>http://localhost:1313/uk/kharkiv/kap-ot-nark-ua/</loc>
+  </url><url>
     <loc>http://localhost:1313/uk/blog/krapelnica_vid_pohmelia-kharkiv-ua/</loc>
   </url><url>
     <loc>http://localhost:1313/uk/blog/krapelnicya-vid-pokhmillya-u-kharkovi-ua/</loc>
@@ -261,33 +265,9 @@
                 href="http://localhost:1313/uk/services/"
                 />
   </url><url>
-    <loc>http://localhost:1313/uk/kharkiv/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="http://localhost:1313/kharkiv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/uk/kharkiv/"
-                />
-  </url><url>
     <loc>http://localhost:1313/uk/chornomorsk/-lechenie-alkogolizma-chernomorsk-ua/</loc>
   </url><url>
     <loc>http://localhost:1313/uk/services/lechenie-alkogolizma-ua/</loc>
-  </url><url>
-    <loc>http://localhost:1313/uk/zaporozie/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="http://localhost:1313/zaporozie/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/uk/zaporozie/"
-                />
   </url><url>
     <loc>http://localhost:1313/uk/blog/lechenie-alkogolizma-new-kiev/</loc>
     <xhtml:link
@@ -328,6 +308,30 @@
                 />
   </url><url>
     <loc>http://localhost:1313/uk/lechenie-alkogolizma-od-ua/</loc>
+  </url><url>
+    <loc>http://localhost:1313/uk/zaporozie/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="http://localhost:1313/zaporozie/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/uk/zaporozie/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/uk/kharkiv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="http://localhost:1313/kharkiv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/uk/kharkiv/"
+                />
   </url><url>
     <loc>http://localhost:1313/uk/dnepr/lechenie-alkogolizma-dnepr-ua/</loc>
   </url><url>
@@ -407,6 +411,8 @@
                 href="http://localhost:1313/uk/services-nark/"
                 />
   </url><url>
+    <loc>http://localhost:1313/uk/zaporozie/lechenie_narkomanii_zp_ua/</loc>
+  </url><url>
     <loc>http://localhost:1313/uk/dnepr/lechenie-pivnogo-alkogolizma-v-dnepre-ua/</loc>
   </url><url>
     <loc>http://localhost:1313/uk/dnepr/lechenie-pivnogo-alkogolizma-dnepr-ua/</loc>
@@ -447,7 +453,7 @@
   </url><url>
     <loc>http://localhost:1313/uk/blog/chto-delat-pri-zapoi-ua/</loc>
   </url><url>
-    <loc>http://localhost:1313/uk/zaporozie/-podshivka-ot-alkogolia-zp-ua/</loc>
+    <loc>http://localhost:1313/uk/zaporozie/podshivka_ot_alko_zp_ua/</loc>
   </url><url>
     <loc>http://localhost:1313/uk/lviv/podshivka-ot-alkogolia-lviv/</loc>
   </url><url>

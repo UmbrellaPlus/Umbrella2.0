@@ -222,8 +222,6 @@
   </url><url>
     <loc>http://localhost:1313/services/kapelnica_ot_alkogola_na_domy_umbrellaplus/</loc>
   </url><url>
-    <loc>http://localhost:1313/kharkiv/kapelnica-ot-alkogola-na-domy-kharkiv/</loc>
-  </url><url>
     <loc>http://localhost:1313/chornomorsk/kapelnica_ot_alkogola_na_domy_chernomorsk/</loc>
   </url><url>
     <loc>http://localhost:1313/lviv/kapelnica_ot_alkogola_na-domy-lvov/</loc>
@@ -239,6 +237,10 @@
     <loc>http://localhost:1313/kapelnica-ot-alkogolia-od/</loc>
   </url><url>
     <loc>http://localhost:1313/kharkiv/kapelnica_ot_alkogola_kharkiv/</loc>
+  </url><url>
+    <loc>http://localhost:1313/kharkiv/kap-ot-nark-kharkiv/</loc>
+  </url><url>
+    <loc>http://localhost:1313/zaporozie/kapelnica-ot-nakrotikov-zp/</loc>
   </url><url>
     <loc>http://localhost:1313/blog/kapelnica_ot_pohmelia-kharkiv/</loc>
   </url><url>
@@ -350,18 +352,6 @@
   </url><url>
     <loc>http://localhost:1313/lechenie-alkogolizma-od/</loc>
   </url><url>
-    <loc>http://localhost:1313/kharkiv/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/uk/kharkiv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="http://localhost:1313/kharkiv/"
-                />
-  </url><url>
     <loc>http://localhost:1313/kharkiv/lechenie_alkogolizma_v_kharkove/</loc>
   </url><url>
     <loc>http://localhost:1313/chornomorsk/lechenie-alkogolizma-chernomorsk/</loc>
@@ -380,6 +370,8 @@
   </url><url>
     <loc>http://localhost:1313/lviv/lechenie-alkogolizma-lviv/</loc>
   </url><url>
+    <loc>http://localhost:1313/zaporozie/lechenie-alkogolizma-zaporoje/</loc>
+  </url><url>
     <loc>http://localhost:1313/zaporozie/</loc>
     <xhtml:link
                 rel="alternate"
@@ -392,7 +384,17 @@
                 href="http://localhost:1313/zaporozie/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zaporozie/lechenie-alkogolizma-zaporoje/</loc>
+    <loc>http://localhost:1313/kharkiv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/uk/kharkiv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="http://localhost:1313/kharkiv/"
+                />
   </url><url>
     <loc>http://localhost:1313/kamianske/lechenie-alkogolizma-kamenskoe/</loc>
   </url><url>
@@ -473,6 +475,8 @@
                 hreflang="ru-UA"
                 href="http://localhost:1313/services-nark/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/zaporozie/lechenie-narkomanii-zp/</loc>
   </url><url>
     <loc>http://localhost:1313/services/lechenie_pivnogo_alkogolizm/</loc>
   </url><url>

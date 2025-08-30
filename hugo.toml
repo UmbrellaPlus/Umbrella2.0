@@ -142,7 +142,7 @@ defaultContentLanguageInSubdir = false
                         weight = 10
                         parent = 'filials'
                     [[languages.uk.menus.main]]
-                        name = 'Харьків'
+                        name = 'Харків'
                         pageRef = '/kharkiv'
                         weight = 20
                         parent = 'filials'
