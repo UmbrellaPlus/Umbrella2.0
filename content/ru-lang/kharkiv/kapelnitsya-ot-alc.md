@@ -2,7 +2,7 @@
 tabTitle: Нарколог на дом Харьков | Umbrella Plus | 2199 грн
 title: Нарколог на дом Харьков
 description: Помощь без лишних вопросов
-image: ''
+image: /img/Харьков Новое/narkolog-kharkiv.jpg
 imageText: Нарколог на дом Харьков
 ratingAvarage: 4.98/5
 rating: '2387'
