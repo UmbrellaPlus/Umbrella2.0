@@ -186,8 +186,6 @@
   </url><url>
     <loc>http://localhost:1313/services/kapelnica-ot-alkogolia-umbrellaplus/</loc>
   </url><url>
-    <loc>http://localhost:1313/kharkiv/kapelnitsya-ot-alc/</loc>
-  </url><url>
     <loc>http://localhost:1313/chornomorsk/kapelnica_ot_alkogola_chernomorsk/</loc>
   </url><url>
     <loc>http://localhost:1313/dnepr/kapelnica_ot_alkogola_dnepr/</loc>
@@ -505,6 +503,8 @@
     <loc>http://localhost:1313/blog/narcolog-na-dom-kiev/</loc>
   </url><url>
     <loc>http://localhost:1313/vizov-narkologa-od/</loc>
+  </url><url>
+    <loc>http://localhost:1313/kharkiv/vizov-narkologa-kharkov/</loc>
   </url><url>
     <loc>http://localhost:1313/blog/narcolog-na-dom-kharkiv/</loc>
   </url><url>

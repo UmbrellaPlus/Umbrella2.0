@@ -89,3 +89,15 @@
         height: auto;
     }
 }
+
+@media (max-width: 450px) {
+    .collaboration-page h1.title {
+        font-size: 1.5rem;
+    }
+    .container {
+        max-width: 100%;
+    }
+    .collaboration-page ul {
+        margin-left: 0;
+    }
+}

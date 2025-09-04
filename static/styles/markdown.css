@@ -84,3 +84,9 @@ tbody tr:hover {
     max-width: 50%;
   }
 }
+
+@media (max-width: 450px) {
+  .collaboration-page ul {
+    margin-left: 0;
+  }
+}
