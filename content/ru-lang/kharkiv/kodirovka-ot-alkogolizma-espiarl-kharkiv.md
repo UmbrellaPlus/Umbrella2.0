@@ -4,7 +4,7 @@ tabTitle: >-
   грн
 title: Кодирование от алкоголизма уколом Эспераль
 description: Ваш выбор в пользу свободы
-image: ''
+image: /img/Харьков Новое/kod-ot-alk-espiral-khrakiv.jpg
 imageText: Кодирование от алкоголизма уколом
 ratingAvarage: 4.97/5
 rating: '1892'
