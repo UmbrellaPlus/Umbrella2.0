@@ -1,9 +1,9 @@
 ---
-tabTitle: Кодирование от алкоголизма уколом Харьков | UmbrellaPlus | От 4000грн
-title: Кодирование от алкоголизма уколом Харьков
-description: UmbrellaPlus Безопасная Наркология
-image: /img/Харьков/04-02-2020-12-04-50.jpg
-imageText: Кодирование от алкоголизма укол Харьков
+tabTitle: Лечение наркомании в Харькове | Umbrella Plus | От 2499 грн
+title: Лечение наркомании в Харькове
+description: Сделай шаг к жизни без наркотиков
+image: /img/Харьков Новое/lech-nark-kharkiv.jpg
+imageText: Лечение наркомании в Харькове
 ratingAvarage: 4.98/5
 rating: '2496'
 reviewType: kod-2
