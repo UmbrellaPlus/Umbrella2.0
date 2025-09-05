@@ -4,7 +4,7 @@ title: 'Детоксикация от соли (α-PVP, MDPV, Мефедрон)'
 description: Вывод токсинов при употреблении солей
 image: /img/Харьков Новое/kap-ot-soli-kharkiv.jpg
 imageText: 'Детоксикация от соли (α-PVP, MDPV, Мефедрон)'
-ratingAvarage: 4.95/5
+ratingAvarage: 4.98/5
 rating: '2498'
 reviewType: alk-2
 ---
