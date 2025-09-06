@@ -1,8 +1,8 @@
 ---
-tabTitle: Детоксикация от амфетамина Харьков | Umbrella Plus | От 2499грн
+tabTitle: Детоксикация от амфетамина Харьков | Umbrella Plus | От 2499 грн
 title: Детоксикация от амфетамина Харьков
 description: Полное очищение организма
-image: ''
+image: /img/Харьков Новое/detox-ot-amfetamina.jpg
 imageText: Детоксикация от амфетамина Харьков
 ratingAvarage: 4.98/5
 rating: '2871'
