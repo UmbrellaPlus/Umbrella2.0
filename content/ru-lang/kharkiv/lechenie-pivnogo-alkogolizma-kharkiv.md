@@ -4,7 +4,7 @@ title: Лечение пивного алкоголизма Харьков
 description: Выбери свободу от зависимости!
 image: /img/Харьков Новое/4d51dcf45bf2a55e9a963111991f02bb_high.jpg
 imageText: Лечение пивного алкоголизма Харьков
-ratingAvarage: 4.94/5
+ratingAvarage: 4.98/5
 rating: '2966'
 reviewType: alk-1
 ---
