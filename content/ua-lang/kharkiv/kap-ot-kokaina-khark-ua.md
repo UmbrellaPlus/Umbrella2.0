@@ -2,6 +2,7 @@
 tabTitle: Детоксикація від кокаїну Харків | Umbrella Plus | Від 2499 грн
 title: Детоксикація від кокаїну Харків
 description: Екстрене очищення організму
+image: /img/Харьков Новое/kap-ot-kokaina-kharkiv.jpg
 imageText: Детоксикація від кокаїну Харків
 ratingAvarage: 4.98/5
 rating: '3629'
