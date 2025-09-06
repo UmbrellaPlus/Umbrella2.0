@@ -2,7 +2,7 @@
 tabTitle: Детоксикация от кокаина Харьков | Umbrella Plus | От 2499 грн
 title: Детоксикация от кокаина Харьков
 description: Экстренное очищение орагнизма
-image: ''
+image: /img/Харьков Новое/kap-ot-kokaina-kharkiv.jpg
 imageText: Детоксикация от кокаина Харьков
 ratingAvarage: 4.98/5
 rating: '3629'
