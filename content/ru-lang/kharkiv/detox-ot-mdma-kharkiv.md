@@ -2,7 +2,7 @@
 tabTitle: Детоксикация от экстази в Харькове | Umbrella Plus | От 2499 грн
 title: Детоксикация от экстази в Харькове
 description: Трезвое утро без боли и страха начинается сегодня
-image: ''
+image: /img/Харьков Новое/detox-ot-mdma-kharkiv.jpg
 imageText: Детоксикация от экстази в Харькове
 ratingAvarage: 4.99/5
 rating: '2712'
