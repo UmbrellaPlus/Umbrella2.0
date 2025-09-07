@@ -4,6 +4,7 @@ tabTitle: >-
   4999 грн
 title: Кодирование от алкоголизма уколом дисульфирам в Харькове
 description: Надёжный шаг к трезвой жизни
+image: /img/Харьков Новое/kod-ot-alk-dis-kharkiv.jpg
 imageText: Кодирование от алкоголизма уколом дисульфирам в Харькове
 ratingAvarage: 4.99/5
 rating: '5923'
