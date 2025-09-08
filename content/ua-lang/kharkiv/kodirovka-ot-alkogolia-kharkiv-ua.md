@@ -37,12 +37,12 @@ reviewType: kod-2
 
 Вартість **кодування від алкоголю уколом у Харкові** починається від 4999 грн.
 
-| Популярні послуги                                                                                              | Ціна         |
-| -------------------------------------------------------------------------------------------------------------- | ------------ |
-| [Виведення із запою вдома](https://umbrella-plus.com.ua/uk/kharkiv/vivod-iz-zapoia-na-domy-kharkiv-ua/)        | Від 2199 грн |
-| [Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/kharkiv/kapelnica_ot_alkogola_na_domy_kharkiv_ua/)  | Від 2199 грн |
-| [Крапельниця від наркотиків](https://umbrella-plus.com.ua/uk/kharkiv/kap-ot-nark-ua/)                          | Від 2499 грн |
-| [Кодування від алкоголізму уколом](https://umbrella-plus.com.ua/uk/kharkiv/kodirovka-ot-alkogolia-kharkiv-ua/) | Від 4999 грн |
+| Популярні послуги                                                                                                        | Ціна         |
+| ------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| [Виведення із запою вдома](https://umbrella-plus.com.ua/uk/kharkiv/vivod-iz-zapoia-na-domy-kharkiv-ua/)                  | Від 2199 грн |
+| [Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/kharkiv/kapelnica_ot_alkogola_na_domy_kharkiv_ua/)            | Від 2199 грн |
+| [Крапельниця від наркотиків](https://umbrella-plus.com.ua/uk/kharkiv/kap-ot-nark-ua/)                                    | Від 2499 грн |
+| [Кодування від алкоголізму уколом](https://umbrella-plus.com.ua/uk/kharkiv/kodirovka-ot-alkogola-disulfiram-kharkiv-ua/) | Від 4999 грн |
 
 ## Як проходить процедура кодування від алкоголізму в Харкові?
 
