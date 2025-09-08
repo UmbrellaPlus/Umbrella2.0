@@ -2,7 +2,7 @@
 tabTitle: ' Детоксикація від ЛСД у Харкові | Umbrella Plus | Від 2499 грн'
 title: Детоксикація від ЛСД у Харкові
 description: Новий шанс на життя
-image: ''
+image: /img/Харьков Новое/detox-ot-lsd.jpg
 imageText: Детоксикація від ЛСД у Харкові
 ratingAvarage: 4.99/5
 rating: '2902'
