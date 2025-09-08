@@ -5,7 +5,7 @@ description: Перший крок до тверезого життя
 image: /img/Харьков Новое/985c67f2ffd5f19bff94517cdea21f0e_high (1).jpg
 imageText: Виведення із запою Харків
 ratingAvarage: 4.98/5
-rating: '2902'
+rating: '4902'
 reviewType: alk-2
 ---
 
