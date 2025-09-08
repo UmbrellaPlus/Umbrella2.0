@@ -46,4 +46,4 @@ reviewType: alk-1
 | [Кодирование от алкоголизма укол Дисульфирам](kodirovka-ot-alkogola-disulfiram-kharkiv) | От 4999 грн  |
 | [Кодирование от алкоголизма укол Эспераль](kodirovka-ot-alkogolizma-espiarl-kharkiv)    | От 5999 грн  |
 | [Подшивка от алкоголя Харьков](podshivka_ot_alkogolizma_kharkiv)                        | От 9999 грн  |
-| Кодирование по методу Довженко                                                          | От 14999 грн |
+| [Кодирование по методу Довженко](kod-po-metody-dovjenko-kharkiv)                        | От 14999 грн |
