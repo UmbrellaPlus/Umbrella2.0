@@ -46,7 +46,7 @@ reviewType: alk-1
 | ---------------------------------------------------------------------------------------------------------- | ----------- |
 | [Вывод из запоя на дому](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/)            | От 2199 грн |
 | [Капельница от алкоголя](https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_na_domy_kharkiv/)      | От 2199 грн |
-| [Капельница от наркотиков](https://umbrella-plus.com.ua/kharkiv/kapelnica-ot-alkogola-na-domy-kharkiv/)    | От 2499 грн |
+| [Лечение наркомании Харьков](https://umbrella-plus.com.ua/kharkiv/lechenie-nark-kharkiv/)                  | От 2499 грн |
 | [Кодирование от алкоголизма Харьков](https://umbrella-plus.com.ua/kharkiv/kodirovka-ot-alkogolia-kharkiv/) | От 4999 грн |
 
 ## Капельница от наркотиков — первый шаг к трезвости
