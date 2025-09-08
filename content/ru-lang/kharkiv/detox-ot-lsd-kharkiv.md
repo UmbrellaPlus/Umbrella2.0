@@ -2,6 +2,7 @@
 tabTitle: Детоксикация от ЛСД в Харькове | Umbrella Plus | От 2499 грн
 title: Детоксикация от ЛСД в Харькове
 description: Новый шанс на жизнь
+image: /img/Харьков Новое/detox-ot-lsd.jpg
 imageText: Детоксикация от ЛСД в Харькове
 ratingAvarage: 4.99/5
 rating: '2902'
