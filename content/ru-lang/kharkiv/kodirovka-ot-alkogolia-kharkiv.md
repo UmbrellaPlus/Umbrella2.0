@@ -37,12 +37,12 @@ reviewType: kod-2
 
 Стоимость **кодирования от алкоголизма уколом в Харькове** начинается от 4999 грн.
 
-| Популярные услуги                                                                                          | Цена        |
-| ---------------------------------------------------------------------------------------------------------- | ----------- |
-| [Вывод из запоя на дому](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/)            | От 2199 грн |
-| [Капельница от алкоголя](https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_na_domy_kharkiv/)      | От 2199 грн |
-| [Капельница от наркотиков](https://umbrella-plus.com.ua/kharkiv/kap-ot-nark-kharkiv/)                      | От 2499 грн |
-| [Кодирование от алкоголизма Харьков](https://umbrella-plus.com.ua/kharkiv/kodirovka-ot-alkogolia-kharkiv/) | От 4999 грн |
+| Популярные услуги                                                                                                           | Цена        |
+| --------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [Вывод из запоя на дому](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/)                             | От 2199 грн |
+| [Капельница от алкоголя](https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_na_domy_kharkiv/)                       | От 2199 грн |
+| [Капельница от наркотиков](https://umbrella-plus.com.ua/kharkiv/kap-ot-nark-kharkiv/)                                       | От 2499 грн |
+| [Кодирование от алкоголизма уколом Харьков](https://umbrella-plus.com.ua/kharkiv/kodirovka-ot-alkogola-disulfiram-kharkiv/) | От 4999 грн |
 
 ## Как проходит процедура кодирования от алкоголизма в Харькове?
 
