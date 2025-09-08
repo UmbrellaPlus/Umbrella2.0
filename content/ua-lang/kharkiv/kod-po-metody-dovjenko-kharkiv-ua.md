@@ -4,6 +4,7 @@ tabTitle: >-
   14999 грн
 title: Кодування від алкоголізму за методом Довженка Харків
 description: Сила розуму проти залежності
+image: /img/Харьков Новое/kod-po-dovg-kharkiv.jpg
 imageText: Кодування від алкоголізму за методом Довженка Харків
 ratingAvarage: 4.96/5
 rating: '1342'
