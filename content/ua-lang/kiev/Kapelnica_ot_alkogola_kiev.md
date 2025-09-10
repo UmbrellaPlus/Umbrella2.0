@@ -2,7 +2,7 @@
 tabTitle: Крапельниця від алкоголю Київ | Umbrella Plus | Від 2500 грн
 title: Крапельниця від алкоголю Київ
 description: Помощь здесь и сейчас
-image: /img/Kiev New/965a2585666a480936cd340c7b8e7c3d_high.jpg
+image: /img/Kiev-new10.09.2025/kap-ot-alk-kiev.jpg
 imageText: Крапельниця від алкоголю Київ
 ratingAvarage: 4.98/5
 rating: '6728'
