@@ -3,7 +3,7 @@ tabTitle: ' Крапельниця від алкоголю вдома Київ |
 title: ' Крапельниця від алкоголю вдома Київ'
 description: Знімаємо будь-яке похмілля
 image: /img/Kiev-new10.09.2025/kap-ot-alkg-na-domy-kiev.jpg
-imageText: ' Крапельниця від алкоголю Київ'
+imageText: ' Крапельниця від алкоголю вдома Київ'
 ratingAvarage: 4.98/5
 rating: '6664'
 reviewType: alk-2
