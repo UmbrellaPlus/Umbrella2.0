@@ -1,7 +1,7 @@
 ---
 tabTitle: Виведення з запою вдома Київ | Umbrella Plus | Від 2700 грн
 title: Виведення з запою вдома Київ
-description: UmbrellaPlus Безпечна Наркологія
+description: Швидко Безпечно Анонімно
 image: /img/Kiev New/0e03ddc36f48b8e5b3bfcbffe0f1d797_high.jpg
 imageText: Виведення з запою вдома Київ
 ratingAvarage: 4.98/5
