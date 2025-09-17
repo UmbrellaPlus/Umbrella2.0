@@ -1,11 +1,11 @@
 ---
-tabTitle: Прокапаться от алкоголя в Киев | Umbrella Plus | От 2500 грн
-title: Прокапаться от алкоголя в Киев
-description: UmbrellaPlus Безопасная Наркология
+tabTitle: Капельница от наркотиков Киев | Umbrella Plus | От 3000 грн
+title: Капельница от наркотиков Киев
+description: Первый шаг к новой жизни
 image: /img/Kiev New/prokapkaotalk.jpg
-imageText: Прокапаться от алкоголя в Киев
+imageText: Капельница от наркотиков Киев
 ratingAvarage: 4.98/5
-rating: '2862'
+rating: '7862'
 reviewType: alk-2
 ---
 
