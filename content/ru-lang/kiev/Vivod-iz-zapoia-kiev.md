@@ -2,7 +2,7 @@
 tabTitle: Вывод из запоя Киев | Umbrella Plus | От 2700 грн
 title: Вывод из запоя Киев
 description: Трезвость начинается сегодня
-image: /img/Kiev New/ba7e472e75f25903a925436ef406ec30_high.jpg
+image: /img/Kiev-new10.09.2025/vivod-iz-zapoa-kiev.jpg
 imageText: Вывод из запоя Киев
 ratingAvarage: 4.98/5
 rating: '5214'
