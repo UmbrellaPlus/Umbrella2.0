@@ -1,9 +1,9 @@
 ---
-tabTitle: Услуги Лечение Алкоголизма в Киеве | Umbrella Plus | Безопасная наркология
-title: Лечение алкоголизма Киев
-description: UmbrellaPlus Безопасная Наркология
+tabTitle: Лечение алкоголизма и наркомании Киев | Umbrella Plus | От 2500 грн
+title: Лечение алкоголизма и наркомании Киев
+description: Наркологи с опытом работы от пяти лет – гарантия на все услуги!
 image: /img/Kiev New/ebf6bbf6812e669e29e09ba76038c020_high.jpg
-imageText: Лечение алкоголизма Киев
+imageText: Лечение алкоголизма и наркомании Киев
 ratingAvarage: 4.97/5
 rating: '6324'
 reviewType: alk-1
