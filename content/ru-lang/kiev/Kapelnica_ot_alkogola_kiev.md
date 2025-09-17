@@ -1,5 +1,5 @@
 ---
-tabTitle: Капельница от алкоголя Киев | Umbrella Plus | От 2500 грн
+tabTitle: Капельница от алкоголя Киев | Umbrella Plus | От 2700 грн
 title: 'Капельница от алкоголя Киев '
 description: Помощь здесь и сейчас
 image: /img/Kiev-new10.09.2025/kap-ot-alk-kiev.jpg
