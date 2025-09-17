@@ -2,7 +2,7 @@
 tabTitle: Вывод из запоя на дому Киев | Umbrella Plus | От 2700 грн
 title: Вывод из запоя на дому Киев
 description: Быстро Безопасно Анонимно
-image: /img/Kiev New/0e03ddc36f48b8e5b3bfcbffe0f1d797_high.jpg
+image: /img/Kiev New/vivod-iz-zapoia-kiev.jpg
 imageText: Вывод из запоя на дому Киев
 ratingAvarage: 4.98/5
 rating: '5423'
