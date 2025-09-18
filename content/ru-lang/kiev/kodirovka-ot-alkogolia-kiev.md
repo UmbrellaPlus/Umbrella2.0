@@ -2,7 +2,7 @@
 tabTitle: Кодирование от алкоголизма Киев | Umbrella Plus | От 4999 грн
 title: Кодирование от алкоголизма Киев
 description: «Кодирование в Киеве – шаг к трезвой жизни!»
-image: /img/87210f1b-7e66-4097-bc6e-ff5be399db3e.jpg
+image: /img/Kiev-new10.09.2025/kod-ot-alkog-kiev.jpg
 imageText: Кодирование от алкоголизма Киев
 ratingAvarage: 4.96/5
 rating: '2321'
