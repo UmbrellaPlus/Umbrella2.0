@@ -1,24 +1,30 @@
-/* USED ONLY ON ABOUT PAGE */
-
 .about-container{
-    padding-top:10rem;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    max-width: 60%;
-    margin: auto;
-}
-.about-inside p{
-    margin-bottom: 1rem;
-    line-height: 1.5rem;
+    padding: 6rem;
 }
 
+.about-introduction {
+    /* Убираем flex */
+    display: block;
+}
+
+.about-image {
+    float: left;               /* текст обтекает картинку */
+    margin: 0 1.5rem 1rem 0;   /* отступ справа и снизу */
+    max-width: 40%;            /* картинка не займет больше 40% ширины */
+    height: auto;              /* сохраняет пропорции */
+}
+
+/* Контейнер для секций */
+.about-introduction .about-section {
+    margin-bottom: 2rem;
+    overflow: hidden; /* предотвращает наложение float на контейнер */
+}
+
+/* Адаптация для мобильных */
 @media (max-width: 1200px) {
-    .about-container {
-      height: auto;
-      max-width: 95%;
+    .about-image {
+        float: none;
+        max-width: 100%;
+        margin: 0 0 1.5rem 0;
     }
-    .about-inside p{
-      flex-direction: column;
-    }
-  }
+}

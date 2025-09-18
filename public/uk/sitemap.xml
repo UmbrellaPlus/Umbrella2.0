@@ -121,6 +121,40 @@
   </url><url>
     <loc>http://localhost:1313/uk/blog/vihod-iz-zapoia-kharkiv-ua/</loc>
   </url><url>
+    <loc>http://localhost:1313/uk/kharkiv/detox-ot-amfetamina-kharkiv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="http://localhost:1313/kharkiv/detox-ot-amfetamina-kharkiv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/uk/kharkiv/detox-ot-amfetamina-kharkiv/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/uk/kharkiv/detox-ot-mdma-kharkiv-ua/</loc>
+  </url><url>
+    <loc>http://localhost:1313/uk/kharkiv/kap-ot-kokaina-khark-ua/</loc>
+  </url><url>
+    <loc>http://localhost:1313/uk/kharkiv/detox-ot-liriki-kharkiv-ua/</loc>
+  </url><url>
+    <loc>http://localhost:1313/uk/kharkiv/detox-ot-lsd-khrakiv-ua/</loc>
+  </url><url>
+    <loc>http://localhost:1313/uk/kharkiv/detox-ot-opiodov-kharkiv-ua/</loc>
+  </url><url>
+    <loc>http://localhost:1313/uk/kharkiv/detox-ot-soli-kharkiv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="http://localhost:1313/kharkiv/detox-ot-soli-kharkiv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/uk/kharkiv/detox-ot-soli-kharkiv/"
+                />
+  </url><url>
     <loc>http://localhost:1313/uk/blog/pomogite-vyiti-iz-zapoya-blog-ua/</loc>
   </url><url>
     <loc>http://localhost:1313/uk/blog/ekstrennaua-kapelnica-ot-alkogolia-kiev-ua/</loc>
@@ -147,6 +181,8 @@
   </url><url>
     <loc>http://localhost:1313/uk/zaporozie/dovjenko-zp-ua/</loc>
   </url><url>
+    <loc>http://localhost:1313/uk/kharkiv/kod-po-metody-dovjenko-kharkiv-ua/</loc>
+  </url><url>
     <loc>http://localhost:1313/uk/kiev/kodirovka-ot-alkogolia-kiev-ua/</loc>
   </url><url>
     <loc>http://localhost:1313/uk/kodirovanie-po-dovjenko-od-ua/</loc>
@@ -167,6 +203,8 @@
   </url><url>
     <loc>http://localhost:1313/uk/services/kodirovka-ot-alkogolia-disulfiram-umbrellaplus-ua/</loc>
   </url><url>
+    <loc>http://localhost:1313/uk/kharkiv/kodirovka-ot-alkogola-disulfiram-kharkiv-ua/</loc>
+  </url><url>
     <loc>http://localhost:1313/uk/kharkiv/kodirovka-ot-alkogolizma-espiarl-kharkiv-ua/</loc>
   </url><url>
     <loc>http://localhost:1313/uk/kodirovka-ot-alkogolia-ykolom-esperal-od-ua/</loc>
@@ -176,8 +214,6 @@
     <loc>http://localhost:1313/uk/zaporozie/kodirovka-esperal-zp-ua/</loc>
   </url><url>
     <loc>http://localhost:1313/uk/services/kodirovka-ot-alkogolizma-espiarl-umbrellaplus-ua/</loc>
-  </url><url>
-    <loc>http://localhost:1313/uk/kharkiv/kodirovka-ot-alkogolia-disulfiram-kharkiv-ua/</loc>
   </url><url>
     <loc>http://localhost:1313/uk/zaporozie/kod-ot-alkogolia-disulfiram-zp/</loc>
   </url><url>
@@ -412,6 +448,8 @@
                 />
   </url><url>
     <loc>http://localhost:1313/uk/zaporozie/lechenie_narkomanii_zp_ua/</loc>
+  </url><url>
+    <loc>http://localhost:1313/uk/kharkiv/lechenie-nakr-kharkov-ua/</loc>
   </url><url>
     <loc>http://localhost:1313/uk/dnepr/lechenie-pivnogo-alkogolizma-v-dnepre-ua/</loc>
   </url><url>

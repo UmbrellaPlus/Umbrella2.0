@@ -348,6 +348,18 @@ export default defineConfig({
         path: "content/ua-lang/feedback",
         fields: [...feedbackTemplate],
       },
+      {
+        name: "about-ru",
+        label: "О нас_RU",
+        path: "content/ru-lang/about-us",
+        fields: [...feedbackTemplate],
+      },
+      {
+        name: "about-ua",
+        label: "О нас-UA",
+        path: "content/ua-lang/about-us",
+        fields: [...feedbackTemplate],
+      },
     ],
   },
 });
