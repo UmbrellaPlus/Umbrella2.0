@@ -1,0 +1,39 @@
+.star-rating {
+    display: flex;
+    justify-content: flex-start;
+    margin: 20px 0;
+    max-width: 48%;
+    margin: auto;
+}
+
+.star {
+    font-size: 34px;
+    color: #ddd;
+    cursor: pointer;
+    transition: color 0.2s ease-in-out;
+}
+
+.selected {
+    color: gold;
+    cursor: not-allowed;
+}
+
+#rating-value {
+    text-align: left;
+    margin-top: 10px;
+    font-size: 1rem;
+    max-width: 48%;
+    margin: auto;
+}
+#rating-thanks{
+    display: none;
+    max-width: 48%;
+    margin: auto;
+    text-align: left;
+}
+
+@media (max-width:1000px){
+    #rating-thanks, #rating-value,.star-rating{
+        max-width: 90%;
+    }
+}

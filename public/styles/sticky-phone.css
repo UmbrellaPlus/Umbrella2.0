@@ -1,0 +1,17 @@
+.sticky-phone {
+  margin-top: -4.5em;
+  top: 95%;
+  margin-left: 95%;
+  position: fixed;
+  cursor: pointer;
+  z-index: 1000;
+}
+.sticky-phone a img {
+  width: 4.5em;
+  opacity: 80%;
+}
+@media (max-width: 768px) {
+  .sticky-phone {
+    margin-left: 75%;
+  }
+}
