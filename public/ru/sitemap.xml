@@ -306,8 +306,6 @@
   </url><url>
     <loc>http://localhost:1313/zaporozie/dovjenko-zp/</loc>
   </url><url>
-    <loc>http://localhost:1313/kiev/kodirovka-ot-alkogolizma-espiarl-kiev/</loc>
-  </url><url>
     <loc>http://localhost:1313/services/kodirovka_ykolom/</loc>
   </url><url>
     <loc>http://localhost:1313/lviv/kodirovka-ot-alkogolia-disulfiram-lvov/</loc>
@@ -329,6 +327,8 @@
     <loc>http://localhost:1313/services/kodirovka-ot-alkogolizma-espiarl-umbrellaplus/</loc>
   </url><url>
     <loc>http://localhost:1313/kodirovka-ot-alkogolia-ykolom-esperal-od/</loc>
+  </url><url>
+    <loc>http://localhost:1313/kiev/kodirovka-ot-alkogolizma-espiarl-kiev/</loc>
   </url><url>
     <loc>http://localhost:1313/zaporozie/kodirovka-ot-alkogolia-disulfiram-zp/</loc>
   </url><url>

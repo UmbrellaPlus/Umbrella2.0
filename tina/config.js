@@ -349,13 +349,13 @@ export default defineConfig({
         fields: [...feedbackTemplate],
       },
       {
-        name: "about-ru",
+        name: "about_ru",
         label: "О нас_RU",
         path: "content/ru-lang/about-us",
         fields: [...feedbackTemplate],
       },
       {
-        name: "about-ua",
+        name: "about_ua",
         label: "О нас-UA",
         path: "content/ua-lang/about-us",
         fields: [...feedbackTemplate],
