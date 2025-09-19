@@ -5,7 +5,7 @@ description: Наркологи с опытом работы от пяти ле�
 image: /img/Kiev New/ebf6bbf6812e669e29e09ba76038c020_high.jpg
 imageText: Лечение алкоголизма и наркомании Киев
 ratingAvarage: 4.98/5
-rating: '6324'
+rating: '11324'
 reviewType: alk-1
 ---
 
