@@ -4,7 +4,7 @@ title: Лечение алкоголизма и наркомании Киев
 description: Наркологи с опытом работы от пяти лет – гарантия на все услуги!
 image: /img/Kiev New/ebf6bbf6812e669e29e09ba76038c020_high.jpg
 imageText: Лечение алкоголизма и наркомании Киев
-ratingAvarage: 4.97/5
+ratingAvarage: 4.98/5
 rating: '6324'
 reviewType: alk-1
 ---
