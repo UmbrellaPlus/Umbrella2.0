@@ -2,7 +2,7 @@
 tabTitle: Лечение наркомании Киев | Umbrella Plus | От 3000 грн
 title: Лечение наркомании Киев
 description: Мы рядом — Выход есть
-image: ''
+image: /img/Kiev-new10.09.2025/lechenie-nark-keiv-ru.jpg
 imageText: Лечение наркомании Киев
 ratingAvarage: 4.99/5
 rating: '7671'
