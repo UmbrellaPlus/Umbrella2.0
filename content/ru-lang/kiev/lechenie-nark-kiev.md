@@ -1,13 +1,13 @@
 ---
-tabTitle: Лечение алкоголизма в Киеве | Umbrella Plus | От 1499 грн
-title: Лечение алкоголизма
+tabTitle: Лечение наркомании Киев | Umbrella Plus | От 3000 грн
+title: Лечение наркомании Киев
 description: >-
   Алкоголь — эффективное средство для сокращения жизни (Юрий Рыбников-Украинский
   писатель)
 image: ''
-imageText: Человек алкоголик
-ratingAvarage: 4.8/5
-rating: '671'
+imageText: Лечение наркомании Киев
+ratingAvarage: 4.99/5
+rating: '7671'
 reviewType: alk-2
 ---
 
