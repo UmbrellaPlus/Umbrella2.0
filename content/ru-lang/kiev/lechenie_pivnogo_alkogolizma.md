@@ -1,11 +1,11 @@
 ---
-tabTitle: Лечение пивного алкоголизма Киев | Umbrella Plus | От 1499 грн
-title: Лечение пивного алкоголизма Киев
-description: Пивной алкоголизм - чума двадцать первого века.
+tabTitle: Нарколог на дом Киев | Umbrella Plus | От 2700 грн
+title: Нарколог на дом Киев
+description: Анонимно и безопасно
 image: /img/Pivnoi_alkogolizm.jpg
 imageText: Пивной алкоголизм
-ratingAvarage: 4.9/5
-rating: '632'
+ratingAvarage: 4.98/5
+rating: '10632'
 reviewType: alk-1
 ---
 
