@@ -4,6 +4,7 @@ tabTitle: >-
   грн
 title: 'Детоксикация от соли (α-PVP, MDPV, Мефедрон) Киев'
 description: Помощь при зависимости от синтетических наркотиков
+image: /img/Kiev-new10.09.2025/detox-ot-soli-kiev.jpg
 imageText: 'Детоксикация от соли (α-PVP, MDPV, Мефедрон) Киев'
 ratingAvarage: 4.98/5
 rating: '5622'
