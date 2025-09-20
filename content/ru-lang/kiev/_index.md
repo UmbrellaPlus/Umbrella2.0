@@ -27,7 +27,7 @@ reviewType: alk-1
 | **[Вывод из запоя](Vivod-iz-zapoia-kiev)**                                 | От 2700 грн |
 | **[Капельница от алкоголя](Kapelnica_ot_alkogola_kiev)**                   | От 2700 грн |
 | **[Лечение алкоголизма](lechenie-alkogolizma-kiev)**                       | От 2700 грн |
-| **Лечение пивного алкоголизма Киев**                                       | От 2700 грн |
+| **[Лечение пивного алкоголизма Киев](lechenie-pivnogi-alkogolizma-kiev)**  | От 2700 грн |
 | **[Лечение женского алкоголизм Киев](lechenie-jenskogo-alkogolizma-kiev)** | От 2700 грн |
 
 | Услуги \| Лечение наркомании                              | Цена        |
