@@ -35,12 +35,12 @@ reviewType: alk-1
 
 Стоимость услуги **вывода из запоя на дому в Киеве** начинается от 2700 грн.
 
-|                                                                           |   |
-| ------------------------------------------------------------------------- | - |
-| [Вывод из запоя](https://umbrella-plus.com.ua/kiev/vivod-iz-zapoia-kiev/) |   |
-|                                                                           |   |
-|                                                                           |   |
-|                                                                           |   |
+| Популярные услуги                                                                                 | Цена        |
+| ------------------------------------------------------------------------------------------------- | ----------- |
+| [Вывод из запоя](https://umbrella-plus.com.ua/kiev/vivod-iz-zapoia-kiev/)                         | От 2700 грн |
+| [Капельница от алкоголя](https://umbrella-plus.com.ua/kiev/kapelnica_ot_alkogola_na_domy_kiev/)   | От 2700 грн |
+| [Капельница от наркотиков](https://umbrella-plus.com.ua/kiev/kapelnica-ot-narkotikov-kiev/)       | От 3000 грн |
+| [Кодирование от алкоголизма Киев](https://umbrella-plus.com.ua/kiev/kodirovka-ot-alkogolia-kiev/) | От 6000 грн |
 
 ## Вывод из запоя на дому: прокапаться от алкоголя в Киеве
 
