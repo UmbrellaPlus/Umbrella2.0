@@ -44,12 +44,12 @@ reviewType: kod-2
 
 Стоимость **кодирования от алкоголизма в Киеве** начинается от 6000 грн.
 
-| Популярные услуги                                                                               | Цена        |
-| ----------------------------------------------------------------------------------------------- | ----------- |
-| [Вывод из запоя на дому](https://umbrella-plus.com.ua/kiev/vivod-iz-zapoia-na-domy-kiev/)       | От 2700 грн |
-| [Капельница от алкоголя](https://umbrella-plus.com.ua/kiev/kapelnica_ot_alkogola_na_domy_kiev/) | От 2700 грн |
-| [Капельница от наркотиков](https://umbrella-plus.com.ua/kiev/kapelnica-ot-narkotikov-kiev/)     | От 3000 грн |
-| Кодирование от алкоголизма Киев                                                                 | От 6000 грн |
+| Популярные услуги                                                                                                        | Цена        |
+| ------------------------------------------------------------------------------------------------------------------------ | ----------- |
+| [Вывод из запоя на дому](https://umbrella-plus.com.ua/kiev/vivod-iz-zapoia-na-domy-kiev/)                                | От 2700 грн |
+| [Капельница от алкоголя](https://umbrella-plus.com.ua/kiev/kapelnica_ot_alkogola_na_domy_kiev/)                          | От 2700 грн |
+| [Капельница от наркотиков](https://umbrella-plus.com.ua/kiev/kapelnica-ot-narkotikov-kiev/)                              | От 3000 грн |
+| [Кодирование от алкоголизма укол дисульфирам](https://umbrella-plus.com.ua/kiev/kodirovka-ot-alkogolia-disulfiram-kiev/) | От 6000 грн |
 
 ## Самая сильная кодировка от алкоголизма в Киеве
 
