@@ -93,7 +93,7 @@ nav a img {
   display: flex;
   flex-direction: column;
   gap: 0.1rem;
-  margin-top: 0.1rem;
+  margin-top: 1rem;
 }
 #filials-list{
   display: none;
@@ -103,7 +103,7 @@ nav a img {
   display: flex;
   flex-direction: column;
   gap: 0.1rem;
-  margin-top: 0.1rem;
+  margin-top: 1rem;
 }
 #services-list {
   display: none;
@@ -113,7 +113,7 @@ nav a img {
   display: flex;
   flex-direction: column;
   gap: 0.1rem;
-  margin-top: 0.1rem;
+  margin-top: 1rem;
 }
 @media (min-width: 1000px) {
   #hamburger {
