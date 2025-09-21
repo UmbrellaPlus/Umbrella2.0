@@ -2,6 +2,7 @@
 tabTitle: Детоксикация от амфетамина в Киеве | Umbrella Plus | От 3000 грн
 title: Детоксикация от амфетамина в Киеве
 description: Трезвость начинается с детоксикации
+image: /img/Kiev-new10.09.2025/detox-ot-amfetamina-kiev.jpg
 imageText: Детоксикация от амфетамина в Киеве
 ratingAvarage: 4.98/5
 rating: '4532'
