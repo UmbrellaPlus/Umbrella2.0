@@ -2,6 +2,7 @@
 tabTitle: Детоксикация от ЛСД в Киеве | Umbrella Plus | От 3000 грн
 title: Детоксикация от ЛСД в Киеве
 description: Прекращение «бэд-трипа»
+image: /img/Kiev-new10.09.2025/detox-ot-lsd.jpg
 imageText: Детоксикация от ЛСД в Киеве
 ratingAvarage: 4.99/5
 rating: '6888'
