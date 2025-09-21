@@ -1,7 +1,8 @@
 ---
-tabTitle: Детоксикация от метадона (опиоидов)
+tabTitle: Детоксикация от метадона (опиоидов) | Umbrella Plus | От 3000 грн
 title: Детоксикация от метадона (опиоидов)
 description: Наркотик не управляет тобой — выход есть
+image: /img/Kiev-new10.09.2025/detox-ot-metadona-kiev.jpg
 imageText: Детоксикация от метадона (опиоидов)
 ratingAvarage: 4.98/5
 rating: '5755'
