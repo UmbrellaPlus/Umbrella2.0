@@ -1,11 +1,11 @@
 ---
-tabTitle: Послуги Лікування Алкоголізму в Києві | Umbrella Plus | Безпечна наркологія
-title: Лікування алкоголізму Київ
-description: UmbrellaPlus Безпечна Наркологія
+tabTitle: Лікування алкоголізму та наркоманії Київ | Umbrella Plus | Від 2700 грн
+title: Лікування алкоголізму та наркоманії Київ
+description: Наркологи з досвідом роботи від 5 років – гарантія на всі послуги!
 image: /img/Kiev New/ebf6bbf6812e669e29e09ba76038c020_high.jpg
-imageText: Лікування алкоголізму Київ
-ratingAvarage: 4.97/5
-rating: '6324'
+imageText: Лікування алкоголізму та наркоманії Київ
+ratingAvarage: 4.98/5
+rating: '11324'
 reviewType: alk-2
 ---
 
