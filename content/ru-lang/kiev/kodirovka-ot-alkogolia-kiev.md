@@ -4,7 +4,7 @@ title: Кодирование от алкоголизма Киев
 description: «Кодирование в Киеве – шаг к трезвой жизни!»
 image: /img/Kiev-new10.09.2025/kod-ot-alk-kiev.jpg
 imageText: Кодирование от алкоголизма Киев
-ratingAvarage: 4.96/5
+ratingAvarage: 4.98/5
 rating: '8321'
 reviewType: kod-2
 ---
