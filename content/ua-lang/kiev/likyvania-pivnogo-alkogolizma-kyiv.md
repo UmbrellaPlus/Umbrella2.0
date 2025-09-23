@@ -1,11 +1,11 @@
 ---
-tabTitle: Лікування пивного алкоголізму у Києві | Umbrella Plus | Від 1699 грн
+tabTitle: Лікування пивного алкоголізму у Києві | Umbrella Plus | Від 2700 грн
 title: Лікування пивного алкоголізму у Києві
-description: Лікування пивного алкоголізму - найкращі фахівці у допомозі із залежністю Київ
-image: /img/Kiev New/c3df00ce-ac52-4309-aeff-7d4a511f40f2.jpg
-imageText: Лікування пивного алкоголізму Київ
-ratingAvarage: 4.9/5
-rating: '784'
+description: Тверезість без компромісів
+image: /img/Kiev-new10.09.2025/lech-pivnogo-alkg-kiev.jpg
+imageText: Лікування пивного алкоголізму у Києві
+ratingAvarage: 4.98/5
+rating: '4784'
 reviewType: alk-1
 ---
 
