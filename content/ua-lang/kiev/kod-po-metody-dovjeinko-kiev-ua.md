@@ -6,6 +6,7 @@ image: /img/Kiev-new10.09.2025/kod-po-dovgenko-kiev.jpg
 imageText: Кодування за методом Довженка Київ
 ratingAvarage: 4.98/5
 rating: '5463'
+reviewType: kod-2
 ---
 
 ## Кодування за методом Довженка Київ
