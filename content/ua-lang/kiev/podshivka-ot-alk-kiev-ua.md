@@ -8,6 +8,7 @@ image: /img/Kiev%20New/podhivka-ot-alko-kiev.jpg
 imageText: Підшивка від алкоголізму Київ
 ratingAvarage: 4.99/5
 rating: '7855'
+reviewType: kod-2
 ---
 
 ## Підшивка від алкоголізму: Надійний бар’єр на шляху до тверезості
