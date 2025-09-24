@@ -1,5 +1,14 @@
 ---
+tabTitle: >-
+  Детоксикація від солі (α-PVP, MDPV, Мефедрон) у Києві | Umbrella Plus | Від
+  3000 грн
+title: 'Детоксикація від солі (α-PVP, MDPV, Мефедрон) у Києві'
+description: Допомога при залежності від синтетичних наркотиків
 image: /img/Kiev-new10.09.2025/detox-ot-soli-kiev.jpg
+imageText: 'Детоксикація від солі (α-PVP, MDPV, Мефедрон) у Києві'
+ratingAvarage: 4.98/5
+rating: '5622'
+reviewType: alk-1
 ---
 
 ## Детоксикація від солі (α-PVP, MDPV, Мефедрон) у Києві
