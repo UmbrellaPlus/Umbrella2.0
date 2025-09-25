@@ -36,13 +36,12 @@ reviewType: alk-2
 
 Вартість **крапельниці від алкоголю вдома в Києві** починається від 2700 грн
 
-| UmbrellaPlus Київ \| Працюємо без вихідних                                                                | Цена         |
-| --------------------------------------------------------------------------------------------------------- | ------------ |
-| [Екстрений виклик нарколога](https://umbrella-plus.com.ua/uk/blog/narcolog-na-dom-kiev-ua/)               | Від 2500 грн |
-| [Виведення з запою](https://umbrella-plus.com.ua/uk/kiev/vivod-iz-zapoia-kiev-ua/)                        | Від 2500 грн |
-| [Виведення з запою вдома](https://umbrella-plus.com.ua/uk/kiev/vivod-iz-zapoia-na-domy-kiev-ua/)          | Від 2700 грн |
-| [Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/kiev/kapelnica_ot_alkogola_kiev/)              | Від 2500 грн |
-| [Крапельниця від алкоголю вдома](https://umbrella-plus.com.ua/uk/kiev/kapelnica_ot_alkogola_na_dom_kiev/) | Від 2700 грн |
+| Популярні Послуги                                                                            | Вартість     |
+| -------------------------------------------------------------------------------------------- | ------------ |
+| [Виведення із запою вдома](Vivod-iz-zapoia-na-domy-kiev-ua)                                  | Від 2700 грн |
+| [Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/kiev/kapelnica_ot_alkogola_kiev/) | Від 2700 грн |
+| [Крапельниця від наркотиків](kap-ot-nark-kiev-ua)                                            | Від 3000 грн |
+| [Кодування від алкоголізму Київ](kodirovka-ot-alkogolia-kiev-ua)                             | Від 6000 грн |
 
 ## Крапельниця від алкоголю на дому в Києві
 
