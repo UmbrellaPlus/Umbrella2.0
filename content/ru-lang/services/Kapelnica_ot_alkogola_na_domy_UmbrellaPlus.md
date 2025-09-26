@@ -4,7 +4,7 @@ title: Капельница от алкоголя на дому
 description: Быстрое восстановление — не выходя из дома
 image: /img/home-page/749d11473d543618f5d799f9369b42d6_high.jpg
 imageText: Капельница от алкоголя на дому
-ratingAvarage: 4.97/5
+ratingAvarage: 4.98/5
 rating: '18412'
 reviewType: alk-1
 ---
