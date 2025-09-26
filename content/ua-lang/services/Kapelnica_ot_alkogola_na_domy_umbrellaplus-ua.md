@@ -93,7 +93,7 @@ reviewType: alk-1
 
 Вартість крапельниці від алкоголю на дому — починається від 2 199 грн.
 
-Працюємо у містах: Київ, Одеса, Харків, Львів, Дніпро, Запоріжжя.
+Працюємо у містах: ([Київ](https://umbrella-plus.com.ua/uk/kiev/) [Дніпро](https://umbrella-plus.com.ua/uk/dnepr/) [Одеса](https://umbrella-plus.com.ua/uk/lechenie-alc/) [Харків](https://umbrella-plus.com.ua/uk/kharkiv/) [Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/) [Львів](https://umbrella-plus.com.ua/uk/lviv/))
 
 Також виїжджаємо по області.
 
