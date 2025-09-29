@@ -1,13 +1,11 @@
 ---
-tabTitle: >-
-  Вывод из запоя на дому с UmbrellaPlus: Быстрая помощь, гарантированная
-  безопасность
-title: Анонимный вывод из запоя на дому
-description: Гарантируем анонимный вывод из любого запоя!
-image: /img/home-page/c8dd588a74422e326f30c5564734eff9_high.jpg
-imageText: Вывод из запоя на дому UmbrellaPlus
+tabTitle: Вывод из запоя на дому | Umbrella Plus | От 2199 грн
+title: Вывод из запоя на дому
+description: Трезвость начинается сегодня
+image: /img/Услуги/Вывод из запоя на дому.jpg
+imageText: Вывод из запоя на дому
 ratingAvarage: 4.98/5
-rating: '7311'
+rating: '17311'
 reviewType: alk-1
 ---
 
