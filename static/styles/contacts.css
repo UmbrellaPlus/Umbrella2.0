@@ -9,7 +9,7 @@
 }
 .contacts-container {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 .contacts-numbers {
   line-height: 2em;
@@ -32,7 +32,10 @@
   left: 0px;
 }
 .contacts-numbers p {
-  text-align: left;
+  font-size: 1.2rem;
+}
+.contacts p a {
+  font-size: 1.3rem;
 }
 @media (max-width: 1200px) {
   .contacts {
