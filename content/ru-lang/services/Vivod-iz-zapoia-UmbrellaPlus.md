@@ -2,8 +2,8 @@
 tabTitle: Вывод из запоя | Umbrella Plus | От 2199 грн
 title: 'Вывод из запоя '
 description: 'Не откладывайте решение, вызовите анонимно нарколога!'
-image: /img/home-page/fd5a40f48143d869fef90c0afc51e1db_high.jpg
-imageText: Вывод из запоя
+image: /img/Услуги/vivod-iz-zapoi.jpg
+imageText: Вывод из запоя - Выведение из алкогольной интоксикации
 ratingAvarage: 4.98/5
 rating: '17789'
 reviewType: alk-2
