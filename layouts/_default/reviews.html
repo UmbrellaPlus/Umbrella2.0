@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="uk">
   <head>
     <!-- Google Tag Manager -->
     <script>
@@ -57,62 +57,8 @@
       <h1>Відгуки про нашу роботу</h1>
       {{end}}
     </div>
-    <div>
-      <div class="google-rating">
-        <div class="google-stars">
-          <div class="google-img">
-            <img src="/img/reviews/google.png" />
-            <p>Рейтинг</p>
-          </div>
-          <div class="google-star">
-            <p><b>4.8</b></p>
-            <div style="display: flex">
-              <span class="google-star">&#9733;</span>
-              <span class="google-star">&#9733;</span>
-              <span class="google-star">&#9733;</span>
-              <span class="google-star">&#9733;</span>
-              <span class="google-star">&#9733;</span>
-            </div>
-            <p style="opacity: 70%">Отзывов: <b>52</b></p>
-          </div>
-        </div>
-        <div>
-          <a class="review-button" href="https://share.google/USIxQH1lFa2JgWc89"
-            >Написать нам отзыв</a
-          >
-        </div>
-      </div>
-
-      <div class="google-reviews-slider" id="google">
-        <section id="image-carousel" class="splide">
-          <div class="splide__track">
-            <ul class="splide__list">
-            {{range where site.RegularPages "Type" "reviews"}}
-              <li class="google-review-block splide__slide">
-                <img src="{{.Params.img}}" />
-                <p class="user-name">{{.Title}}</p>
-                <p class="user-review">{{.Content}}</p>
-              </li>
-              {{end}}
-            </ul>
-          </div>
-        </section>
-      </div>
-    </div>
-
-    <ul class="blog-list-container">
-      {{ range sort (where site.RegularPages "Type" "reviews") "Date" "desc" }}
-      <a href="{{ .Permalink }}">
-        <li class="blog-list-post">
-          <div class="blog-list-post-text-container">
-            <h3>{{ .Title }}</h3>
-            <p>{{ .Params.Description }}</p>
-          </div>
-          <img src="{{ .Params.image }}" alt="{{ .Params.imageText }}" />
-        </li>
-      </a>
-      {{ end }}
-    </ul>
+     {{if in .Site.Language "ru"}}  {{partial "google-reviews.html" . }} {{ else }}
+     {{partial "google-reviews-ua.html" . }} {{end}}
     {{if in .Site.Language "ru"}} {{partial "contacts.html" . }} {{ else }}
     {{partial "contacts-ua.html" . }} {{end}} {{partial "footer.html" .}}
   </body>

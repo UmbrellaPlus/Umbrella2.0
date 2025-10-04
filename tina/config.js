@@ -114,15 +114,28 @@ const cityTemplate = [
 const feedbackTemplate = [
   {
     type: "string",
-    label: "Расшифровка текста",
-    name: "title",
+    label: "Ник пользователя написавшего отзыв",
+    name: "Title",
   },
   {
-    type: "image",
-    label: "Картинка",
-    name: "image",
+    type: "string",
+    label: "Ссылка на картинку",
+    name: "img",
+    ui: {
+      description:
+        "Переходишь на страницу пользователя, который написал отзыв, потом правой кнопкой на аватар- Скопировать ссылку на картинку",
+    },
   },
-]
+  {
+    type: "string",
+    label: "Ссылка на пост",
+    name: "link",
+    ui: {
+      description:
+        "Можно найти внизу под отзывом нажав на значок, справа от пальца. Нажимаешь на ссылку, чтобы скопировать.",
+    },
+  },
+];
 export default defineConfig({
   branch,
   local: { enabled: true, userRelativeMedia: true },
@@ -280,7 +293,8 @@ export default defineConfig({
         label: "Лечение-алкоголзима-UA",
         path: "content/ua-lang/services",
         fields: [...cityTemplate],
-      },      {
+      },
+      {
         name: "lech_nark_ua",
         label: "Лечение-наркомании-UA",
         path: "content/ua-lang/services-nark",
@@ -337,27 +351,15 @@ export default defineConfig({
         fields: [...cityTemplate],
       },
       {
-        name: "feedback_ru",
+        name: "reviews_ru",
         label: "Отзывы-RU",
-        path: "content/ru-lang/feedback",
+        path: "content/ru-lang/reviews",
         fields: [...feedbackTemplate],
       },
       {
-        name: "feedback_ua",
+        name: "reviews_ua",
         label: "Отзывы-UA",
-        path: "content/ua-lang/feedback",
-        fields: [...feedbackTemplate],
-      },
-      {
-        name: "about_ru",
-        label: "О нас_RU",
-        path: "content/ru-lang/about-us",
-        fields: [...feedbackTemplate],
-      },
-      {
-        name: "about_ua",
-        label: "О нас-UA",
-        path: "content/ua-lang/about-us",
+        path: "content/ua-lang/reviews",
         fields: [...feedbackTemplate],
       },
     ],

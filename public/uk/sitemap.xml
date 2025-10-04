@@ -73,6 +73,18 @@
                 href="https://umbrella-plus.com.ua/uk/tags/"
                 />
   </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/reviews/1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/reviews/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/reviews/1/"
+                />
+  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/vivod-iz-zapoia-na-domy-od-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kiev/vivod-iz-zapoia-na-domy-kiev-ua/</loc>
@@ -120,6 +132,30 @@
     <loc>https://umbrella-plus.com.ua/uk/blog/-vivod_iz_zapoia_kharkiv_blog_ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/blog/vihod-iz-zapoia-kharkiv-ua/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/reviews/3/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/reviews/3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/reviews/3/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/reviews/2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/reviews/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/reviews/2/"
+                />
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kharkiv/detox-ot-amfetamina-kharkiv/</loc>
     <xhtml:link
@@ -501,7 +537,17 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/blog/narcolog-na-dom-kharkiv-ua/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/feedback/</loc>
+    <loc>https://umbrella-plus.com.ua/uk/reviews/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/reviews/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/reviews/"
+                />
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/blog/chto-delat-pri-zapoi-ua/</loc>
   </url><url>

@@ -1,0 +1,60 @@
+<div>
+  <div class="google-rating">
+    <div class="google-stars">
+      <div class="google-img">
+        <img src="/img/reviews/google.png" />
+        <p>Рейтинг</p>
+      </div>
+      <div class="google-points">
+        <p><b>4.8</b></p>
+        <div class="google-star" style="display: flex">
+          <span>&#9733;</span>
+          <span>&#9733;</span>
+          <span>&#9733;</span>
+          <span>&#9733;</span>
+          <span>&#9733;</span>
+        </div>
+        <p style="opacity: 70%">Отзывов: <b>51</b></p>
+      </div>
+    </div>
+    <div>
+      <a class="review-button" target="_blank" href="https://share.google/USIxQH1lFa2JgWc89"
+        >Написать отзыв о нас</a
+      >
+    </div>
+  </div>
+
+  <div class="google-reviews-slider">
+    <section id="google-carousel" class="splide">
+      <div class="splide__track">
+        <ul class="splide__list">
+          {{range where site.RegularPages "Type" "reviews"}}
+          <li class="google-review-block splide__slide">
+            <div>
+              <div class="google-user-info">
+                <img src="{{.Params.img}}" />
+                <div class="google-user-name">
+                  <p>{{.Title}}</p>
+                  <div class="google-star" style="display: flex">
+                    <span>&#9733;</span>
+                    <span>&#9733;</span>
+                    <span>&#9733;</span>
+                    <span>&#9733;</span>
+                    <span>&#9733;</span>
+                  </div>
+                </div>
+              </div>
+              <div class="google-user-review">{{.Content}}</div>
+            </div>
+            <div>
+              <p class="google-user-link">
+                <a target="_blank" href="{{.Params.link}}">Отзыв из Google</a>
+              </p>
+            </div>
+          </li>
+          {{end}}
+        </ul>
+      </div>
+    </section>
+  </div>
+</div>

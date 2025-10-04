@@ -8,7 +8,7 @@
 /* Блок гугл-рейтинг */
 .google-rating
 {
-    max-width: 70%;
+    max-width: 80%;
     margin: auto;
     display:flex;
     justify-content: space-between;
@@ -16,6 +16,7 @@
     border: 1px solid grey;
     padding:0.5rem;
     border-radius: 0.5rem;
+    background-color: whitesmoke;
 }
 .google-stars{
     display: flex;
@@ -36,10 +37,9 @@
     opacity:70%;
     margin-left: 1rem;
 }
-.google-star{
+.google-points{
     display: flex;
     align-items: center;
-    gap:0.5rem;
 }
 .google-star span{
     font-size: 34px;
@@ -54,15 +54,53 @@
     border-radius: 5rem;
 }
 
+/*Блок с слайдером*/
+
 .google-reviews-slider{
     padding:1rem;
+    max-width: 90%;
+    margin:auto
 }
 .google-review-block
 {
     border:1px solid grey;
     border-radius: 2rem;
     padding:1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 5rem;
+    background-color: whitesmoke;
 }
 .google-review-block img{
-    max-width: 4rem;
+    max-width: 5rem;
+}
+.google-user-info{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-around; */
+    margin-bottom: 1rem;
+}
+.google-user-name{
+    font-size: 1.25rem;
+    font-weight: 500;
+    padding:0.5rem;
+}
+.google-user-review{
+    opacity: 70%;
+}
+.google-user-link, .google-user-link a{
+    text-align: center;
+    text-decoration: underline;
+    color:blue;
+    padding:0.5rem 0;
+}
+
+@media (max-width: 1000px) {
+    .google-rating {
+        max-width: 98%;
+        flex-direction: column;
+        padding:3rem 0;
+        gap:2rem;
+    }
 }

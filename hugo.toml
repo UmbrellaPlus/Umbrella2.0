@@ -178,7 +178,7 @@ defaultContentLanguageInSubdir = false
                         parent = 'filials'
             [[languages.uk.menus.main]]
                 name = 'Відгуки'
-                url = '/uk/feedback'
+                url = '/uk/reviews'
                 weight = 50
             [[languages.uk.menus.main]]
                 name = 'Додатково'

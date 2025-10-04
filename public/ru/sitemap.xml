@@ -81,8 +81,28 @@
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/reviews/1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/reviews/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/reviews/1/"
+                />
   </url><url>
     <loc>https://umbrella-plus.com.ua/reviews/3/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/reviews/3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/reviews/3/"
+                />
   </url><url>
     <loc>https://umbrella-plus.com.ua/tags/</loc>
     <xhtml:link
@@ -573,6 +593,16 @@
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/reviews/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/reviews/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/reviews/"
+                />
   </url><url>
     <loc>https://umbrella-plus.com.ua/zaporozie/podshivka-ot-alkogolia-zp/</loc>
   </url><url>
@@ -627,6 +657,16 @@
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/reviews/2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/reviews/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/reviews/2/"
+                />
   </url><url>
     <loc>https://umbrella-plus.com.ua/blog/chto-delat-pri-zapoiah-kharkiv-blog/</loc>
   </url><url>
