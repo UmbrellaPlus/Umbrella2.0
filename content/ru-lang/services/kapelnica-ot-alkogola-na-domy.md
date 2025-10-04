@@ -5,7 +5,7 @@ tabTitle: >-
 title: Экстренный вызов Нарколога
 description: Помощь рядом. Конфиденциально. Эффективно.
 image: /img/Услуги/narkolog.jpg
-imageText: kapelnica_ot_alkogolia
+imageText: Экстренный вызов нарколога на дом
 ratingAvarage: 4.99/5
 rating: '21464'
 reviewType: alk-1
