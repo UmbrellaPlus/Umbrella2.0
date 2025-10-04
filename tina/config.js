@@ -135,6 +135,12 @@ const feedbackTemplate = [
         "Можно найти внизу под отзывом нажав на значок, справа от пальца. Нажимаешь на ссылку, чтобы скопировать.",
     },
   },
+  {
+    type: "rich-text",
+    label: "Текст отзыва",
+    name: "body",
+    isBody: true,
+  },
 ];
 export default defineConfig({
   branch,
