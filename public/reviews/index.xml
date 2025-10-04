@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Отзывы | Umbrella &#43; on Umbrella Plus</title>
-    <link>http://localhost:33555/reviews/</link>
+    <link>https://umbrella-plus.com.ua/reviews/</link>
     <description>Recent content in Отзывы | Umbrella &#43; on Umbrella Plus</description>
     <generator>Hugo</generator>
     <language>ru-UA</language>
-    <atom:link href="http://localhost:33555/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://umbrella-plus.com.ua/reviews/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ilya Stalevich</title>
-      <link>http://localhost:33555/reviews/1/</link>
+      <link>https://umbrella-plus.com.ua/reviews/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:33555/reviews/1/</guid>
+      <guid>https://umbrella-plus.com.ua/reviews/1/</guid>
       <description>&lt;p&gt;Хочу выразить искреннюю благодарность персоналу больницы за высокий уровень профессионализма и заботы. Я обратился в непростой период жизни и был приятно удивлен качеством оказанной помощи. Врачи оперативно подобрали эффективное лечение, учитывая все мои индивидуальные особенности. Приятно, что здесь не только качественно решают проблемы со здоровьем, но и уделяют внимание общему состоянию пациента, поддерживая на каждом этапе. Особая благодарность медсестрам за их терпение и внимание. Отличное место для восстановления здоровья и возвращения к полноценной жизни!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Sahur</title>
-      <link>http://localhost:33555/reviews/2/</link>
+      <title>Oleg Bantkovsky</title>
+      <link>https://umbrella-plus.com.ua/reviews/3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:33555/reviews/2/</guid>
-      <description>&lt;p&gt;Рад что там побывал, потому что я бывалый&lt;/p&gt;</description>
+      <guid>https://umbrella-plus.com.ua/reviews/3/</guid>
+      <description>&lt;p&gt;Спасибо! Вывели отца из более чем двухнедельного запоя. Приехал молодой специалист, но четко и грамотно разъяснил процедуру лечения, провел беседу с отцом и дал рекомендации на будущее. За 3 дня поставил папу на ноги.&#xA;Сервисом остались довольны.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Tung tung</title>
-      <link>http://localhost:33555/reviews/3/</link>
+      <title>Татьяна Котова</title>
+      <link>https://umbrella-plus.com.ua/reviews/2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:33555/reviews/3/</guid>
-      <description>&lt;p&gt;Если бы не они, я бы всьо&lt;/p&gt;</description>
+      <guid>https://umbrella-plus.com.ua/reviews/2/</guid>
+      <description>&lt;p&gt;Один из немногих грамотных врачей ! Сейчас непросто отыскать квалифицированного врача, которому будешь верить! Очень понравилось! Врач внимательный и говорит все по делу! Не боится брать на себя ответственность и принимать решения, от которых другие врачи открещиваются. В грамотности нет сомнений, никогда не делает лишних назначений и обследований, отвечает на все вопросы и поясняет каждый свой шаг, всегда точно определяет проблему. Он достойный доктор и неравнодушный человек, что, к сожалению, в наше время встречается не часто. Всем советую этого доктора.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
