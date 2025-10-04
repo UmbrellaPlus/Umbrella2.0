@@ -141,6 +141,22 @@ const feedbackTemplate = [
     name: "body",
     isBody: true,
   },
+  {
+    type: "string",
+    label: "Колличество отзывов (напр 52)",
+    name: "reviewsAmt",
+    ui:{
+      description:"ТОЛЬКО ДЛЯ СТРАНИЦЫ _index в отзывах. В других оставлять пустыми"
+    }
+  },
+  {
+    type: "string",
+    label: "Оценка (напр 4.8)",
+    name: "reviewsRate",
+    ui:{
+      description:"ТОЛЬКО ДЛЯ СТРАНИЦЫ _index в отзывах. В других оставлять пустыми"
+    }
+  }
 ];
 export default defineConfig({
   branch,
