@@ -71,3 +71,19 @@ document.addEventListener("DOMContentLoaded", function () {
     },
   }).mount();
 });
+
+//CAROUSEL FOR GOOGLE REVIEWS
+
+document.addEventListener("DOMContentLoaded", function () {
+  new Splide("#google-carousel", {
+    type: "loop",
+    speed: 800,
+    gap: `10px`,
+    perPage: 3,
+    breakpoints: {
+      1000: {
+        perPage: 1,
+      },
+    },
+  }).mount();
+});

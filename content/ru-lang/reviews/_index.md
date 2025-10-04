@@ -1,4 +1,4 @@
 ---
 title: Отзывы | Umbrella +
-layout: reviews-screenshot
+layout: reviews
 ---

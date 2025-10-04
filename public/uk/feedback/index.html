@@ -1,38 +1,41 @@
 <!DOCTYPE html>
-<html lang="ru">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=55527&amp;path=livereload" data-no-instant defer></script>
+<html lang="uk">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=33555&amp;path=livereload" data-no-instant defer></script>
     
     <script>
-        (function (w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != "dataLayer" ? "&l=" + l : "";
-            j.async = true;
-            j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, "script", "dataLayer", "GTM-P7NR5N9F");
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+        j.async = true;
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-P7NR5N9F");
     </script>
     
     
     <script
-            async
-            src="https://www.googletagmanager.com/gtag/js?id=G-K86T5FX5W9"
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-K86T5FX5W9"
     ></script>
     <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag("js", new Date());
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
 
-        gtag("config", "G-K86T5FX5W9");
+      gtag("config", "G-K86T5FX5W9");
     </script>
     
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title></title>
     
+    <link rel="canonical" href="http://localhost:33555/uk/feedback/" />
+     
 <link rel="shortcut icon" href="../../img/umbrella.png" type="image/x-icon">
 <link rel="stylesheet" href="../../styles/sticky-phone.css" />
 <link rel="stylesheet" href="../../styles/header.css" />
@@ -55,7 +58,7 @@
 <link rel="stylesheet" href="../../styles/media-query.css" />
 <link rel="stylesheet" href="../../styles/collaboration.css" />
 <link rel="stylesheet" href="../../styles/directory.css" />
-<link rel="stylesheet" href="../../styles/feedback.css" />
+<link rel="stylesheet" href="../../styles/rewiews-page.css" />
 <link rel="stylesheet" href="../../styles/latest-news.css" />
 <link
   href="
@@ -63,25 +66,24 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 "
   rel="stylesheet"
 />
-    <title>Отзывы наших пациентов</title>
-    <link rel="canonical" href="http://localhost:55527/uk/feedback/" />
-</head>
-<body>
-
-<noscript
-><iframe
+  </head>
+  <body>
+    
+    <noscript
+      ><iframe
         src="https://www.googletagmanager.com/ns.html?id=GTM-P7NR5N9F"
         height="0"
         width="0"
         style="display: none; visibility: hidden"
-></iframe
-></noscript>
-
-<div class="sticky-phone">
+      ></iframe
+    ></noscript>
+    
+    <div class="sticky-phone">
   <a href="tel:+380687972782"
     ><img src="../../img/sticky-telephone.png" alt="sticky-phone"
   /></a>
-</div>  <div class="preheader">
+</div>
+     <div class="preheader">
   <p class="preheader-hours">
     Безкоштовна консультація, працюємо цілодобово 24/7
   </p>
@@ -108,7 +110,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
   </p>
 </div>
 
-<header>
+    <header>
   <nav>
     
     
@@ -289,18 +291,76 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
   </nav>
 </header>
 
-<div class="blog-padding">
-    
-    <h1>Відгуки наших пацієнтів</h1>
-    
-
-    <ul class="directory-list-container">
-        
-    </ul>
-
+    <main>
+<div class="hero-text">
+  <h1>Отзывы наших пациентов</h1>
+  <p></p>
+  
+  <form id="tg">
+  <div class="main-consult">
+    <input
+      type="tel"
+      class="form-control"
+      name="user_phone"
+      id="user_phone"
+      placeholder="XXXXXXXX"
+      value="+380"
+      minlength="13"
+      maxlength="13"
+    /><button type="submit">Безкоштовна консультація</button>
+    <div id="success">
+      Повідомлення надіслано! Передзвонимо вам якнайшвидше!
+    </div>
+  </div>
+</form>
+ 
+  
 </div>
-
-<div class="contacts">
+<div class="main-image">
+  <img src="" alt="" />
+</div>
+</main>
+    <div class="markdown"></div>
+     <div class="star-rating">
+    <span class="star" data-value="1">&#9733;</span>
+    <span class="star" data-value="2">&#9733;</span>
+    <span class="star" data-value="3">&#9733;</span>
+    <span class="star" data-value="4">&#9733;</span>
+    <span class="star" data-value="5">&#9733;</span>
+</div>
+<div id="rating-value">Ваша оцінка: <b><span id="rating"></span></b> <br><span><span></span> (<span id="rating-votes"></span> проголосовали)</span></div>
+<div id="rating-thanks">Дякуємо за відгук. Кожна оцінка важлива для нас<span id="rating"></span></div> 
+    <div style="text-align: center">
+      
+      <h2>Останні статті з блогу</h2>
+      
+      <ul class="card-container" style="list-style: none">
+        
+        <a class="latest-news-card" href="../../uk/blog/kak-otoiti-ot-zapoya-i-snyat-pokhmele-ua/">
+          <img class="latest-news-image" src="../../img/blog/kak-otoiti.jpg" alt="Як відійти від запою" />
+          <div class="latest-news-text-container">
+            <h3>Як відійти від запою</h3>
+          </div>
+        </a>
+        
+        <a class="latest-news-card" href="../../uk/blog/new-ua-vivod-iz-zapoia-kiev/">
+          <img class="latest-news-image" src="../../img/65f02c71465524a14c93a5aab96c9839_high.webp" alt="Терміновий виклик нарколога Київ" />
+          <div class="latest-news-text-container">
+            <h3>Виведення з похмілля Київ | Umbrella Plus | Безпечна наркологія</h3>
+          </div>
+        </a>
+        
+        <a class="latest-news-card" href="../../uk/blog/-vivedenie-iz-zapoia-kharkiv-blog-ua/">
+          <img class="latest-news-image" src="../../img/blog/77f86c09e817bbfae739d555d96abc6c_111111high.jpg" alt="Виведення із запою Харків" />
+          <div class="latest-news-text-container">
+            <h3>Виведення із запою в Харкові</h3>
+          </div>
+        </a>
+        
+      </ul>
+    </div>
+    
+    <div class="contacts">
   <div class="contacts-container">
     <div class="contacts-numbers">
       <h2>Наші контакти:</h2>
@@ -310,7 +370,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
               href="tel:+3805002169" style="color: navy; cursor: pointer">+380 (50) 021 69 57</a>
       </p>
       <p>
-         <span style="color: grey">Адреса накркологічного центра вашого міста
+         <span style="color: grey">Адресу наркологічного центра вашого міста
           уточнюйте за телефоном</span><br /><b>Працюємо:</b> Київ, Одеса, Львів, Харков, Дніпро,
         Запоріжжя
       </p>
@@ -438,7 +498,5 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js
 <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 <script src="../../js/telegram.js"></script>
 
-<script src="../../js/modal_img.js"></script>
-
-</body>
+  </body>
 </html>

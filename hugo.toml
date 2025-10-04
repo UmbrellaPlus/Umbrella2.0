@@ -82,7 +82,7 @@ defaultContentLanguageInSubdir = false
                         parent = 'filials'
             [[languages.ru.menus.main]]
                 name = 'Отзывы'
-                url = '/feedback'
+                url = '/reviews'
                 weight = 50
             [[languages.ru.menus.main]]
                 name = 'Дополнительно'

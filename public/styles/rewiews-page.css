@@ -1,0 +1,68 @@
+/* Отзывы как отдельная страница */
+
+.google-reviews-padding{
+    padding:10rem 0 2rem 0;
+    text-align: center;
+}
+
+/* Блок гугл-рейтинг */
+.google-rating
+{
+    max-width: 70%;
+    margin: auto;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid grey;
+    padding:0.5rem;
+    border-radius: 0.5rem;
+}
+.google-stars{
+    display: flex;
+    flex-direction: column;
+}
+.google-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:-2rem;
+}
+.google-img img{
+    width: 7.5rem;
+}
+.google-img p{
+    font-size: 1.5rem;
+    font-weight: 500;
+    opacity:70%;
+    margin-left: 1rem;
+}
+.google-star{
+    display: flex;
+    align-items: center;
+    gap:0.5rem;
+}
+.google-star span{
+    font-size: 34px;
+    color: gold;
+}
+.review-button{
+    font-size: 1rem;
+    font-weight: 500;
+    color:whitesmoke;
+    background-color:var(--blue);
+    padding:1rem;
+    border-radius: 5rem;
+}
+
+.google-reviews-slider{
+    padding:1rem;
+}
+.google-review-block
+{
+    border:1px solid grey;
+    border-radius: 2rem;
+    padding:1rem;
+}
+.google-review-block img{
+    max-width: 4rem;
+}
