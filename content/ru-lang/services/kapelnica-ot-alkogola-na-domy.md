@@ -4,7 +4,7 @@ tabTitle: >-
   От 2199 грн
 title: Экстренный вызов Нарколога
 description: Помощь рядом. Конфиденциально. Эффективно.
-image: /img/ca15cc34-ab45-4708-8144-2e0bcbb545a4.jpg
+image: /img/Услуги/narkolog.jpg
 imageText: kapelnica_ot_alkogolia
 ratingAvarage: 4.99/5
 rating: '21464'
