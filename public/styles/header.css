@@ -115,7 +115,7 @@ nav a img {
   gap: 0.1rem;
   margin-top: 1rem;
 }
-@media (min-width: 1000px) {
+@media (min-width: 1400px) {
   #hamburger {
     display: none;
   }
