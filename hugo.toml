@@ -191,7 +191,7 @@ defaultContentLanguageInSubdir = false
                         parent = 'extra'
                     [[languages.uk.menus.main]]
                         name = 'Про нас'
-                        pageRef = '/about'
+                        pageRef = '/about-us'
                         weight = 20
                         parent = 'extra'
                     [[languages.uk.menus.main]]

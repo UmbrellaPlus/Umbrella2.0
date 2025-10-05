@@ -5,6 +5,11 @@
   display: flex;
   flex-direction: column;
 }
+
+.markdown h1{
+  color:var(--blue)
+}
+
 .markdown > h1,
 h2,
 h3,
@@ -33,7 +38,12 @@ h2::after {
   padding: 1rem;
 }
 .markdown img {
-  max-width: 75%;
+  max-width: 50%;
+  height: auto;
+  box-shadow: -3px 3px 0px var(--blue);
+  border-radius: 0 10px 0 0;
+  display: block;
+  margin:auto;
 }
 .markdown ol, ul{
   align-self: flex-start;
@@ -42,6 +52,7 @@ h2::after {
 }
 .markdown ol li, ul li{
   margin-bottom: 1rem;
+  padding:0rem 1rem;
 }
 .table-container {
   width: 100%;
@@ -89,4 +100,7 @@ tbody tr:hover {
   .markdown ol, ul {
     padding: 0;
   }
+  .markdown img {
+    max-width: 95%;
+}
 }

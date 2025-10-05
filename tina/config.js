@@ -145,19 +145,22 @@ const feedbackTemplate = [
     type: "string",
     label: "Колличество отзывов (напр 52)",
     name: "reviewsAmt",
-    ui:{
-      description:"ТОЛЬКО ДЛЯ СТРАНИЦЫ _index в отзывах. В других оставлять пустыми"
-    }
+    ui: {
+      description:
+        "ТОЛЬКО ДЛЯ СТРАНИЦЫ _index в отзывах. В других оставлять пустыми",
+    },
   },
   {
     type: "string",
     label: "Оценка (напр 4.8)",
     name: "reviewsRate",
-    ui:{
-      description:"ТОЛЬКО ДЛЯ СТРАНИЦЫ _index в отзывах. В других оставлять пустыми"
-    }
-  }
+    ui: {
+      description:
+        "ТОЛЬКО ДЛЯ СТРАНИЦЫ _index в отзывах. В других оставлять пустыми",
+    },
+  },
 ];
+
 export default defineConfig({
   branch,
   local: { enabled: true, userRelativeMedia: true },
@@ -323,44 +326,6 @@ export default defineConfig({
         fields: [...cityTemplate],
       },
       {
-        name: "contacts_ru",
-        label: "Контакты-RU",
-        path: "content/ru-lang",
-        match: {
-          include: "contacts",
-        },
-        format: "md",
-        fields: [
-          { type: "string", name: "title", label: "Заголовок" },
-          { type: "string", name: "layout", label: "Это не менять" },
-          {
-            type: "rich-text",
-            label: "Основной текст",
-            name: "body",
-            isBody: true,
-          },
-        ],
-      },
-      {
-        name: "contacts_ua",
-        label: "Контакты-UA",
-        path: "content/ua-lang",
-        match: {
-          include: "contacts",
-        },
-        format: "md",
-        fields: [
-          { type: "string", name: "title", label: "Заголовок" },
-          { type: "string", name: "layout", label: "Это не менять" },
-          {
-            type: "rich-text",
-            label: "Основной текст",
-            name: "body",
-            isBody: true,
-          },
-        ],
-      },
-      {
         name: "directory_ru",
         label: "Справочник-RU",
         path: "content/ru-lang/directory",
@@ -383,6 +348,40 @@ export default defineConfig({
         label: "Отзывы-UA",
         path: "content/ua-lang/reviews",
         fields: [...feedbackTemplate],
+      },
+      {
+        name: "menuPages_ru",
+        label: "О нас и Сотрудничество-RU",
+        path: "content/ru-lang",
+        match: {
+          include: "{about-us,collaboration}",
+        },
+        fields: [
+          {
+            type: "rich-text",
+            label: "Текст",
+            name: "body",
+            isBody: true,
+          },
+        ],
+        format: "md",
+      },
+      {
+        name: "menuPages_ua",
+        label: "О нас и Сотрудничество-UA",
+        path: "content/ua-lang",
+        match: {
+          include: "{about-us,collaboration}",
+        },
+        fields: [
+          {
+            type: "rich-text",
+            label: "Текст",
+            name: "body",
+            isBody: true,
+          },
+        ],
+        format: "md",
       },
     ],
   },
