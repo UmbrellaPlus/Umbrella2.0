@@ -1,3 +1,8 @@
+{{ $reviewsSection := site.GetPage "section" "reviews" }}
+{{ $reviewsAmt := $reviewsSection.Params.reviewsAmt }}
+{{ $reviewsRate := $reviewsSection.Params.reviewsRate }}
+
+
 <div>
   <div class="google-rating">
     <div class="google-stars">
@@ -6,7 +11,7 @@
         <p>Рейтинг</p>
       </div>
       <div class="google-points">
-        <p><b>{{.Params.reviewsRate}}</b></p>
+        <p><b>{{$reviewsRate}}</b></p>
         <div class="google-star" style="display: flex">
           <span>&#9733;</span>
           <span>&#9733;</span>
@@ -14,7 +19,7 @@
           <span>&#9733;</span>
           <span>&#9733;</span>
         </div>
-        <p style="opacity: 70%">Вiдгукiв: <b>{{.Params.reviewsAmt}}</b></p>
+        <p style="opacity: 70%">Вiдгукiв: <b>{{$reviewsAmt}}</b></p>
       </div>
     </div>
     <div>

@@ -114,7 +114,10 @@
       </div>
       <div class="clinic-img">
         <img class="preview" src="/img/main-about.jpg" alt="clinic-pic" />
-        <p><b>Робулец Ольга Григорьевна</b> <br /> ведущий нарколог, специалист с многолетним опытом</p>
+        <p>
+          <b>Робулец Ольга Григорьевна</b> <br />
+          ведущий нарколог, специалист с многолетним опытом
+        </p>
       </div>
     </div>
 
@@ -176,22 +179,18 @@
     </div>
 
     <!-- Отзывы -->
-    <div style="text-align:center; padding: 1rem;">
-    <h2>Отзывы о нашей работе</h2>
+    <div style="text-align: center; padding: 1rem">
+      <h2>Отзывы о нашей работе</h2>
     </div>
-    {{partial "google-reviews.html"}}
-    {{/*  <div class="reviews-disclaimer">
+    {{partial "google-reviews.html" . }} {{/*
+    <div class="reviews-disclaimer">
       <a id="openDialog"
         ><p>Нажмите если желаете оставить анонимный отзыв</p></a
       >
       {{partial "reviews-dialog.html"}}
-    </div>  */}}
-
-    {{/* Города в которых мы работаем */}} 
-    {{partial "cities-carousel.html" .}}
-
-    {{ partial "latest-news.html" .}}
-
-    {{partial "contacts.html" . }} {{partial "footer.html" .}}
+    </div>
+    */}} {{/* Города в которых мы работаем */}} {{partial "cities-carousel.html"
+    .}} {{ partial "latest-news.html" .}} {{partial "contacts.html" . }}
+    {{partial "footer.html" .}}
   </body>
 </html>

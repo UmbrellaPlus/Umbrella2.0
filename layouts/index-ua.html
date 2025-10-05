@@ -97,10 +97,11 @@
     <div class="about-clinic">
       <div class="clinic-description">
         <h2>Допомагаємо знайти нове життя</h2>
-        <p> UmbrellaPlus – це більше, ніж наркологічна служба. розуміння та професіоналізм, з
-          яких починається одужання. створюємо безпечний простір, де кожен може
-          отримати кваліфіковану медичну допомогу без страху, сорому та
-          засудження.
+        <p>
+          UmbrellaPlus – це більше, ніж наркологічна служба. розуміння та
+          професіоналізм, з яких починається одужання. створюємо безпечний
+          простір, де кожен може отримати кваліфіковану медичну допомогу без
+          страху, сорому та засудження.
           <br />
           Наша команда – це досвідчені лікарі-наркологи, реаніматологи,
           терапевти та хірурги, які готові прийти на допомогу у будь-який час
@@ -114,14 +115,15 @@
       </div>
       <div class="clinic-img">
         <img class="preview" src="/img/main-about.jpg" alt="clinic-pic" />
-        <p>Робулець Ольга Григоріївна <br /> ведучий нарколог, специаліст з багатолітним досвідом</p>
-
+        <p>
+          Робулець Ольга Григоріївна <br />
+          ведучий нарколог, специаліст з багатолітним досвідом
+        </p>
       </div>
     </div>
 
-    {{ partial "latest-news-ua.html" .}}
-
-    {{partial "doctors-slider-ua.html"}} {{/* Отзывы */}}
+    {{ partial "latest-news-ua.html" .}} {{partial "doctors-slider-ua.html"}}
+    {{/* Отзывы */}}
 
     <!-- Приемущества -->
     <div class="benefits">
@@ -177,7 +179,7 @@
     </div>
 
     <!-- Отзывы -->
-{{/*  
+    {{/*
     <div class="reviews">
       <h2>Відгуки пацієнтів:</h2>
       <section id="card-carousel" class="splide">
@@ -321,15 +323,13 @@
         ><p>Натисніть, якщо бажаєте залишити анонімний відгук</p></a
       >
       {{partial "reviews-dialog-ua.html"}}
-    </div>  */}}
-    <div style="text-align:center; padding: 1rem;">
-    <h2>Вiдгуки про нашу роботу</h2>
     </div>
-{{partial "google-reviews-ua.html" . }}
-
-    {{/* Города в которых мы работаем */}} 
-    {{partial "cities-carousel-ua.html"}}
-
-    {{partial "contacts-ua.html" . }} {{partial "footer.html" .}}
+    */}}
+    <div style="text-align: center; padding: 1rem">
+      <h2>Вiдгуки про нашу роботу</h2>
+    </div>
+    {{partial "google-reviews-ua.html" . }} {{/* Города в которых мы работаем
+    */}} {{partial "cities-carousel-ua.html"}} {{partial "contacts-ua.html" . }}
+    {{partial "footer.html" .}}
   </body>
 </html>
