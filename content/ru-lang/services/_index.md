@@ -1,6 +1,6 @@
 ---
 layout: services
-tabTitle: Услуги лечения алкоголизма | Umbrella Plus
+tabTitle: Услуги лечение алкоголизма | Umbrella Plus
 title: Лечение алкоголизма
 description: UmbrellaPlus — возвращаем жизнь без алкоголя
 image: /img/Услуги/Лечение-алкогол-общ.jpg
