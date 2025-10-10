@@ -1,6 +1,7 @@
 ---
 title: Отзывы | Umbrella +
 layout: reviews
-reviewsRate: "4.8"
-reviewsAmt: "51"
+reviewsAmt: '53'
+reviewsRate: '4.8'
 ---
+
