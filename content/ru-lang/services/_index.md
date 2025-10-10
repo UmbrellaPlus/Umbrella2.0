@@ -1,12 +1,12 @@
 ---
 layout: services
-tabTitle: Услуги лечения алкоголизма и наркомании | Umbrella Plus
+tabTitle: Услуги лечения алкоголизма | Umbrella Plus
 title: Лечение алкоголизма
-description: Безопасное Лечение Алкоголизма и Наркомании
-image: /img/home-page/bdbcf8713f555999e0b6dd392e9e294f_high.jpg
+description: UmbrellaPlus — возвращаем жизнь без алкоголя
+image: /img/Услуги/Лечение-алкогол-общ.jpg
 imageText: Лечение алкоголизма UmbrellaPlus
-ratingAvarage: 4.98/5
-rating: '9782'
+ratingAvarage: 4.99/5
+rating: '19782'
 ---
 
 | Самые Популярные Услуги \| UmbrellaPlus                                          | Цена        |
