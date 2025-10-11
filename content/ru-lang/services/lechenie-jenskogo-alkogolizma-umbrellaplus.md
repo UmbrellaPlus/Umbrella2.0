@@ -1,13 +1,11 @@
 ---
-tabTitle: 'Лечение женского алкоголизма с UmbrellaPlus: Безопасная наркология для женщин'
-title: 'Лечение женского алкоголизма с UmbrellaPlus: Наркология для женщин'
-description: >-
-  Лечение женского алкоголизма: комплексный подход для восстановления здоровья и
-  жизни
+tabTitle: Лечение женского алкоголизма | Umbrella Plus | От 2199 грн
+title: Лечение женского алкоголизма
+description: Комплексный подход для восстановления здоровья и жизни
 image: /img/home-page/3c14510597c4ad2081a0c40cadc54c9d_high.jpg
 imageText: Лечение женского алкоголизма UmbrellaPlus
 ratingAvarage: 4.97/5
-rating: '2734'
+rating: '12734'
 reviewType: alk-2
 ---
 
