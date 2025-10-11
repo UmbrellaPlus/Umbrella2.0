@@ -1,13 +1,11 @@
 ---
-tabTitle: >-
-  Кодирование от алкоголизма UmbrellaPlus: эффективное лечение зависимости с
-  гарантией результата
-title: Кодирование от алкоголизма UmbrellaPlus гарантией результата
-description: Кодирование от алкоголизма с UmbrellaPlus — ключ к новой жизни!
-image: /img/home-page/ff8e5a67b3a6ee32d567ffa8d408801e_high.jpg
+tabTitle: Кодирование от алкоголизма таблетками | Umbrella Plus | От 1499 грн
+title: Таблетированное кодирование от алкоголизма
+description: Первый шаг к контролю над зависимостью
+image: ''
 imageText: Кодирование от алкоголизма UmbrellaPlus
-ratingAvarage: 4.96/5
-rating: '7531'
+ratingAvarage: 4.98/5
+rating: '17531'
 reviewType: kod-2
 ---
 
