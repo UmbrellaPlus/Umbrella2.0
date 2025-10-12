@@ -3,7 +3,7 @@ tabTitle: Кодирование от алкоголизма уколом Эсп
 title: Кодирование от алкоголизма уколом Эспераль
 description: Шанс на трезвую и счастливую жизнь
 image: /img/home-page/3f3a28f71aaffb2edee38ae0cd3b23b7_high.jpg
-imageText: Кодирование от алкоголизма уколом Эспераль UmbrellaPlus
+imageText: Кодирование от алкоголизма уколом Эспераль
 ratingAvarage: 4.98/5
 rating: '11441'
 reviewType: kod-2
