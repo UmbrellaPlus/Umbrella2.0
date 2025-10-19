@@ -121,9 +121,7 @@
         </p>
       </div>
     </div>
-
-    {{ partial "latest-news-ua.html" .}} {{partial "doctors-slider-ua.html"}}
-    {{/* Отзывы */}}
+    {{partial "doctors-slider-ua.html"}} {{/* Отзывы */}}
 
     <!-- Приемущества -->
     <div class="benefits">
@@ -328,8 +326,8 @@
     <div style="text-align: center; padding: 1rem">
       <h2>Вiдгуки про нашу роботу</h2>
     </div>
-    {{partial "google-reviews-ua.html" . }} {{/* Города в которых мы работаем
-    */}} {{partial "cities-carousel-ua.html"}} {{partial "contacts-ua.html" . }}
-    {{partial "footer.html" .}}
+    {{partial "google-reviews-ua.html" . }} {{partial
+    "cities-carousel-ua.html"}} {{ partial "latest-news-ua.html" .}} {{partial
+    "contacts-ua.html" . }} {{partial "footer.html" .}}
   </body>
 </html>

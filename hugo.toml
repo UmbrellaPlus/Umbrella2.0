@@ -26,6 +26,21 @@ defaultContentLanguageInSubdir = false
                         pageRef = '/services-nark'
                         weight = 20
                         parent = 'services'
+                    [[languages.ru.menus.main]]
+                        name = 'Детоксикация после химиотерапии'
+                        pageRef = '/services-khymioterapiya'
+                        weight = 30
+                        parent = 'services'
+                    [[languages.ru.menus.main]]
+                        name = 'Капельница при пищевом отравлении'
+                        pageRef = '/services-otravlenie'
+                        weight = 40
+                        parent = 'services'
+                    [[languages.ru.menus.main]]
+                        name = 'Витаминные капельницы'
+                        pageRef = '/services-vitamini'
+                        weight = 50
+                        parent = 'services'
             [[languages.ru.menus.main]]
                 name = 'Врачи'
                 url = '/#doctors'
@@ -122,6 +137,21 @@ defaultContentLanguageInSubdir = false
                         name = 'Лікування наркоманії'
                         pageRef = '/services-nark'
                         weight = 20
+                        parent = 'services'
+                    [[languages.uk.menus.main]] 
+                        name = 'Детоксикація після хіміотерапії' 
+                        pageRef = '/services-khimioterapiya' 
+                        weight = 30 
+                        parent = 'services' 
+                    [[languages.uk.menus.main]] 
+                        name = 'Крапельниця при харчовому отруєнні' 
+                        pageRef = '/services-otryenya' 
+                        weight = 40 
+                        parent = 'services' 
+                    [[languages.uk.menus.main]] 
+                        name = 'Вітамінні крапельниці' 
+                        pageRef = '/services-vitaminy' 
+                        weight = 50 
                         parent = 'services'
             [[languages.uk.menus.main]]
                 name = 'Лікарі'

@@ -2,11 +2,11 @@
 tabTitle: Під час запою що робити? Поради нарколога Umbrella Plus
 title: Під час запою що робити?
 description: UmbrellaPlus Алкоголізм
+date: 2025-06-15T00:40:04-07:00
 image: /img/блог/11.jpg
 imageText: Під час запою що робити?
 ratingAvarage: 4.97/5
 rating: '1561'
-reviewType: alk-2
 ---
 
 ## Під час запою що робити?

@@ -2,11 +2,11 @@
 tabTitle: Быстро избавиться от похмелья | Umbrella Plus | Безопасная наркология
 title: Быстро избавиться от похмелья
 description: UmbrellaPlus Алкоголизм
+date: 2025-06-15T00:40:04-07:00
 image: /img/blog/23.jpg
 imageText: Быстро избавиться от похмелья
 ratingAvarage: 4.98/5
 rating: '1522'
-reviewType: alk-2
 ---
 
 ## Быстро избавиться от похмелья

@@ -66,14 +66,6 @@ const cityTemplate = [
     },
   },
   {
-    type: "datetime",
-    label: "Дата добавления (только для блога)",
-    name: "date",
-    ui: {
-      description: "Выбери дату",
-    },
-  },
-  {
     type: "string",
     component: "select",
     name: "reviewType",
@@ -97,11 +89,81 @@ const cityTemplate = [
         value: "kod-2",
         label: "Кодирование тип 2",
       },
-      {
-        value: "blog",
-        label: "Блог",
-      },
     ],
+  },
+  {
+    type: "rich-text",
+    label: "Основной текст страницы",
+    name: "body",
+    isBody: true,
+  },
+];
+
+const blogTemplate = [
+  {
+    type: "string",
+    label: "Название вкладки в Гугле",
+    name: "tabTitle",
+    ui: {
+      description:
+        "Например: 3 способа выхода из запоя на дому | Umbrella Plus",
+    },
+  },
+  {
+    type: "string",
+    label: "Заголовок страницы",
+    name: "title",
+    ui: {
+      description: "Например: 3 способа выхода из запоя на дому",
+    },
+  },
+  {
+    type: "string",
+    label: "Описание под заголовком",
+    name: "description",
+    ui: {
+      description:
+        "Например: Благодаря нашим советам вы успешно выйдите из запоя с первой попытки",
+      component: "textarea",
+    },
+  },
+  {
+    type: "datetime",
+    label: "Дата добавления",
+    name: "date",
+    ui: {
+      description:
+        "Выбери дату. Нужно для сортировки в актуальных новостях и на странице блога. +отображается в самой статье",
+    },
+  },
+  {
+    type: "image",
+    label: "Картинка",
+    name: "image",
+  },
+  {
+    type: "string",
+    label: "Описание картинки (нужно для СЕО в гугле)",
+    name: "imageText",
+    ui: {
+      description: "Например: Пациент на кровати или Капельница на штативе",
+    },
+  },
+  {
+    type: "string",
+    label: "Среднее оценивание страницы",
+    name: "ratingAvarage",
+    ui: {
+      description: "Например: 4.9/5. Ставить нужно именно точку . и именно /",
+    },
+  },
+  {
+    type: "string",
+    label: "Сколько человек оценили",
+    name: "rating",
+    ui: {
+      description: "Например: 2295",
+    },
   },
   {
     type: "rich-text",
@@ -183,6 +245,7 @@ export default defineConfig({
   // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/schema/
   schema: {
     collections: [
+      //CITIES
       {
         name: "odessa_ru",
         label: "Одесса-RU",
@@ -193,6 +256,13 @@ export default defineConfig({
             "{vizov-narkologa-od,vivod-iz-zapoya,vivod-iz-zapoya-na-domu-odessa,vivod-iz-zapoia-od,vivod-iz-zapoia-na-domy-od,podshivka-ot-alkogolya-odessa,podshivka-ot-alkogolia-od,poshivka-ot-alc,pivnoy-alkogolism,lechenie-pivnogo-alkogolizma-od,lechenie-jenskogo-alkogolizma,lechenie-alkogolizma-odessa,lechenie-alkogolizma-od,lechenie-alc,kodirovka-ukolom-espiral,kodirovka-ukolom-disulfiram,kodirovka-ot-alkogolia-ykolom-esperal-od,kodirovka-ot-alkogolia-od,kodirovka-ot-alkogolia-ykol-disylfiram-od,kodirovanie-ukolom,kodirovanie-po-dovjenko-od,kodirovanie-dovgenko,kapelnitsya-ot-alc,kapelnitsya-ot-alc-na-domu-odessa,kapelnica-ot-alkogolizma-na-domy-od,kapelnica-ot-alkogolia-od,genskiy-alc}",
         },
         format: "md",
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+            createNestedFolder: false,
+          },
+        },
       },
       {
         name: "odessa_ua",
@@ -204,6 +274,13 @@ export default defineConfig({
             "{kapelnica-ot-alkogolia-na-domu-od-ua,kapelnica-ot-alkogolia-od-ua,kodirovanie-po-dovjenko-od-ua,kodirovka-ot-alkogolia-od-ua,kodirovka-ot-alkogolia-ykol-disylfiram-od-ua,kodirovka-ot-alkogolia-ykolom-esperal-od-ua,lechenie-alc,lechenie-alkogolizma-od-ua,lechenie-jenskogo-alkogolizma-od-ua,lechenie-pivnogo-alkogolizma-od-ua,podshivka-ot-alkogolia-od-ua,vivod-iz-zapoia-na-domu-od-us,vivod-iz-zapoia-na-domy-od-ua,vivod-iz-zapoia-od-ua,vizov-narkologa-od-ua}",
         },
         format: "md",
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+            createNestedFolder: false,
+          },
+        },
       },
       {
         name: "kiev_ru",
@@ -289,42 +366,81 @@ export default defineConfig({
         path: "content/ua-lang/kamianske",
         fields: [...cityTemplate],
       },
+      //BLOG
       {
         name: "blog_ru",
         label: "Блог-RU",
         path: "content/ru-lang/blog",
-        fields: [...cityTemplate],
+        fields: [...blogTemplate],
       },
       {
         name: "blog_ua",
         label: "Блог-UA",
         path: "content/ua-lang/blog",
-        fields: [...cityTemplate],
+        fields: [...blogTemplate],
       },
+      //SERVICES
       {
         name: "lech_alc_ru",
-        label: "Лечение-алкоголизма-RU",
+        label: "Услуги-Лечение-алкоголизма-RU",
         path: "content/ru-lang/services",
         fields: [...cityTemplate],
       },
       {
         name: "lech_nark_ru",
-        label: "Лечение-накромании-RU",
+        label: "Услуги-Лечение-накромании-RU",
         path: "content/ru-lang/services-nark",
         fields: [...cityTemplate],
       },
       {
+        name: "khymioterapiya_ru",
+        label: "Услуги-Детоксикация-после-химиотерапии-RU",
+        path: "content/ru-lang/services-khymioterapiya",
+        fields: [...cityTemplate],
+      },
+      {
+        name: "otravlenie_ru",
+        label: "Услуги-Капельницы-при-отравлении-RU",
+        path: "content/ru-lang/services-otravlenie",
+        fields: [...cityTemplate],
+      },
+      {
+        name: "vitamini_ru",
+        label: "Услуги-Витаминные-Капельницы-RU",
+        path: "content/ru-lang/services-vitamini",
+        fields: [...cityTemplate],
+      },
+      {
         name: "lech_alc_ua",
-        label: "Лечение-алкоголзима-UA",
+        label: "Услуги-Лечение-алкоголзима-UA",
         path: "content/ua-lang/services",
         fields: [...cityTemplate],
       },
       {
         name: "lech_nark_ua",
-        label: "Лечение-наркомании-UA",
+        label: "Услуги-Лечение-наркомании-UA",
         path: "content/ua-lang/services-nark",
         fields: [...cityTemplate],
       },
+      {
+        name: "khimioterapiya_ua",
+        label: "Услуги-Детоксикая-после-химиотерапии-UA",
+        path: "content/ua-lang/services-khimioterapiya",
+        fields: [...cityTemplate],
+      },
+      {
+        name: "otryenya_ua",
+        label: "Услуги-Капельница-при-пищевом-отравлении-UA",
+        path: "content/ua-lang/services-otryenya",
+        fields: [...cityTemplate],
+      },
+      {
+        name: "vitaminy_ua",
+        label: "Услуги-Витаминные-капельницы-UA",
+        path: "content/ua-lang/services-vitaminy",
+        fields: [...cityTemplate],
+      },
+      //DOVIDNYK
       {
         name: "directory_ru",
         label: "Справочник-RU",
@@ -337,6 +453,7 @@ export default defineConfig({
         path: "content/ua-lang/directory",
         fields: [...cityTemplate],
       },
+      //OTZIVY
       {
         name: "reviews_ru",
         label: "Отзывы-RU",
@@ -349,6 +466,7 @@ export default defineConfig({
         path: "content/ua-lang/reviews",
         fields: [...feedbackTemplate],
       },
+      //O NAS I SOTRYDNICHESTVO
       {
         name: "menuPages_ru",
         label: "О нас и Сотрудничество-RU",

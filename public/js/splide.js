@@ -97,3 +97,24 @@ document.addEventListener("DOMContentLoaded", function () {
     },
   }).mount();
 });
+
+//CAROUSEL FOR LATEST NEWS
+document.addEventListener("DOMContentLoaded", function () {
+  new Splide("#latest-news", {
+    type: "loop",
+    speed: 800,
+    gap: `10px`,
+    perPage: 3,
+    breakpoints: {
+      640: {
+        perPage: 1,
+      },
+      1280: {
+        perPage: 2,
+      },
+      1640: {
+        perPage: 3,
+      }
+    },
+  }).mount();
+});

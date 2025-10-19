@@ -4,6 +4,7 @@ title: Как помочь человеку выйти из запоя
 description: Лечение алкоголизма
 image: /img/Kiev New/5.jpg
 imageText: Как помочь человеку выйти из запоя
+date: 2023-05-11T00:40:04-07:00
 ratingAvarage: 4.97/5
 rating: '1199'
 ---
