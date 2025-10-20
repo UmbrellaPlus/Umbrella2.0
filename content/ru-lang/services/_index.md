@@ -14,7 +14,7 @@ rating: '19782'
 | [Капельница от алкоголя](kapelnica-ot-alkogolia-UmbrellaPlus)                                 | От 2199 грн |
 | [Вывод из запоя на дому](Vivod-iz-zapoia-na-domy-UmbrellaPlus)                                | От 2199 грн |
 | [Лечение женского алкоголизма](lechenie-jenskogo-alkogolizma-umbrellaplus)                    | От 2199 грн |
-| [Лечение алкоголизма у военых (анонимно)](lechenie-alk-y-voenih)                              | От 2199 грн |
+| [Лечение алкоголизма у военных](lechenie-alk-y-voenih)                                        | От 2199 грн |
 | [Кодирование от алкоголизма укол Дисульфирам](kodirovka-ot-alkogolia-disulfiram-umbrellaplus) | От 5999 грн |
 
 | Услуги \| Лечение алкоголизма                                                | Цена        |
@@ -30,7 +30,8 @@ rating: '19782'
 
 | Услуги \| Кодирования от алкоголизма                                                          | Цена         |
 | --------------------------------------------------------------------------------------------- | ------------ |
-| [Кодирование от алкоголизма таблетками](kodirovka-ot-alkogolia-umbrellaplus)                  | От 1499 грн  |
+| [Кодирование от алкоголизма таблетки Тетурам](kodirovka-ot-alkogolia-umbrellaplus)            | От 1499 грн  |
+| [Кодирование от алкоголизма Капли Мидзо](kapli-midzo)                                         | От 1499 грн  |
 | [Кодирование от алкоголизма укол Дисульфирам](kodirovka-ot-alkogolia-disulfiram-umbrellaplus) | От 5999 грн  |
 | [Кодирование от алкоголизма уколом Эспераль](kodirovka-ot-alkogolizma-espiarl-umbrellaplus)   | От 7999 грн  |
 | [Кодирование от алкоголизма лазером](kodirovanie-ot-alkogolizma-lazerom)                      | От 9999 грн  |
