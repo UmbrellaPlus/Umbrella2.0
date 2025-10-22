@@ -28,7 +28,7 @@ reviewType: ''
 | [Крапельниця від алкоголю](kapelnica-ot-alkogolia-UmbrellaPlus-ua)              | Від 2199 грн |
 | [Крапельниця від алкоголю вдома](Kapelnica_ot_alkogola_na_domy_umbrellaplus-ua) | Від 2199 грн |
 | [Лікування алкоголізму](lechenie-alkogolizma-ua)                                | Від 2199 грн |
-| Лікування пивного алкоголізму                                                   | Від 2199 грн |
+| [Лікування пивного алкоголізму](lechenie-pivnogo-alkogolizma-umbrellaplus-ua)   | Від 2199 грн |
 | [Лікування жіночого алкоголізму](lechenie-jenskogo-alkogolizma-umbrellaplus-ua) | Від 2199 грн |
 
 | Послуги \| Кодування від алкоголізму                                                            | Ціна          |
