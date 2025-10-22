@@ -7,7 +7,7 @@ image: >-
 imageText: 'Кодирование от алкоголизма: Капли Мидзо'
 ratingAvarage: 4.98/5
 rating: '7564'
-reviewType: alk-1
+reviewType: kod-2
 ---
 
 ## Кодирование от алкоголизма: создание «трезвого барьера»
