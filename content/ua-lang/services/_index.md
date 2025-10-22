@@ -27,7 +27,7 @@ reviewType: ''
 | [Виведення із запою вдома](Vivod-iz-zapoia-na-domy-UmbrellaPlus-ua)             | Від 2199 грн |
 | [Крапельниця від алкоголю](kapelnica-ot-alkogolia-UmbrellaPlus-ua)              | Від 2199 грн |
 | [Крапельниця від алкоголю вдома](Kapelnica_ot_alkogola_na_domy_umbrellaplus-ua) | Від 2199 грн |
-| Лікування алкоголізму                                                           | Від 2199 грн |
+| [Лікування алкоголізму](lechenie-alkogolizma-ua)                                | Від 2199 грн |
 | Лікування пивного алкоголізму                                                   | Від 2199 грн |
 | Лікування жіночого алкоголізму                                                  | Від 2199 грн |
 
