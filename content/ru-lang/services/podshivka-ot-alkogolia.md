@@ -3,7 +3,7 @@ tabTitle: Подшивка от алкоголизма | Umbrella Plus | От 99
 title: Подшивка от алкоголизма
 description: Надёжный барьер между вами и алкоголем
 image: /img/3a7b35b3-dfeb-4d25-b871-7eb77098320d.jpg
-imageText: Підшивка від алкоголізму
+imageText: Подшивка от алкоголизма
 ratingAvarage: 4.98/5
 rating: '11002'
 reviewType: kod-2
