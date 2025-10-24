@@ -58,6 +58,7 @@ reviewType: kod-2
 | [Капельница от алкоголя](kapelnica-ot-alkogolia-UmbrellaPlus)                                 | От 2199 грн |
 | [Вывод из запоя на дому](Vivod-iz-zapoia-na-domy-UmbrellaPlus)                                | От 2199 грн |
 | [Лечение женского алкоголизма](lechenie-jenskogo-alkogolizma-umbrellaplus)                    | От 2199 грн |
+| [Лечение алкоголизма у военных](lechenie-alk-y-voenih)                                        | От 2199 грн |
 | [Кодирование от алкоголизма укол Дисульфирам](kodirovka-ot-alkogolia-disulfiram-umbrellaplus) | От 5999 грн |
 
 ## Эффективность таблетированного кодирования
