@@ -53,13 +53,13 @@ reviewType: kod-2
 
 Вартість **кодування від алкоголізму уколом Дисульфірам** починається від 5999 грн.
 
-| Найпопулярніші Послуги \| UmbrellaPlus                                                          | Ціна         |
-| ----------------------------------------------------------------------------------------------- | ------------ |
-| [Крапельниця від алкоголю](kapelnica-ot-alkogolia-UmbrellaPlus-ua)                              | Від 2199 грн |
-| [Виведення із запою вдома](Vivod-iz-zapoia-na-domy-UmbrellaPlus-ua)                             | Від 2199 грн |
-| [Лікування жіночого алкоголізму](lechenie-jenskogo-alkogolizma-umbrellaplus-ua)                 | Від 2199 грн |
-| [Лікування алкоголізму у військових](lechenie-alkogolizma-voenim-ua)                            | Від 2199 грн |
-| [Кодування від алкоголізму укол Дисульфірам](kodirovka-ot-alkogolia-disulfiram-umbrellaplus-ua) | Від 5999 грн |
+| Найпопулярніші Послуги \| UmbrellaPlus                                                        | Ціна         |
+| --------------------------------------------------------------------------------------------- | ------------ |
+| [Крапельниця від алкоголю](kapelnica-ot-alkogolia-UmbrellaPlus-ua)                            | Від 2199 грн |
+| [Виведення із запою вдома](Vivod-iz-zapoia-na-domy-UmbrellaPlus-ua)                           | Від 2199 грн |
+| [Лікування жіночого алкоголізму](lechenie-jenskogo-alkogolizma-umbrellaplus-ua)               | Від 2199 грн |
+| [Лікування алкоголізму у військових](lechenie-alkogolizma-voenim-ua)                          | Від 2199 грн |
+| [Кодування від алкоголізму уколом Еспераль](kodirovka-ot-alkogolizma-espiarl-umbrellaplus-ua) | Від 7999 грн |
 
 ## Переваги кодування уколом Дисульфірам
 
