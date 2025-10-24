@@ -34,6 +34,7 @@ reviewType: kod-2
 | [Капельница от алкоголя](kapelnica-ot-alkogolia-UmbrellaPlus)                                 | От 2199 грн |
 | [Вывод из запоя на дому](Vivod-iz-zapoia-na-domy-UmbrellaPlus)                                | От 2199 грн |
 | [Лечение женского алкоголизма](lechenie-jenskogo-alkogolizma-umbrellaplus)                    | От 2199 грн |
+| [Лечение алкоголизма у военных](lechenie-alk-y-voenih)                                        | От 2199 грн |
 | [Кодирование от алкоголизма укол Дисульфирам](kodirovka-ot-alkogolia-disulfiram-umbrellaplus) | От 5999 грн |
 
 ## Преимущества кодирования уколом Эспераль в UmbrellaPlus
@@ -72,4 +73,3 @@ reviewType: kod-2
 **Кодирование от алкоголизма уколом Эспераль в UmbrellaPlus – это современный, безопасный и эффективный метод преодоления алкогольной зависимости.** Этот метод не только помогает избавиться от тяги к спиртному, но и способствует значительным изменениям в образе жизни, возвращая контроль над здоровьем и будущим. Если вы готовы начать новую, трезвую жизнь, обращайтесь за профессиональной поддержкой в UmbrellaPlus.
 
 **Звоните прямо сейчас: [050-021-69-57](tel:0500216957)**
-**Оказываем помощь в** [Киеве](https://umbrella-plus.com.ua/kiev/) [Днепре](https://umbrella-plus.com.ua/dnepr/) [Одессе](https://umbrella-plus.com.ua/lechenie-alc/) [Харькове](https://umbrella-plus.com.ua/kharkiv/) [Запорожье](https://umbrella-plus.com.ua/zaporozie/) [Львове](https://umbrella-plus.com.ua/lviv/) **и всегда рядом, когда это необходимо!**
