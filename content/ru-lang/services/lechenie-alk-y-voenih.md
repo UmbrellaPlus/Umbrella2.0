@@ -55,6 +55,7 @@ reviewType: alk-1
 | [Капельница от алкоголя](kapelnica-ot-alkogolia-UmbrellaPlus)                                 | От 2199 грн |
 | [Вывод из запоя на дому](Vivod-iz-zapoia-na-domy-UmbrellaPlus)                                | От 2199 грн |
 | [Лечение женского алкоголизма](lechenie-jenskogo-alkogolizma-umbrellaplus)                    | От 2199 грн |
+| [Лечение пивного алкоголизма](lechenie-pivnogo-alkogolizma-UmbrellaPlus)                      | От 2199 грн |
 | [Кодирование от алкоголизма укол Дисульфирам](kodirovka-ot-alkogolia-disulfiram-umbrellaplus) | От 5999 грн |
 
 ## Причины алкогольной зависимости у военных: ПТСР и боевой стресс
