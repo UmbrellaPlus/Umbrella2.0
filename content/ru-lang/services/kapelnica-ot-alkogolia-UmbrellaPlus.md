@@ -35,15 +35,15 @@ reviewType: alk-1
 
 ## Стоимость капельницы от алкоголя в UmbrellaPlus
 
-Стоимость **капельницы от алкоголя в UmbrellaPlus** начинаеются от 2199 грн. Работаем в городах: ([Киев](https://umbrella-plus.com.ua/kiev/) [Днепр](https://umbrella-plus.com.ua/dnepr/) [Одесса](https://umbrella-plus.com.ua/lechenie-alc/) [Харьков](https://umbrella-plus.com.ua/kharkiv/) [Запорожье](https://umbrella-plus.com.ua/zaporozie/) [Львов](https://umbrella-plus.com.ua/lviv/)).
-Также выезжаем по области.
+Стоимость **капельницы от алкоголя в UmbrellaPlus** начинаеются от 2199 грн.
 
-| Самые Популярные Услуги \| UmbrellaPlus | Цена         |
-| --------------------------------------- | ------------ |
-| Вывод из запоя на дому                  | От 2 199 грн |
-| Капельница от алкоголя                  | От 2 199 грн |
-| Капельница от наркотиков                | От 3000 грн  |
-| Кодирование от алкоголизма уколом       | От 6000 грн  |
+| Самые Популярные Услуги \| UmbrellaPlus                                                       | Цена        |
+| --------------------------------------------------------------------------------------------- | ----------- |
+| [Капельница от алкоголя](kapelnica-ot-alkogolia-UmbrellaPlus)                                 | От 2199 грн |
+| [Вывод из запоя на дому](Vivod-iz-zapoia-na-domy-UmbrellaPlus)                                | От 2199 грн |
+| [Лечение женского алкоголизма](lechenie-jenskogo-alkogolizma-umbrellaplus)                    | От 2199 грн |
+| [Лечение алкоголизма у военных](lechenie-alk-y-voenih)                                        | От 2199 грн |
+| [Кодирование от алкоголизма укол Дисульфирам](kodirovka-ot-alkogolia-disulfiram-umbrellaplus) | От 5999 грн |
 
 ## Капельница от алкоголя - когда нужна
 
