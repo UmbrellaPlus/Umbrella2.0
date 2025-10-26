@@ -1,12 +1,12 @@
 ---
 layout: services
-tabTitle: Услуги лечения наркомании | Umbrella Plus
+tabTitle: Услуги лечение наркомании | Umbrella Plus Безопасная Наркология
 title: Лечение наркомании
-description: UmbrellaPlus Безопасная Наркология
-image: /img/home-page/bdbcf8713f555999e0b6dd392e9e294f11111131_high.jpg
-imageText: Лечение алкоголизма UmbrellaPlus
+description: UmbrellaPlus — возвращаем жизнь без наркотиков
+image: /img/%D0%A3%D1%81%D0%BB%D1%83%D0%B3%D0%B8/narkolog.jpg
+imageText: Лечение наркомании UmbrellaPlus
 ratingAvarage: 4.98/5
-rating: '19782'
+rating: '14522'
 ---
 
 | Работаем 24/7 Одесса \| UmbrellaPlus                                                   |
