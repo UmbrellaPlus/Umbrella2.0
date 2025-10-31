@@ -1,6 +1,7 @@
 ---
 tabTitle: 'Детоксикация от соли (α-PVP, MDPV, мефедрон) | Umbrella Plus | От 2599 грн'
 title: 'Детоксикация от соли (α-PVP, MDPV, мефедрон)'
+description: Путь к ясному сознанию
 imageText: 'Детоксикация от соли (α-PVP, MDPV, мефедрон)'
 ratingAvarage: 4.99/5
 rating: '7532'
