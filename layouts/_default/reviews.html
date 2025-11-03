@@ -57,9 +57,8 @@
       <h1>Відгуки про нашу роботу</h1>
       {{end}}
     </div>
-     {{if in .Site.Language "ru"}}  {{partial "google-reviews.html" . }} {{ else }}
-     {{partial "google-reviews-ua.html" . }} {{end}}
-    {{if in .Site.Language "ru"}} {{partial "contacts.html" . }} {{ else }}
-    {{partial "contacts-ua.html" . }} {{end}} {{partial "footer.html" .}}
+    {{partial "google-reviews.html" . }} {{if in .Site.Language "ru"}} {{partial
+    "contacts.html" . }} {{ else }} {{partial "contacts-ua.html" . }} {{end}}
+    {{partial "footer.html" .}}
   </body>
 </html>

@@ -5,6 +5,25 @@ enableRobotsTXT = true
 defaultContentLanguage = "ru"
 defaultContentLanguageInSubdir = false
 
+[module]
+[[module.mounts]]
+    source = "content/ru-lang"
+    target = "content"
+    lang = "ru"
+[[module.mounts]]
+    source = "content/ua-lang"
+    target = "content"
+    lang = "uk"
+[[module.mounts]]
+    source = "content/shared"
+    target = "content"
+    lang = "ru"
+[[module.mounts]]
+    source = "content/shared"
+    target = "content"
+    lang = "uk"
+
+
 [languages]
     [languages.ru]
         contentDir = 'content/ru-lang'
@@ -37,7 +56,7 @@ defaultContentLanguageInSubdir = false
                         weight = 40
                         parent = 'services'
                     [[languages.ru.menus.main]]
-                        name = 'Витаминные капельницы'
+                        name = 'Витаминные и профилактические капельницы'
                         pageRef = '/services-vitamini'
                         weight = 50
                         parent = 'services'
@@ -149,7 +168,7 @@ defaultContentLanguageInSubdir = false
                         weight = 40 
                         parent = 'services' 
                     [[languages.uk.menus.main]] 
-                        name = 'Вітамінні крапельниці' 
+                        name = 'Вітамінні та профілактичні крапельниці' 
                         pageRef = '/services-vitaminy' 
                         weight = 50 
                         parent = 'services'

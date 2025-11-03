@@ -181,7 +181,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
           
           <li><a href="../../services-otravlenie/">Капельница при пищевом отравлении</a></li>
           
-          <li><a href="../../services-vitamini/">Витаминные капельницы</a></li>
+          <li><a href="../../services-vitamini/">Витаминные и профилактические капельницы</a></li>
           
         </ul>
         
@@ -230,7 +230,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
           
           <li><a href="../../kharkiv/">Харьков</a></li>
           
-          <li><a href="../../lechenie-alc/">Одесса</a></li>
+          <li><a href="">Одесса</a></li>
           
           <li><a href="../../dnepr/">Днепр</a></li>
           
@@ -458,6 +458,34 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 </div>
 <div id="rating-value">Ваша оценка: <b><span id="rating"></span></b> <br><span><span>4.97/5</span> (<span id="rating-votes">1199</span> проголосовали)</span></div>
 <div id="rating-thanks">Благодарим за отзыв. Каждая оценка важна для нас<span id="rating"></span></div> 
+    
+    <div class="reviews">
+  
+  <h2>Отзывы пациентов:</h2>
+  
+  <section id="card-carousel" class="splide">
+    <div class="splide__track">
+      <ul class="reviews-container splide__list">
+        
+      </ul>
+    </div>
+  </section>
+  <div class="reviews-disclaimer">
+    <a id="openDialog">
+      
+      <p>Нажмите если желаете оставить анонимный отзыв</p>
+      </a
+    >
+     <dialog id="reviewDialog">
+    <form method="dialog">
+      <label for="text">Ваш отзыв будет опубликован в течении нескольких дней:</label><textarea type="text" name="text" id="text"></textarea><label for="rating">Оценка от 1 до 5</label>
+    <input type="number" inputmode="numeric" name="rating" id="rating" min="1" max="5"></form>
+    <button id="sendBtnDialog">Отправить отзыв</button>
+    <button id="closeBtnDialog">Закрыть</button>
+  </dialog>
+  </div>
+</div>
+
     <div style="text-align: center">
       
       <h2>Последние статьи из блога</h2>
@@ -539,7 +567,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
             
             <li><a href="../../services-otravlenie/">Капельница при пищевом отравлении</a></li>
             
-            <li><a href="../../services-vitamini/">Витаминные капельницы</a></li>
+            <li><a href="../../services-vitamini/">Витаминные и профилактические капельницы</a></li>
             
             
             
@@ -591,7 +619,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
             
             <li><a href="../../kharkiv/">Харьков</a></li>
             
-            <li><a href="../../lechenie-alc/">Одесса</a></li>
+            <li><a href="">Одесса</a></li>
             
             <li><a href="../../dnepr/">Днепр</a></li>
             

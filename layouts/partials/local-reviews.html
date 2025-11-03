@@ -1,0 +1,91 @@
+<div class="reviews">
+  {{if in .Site.Language "ru"}}
+  <h2>Отзывы пациентов:</h2>
+  {{else}}
+  <h2>Відгуки пацієнтів:</h2>
+  {{end}}
+  <section id="card-carousel" class="splide">
+    <div class="splide__track">
+      <ul class="reviews-container splide__list">
+        {{if eq .Params.reviewType "alk-1"}} {{with site.GetPage
+        "reviewsLocal/alcoholism-type-1"}} {{range .RegularPages}}
+        <li class="reviews-block splide__slide">
+          <div class="reviews-name-rate">
+            <p>{{.Title}}</p>
+            <img src="/img/rating.png" alt="" />
+          </div>
+          <p class="reviews-text">{{.Content}}</p>
+        </li>
+        {{end}} {{end}} {{else if eq .Params.reviewType "alk-2"}} {{with
+        site.GetPage "reviewsLocal/Alcoholism-type-2"}} {{range .RegularPages}}
+        <li class="reviews-block splide__slide">
+          <div class="reviews-name-rate">
+            <p>{{.Title}}</p>
+            <img src="/img/rating.png" alt="" />
+          </div>
+          <p class="reviews-text">{{.Content}}</p>
+        </li>
+        {{end}} {{end}} {{else if eq .Params.reviewType "kod-2"}} {{with
+        site.GetPage "reviewsLocal/Kodirovanie-type-2"}} {{range .RegularPages}}
+        <li class="reviews-block splide__slide">
+          <div class="reviews-name-rate">
+            <p>{{.Title}}</p>
+            <img src="/img/rating.png" alt="" />
+          </div>
+          <p class="reviews-text">{{.Content}}</p>
+        </li>
+        {{end}} {{end}} {{else if eq .Params.reviewType "kod-2"}} {{with
+        site.GetPage "reviewsLocal/Kodirovanie-type-2"}} {{range .RegularPages}}
+        <li class="reviews-block splide__slide">
+          <div class="reviews-name-rate">
+            <p>{{.Title}}</p>
+            <img src="/img/rating.png" alt="" />
+          </div>
+          <p class="reviews-text">{{.Content}}</p>
+        </li>
+        {{end}} {{end}} {{else if eq .Params.reviewType "vit"}} {{with
+        site.GetPage "reviewsLocal/Vitaminy"}} {{range .RegularPages}}
+        <li class="reviews-block splide__slide">
+          <div class="reviews-name-rate">
+            <p>{{.Title}}</p>
+            <img src="/img/rating.png" alt="" />
+          </div>
+          <p class="reviews-text">{{.Content}}</p>
+        </li>
+        {{end}} {{end}} 
+        {{else if eq .Params.reviewType "detox"}} {{with
+        site.GetPage "reviewsLocal/Detox-posle-himii"}} {{range .RegularPages}}
+        <li class="reviews-block splide__slide">
+          <div class="reviews-name-rate">
+            <p>{{.Title}}</p>
+            <img src="/img/rating.png" alt="" />
+          </div>
+          <p class="reviews-text">{{.Content}}</p>
+        </li>
+        {{end}} {{end}}
+        {{else if eq .Params.reviewType "otravl"}} {{with
+        site.GetPage "reviewsLocal/Pishevoe-otravl"}} {{range .RegularPages}}
+        <li class="reviews-block splide__slide">
+          <div class="reviews-name-rate">
+            <p>{{.Title}}</p>
+            <img src="/img/rating.png" alt="" />
+          </div>
+          <p class="reviews-text">{{.Content}}</p>
+        </li>
+        {{end}} {{end}}
+        {{end}}
+      </ul>
+    </div>
+  </section>
+  <div class="reviews-disclaimer">
+    <a id="openDialog">
+      {{if in .Site.Language "ru"}}
+      <p>Нажмите если желаете оставить анонимный отзыв</p>
+      {{else}}
+      <p>Натисніть, якщо бажаєте залишити анонімний відгук</p>
+      {{end}}</a
+    >
+    {{if in .Site.Language "ru"}} {{partial
+    "reviews-dialog.html"}}{{else}}{{partial "reviews-dialog-ua.html"}}{{end}}
+  </div>
+</div>

@@ -1,6 +1,6 @@
-{{ $reviewsSection := site.GetPage "section" "reviews" }}
-{{ $reviewsAmt := $reviewsSection.Params.reviewsAmt }}
-{{ $reviewsRate := $reviewsSection.Params.reviewsRate }}
+{{ $reviewsSection := site.GetPage "section" "reviewsGoogle" }} {{ $reviewsAmt
+:= $reviewsSection.Params.reviewsAmt }} {{ $reviewsRate :=
+$reviewsSection.Params.reviewsRate }}
 
 <div>
   <div class="google-rating">
@@ -18,13 +18,29 @@
           <span>&#9733;</span>
           <span>&#9733;</span>
         </div>
+        {{if in .Site.Language "ru"}}
         <p style="opacity: 70%">Отзывов: <b>{{$reviewsAmt}}</b></p>
+        {{else }}
+        <p style="opacity: 70%">Відгуків: <b>{{$reviewsAmt}}</b></p>
+        {{end}}
       </div>
     </div>
     <div>
-      <a class="review-button" target="_blank" href="https://share.google/USIxQH1lFa2JgWc89"
+      {{if in .Site.Language "ru"}}
+      <a
+        class="review-button"
+        target="_blank"
+        href="https://share.google/USIxQH1lFa2JgWc89"
         >Написать отзыв о нас</a
       >
+      {{else}}
+            <a
+        class="review-button"
+        target="_blank"
+        href="https://share.google/USIxQH1lFa2JgWc89"
+        >Написати відгук про нас</a
+      >
+      {{end}}
     </div>
   </div>
 
@@ -32,7 +48,7 @@
     <section id="google-carousel" class="splide">
       <div class="splide__track">
         <ul class="splide__list">
-          {{range where site.RegularPages "Type" "reviews"}}
+          {{range $reviewsSection.RegularPages}}
           <li class="google-review-block splide__slide">
             <div>
               <div class="google-user-info">
