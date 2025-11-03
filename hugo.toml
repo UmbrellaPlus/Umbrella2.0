@@ -114,6 +114,11 @@ defaultContentLanguageInSubdir = false
                         pageRef = '/kamianske'
                         weight = 80
                         parent = 'filials'
+                    [[languages.ru.menus.main]]
+                        name = 'Чугуев'
+                        pageRef = '/chuguev'
+                        weight = 90
+                        parent = 'filials'
             [[languages.ru.menus.main]]
                 name = 'Отзывы'
                 url = '/reviews'
@@ -224,6 +229,11 @@ defaultContentLanguageInSubdir = false
                         name = 'Кам’янське'
                         pageRef = '/kamianske'
                         weight = 80
+                        parent = 'filials'
+                    [[languages.uk.menus.main]]
+                        name = 'Чугуїв'
+                        pageRef = '/chuguev'
+                        weight = 90
                         parent = 'filials'
             [[languages.uk.menus.main]]
                 name = 'Відгуки'
