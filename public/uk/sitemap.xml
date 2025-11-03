@@ -49,8 +49,6 @@
                 href="https://umbrella-plus.com.ua/uk/chuguev/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/odesa/</loc>
-  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/odesa/detox-ot-amfetamina-odesa/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/odesa/detox-ot-kokaina-odesa/</loc>
@@ -938,6 +936,8 @@
                 hreflang="uk-UA"
                 href="https://umbrella-plus.com.ua/uk/zaporozie/"
                 />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/odesa/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kharkiv/</loc>
     <xhtml:link
