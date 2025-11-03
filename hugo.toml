@@ -86,7 +86,7 @@ defaultContentLanguageInSubdir = false
                         parent = 'filials'
                     [[languages.ru.menus.main]]
                         name = 'Одесса'
-                        pageRef = '/lechenie-alc'
+                        pageRef = '/odessa'
                         weight = 30
                         parent = 'filials'
                     [[languages.ru.menus.main]]
@@ -202,7 +202,7 @@ defaultContentLanguageInSubdir = false
                         parent = 'filials'
                     [[languages.uk.menus.main]]
                         name = 'Одеса'
-                        pageRef = '/lechenie-alc'
+                        pageRef = '/odesa'
                         weight = 30
                         parent = 'filials'
                     [[languages.uk.menus.main]]

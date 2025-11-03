@@ -340,7 +340,7 @@ export default defineConfig({
           include:
             "{chornomorsk/**/*,chuguev/**/*,dnepr/**/*,kamianske/**/*,kharkiv/**/*,kiev/**/*,lviv/**/*,odessa/**/*,zaporozie/**/*}",
           exclude:
-            "{blog/**/*,directory/**/*,reviews/**/*,services/**/*,services-khymioterapiya,/**/*,services-nark/**/*,services-otravlenie/**/*,services-vitamini/**/*,_index,about-us,collaboration,contacts}",
+            "{blog/**/*,directory/**/*,reviews/**/*,services/**/*,services-khymioterapiya/**/*,services-nark/**/*,services-otravlenie/**/*,services-vitamini/**/*,_index,about-us,collaboration,contacts}",
         },
         ui: {
           allowedActions: {
@@ -357,7 +357,7 @@ export default defineConfig({
           include:
             "{chornomorsk/**/*,chuguev/**/*,dnepr/**/*,kamianske/**/*,kharkiv/**/*,kiev/**/*,lviv/**/*,odesa/**/*,zaporozie/**/*}",
           exclude:
-            "{blog/**/*,directory/**/*,reviews/**/*,services/**/*,services-khymioterapiya,/**/*,services-nark/**/*,services-otravlenie/**/*,services-vitamini/**/*,_index,about-us,collaboration,contacts}",
+            "{blog/**/*,directory/**/*,reviews/**/*,services/**/*,services-khymioterapiya/**/*,services-nark/**/*,services-otravlenie/**/*,services-vitamini/**/*,_index,about-us,collaboration,contacts}",
         },
         ui: {
           allowedActions: {
