@@ -49,7 +49,7 @@ rating: '7532'
 
 | Популярні послуги                                                                                             | Ціна         |
 | ------------------------------------------------------------------------------------------------------------- | ------------ |
-| [Лікування наркоманії](https://umbrella-plus.com.ua/uk/services-nark/lechenie-narkomanii-ua/)                 | Від 2599 грн |
+| [Лікування наркоманії](https://umbrella-plus.com.ua/uk/services-nark/)                                        | Від 2599 грн |
 | [Екстрений виклик Нарколога](https://umbrella-plus.com.ua/uk/services/narkolog-ua/)                           | Від 2199 грн |
 | [Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/services/kapelnica-ot-alkogolia-umbrellaplus-ua/)  | Від 2199 грн |
 | [Виведення із запою вдома](https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-na-domy-umbrellaplus-ua/) | Від 2199 грн |
