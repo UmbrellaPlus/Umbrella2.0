@@ -23,6 +23,6 @@ reviewType: ''
 | [Детоксикація від Лірики (прегабалаїнів)](services-nark/detox-ot-liriki-ua)   | Від 2599 грн |
 | [Детоксикація від Псилоцибіну (гриби)](services-nark/detox-ot-psilocibina-ua) | Від 2599 грн |
 | [Детоксикація від екстазі (MDMA)](services-nark/detox-ot-mdma-ua)             | Від 2599 грн |
-| Детоксикація від ЛСД                                                          | Від 2599 грн |
+| [Детоксикація від ЛСД](services-nark/detox-ot-lsd-ua)                         | Від 2599 грн |
 | Детоксикація від солі (α-PVP, MDPV, Мефедрон)                                 | Від 2599 грн |
 | [Детоксикація від амфетаміну](services-nark/detox-ot-amfetamina-ua)           | Від 2599 грн |
