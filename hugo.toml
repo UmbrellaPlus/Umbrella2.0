@@ -80,17 +80,17 @@ defaultContentLanguageInSubdir = false
                         weight = 10
                         parent = 'filials'
                     [[languages.ru.menus.main]]
-                        name = 'Харьков и область'
+                        name = 'Харьков'
                         pageRef = '/kharkiv'
                         weight = 20
                         parent = 'filials'
                     [[languages.ru.menus.main]]
-                        name = 'Одесса и область'
+                        name = 'Одесса'
                         pageRef = '/odessa'
                         weight = 30
                         parent = 'filials'
                     [[languages.ru.menus.main]]
-                        name = 'Днепр и область'
+                        name = 'Днепр'
                         pageRef = '/dnepr'
                         weight = 40
                         parent = 'filials'
@@ -108,6 +108,21 @@ defaultContentLanguageInSubdir = false
                         name = 'Черкассы'
                         pageRef = '/cherkasy'
                         weight = 70
+                        parent = 'filials'
+                    [[languages.ru.menus.main]]
+                        name = 'Чугуев'
+                        pageRef = '/chuguev'
+                        weight = 80
+                        parent = 'filials'
+                    [[languages.ru.menus.main]]
+                        name = 'Черноморск'
+                        pageRef = '/chornomorsk'
+                        weight = 90
+                        parent = 'filials'
+                    [[languages.ru.menus.main]]
+                        name = 'Каменское'
+                        pageRef = '/kamianske'
+                        weight = 100
                         parent = 'filials'
             [[languages.ru.menus.main]]
                 name = 'Отзывы'
@@ -214,6 +229,21 @@ defaultContentLanguageInSubdir = false
                         name = 'Черкаси'
                         pageRef = '/cherkasy'
                         weight = 70
+                        parent = 'filials'
+                    [[languages.uk.menus.main]] 
+                        name = 'Чугуїв' 
+                        pageRef = '/chuguev' 
+                        weight = 80 
+                        parent = 'filials' 
+                    [[languages.uk.menus.main]] 
+                        name = 'Чорноморськ' 
+                       pageRef = '/chornomorsk' 
+                       weight = 90 
+                        parent = 'filials' 
+                    [[languages.uk.menus.main]] 
+                        name = 'Кам`янське' 
+                        pageRef = '/kamianske' 
+                        weight = 100 
                         parent = 'filials'
             [[languages.uk.menus.main]]
                 name = 'Відгуки'
