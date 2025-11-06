@@ -17,7 +17,7 @@ reviewType: alk-1
 | Популярні послуги                                                         | Ціна         |
 | ------------------------------------------------------------------------- | ------------ |
 | **[Виведення із запою вдома](Vivod-iz-zapoia-na-domy-kharkiv-ua)**        | Від 2199 грн |
-| **[Крапельниця від алкоголю](Kapelnica_ot_alkogola_na_domy_kharkiv_ua)**  | Від 2199 грн |
+| **[Крапельниця від алкоголю](Kapelnica_ot_alkogola_kharkiv-ua)**          | Від 2199 грн |
 | **[Крапельниця від наркотиків](kap-ot-nark-ua)**                          | Від 2499 грн |
 | **[Кодування від алкоголізму уколом](kodirovka-ot-alkogolia-kharkiv-ua)** | Від 4999 грн |
 
@@ -25,7 +25,7 @@ reviewType: alk-1
 | ------------------------------------------------------------------------------ | ------------ |
 | **[Екстрений виклик нарколога](vizov-narkologa-kharkiv-ua)**                   | Від 2199 грн |
 | **[Виведення із запою](Vivod-iz-zapoia-kharkiv-ua)**                           | Від 2199 грн |
-| **[Крапельниця від алкоголю](Kapelnica_ot_alkogola_kharkiv-ua)**               | Від 2199 грн |
+| **[Крапельниця від алкоголю](Kapelnica_ot_alkogola_na_domy_kharkiv_ua)**       | Від 2199 грн |
 | **[Лікування алкоголізму](lechenie-alkogolizma-kharkiv-ua)**                   | Від 2199 грн |
 | **[Лікування пивного алкоголізму](lechenie-pivnogo-alkogolizma-kharkiv-ua)**   | Від 2199 грн |
 | **[Лікування жіночого алкоголізму](lechenie-jenskogo-alkogolizma-kharkiv-ua)** | Від 2199 грн |
