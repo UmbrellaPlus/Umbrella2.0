@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://umbrella-plus.com.ua/</loc>
-    <lastmod>2025-06-15T00:40:04-07:00</lastmod>
+    <lastmod>2025-10-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
@@ -15,11 +15,11 @@
                 href="https://umbrella-plus.com.ua/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/bistro-izbavitsa-ot-pohmelia/</loc>
-    <lastmod>2025-06-15T00:40:04-07:00</lastmod>
+    <loc>https://umbrella-plus.com.ua/blog/kak-bistro-izbavitsa-ot-pohmelia/</loc>
+    <lastmod>2025-10-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://umbrella-plus.com.ua/blog/</loc>
-    <lastmod>2025-06-15T00:40:04-07:00</lastmod>
+    <lastmod>2025-10-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
@@ -32,10 +32,22 @@
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/blog/kak-otoiti-ot-zapoya-i-snyat-pokhmele/</loc>
-    <lastmod>2025-05-22T00:40:04-07:00</lastmod>
+    <lastmod>2025-05-22T07:40:04+00:00</lastmod>
   </url><url>
     <loc>https://umbrella-plus.com.ua/blog/kak-pomoch-cheloveku-iz-zapoia/</loc>
     <lastmod>2023-05-11T00:40:04-07:00</lastmod>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/cherkasy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/cherkasy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/cherkasy/"
+                />
   </url><url>
     <loc>https://umbrella-plus.com.ua/chuguev/</loc>
     <xhtml:link

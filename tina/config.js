@@ -338,7 +338,7 @@ export default defineConfig({
         fields: [...cityTemplate],
         match: {
           include:
-            "{chornomorsk/**/*,chuguev/**/*,dnepr/**/*,kamianske/**/*,kharkiv/**/*,kiev/**/*,lviv/**/*,odessa/**/*,zaporozie/**/*}",
+            "{cherkasy/**/*,chornomorsk/**/*,chuguev/**/*,dnepr/**/*,kamianske/**/*,kharkiv/**/*,kiev/**/*,lviv/**/*,odessa/**/*,zaporozie/**/*}",
           exclude:
             "{blog/**/*,directory/**/*,reviews/**/*,services/**/*,services-khymioterapiya/**/*,services-nark/**/*,services-otravlenie/**/*,services-vitamini/**/*,_index,about-us,collaboration,contacts}",
         },
@@ -355,7 +355,7 @@ export default defineConfig({
         fields: [...cityTemplate],
         match: {
           include:
-            "{chornomorsk/**/*,chuguev/**/*,dnepr/**/*,kamianske/**/*,kharkiv/**/*,kiev/**/*,lviv/**/*,odesa/**/*,zaporozie/**/*}",
+            "{cherkasy/**/*,chornomorsk/**/*,chuguev/**/*,dnepr/**/*,kamianske/**/*,kharkiv/**/*,kiev/**/*,lviv/**/*,odesa/**/*,zaporozie/**/*}",
           exclude:
             "{blog/**/*,directory/**/*,reviews/**/*,services/**/*,services-khymioterapiya/**/*,services-nark/**/*,services-otravlenie/**/*,services-vitamini/**/*,_index,about-us,collaboration,contacts}",
         },
@@ -404,7 +404,7 @@ export default defineConfig({
           include:
             "{services/**/*,services-khymioterapiya/**/*,services-nark/**/*,services-otravlenie/**/*,services-vitamini/**/*}",
           exclude:
-            "{blog/**/*,chornomorsk/**/*,chuguev/**/*,dnepr/**/*,kamianske/**/*,kharkiv/**/*,kiev/**/*,lviv/**/*,odessa/**/*,zaporozie/**/*,directory/**/*,reviews/**/*,_index,about-us,collaboration,contacts}",
+            "{blog/**/*,cherkasy/**/*,chornomorsk/**/*,chuguev/**/*,dnepr/**/*,kamianske/**/*,kharkiv/**/*,kiev/**/*,lviv/**/*,odessa/**/*,zaporozie/**/*,directory/**/*,reviews/**/*,_index,about-us,collaboration,contacts}",
         },
         ui: {
           allowedActions: {
@@ -421,7 +421,7 @@ export default defineConfig({
           include:
             "{services/**/*,services-khimioterapiya/**/*,services-nark/**/*,services-otryenya/**/*,services-vitaminy/**/*}",
           exclude:
-            "{blog/**/*,chornomorsk/**/*,chuguev/**/*,dnepr/**/*,kamianske/**/*,kharkiv/**/*,kiev/**/*,lviv/**/*,odessa/**/*,zaporozie/**/*,directory/**/*,reviews/**/*,_index,about-us,collaboration,contacts}",
+            "{blog/**/*,cherkasy/**/*,chornomorsk/**/*,chuguev/**/*,dnepr/**/*,kamianske/**/*,kharkiv/**/*,kiev/**/*,lviv/**/*,odessa/**/*,zaporozie/**/*,directory/**/*,reviews/**/*,_index,about-us,collaboration,contacts}",
         },
         ui: {
           allowedActions: {

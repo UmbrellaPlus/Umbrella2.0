@@ -2,8 +2,8 @@
 tabTitle: Зняття алкогольної інтоксикації вдома у Харкові | Umbrella Plus | Від 1699 грн
 title: Зняття алкогольної інтоксикації вдома в Харкові
 description: Umbrella-Plus Безпечна Наркологія
-date: 2025-03-05T00:40:04-07:00
-image: /img/blog/b8cf0def9c79a6ecdda6817b3ac0ad16_high123.jpg
+date: 2025-03-05T07:40:04.000Z
+image: /img/985c67f2ffd5f19bff94517cdea21f0e_high (1).jpg
 imageText: Зняття алкогольної інтоксикації вдома в Харкові
 ratingAvarage: 4.89/5
 rating: '1521'

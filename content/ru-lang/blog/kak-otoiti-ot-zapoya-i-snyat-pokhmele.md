@@ -2,9 +2,9 @@
 tabTitle: Как Отойти от Запоя и Снять Похмелье | Umbrella Plus | Советы Нарколога
 title: Как Отойти от Запоя
 description: Umbrella Plus | Безопасная Наркология
-image: /img/blog/kak-otoiti.jpg
+date: 2025-05-22T07:40:04.000Z
+image: /img/985c67f2ffd5f19bff94517cdea21f0e_high (1).jpg
 imageText: Как Отойти от Запоя
-date: 2025-05-22T00:40:04-07:00
 ratingAvarage: 4.97/5
 rating: '1887'
 ---
