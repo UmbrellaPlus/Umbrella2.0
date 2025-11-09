@@ -201,17 +201,17 @@ defaultContentLanguageInSubdir = false
                         weight = 10
                         parent = 'filials'
                     [[languages.uk.menus.main]]
-                        name = 'Харків та область'
+                        name = 'Харків'
                         pageRef = '/kharkiv'
                         weight = 20
                         parent = 'filials'
                     [[languages.uk.menus.main]]
-                        name = 'Одеса та область'
+                        name = 'Одеса'
                         pageRef = '/odesa'
                         weight = 30
                         parent = 'filials'
                     [[languages.uk.menus.main]]
-                        name = 'Дніпро та область'
+                        name = 'Дніпро'
                         pageRef = '/dnepr'
                         weight = 40
                         parent = 'filials'
