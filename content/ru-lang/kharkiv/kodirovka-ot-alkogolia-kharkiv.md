@@ -2,7 +2,7 @@
 tabTitle: Кодирование от алкоголизма Харьков | Umbrella Plus | От 4999 грн
 title: Кодирование от алкоголизма в Харькове
 description: Трезвость начинается сегодня
-image: /img/Харьков Новое/kod-ot-alk-kharkov.jpg
+image: /img/Харьков Новое/Кодирование от алкоголизма Харьков.jpg
 imageText: Кодирование от алкоголизма Харьков
 ratingAvarage: 4.97/5
 rating: '5013'
