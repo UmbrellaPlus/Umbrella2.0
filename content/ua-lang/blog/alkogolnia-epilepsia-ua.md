@@ -2,13 +2,13 @@
 tabTitle: Алкогольна епілепсія | Umbrella Plus | Безпечна наркологія
 title: Алкогольна епілепсія
 description: Поради Нарколога
-date: '2025-10-10T00:00:00.000Z'
-image: /img/Kiev New/5.jpg
+date: 2025-10-10T00:00:00.000Z
+image: >-
+  /img/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%90%D0%BB%D0%BA%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%8D%D0%BF%D0%B8%D0%BB%D0%B5%D0%BF%D1%81%D0%B8%D1%8F.jpg
 imageText: Алкогольна епілепсія
 ratingAvarage: 4.97/5
 rating: '1887'
 ---
-
 
 ## Алкогольна епілепсія
 
