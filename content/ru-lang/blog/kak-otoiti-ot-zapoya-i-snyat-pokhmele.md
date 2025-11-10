@@ -3,7 +3,7 @@ tabTitle: Алкогольная эпилепсия | Umbrella Plus | Безоп
 title: Алкогольная эпилепсия
 description: Советы Нарколога
 date: 2025-10-10T00:00:00.000Z
-image: ''
+image: /img/блог/Алкогольная эпилепсия.jpg
 imageText: Алкогольная эпилепсия
 ratingAvarage: 4.97/5
 rating: '1887'
