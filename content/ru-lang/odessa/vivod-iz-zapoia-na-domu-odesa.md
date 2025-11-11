@@ -4,7 +4,7 @@ title: Вывод из запоя на дому в Одессе
 description: Быстро и безопасно избавляем от любой интоксикации
 image: /img/Odessa new/Вывод из запоя на дому Одесса.jpg
 imageText: Вывод из запоя на дому Одесса
-ratingAvarage: 4/99
+ratingAvarage: 4.99/5
 rating: '5322'
 reviewType: alk-2
 ---
