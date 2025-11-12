@@ -1,3 +1,14 @@
+---
+tabTitle: Крапельниця від алкоголю Чугуїв | Umbrella Plus | Від 2199 грн
+title: Крапельниця від алкоголю Чугуїв
+description: Знімаємо похмілля за один сеанс
+image: >-
+  /img/%D0%A7%D1%83%D0%B3%D1%83%D0%B5%D0%B2/%D0%9A%D0%B0%D0%BF%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BE%D1%82%20%D0%B0%D0%BB%D0%BA%D0%BE%D0%B3%D0%BE%D0%BB%D1%8F%20%D0%A7%D1%83%D0%B3%D1%83%D0%B5%D0%B2.jpg
+imageText: Крапельниця від алкоголю Чугуїв
+ratingAvarage: 4.99/5
+rating: '4532'
+reviewType: alk-1
+---
 
 ## Крапельниця від алкоголю Чугуїв
 
