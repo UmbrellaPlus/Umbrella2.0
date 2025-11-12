@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://umbrella-plus.com.ua/uk/</loc>
-    <lastmod>2025-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
@@ -15,8 +15,11 @@
                 href="https://umbrella-plus.com.ua/uk/"
                 />
   </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/blog/alkogolnia-epilepsia-ua/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/blog/</loc>
-    <lastmod>2025-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
@@ -31,35 +34,8 @@
     <loc>https://umbrella-plus.com.ua/uk/blog/kak-hvidko-izbavitsa-ot-pohmilia-ua/</loc>
     <lastmod>2025-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/blog/kak-pomoch-cheloveku-iz-zapoia-ua/</loc>
-    <lastmod>2025-05-21T00:40:04-07:00</lastmod>
-  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/blog/sniatie-alkogolnoi-intocsikacii-kharkov-ua/</loc>
     <lastmod>2025-03-05T07:40:04+00:00</lastmod>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/cherkasy/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/cherkasy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/cherkasy/"
-                />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/chuguev/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/chuguev/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/chuguev/"
-                />
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/odesa/detox-ot-amfetamina-odesa/</loc>
   </url><url>
@@ -96,8 +72,6 @@
     <loc>https://umbrella-plus.com.ua/uk/odesa/lechenie-pivnogo-alkogolizma-odesa/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/odesa/podshivka-ot-alkogolizma-odesa/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/odesa/vivod-iz-zapoia-na-domu-odesa/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/odesa/vivod-iz-zapoia-odesa/</loc>
   </url><url>
@@ -685,11 +659,15 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/services/vivod-iz-zapoia-na-domy-umbrellaplus-ua/</loc>
   </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/odesa/vivod-iz-zapoia-na-domu-odesa/</loc>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/zaporozie/vivod-iz-zapoia-na-domy-zaporozhye-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/lviv/vivod-iz-zapoia-na-domy-lv%D1%96v-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kharkiv/vivod-iz-zapoia-na-domy-kharkiv-ua/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/cherkasy/vivod-iz-zapoia-vdoma-cherkasi-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/dnepr/vivod-iz-zapoia-dnepr-ua/</loc>
   </url><url>
@@ -991,6 +969,30 @@
                 rel="alternate"
                 hreflang="uk-UA"
                 href="https://umbrella-plus.com.ua/uk/kiev/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/cherkasy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/cherkasy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/cherkasy/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/chuguev/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/chuguev/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/chuguev/"
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/services/lechenie-alkogolizma-voenim-ua/</loc>

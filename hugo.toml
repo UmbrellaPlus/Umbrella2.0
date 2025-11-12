@@ -133,11 +133,6 @@ defaultContentLanguageInSubdir = false
                 weight = 60
                 identifier = 'extra'
                     [[languages.ru.menus.main]]
-                        name = 'Справочник'
-                        pageRef = '/directory'
-                        weight = 10
-                        parent = 'extra'
-                    [[languages.ru.menus.main]]
                         name = 'О нас'
                         pageRef = '/about-us'
                         weight = 20
@@ -253,11 +248,6 @@ defaultContentLanguageInSubdir = false
                 name = 'Додатково'
                 weight = 60
                 identifier = 'extra'
-                    [[languages.uk.menus.main]]
-                        name = 'Довідник'
-                        pageRef = '/directory'
-                        weight = 10
-                        parent = 'extra'
                     [[languages.uk.menus.main]]
                         name = 'Про нас'
                         pageRef = '/about-us'

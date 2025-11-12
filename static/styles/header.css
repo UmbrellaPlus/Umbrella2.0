@@ -68,6 +68,7 @@ nav a img {
   padding: 1rem;
   flex-direction: column;
   position: fixed;
+  height:calc(100vh - 7.5rem);
   width: 100%;
   align-items: center;
   top: 7.5rem;
@@ -77,6 +78,7 @@ nav a img {
   font-weight: 500;
   font-size: 1.2rem;
   list-style: none;
+  overflow-y: auto;
 }
 #nav-links.active {
   display: flex;
@@ -94,6 +96,7 @@ nav a img {
   flex-direction: column;
   gap: 0.1rem;
   margin-top: 1rem;
+  margin-left:1rem;
 }
 #filials-list{
   display: none;
@@ -104,6 +107,7 @@ nav a img {
   flex-direction: column;
   gap: 0.1rem;
   margin-top: 1rem;
+  margin-left:1rem;
 }
 #services-list {
   display: none;
@@ -114,6 +118,7 @@ nav a img {
   flex-direction: column;
   gap: 0.1rem;
   margin-top: 1rem;
+  margin-left:1rem;
 }
 @media (min-width: 1400px) {
   #hamburger {
@@ -129,6 +134,7 @@ nav a img {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    height: auto;
   }
   #nav-links li a:hover {
     transition: 0.1s;

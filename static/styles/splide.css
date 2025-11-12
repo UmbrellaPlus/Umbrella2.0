@@ -4,3 +4,6 @@
 .splide__pagination__page.is-active {
   background-color: #1d5d9b;
 }
+.splide__pagination__page {
+  display: none;
+}

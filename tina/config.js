@@ -430,18 +430,18 @@ export default defineConfig({
         },
       },
       //DOVIDNYK
-      {
-        name: "directory_ru",
-        label: "Справочник-RU",
-        path: "content/ru-lang/directory",
-        fields: [...cityTemplate],
-      },
-      {
-        name: "directory_ua",
-        label: "Справочник-UA",
-        path: "content/ua-lang/directory",
-        fields: [...cityTemplate],
-      },
+      // {
+      //   name: "directory_ru",
+      //   label: "Справочник-RU",
+      //   path: "content/ru-lang/directory",
+      //   fields: [...cityTemplate],
+      // },
+      // {
+      //   name: "directory_ua",
+      //   label: "Справочник-UA",
+      //   path: "content/ua-lang/directory",
+      //   fields: [...cityTemplate],
+      // },
       //GOOGLE-OTZIVY-INDEX
       {
         name: "googleReviewsRate",
@@ -531,6 +531,13 @@ export default defineConfig({
           },
         ],
         format: "md",
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+            createNestedFolder: false,
+          },
+        },
       },
       {
         name: "menuPages_ua",
@@ -548,6 +555,13 @@ export default defineConfig({
           },
         ],
         format: "md",
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+            createNestedFolder: false,
+          },
+        },
       },
     ],
   },

@@ -19,6 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
         perPage: 4,
       },
     },
+    pagiantion: false,
   }).mount();
 });
 
