@@ -5,7 +5,7 @@ description: Опытные наркологи с практикой более 
 image: /img/Чугуев/Лечение алкоголизма и наркомании Чугуев.jpg
 imageText: Лечение алкоголизма и наркомании Чугуев
 ratingAvarage: 4.99/5
-rating: '2902'
+rating: '8902'
 reviewType: alk-1
 ---
 
