@@ -1,9 +1,9 @@
 /* Наши спецалисты */
-.splide {
+.doctors-container {
+  max-width: 70vw;
   height:auto;
   padding-bottom: 2em;
   overflow-x: hidden;
-  max-width: 90%;
   margin: auto;
 }
 .doctors {
@@ -25,13 +25,6 @@
   background-color: #1d5d9b;
   left: 0px;
 }
-*/ .doctors-container {
-  /* display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(2, 1fr);
-  grid-column-gap: 1em;
-  grid-row-gap: 1em; */
-}
 /* swiper-slide */
 .doctor-block {
   display: flex;
@@ -42,7 +35,7 @@
 .doctor-block img {
   object-fit: fill;
   height: auto;
-  width: 75%;
+  width: 90%;
   box-shadow: -3px 3px 0px var(--blue);
   border-radius: 0 10px 0 0;
   margin-bottom:10px;
@@ -53,7 +46,7 @@
   color: var(--blue)
 }
 @media (max-width: 768px) {
-  .splide{
+  .doctors-container{
     max-width: 98%;
   }
   .doctors {

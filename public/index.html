@@ -296,35 +296,49 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 </header>
 
     <main>
-      <div class="hero-text">
-        <h1>UMBRELLA PLUS</h1>
-        <p>
-          Лечение алкоголизма и наркомании <br />
-          Снятие алкогольной/наркотической интоксикации <br />
-          Выезд нарколога на дом <br />
-        </p>
-        <form id="tg">
-  <div class="main-consult">
-    <input
-      type="tel"
-      class="form-control"
-      name="user_phone"
-      id="user_phone"
-      placeholder="XXXXXXXX"
-      value="+380"
-      minlength="13"
-      maxlength="13"
-    /><button type="submit">Бесплатная консультация</button>
-    <div id="success">
-      Сообщение отправлено! Перезвоним вам как можно скорее!
-    </div>
-  </div>
-</form>
-        
-        
-      </div>
-      <div class="main-image">
-        <img src="./img/home-page/main-ru.jpg" alt="Main-image" />
+      
+      <div>
+        <div class="home-page-slider">
+          <section id="homepage_carousel" class="splide">
+            <div class="splide__track">
+              <ul class="splide__list">
+                
+                <li class="homepage-block splide__slide">
+                  <div class="homepage-image">
+                    <a href="https://umbrella-plus.com.ua/">
+                      <picture>
+                        <source
+                          media="(max-width: 720px)"
+                          srcset="./img/HOMEPAGE-SLIDER/zsu-disc/zsudisc-mob-ru.jpg"
+                        />
+                        <img
+                          src="./img/HOMEPAGE-SLIDER/zsu-disc/zsudisc-pc-ru.jpg"
+                          alt="pc-version-main"
+                        /> </picture
+                    ></a>
+                  </div>
+                </li>
+                
+                <li class="homepage-block splide__slide">
+                  <div class="homepage-image">
+                    <a href="https://umbrella-plus.com.ua/cherkasy/">
+                      <picture>
+                        <source
+                          media="(max-width: 720px)"
+                          srcset="./img/HOMEPAGE-SLIDER/cherkasy/cherkasy-mob-ru.jpg"
+                        />
+                        <img
+                          src="./img/HOMEPAGE-SLIDER/cherkasy/cherkasy-pc-ru.jpg"
+                          alt="pc-version-main"
+                        /> </picture
+                    ></a>
+                  </div>
+                </li>
+                
+              </ul>
+            </div>
+          </section>
+        </div>
       </div>
     </main>
 
@@ -376,43 +390,64 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 
     
 
-    <div class="doctors" id="doctors">
+    <div class="doctors">
   <h2>Наши спецалисты</h2>
-  <section id="image-carousel" class="splide">
+  <section id="doctors-carousel" class="doctors-container splide">
     <div class="splide__track">
       <ul class="splide__list">
         <li class="doctor-block splide__slide">
-          <img src="./img/doctors-from-slider/ddoc-olga.jpg" alt="team-person1.1" />
+          <img
+            src="./img/doctors-from-slider/ddoc-olga.jpg"
+            alt="team-person1.1"
+          />
           <p class="doctor-name">Робулец Ольга Григорьевна</p>
           <p class="doctor-descr">Врач нарколог - стаж 22 года.</p>
         </li>
         <li class="doctor-block splide__slide">
-          <img src="./img/doctors-from-slider/ddoc-kost.jpg" alt="team-person1.2" />
+          <img
+            src="./img/doctors-from-slider/ddoc-kost.jpg"
+            alt="team-person1.2"
+          />
           <p class="doctor-name">Богоденко Костянтин Сергiйович</p>
           <p class="doctor-descr">Врач хирург - стаж 8 лет.</p>
         </li>
         <li class="doctor-block splide__slide">
-          <img src="./img/doctors-from-slider/ddoc-elena.jpg" alt="team-person1.3" />
+          <img
+            src="./img/doctors-from-slider/ddoc-elena.jpg"
+            alt="team-person1.3"
+          />
           <p class="doctor-name">Демедюк Елена Викторовна</p>
           <p class="doctor-descr">Медицинский координатор</p>
         </li>
         <li class="doctor-block splide__slide">
-          <img src="./img/doctors-from-slider/ddoc-arthur.jpg" alt="team-person1" />
+          <img
+            src="./img/doctors-from-slider/ddoc-arthur.jpg"
+            alt="team-person1"
+          />
           <p class="doctor-name">Петросян Тигран Артурович</p>
           <p class="doctor-descr">Врач нарколог - стаж 7 лет.</p>
         </li>
         <li class="doctor-block splide__slide">
-          <img src="./img/doctors-from-slider/ddoc-oleg.jpg" alt="team-person2" />
+          <img
+            src="./img/doctors-from-slider/ddoc-oleg.jpg"
+            alt="team-person2"
+          />
           <p class="doctor-name">Бантковский Олег Вячеславович</p>
           <p class="doctor-descr">Врач анастезиолог - стаж 6 лет</p>
         </li>
         <li class="doctor-block splide__slide">
-          <img src="./img/doctors-from-slider/ddoc-maria.jpg" alt="team-person3" />
+          <img
+            src="./img/doctors-from-slider/ddoc-maria.jpg"
+            alt="team-person3"
+          />
           <p class="doctor-name">Коновалова Мария Сергеевна</p>
           <p class="doctor-descr">Медицинский координатор</p>
         </li>
         <li class="doctor-block splide__slide">
-          <img src="./img/doctors-from-slider/ddoc-stas.jpg" alt="team-person4" />
+          <img
+            src="./img/doctors-from-slider/ddoc-stas.jpg"
+            alt="team-person4"
+          />
           <p class="doctor-name">Могучов Станислав Вячеславович</p>
           <p class="doctor-descr">Врач терапевт - стаж 6 лет</p>
         </li>
@@ -515,7 +550,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
   </div>
 
   <div class="google-reviews-slider">
-    <section id="google-carousel" class="splide">
+    <section id="google-carousel" class="google-container splide">
       <div class="splide__track">
         <ul class="splide__list">
           
@@ -741,6 +776,18 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
       <ul class="splide__list">
         
         <li class="latest-news-card splide__slide">
+          <a href="./blog/alkogolna-shizofrenia/">
+            <img
+              class="latest-news-image"
+              src="./img/%d0%b1%d0%bb%d0%be%d0%b3/%d0%b0%d0%bb%d0%ba%d0%be%d0%b3%d0%be%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f%20%d1%88%d0%b8%d0%b7%d0%be%d1%84%d1%80%d0%b5%d0%bd%d0%b8%d1%8f.jpg"
+              alt="Алкогольная шизофрения - определение и понятие"
+            />
+            <h3>Алкогольная шизофрения - определение и понятие</h3>
+            <p class="date">Дата публикации: 12 октября 2025 г.</p>
+          </a>
+        </li>
+        
+        <li class="latest-news-card splide__slide">
           <a href="./blog/alkogolnaia-epilepsia/">
             <img
               class="latest-news-image"
@@ -761,18 +808,6 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
             />
             <h3>Как быстро избавиться от похмелья</h3>
             <p class="date">Дата публикации: 5 октября 2025 г.</p>
-          </a>
-        </li>
-        
-        <li class="latest-news-card splide__slide">
-          <a href="./blog/kak-pomoch-cheloveku-iz-zapoia/">
-            <img
-              class="latest-news-image"
-              src="./img/Kiev%20New/5.jpg"
-              alt="Как помочь человеку выйти из запоя"
-            />
-            <h3>Как помочь человеку выйти из запоя</h3>
-            <p class="date">Дата публикации: 11 мая 2023 г.</p>
           </a>
         </li>
         

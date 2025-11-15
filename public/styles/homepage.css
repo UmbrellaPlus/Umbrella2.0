@@ -1,3 +1,33 @@
+/* Слайдер на главной странице */
+.home-page-slider{
+  width:99vw;
+  display:flex;
+  flex-direction: column;
+}
+.homepage-block{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.homepage-image{
+}
+.homepage-image img{
+  width: 90vw;
+  border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+}
+@media (min-width: 1000px) {
+  .home-page-slider{
+  }
+  .homepage-block{
+    flex-direction: row;
+  }
+  .homepage-image img{
+  }
+
+}
+
+
 /* О клинике */
 
 .about-clinic {
@@ -49,8 +79,9 @@
 }
 @media (min-width: 1000px) {
   .about-clinic {
-    max-width: 70%;
+    max-width: 70vw;
     flex-direction: row;
+    justify-content: space-between;
   }
   .about-clinic > * {
     flex: 1;
@@ -66,7 +97,7 @@
   height: auto;
   background-color: var(--blue);
   padding-bottom: 5vh;
-  max-width: 80%;
+  max-width: 70vw;
   margin: auto;
   border-radius: 10px;
 }

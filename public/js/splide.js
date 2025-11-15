@@ -1,9 +1,20 @@
-//CAROUSEL FOR DOCTORS
+//CAROUSEL FOR HOME PAGE
+
 document.addEventListener("DOMContentLoaded", function () {
-  new Splide("#image-carousel", {
+  new Splide("#homepage_carousel", {
     type: "loop",
     speed: 800,
-    start: number = 1,
+    perPage: 1,
+    autoplay: "play",
+  }).mount();
+});
+
+//CAROUSEL FOR DOCTORS
+document.addEventListener("DOMContentLoaded", function () {
+  new Splide("#doctors-carousel", {
+    type: "loop",
+    speed: 800,
+    start: (number = 1),
     perPage: 3,
     breakpoints: {
       640: {
@@ -19,7 +30,6 @@ document.addEventListener("DOMContentLoaded", function () {
         perPage: 4,
       },
     },
-    pagiantion: false,
   }).mount();
 });
 
@@ -115,7 +125,7 @@ document.addEventListener("DOMContentLoaded", function () {
       },
       1640: {
         perPage: 3,
-      }
+      },
     },
   }).mount();
 });

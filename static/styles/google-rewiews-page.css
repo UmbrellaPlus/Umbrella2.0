@@ -1,4 +1,4 @@
-/* Отзывы как отдельная страница */
+/* Отзывы как отдельная страница */ 
 
 .google-reviews-padding{
     padding:10rem 0 2rem 0;
@@ -6,9 +6,13 @@
 }
 
 /* Блок гугл-рейтинг */
+.google-container{
+    max-width: 70vw;
+    margin: auto;
+}
 .google-rating
 {
-    max-width: 80%;
+    max-width: 70vw;
     margin: auto;
     display:flex;
     justify-content: space-between;
@@ -16,7 +20,7 @@
     border: 1px solid grey;
     padding:0.5rem;
     border-radius: 0.5rem;
-    background-color: whitesmoke;
+    background-color: var(--lightblue);
 }
 .google-stars{
     display: flex;

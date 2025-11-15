@@ -8,6 +8,24 @@ const branch =
   process.env.HEAD ||
   "main";
 
+const homePageNews = [
+  {
+    type: "image",
+    label: "Картинка на ПК версии",
+    name: "imagepc",
+  },
+  {
+    type: "image",
+    label: "Картинка на мобильной версии",
+    name: "imagephone",
+  },
+  {
+    type: "string",
+    label: "Ссылка после нажатия на картинку",
+    name: "link",
+  },
+];
+
 const homePageTemplate = [
   {
     type: "string",
@@ -17,31 +35,6 @@ const homePageTemplate = [
       description:
         "С начала создания сайта название не менялось и его лучше не менять",
     },
-  },
-  {
-    type: "string",
-    label: "Заголовок страницы",
-    name: "homeHeader",
-  },
-  {
-    type: "string",
-    label: "Первая строка",
-    name: "homeText1",
-  },
-  {
-    type: "string",
-    label: "Вторая строка",
-    name: "homeText2",
-  },
-  {
-    type: "string",
-    label: "Третья строка",
-    name: "homeText3",
-  },
-  {
-    type: "image",
-    label: "Первая картинка на странице",
-    name: "image",
   },
   {
     type: "image",
@@ -297,6 +290,27 @@ export default defineConfig({
   // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/schema/
   schema: {
     collections: [
+      //MAIN-PAGE-NEWS
+      {
+        name: "homepagenews_ru",
+        label: "Слайдер на главной странице - RU",
+        path: "content/ru-lang/homepage",
+        match: {
+          exclude: "_index",
+        },
+        fields: [...homePageNews],
+        ui: { allowedActions: { createNestedFolder: false } },
+      },
+      {
+        name: "homepagenews_ua",
+        label: "Слайдер на главной странице - UA",
+        path: "content/ua-lang/homepage",
+        match: {
+          exclude: "_index",
+        },
+        fields: [...homePageNews],
+        ui: { allowedActions: { createNestedFolder: false } },
+      },
       //MAIN-PAGE
       {
         name: "home_ru",
@@ -340,7 +354,7 @@ export default defineConfig({
           include:
             "{cherkasy/**/*,chornomorsk/**/*,chuguev/**/*,dnepr/**/*,kamianske/**/*,kharkiv/**/*,kiev/**/*,lviv/**/*,odessa/**/*,zaporozie/**/*}",
           exclude:
-            "{blog/**/*,directory/**/*,reviews/**/*,services/**/*,services-khymioterapiya/**/*,services-nark/**/*,services-otravlenie/**/*,services-vitamini/**/*,_index,about-us,collaboration,contacts}",
+            "{blog/**/*,directory/**/*,homepage/**/*,reviews/**/*,services/**/*,services-khymioterapiya/**/*,services-nark/**/*,services-otravlenie/**/*,services-vitamini/**/*,_index,about-us,collaboration,contacts}",
         },
         ui: {
           allowedActions: {
@@ -357,7 +371,7 @@ export default defineConfig({
           include:
             "{cherkasy/**/*,chornomorsk/**/*,chuguev/**/*,dnepr/**/*,kamianske/**/*,kharkiv/**/*,kiev/**/*,lviv/**/*,odesa/**/*,zaporozie/**/*}",
           exclude:
-            "{blog/**/*,directory/**/*,reviews/**/*,services/**/*,services-khymioterapiya/**/*,services-nark/**/*,services-otravlenie/**/*,services-vitamini/**/*,_index,about-us,collaboration,contacts}",
+            "{blog/**/*,directory/**/*,homepage/**/*,reviews/**/*,services/**/*,services-khymioterapiya/**/*,services-nark/**/*,services-otravlenie/**/*,services-vitamini/**/*,_index,about-us,collaboration,contacts}",
         },
         ui: {
           allowedActions: {
