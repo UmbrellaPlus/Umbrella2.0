@@ -1,3 +1,12 @@
+---
+tabTitle: Нарколог додому Чугуєв | Umbrella Plus | Від 2199 грн
+title: Нарколог додому Чугуєв
+description: 'Допомога поруч, коли вона потрібна'
+imageText: Нарколог додому Чугуєв
+ratingAvarage: 4.99/5
+rating: '2416'
+reviewType: alk-2
+---
 
 ## Нарколог додому Чугуєв 
 
