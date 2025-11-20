@@ -1,3 +1,14 @@
+---
+tabTitle: Нарколог додому Черкаси | Umbrella Plus | Від 2199 грн
+title: Нарколог додому в Черкасах
+description: 'Відновлення починається вдома: виїзд нарколога у Черкасах'
+image: >-
+  /img/%D0%A7%D0%B5%D1%80%D0%BA%D0%B0%D1%81%D1%81%D1%8B/%D0%9D%D0%B0%D1%80%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%20%D0%BD%D0%B0%20%D0%B4%D0%BE%D0%BC%20%D0%A7%D0%B5%D1%80%D0%BA%D0%B0%D1%81%D1%81%D1%8B.jpg
+imageText: Нарколог додому в Черкасах
+ratingAvarage: 4.99/5
+rating: '3551'
+reviewType: alk-2
+---
 
 ## Нарколог додому Черкаси
 
