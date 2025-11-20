@@ -29,8 +29,8 @@
     align-items: center;
   }
   .city-block img {
-    object-fit: fill;
-    height: auto;
+    object-fit:contain;
+    height: 30vh;
     width: 100%;
     box-shadow: 5px -5px 0px var(--blue);
     border-radius: 0 0 0 10px;

@@ -98,28 +98,6 @@
       </div>
     </main>
 
-    <!-- Наши партнеры -->
-    <div class="partners-carousel-container">
-      <h2>Наши партнеры</h2>
-      <section id="partners-carousel" class="splide">
-        <div class="splide__track">
-          <ul class="partners-block-container splide__list">
-            <li class="partner splide__slide">
-              <img src="/img/partners/partner-synevo.webp" alt="Synevo" />
-            </li>
-            <li class="partner splide__slide">
-              <img src="/img/partners/partner-analitika.webp" alt="Analitika" />
-            </li>
-            <li class="partner splide__slide">
-              <img src="/img/partners/partner-invivo.webp" alt="Invivo" />
-            </li>
-            <li class="partner splide__slide">
-              <img src="/img/partners/partner-smartlab.webp" alt="Smartlab" />
-            </li>
-          </ul>
-        </div>
-      </section>
-    </div>
     <!-- О нашей задаче -->
 
     <div class="about-clinic">
@@ -135,10 +113,8 @@
 
     <!-- Приемущества -->
 
-    {{partial "doctors-slider.html"}}
-
     <div class="benefits">
-      <h2>Наши приемущества</h2>
+      <h2>В 80% случаев хватает одной капельницы, чтобы остановить запой</h2>
       <div class="benefits-сontainer">
         <div class="benefits-block">
           <p class="benefits-blocktitle">
@@ -190,6 +166,8 @@
       </div>
     </div>
 
+    {{partial "doctors-slider.html"}}
+
     <!-- Отзывы -->
     <div style="text-align: center; padding: 1rem">
       <h2>Отзывы о нашей работе</h2>
@@ -201,8 +179,30 @@
       >
       {{partial "reviews-dialog.html"}}
     </div>
-    */}} {{/* Города в которых мы работаем */}} {{partial "cities-carousel.html"
-    .}} {{ partial "latest-news.html" .}} {{partial "contacts.html" . }}
-    {{partial "footer.html" .}}
+    */}} {{/* Города в которых мы работаем */}}
+    <!-- Наши партнеры -->
+    <div class="partners-carousel-container">
+      <h2>Наши партнеры</h2>
+      <section id="partners-carousel" class="splide">
+        <div class="splide__track">
+          <ul class="partners-block-container splide__list">
+            <li class="partner splide__slide">
+              <img src="/img/partners/partner-synevo.webp" alt="Synevo" />
+            </li>
+            <li class="partner splide__slide">
+              <img src="/img/partners/partner-analitika.webp" alt="Analitika" />
+            </li>
+            <li class="partner splide__slide">
+              <img src="/img/partners/partner-invivo.webp" alt="Invivo" />
+            </li>
+            <li class="partner splide__slide">
+              <img src="/img/partners/partner-smartlab.webp" alt="Smartlab" />
+            </li>
+          </ul>
+        </div>
+      </section>
+    </div>
+    {{partial "cities-carousel.html" .}} {{ partial "latest-news.html" .}}
+    {{partial "contacts.html" . }} {{partial "footer.html" .}}
   </body>
 </html>

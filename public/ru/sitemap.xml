@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://umbrella-plus.com.ua/</loc>
-    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
@@ -15,11 +15,8 @@
                 href="https://umbrella-plus.com.ua/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/alkogolna-shizofrenia/</loc>
-    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://umbrella-plus.com.ua/blog/</loc>
-    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
@@ -30,6 +27,12 @@
                 hreflang="ru-UA"
                 href="https://umbrella-plus.com.ua/blog/"
                 />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/blog/sypryg-alkogolik-chto-delat/</loc>
+    <lastmod>2025-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/blog/alkogolna-shizofrenia/</loc>
+    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://umbrella-plus.com.ua/blog/alkogolnaia-epilepsia/</loc>
     <lastmod>2025-10-10T00:00:00+00:00</lastmod>
@@ -61,6 +64,18 @@
                 href="https://umbrella-plus.com.ua/homepage/2/"
                 />
   </url><url>
+    <loc>https://umbrella-plus.com.ua/homepage/3/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/homepage/3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/homepage/3/"
+                />
+  </url><url>
     <loc>https://umbrella-plus.com.ua/homepage/</loc>
     <xhtml:link
                 rel="alternate"
@@ -86,8 +101,6 @@
     <loc>https://umbrella-plus.com.ua/odessa/detox-ot-opiodov-odesa/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/odessa/detox-ot-pregamalinov-odesa/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/ekstreniy-vizov-narkologa-odesa/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/odessa/kapelnica-ot-alkogolia-na-domy-odesa/</loc>
   </url><url>
@@ -909,6 +922,10 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/kharkiv/kodirovka-ot-alkogolia-kharkiv/</loc>
   </url><url>
+    <loc>https://umbrella-plus.com.ua/cherkasy/kodirovka-ot-alkogolia-cherkassy/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/chuguev/kodirovka-ot-alkogolia-chygyev/</loc>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/kiev/kodirovka-ot-alkogolia-kiev/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/services/kodirovanie-ot-alkogolizma-lazerom/</loc>
@@ -938,6 +955,8 @@
     <loc>https://umbrella-plus.com.ua/kiev/kodirovka-ot-alkogolizma-espiarl-kiev/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/services/kapli-midzo/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-odessa/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/zaporozie/kodirovka-ot-alkogolia-disulfiram-zp/</loc>
   </url><url>
@@ -1135,9 +1154,13 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/kharkiv/lechenie-pivnogo-alkogolizma-kharkiv/</loc>
   </url><url>
+    <loc>https://umbrella-plus.com.ua/cherkasy/narkolog-na-dom-cherkassy/</loc>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/zaporozie/narcolog-na-dom-zaporoje/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/kiev/vizov-narkologa-kiev/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/odessa/ekstreniy-vizov-narkologa-odesa/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/kharkiv/vizov-narkologa-kharkov/</loc>
   </url><url>
