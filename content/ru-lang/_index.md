@@ -3,8 +3,9 @@ title: Umbrella Plus | Безопасная наркология
 homeHeader: UMBRELLA PLUS
 homeText1: Лечение алкоголизма и наркомании
 homeText2: Снятие алкогольной/наркотической интоксикации
-homeText3: Выезд нарколога на дом
-image: /img/home-page/main-ru.jpg
+homeText3: Срочный выезд нарколога на дом
+mainpc: /img/MAIN/main-pc-ru.jpg
+mainmob: /img/MAIN/main-mob-ru.jpg
 imageDoctor: /img/main-about.jpg
 doctorName: Робулец Ольга Григорьевна
 doctorDescr: 'ведущий нарколог, специалист с многолетним опытом'

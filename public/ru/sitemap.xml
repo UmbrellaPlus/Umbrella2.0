@@ -744,6 +744,8 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/services/vivod-iz-zapoia-na-domy-umbrellaplus/</loc>
   </url><url>
+    <loc>https://umbrella-plus.com.ua/dnepr/vivod-iz-zapoia-na-domy-dnepr/</loc>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/odessa/vivod-iz-zapoia-na-domu-odesa/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/cherkasy/vivod-iz-zapoia-na-domu-cherkassi/</loc>
@@ -751,8 +753,6 @@
     <loc>https://umbrella-plus.com.ua/chornomorsk/vivod-iz-zapoia-na-domy-chernomorsk/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/lviv/vivod-iz-zapoia-na-domy-lvov/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/dnepr/vivod-iz-zapoia-na-domy-dnepr/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/zaporozie/vivod-iz-zapoia-na-domy-zaporozhye/</loc>
   </url><url>
@@ -980,18 +980,6 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/services/lechenie-alkogolizma/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/dnepr/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/dnepr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/dnepr/"
-                />
-  </url><url>
     <loc>https://umbrella-plus.com.ua/dnepr/lechenie-alkogolizma-dnepr/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/kamianske/</loc>
@@ -1025,6 +1013,18 @@
     <loc>https://umbrella-plus.com.ua/lviv/lechenie-alkogolizma-lviv/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/zaporozie/lechenie-alkogolizma-zaporoje/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/dnepr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/dnepr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/dnepr/"
+                />
   </url><url>
     <loc>https://umbrella-plus.com.ua/zaporozie/</loc>
     <xhtml:link
@@ -1155,6 +1155,8 @@
     <loc>https://umbrella-plus.com.ua/kharkiv/lechenie-pivnogo-alkogolizma-kharkiv/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/cherkasy/narkolog-na-dom-cherkassy/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/chuguev/narcolog-na-dom-chygyev/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/zaporozie/narcolog-na-dom-zaporoje/</loc>
   </url><url>

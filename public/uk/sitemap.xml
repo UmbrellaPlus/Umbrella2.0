@@ -1038,6 +1038,18 @@
                 href="https://umbrella-plus.com.ua/uk/kiev/"
                 />
   </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/dnepr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/dnepr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/dnepr/"
+                />
+  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/cherkasy/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1092,18 +1104,6 @@
                 rel="alternate"
                 hreflang="uk-UA"
                 href="https://umbrella-plus.com.ua/uk/lviv/"
-                />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/dnepr/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/dnepr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/dnepr/"
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kharkiv/lechenie-alkogolizma-kharkiv-ua/</loc>
@@ -1166,6 +1166,8 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kharkiv/lechenie-pivnogo-alkogolizma-kharkiv-ua/</loc>
   </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/cherkasy/narkolog-na-dom-cherkassy-ua/</loc>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/zaporozie/narcolog-na-dom-zaporoje-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kiev/vizov-nark-kiev-ua/</loc>
@@ -1173,6 +1175,8 @@
     <loc>https://umbrella-plus.com.ua/uk/odesa/ekstreniy-vizov-narkologa-odesa/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kharkiv/vizov-narkologa-kharkiv-ua/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/chuguev/narkolig-na-dom-chygyev-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/reviews/</loc>
     <xhtml:link

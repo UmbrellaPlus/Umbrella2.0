@@ -5,7 +5,8 @@ homeHeader: UMBRELLA PLUS
 homeText1: Лікування алкоголізму та наркоманії
 homeText2: Зняття алкогольної/наркотичної інтоксикації
 homeText3: Виїзд нарколога додому
-image: /img/home-page/main-ru.jpg
+mainpc: /img/MAIN/main-pc-ua.jpg
+mainmob: /img/MAIN/main-mob-ua.jpg
 imageDoctor: /img/main-about.jpg
 doctorName: Робулець Ольга Григоріївна
 doctorDescr: 'ведучий нарколог, специаліст з багатолітним досвідом'

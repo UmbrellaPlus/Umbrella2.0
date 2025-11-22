@@ -38,6 +38,16 @@ const homePageTemplate = [
   },
   {
     type: "image",
+    label: "ПК версия картинки 1600x720. Шаблон (psd) есть в img/MAIN",
+    name: "mainpc",
+  },
+  {
+    type: "image",
+    label: "Мобильная версия картинки 1280х1280. Шаблон (psd) есть в img/MAIN",
+    name: "mainmob",
+  },
+  {
+    type: "image",
     label: "Картинка справа от основного текста",
     name: "imageDoctor",
   },

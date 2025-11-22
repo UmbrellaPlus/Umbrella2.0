@@ -51,7 +51,6 @@
     {{partial "sticky-phone.html"}} {{ partial "preheader-ua.html"}} {{ partial
     "header.html"}}
     <main>
-      {{/*
       <div class="hero-text">
         <h1>{{.Params.homeHeader}}<br /></h1>
         <p>
@@ -66,36 +65,39 @@
         </div> -->
       </div>
       <div class="main-image">
-        <img src="{{.Params.image}}" alt="Main-image" />
-      </div>
-      */}}
-      <div class="home-page-slider">
-        <section id="homepage_carousel" class="splide">
-          <div class="splide__track">
-            <ul class="splide__list">
-              {{range where site.RegularPages "Type" "homepage"}}
-              <li class="homepage-block splide__slide">
-                <div class="homepage-image">
-                  <a href="{{.Params.link}}">
-                    <picture>
-                      <source
-                        media="(max-width: 720px)"
-                        srcset="{{.Params.imagephone}}"
-                      />
-                      <img
-                        src="{{.Params.imagepc}}"
-                        alt="pc-version-main"
-                      /> </picture
-                  ></a>
-                </div>
-              </li>
-              {{end}}
-            </ul>
-          </div>
-        </section>
+        <picture>
+          <source media="(max-width: 720px)" srcset="{{.Params.mainmob}}" />
+          <img src="{{.Params.mainpc}}" alt="pc-version-main" />
+        </picture>
       </div>
     </main>
 
+    <div class="discounts-block-slider">
+      <h2>Акції та пропозиції</h2>
+      <section id="homepage_carousel" class="splide">
+        <div class="splide__track">
+          <ul class="splide__list">
+            {{range where site.RegularPages "Type" "homepage"}}
+            <li class="discounts-block splide__slide">
+              <div class="discounts-image">
+                <a href="{{.Params.link}}">
+                  <picture>
+                    <source
+                      media="(max-width: 720px)"
+                      srcset="{{.Params.imagephone}}"
+                    />
+                    <img
+                      src="{{.Params.imagepc}}"
+                      alt="pc-version-main"
+                    /> </picture
+                ></a>
+              </div>
+            </li>
+            {{end}}
+          </ul>
+        </div>
+      </section>
+    </div>
     <!-- О нашей задаче -->
 
     <div class="about-clinic">
@@ -167,7 +169,8 @@
     <div style="text-align: center; padding: 1rem">
       <h2>Вiдгуки про нашу роботу</h2>
     </div>
-    {{partial "google-reviews.html" . }}     <!-- Наши партнеры -->
+    {{partial "google-reviews.html" . }}
+    <!-- Наши партнеры -->
     <div class="partners-carousel-container">
       <h2>Наші партнери</h2>
       <section id="partners-carousel" class="splide">
@@ -189,9 +192,8 @@
         </div>
       </section>
     </div>
-    
-    {{partial "cities-carousel-ua.html"}}
-    {{ partial "latest-news-ua.html" .}} {{partial "contacts-ua.html" . }}
-    {{partial "footer.html" .}}
+
+    {{partial "cities-carousel-ua.html"}} {{ partial "latest-news-ua.html" .}}
+    {{partial "contacts-ua.html" . }} {{partial "footer.html" .}}
   </body>
 </html>

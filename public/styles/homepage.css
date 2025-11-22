@@ -1,28 +1,29 @@
 /* Слайдер на главной странице */
-.home-page-slider{
+.discounts-block-slider{
   width:99vw;
   display:flex;
   flex-direction: column;
+  padding: 1rem 0;
 }
-.homepage-block{
+.discounts-block{
   display:flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
-.homepage-image{
+.discounts-image{
 }
-.homepage-image img{
+.discounts-image img{
   width: 90vw;
   border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
 }
 @media (min-width: 1000px) {
-  .home-page-slider{
+  .discounts-block-slider{
   }
-  .homepage-block{
+  .discounts-block{
     flex-direction: row;
   }
-  .homepage-image img{
+  .discounts-image img{
   }
 
 }

@@ -30,7 +30,7 @@ main {
   color: whitesmoke;
   text-align: center;
 }
-.main-image {
+.main-image picture{
   padding: 1em;
   display: flex;
   align-items: center;
@@ -48,7 +48,7 @@ main {
     flex-direction: row;
   }
   .main-image img {
-    width: 25em;
+    width: 60em;
   }
   .hero-vid {
     padding: 1rem;
