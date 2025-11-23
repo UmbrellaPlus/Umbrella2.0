@@ -14,7 +14,7 @@
             <p>{{.Title}}</p>
             <img src="/img/rating.png" alt="" />
           </div>
-          <p class="reviews-text">{{.Content}}</p>
+          <div class="reviews-text">{{.Content}}</div>
         </li>
         {{end}} {{end}} {{else if eq .Params.reviewType "alk-2"}} {{with
         site.GetPage "reviewsLocal/Alcoholism-type-2"}} {{range .RegularPages}}
@@ -23,7 +23,7 @@
             <p>{{.Title}}</p>
             <img src="/img/rating.png" alt="" />
           </div>
-          <p class="reviews-text">{{.Content}}</p>
+          <div class="reviews-text">{{.Content}}</div>
         </li>
         {{end}} {{end}} {{else if eq .Params.reviewType "kod-2"}} {{with
         site.GetPage "reviewsLocal/Kodirovanie-type-2"}} {{range .RegularPages}}
@@ -32,7 +32,7 @@
             <p>{{.Title}}</p>
             <img src="/img/rating.png" alt="" />
           </div>
-          <p class="reviews-text">{{.Content}}</p>
+          <div class="reviews-text">{{.Content}}</div>
         </li>
         {{end}} {{end}} {{else if eq .Params.reviewType "kod-2"}} {{with
         site.GetPage "reviewsLocal/Kodirovanie-type-2"}} {{range .RegularPages}}
@@ -41,7 +41,7 @@
             <p>{{.Title}}</p>
             <img src="/img/rating.png" alt="" />
           </div>
-          <p class="reviews-text">{{.Content}}</p>
+          <div class="reviews-text">{{.Content}}</div>
         </li>
         {{end}} {{end}} {{else if eq .Params.reviewType "vit"}} {{with
         site.GetPage "reviewsLocal/Vitaminy"}} {{range .RegularPages}}
@@ -50,7 +50,7 @@
             <p>{{.Title}}</p>
             <img src="/img/rating.png" alt="" />
           </div>
-          <p class="reviews-text">{{.Content}}</p>
+          <div class="reviews-text">{{.Content}}</div>
         </li>
         {{end}} {{end}} 
         {{else if eq .Params.reviewType "detox"}} {{with
@@ -60,7 +60,7 @@
             <p>{{.Title}}</p>
             <img src="/img/rating.png" alt="" />
           </div>
-          <p class="reviews-text">{{.Content}}</p>
+          <div class="reviews-text">{{.Content}}</div>
         </li>
         {{end}} {{end}}
         {{else if eq .Params.reviewType "otravl"}} {{with
@@ -70,7 +70,7 @@
             <p>{{.Title}}</p>
             <img src="/img/rating.png" alt="" />
           </div>
-          <p class="reviews-text">{{.Content}}</p>
+          <div class="reviews-text">{{.Content}}</div>
         </li>
         {{end}} {{end}}
         {{end}}
