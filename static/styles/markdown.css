@@ -34,7 +34,7 @@ h2::after {
   text-decoration: underline;
 }
 .markdown p {
-  line-height: 1.5rem;
+  line-height: 1.6rem;
   padding: 1rem;
 }
 .markdown img {
@@ -48,11 +48,12 @@ h2::after {
 .markdown ol, ul{
   align-self: flex-start;
   padding:1rem 2rem;
-  list-style:inside;
+  list-style:none;
 }
 .markdown ol li, ul li{
   margin-bottom: 1rem;
   padding:0rem 1rem;
+  line-height: 1.6rem;
 }
 .table-container {
   width: 100%;

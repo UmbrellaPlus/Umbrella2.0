@@ -17,8 +17,9 @@ main {
   color: whitesmoke;
 }
 .hero-text {
+  height:auto;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   flex-direction: column;
   gap: 1rem;
@@ -47,6 +48,9 @@ main {
 @media (min-width: 1000px) {
   main {
     flex-direction: row;
+  }
+  .hero-text {
+  min-height:20rem;
   }
   .main-image img { 
   }

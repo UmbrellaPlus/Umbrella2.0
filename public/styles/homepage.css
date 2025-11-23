@@ -58,6 +58,7 @@
 }
 @media (max-width: 1000px) {
   .discounts-block-slider{
+      width:95%;
   }
   .discounts-block{
     flex-direction: row;
