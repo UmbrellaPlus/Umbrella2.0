@@ -1,6 +1,6 @@
 ---
 title: Umbrella Plus | Безопасная наркология
-homeHeader: UMBRELLA PLUS
+homeHeader: Лечение запоя с гарантией
 homeText1: Лечение алкоголизма и наркомании
 homeText2: Снятие алкогольной/наркотической интоксикации
 homeText3: Срочный выезд нарколога на дом

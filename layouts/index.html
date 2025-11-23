@@ -52,7 +52,7 @@
     "header.html"}}
 
     <main>
-        <div class="hero-text">
+        <div class="index-hero-text">
           <h1>{{.Params.homeHeader}}</h1>
           <p>
             {{.Params.homeText1}} <br />
@@ -65,9 +65,9 @@
           <p>Открыты с 2019 года. Более 5000 довольных клиентов.</p>
         </div> -->
         </div>
-        <div class="main-image">
+        <div class="index-main-image"> 
           <picture>
-            <source media="(max-width: 720px)" srcset="{{.Params.mainmob}}" />
+            <source media="(max-width: 1000px)" srcset="{{.Params.mainmob}}" />
             <img src="{{.Params.mainpc}}" alt="pc-version-main" />
           </picture>
         </div>
