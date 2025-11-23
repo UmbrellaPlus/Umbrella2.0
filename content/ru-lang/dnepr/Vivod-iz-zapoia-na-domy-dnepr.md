@@ -2,8 +2,7 @@
 tabTitle: Вывод из запоя на дому Днепр | Umbrella Plus | От 2199 грн
 title: Вывод из запоя на дому в Днепре
 description: Ваш первый шаг к трезвости — один звонок!
-image: >-
-  /img/%D0%94%D0%BD%D0%B5%D0%BF%D1%80%20new/%D0%92%D1%8B%D0%B2%D0%BE%D0%B4%20%D0%B8%D0%B7%20%D0%B7%D0%B0%D0%BF%D0%BE%D1%8F%20%D0%BD%D0%B0%20%D0%B4%D0%BE%D0%BC%D1%83%20%D0%94%D0%BD%D0%B5%D0%BF%D1%80.jpg
+image: /img/Днепр/89aa62cbc6ac1c69813bb5e95072aff4_highX.jpg
 imageText: Вывод из запоя на дому Днепр
 ratingAvarage: 4.99/5
 rating: '7652'
