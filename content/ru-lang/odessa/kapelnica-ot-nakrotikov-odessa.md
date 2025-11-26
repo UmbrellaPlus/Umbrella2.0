@@ -2,7 +2,7 @@
 tabTitle: Капельница от наркотиков Одесса | Umbrella Plus | От 2499 грн
 title: Капельница от наркотиков в Одессе
 description: Быстрый старт к трезвой жизни и полному восстановлению
-image: /img/Odessa new/Капельница от наркотиков Одесса.jpg
+image: /img/Odessa-new/kn.jpg
 imageText: Капельница от наркотиков в Одессе
 ratingAvarage: 4.99/5
 rating: '5827'

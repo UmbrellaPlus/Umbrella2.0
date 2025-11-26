@@ -2,8 +2,7 @@
 tabTitle: Детоксикація від Лірики (прегабаліну) | Umbrella Plus | Від 2599 грн
 title: Детоксикація від Лірики (прегабаліну)
 description: Повертаємо життя без залежності
-image: >-
-  /img/%D0%A3%D1%81%D0%BB%D1%83%D0%B3%D0%B8/%D0%BB%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D1%80%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8/%D0%B4%D0%B5%D1%82%D0%BE%D0%BA%D1%81%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BE%D1%82%20%D0%BB%D0%B8%D1%80%D0%B8%D0%BA%D0%B8.jpg
+image: /img/services/lech-nark/detox-lyrica.jpg
 imageText: Детоксикація від Лірики (прегабаліну)
 ratingAvarage: 4.99/5
 rating: '6211'

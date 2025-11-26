@@ -2,7 +2,7 @@
 tabTitle: Услуги Лечения Алкоголизма Черноморск | Umbrella Plus | Безопасная Наркология
 title: Лечение Алкоголизма Черноморск
 description: Umbrella Plus | Безопасная Наркология
-image: /img/chernomorsc/черн.jpg
+image: /img/chernomorsc/chern.jpg
 imageText: Услуги Лечения Алкоголизма Черноморск
 ratingAvarage: 4.98/5
 rating: '3012'

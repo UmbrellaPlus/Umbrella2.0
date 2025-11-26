@@ -2,7 +2,7 @@
 tabTitle: Лікування пивного алкоголізму у Дніпрі | Umbrella Plus | Від 1999 грн
 title: Лікування пивного алкоголізму Дніпро
 description: Пивний алкоголізм не вирок наркологи завжди поруч
-image: /img/Днепр/a8cc08b685085578915a978aff1cb573_high.jpg
+image: /img/dnepr/a8cc08b685085578915a978aff1cb573_high.jpg
 imageText: Лікування пивного алкоголізму Дніпро
 ratingAvarage: 4.98/5
 rating: '1423'

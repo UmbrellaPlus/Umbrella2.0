@@ -3,7 +3,7 @@ tabTitle: Как быстро избавиться от похмелья | Umbre
 title: Как быстро избавиться от похмелья
 description: Советы Врача Нарколога
 date: 2025-10-05T00:00:00.000Z
-image: /img/блог/Как быстро избавиться от похмелья.jpg
+image: /img/blog/kak-izbav-ot-pohmelia.jpg
 imageText: Как быстро избавиться от похмелья
 ratingAvarage: 4.98/5
 rating: '1522'

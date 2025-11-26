@@ -2,7 +2,7 @@
 tabTitle: Лечение женского алкоголизма во Львове Umbrella Plus | От 1999 грн
 title: Лечение женского алкоголизма во Львове
 description: Umbrella Plus Безопасная Наркология
-image: /img/Lvov new/7.jpg
+image: /img/Lvov-new/7.jpg
 imageText: Лечение женского алкоголизма во Львове
 ratingAvarage: 4.98/5
 rating: '2088'

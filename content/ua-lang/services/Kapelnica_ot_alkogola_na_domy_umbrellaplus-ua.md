@@ -2,8 +2,7 @@
 tabTitle: Крапельниця від алкоголю вдома | Umbrella Plus | Від 2199 грн
 title: Крапельниця від алкоголю вдома
 description: Швидке відновлення - не виходячи з дому
-image: >-
-  /img/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5%20%D0%9B%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B0%D0%BB%D0%BA%D0%BE%D0%B3%D0%BE%D0%BB%D0%B8%D0%B7%D0%BC%D0%B0%20/2L4A0360%20(1).jpg
+image: /img/services/kap-ot-alk.jpg
 imageText: Крапельниця від алкоголю вдома UmbrellaPlus
 ratingAvarage: 4.98/5
 rating: '18412'

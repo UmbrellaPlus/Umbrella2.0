@@ -2,7 +2,7 @@
 tabTitle: Детоксикация от амфетамина | Umbrella Plus | От 2599 грн
 title: Детоксикация от амфетамина
 description: Старт новой жизни
-image: /img/Услуги/лечение наркомании/детоксикация от амфетамина.jpg
+image: /img/services/lech-nark/detox-amp.jpg
 imageText: Детоксикация от амфетамина
 ratingAvarage: 4.99/5
 rating: '8544'

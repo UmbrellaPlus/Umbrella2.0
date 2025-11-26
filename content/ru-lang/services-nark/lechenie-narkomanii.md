@@ -2,7 +2,7 @@
 tabTitle: Лечение наркомании | Umbrella Plus | От 2599 грн
 title: Лечение наркомании
 description: Верни контроль над своей жизнью
-image: /img/Услуги/лечение наркомании/лечение наркомании.jpg
+image: /img/services/lech-nark/lech-nark.jpg
 imageText: Лечение наркомании Umbrella Plus
 ratingAvarage: 4.98/5
 rating: '9782'

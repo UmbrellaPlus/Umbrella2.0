@@ -2,7 +2,7 @@
 tabTitle: Капельница от наркотиков Чугуев | Umbrella Plus | От 2499 грн
 title: Капельница от наркотиков Чугуев
 description: Быстрое и безопасное очищение организма
-image: /img/Чугуев/Капельница от наркотиков Чугуев.jpg
+image: /img/chuguev/kn.jpg
 imageText: Капельница от наркотиков Чугуев
 ratingAvarage: 4.99/5
 rating: '2211'

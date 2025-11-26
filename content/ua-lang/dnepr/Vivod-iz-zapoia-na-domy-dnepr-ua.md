@@ -3,7 +3,7 @@ tabTitle: Виведення із запою на дому Дніпро | Umbrel
 title: Виведення із запою на дому Дніпро
 description: Ваш перший крок до тверезості – один дзвінок!
 image: >-
-  /img/%D0%94%D0%BD%D0%B5%D0%BF%D1%80%20new/%D0%92%D1%8B%D0%B2%D0%BE%D0%B4%20%D0%B8%D0%B7%20%D0%B7%D0%B0%D0%BF%D0%BE%D1%8F%20%D0%BD%D0%B0%20%D0%B4%D0%BE%D0%BC%D1%83%20%D0%94%D0%BD%D0%B5%D0%BF%D1%80.jpg
+  /img/dnepr/eacda62b31540f651e9eb1df758bfe27_high.jpg
 imageText: Виведення із запою на дому Дніпро
 ratingAvarage: 4.99/5
 rating: '7652'

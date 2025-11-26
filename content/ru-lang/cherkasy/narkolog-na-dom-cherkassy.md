@@ -2,7 +2,7 @@
 tabTitle: Нарколог на дом Черкассы | Umbrella Plus | От 2199 грн
 title: Нарколог на дом в Черкассах
 description: 'Восстановление начинается дома: выезд нарколога в Черкассах'
-image: /img/Черкассы/Нарколог на дом Черкассы.jpg
+image: /img/cherkasy/nark.jpg
 imageText: Нарколог на дом в Черкассах
 ratingAvarage: 4.99/5
 rating: '3551'

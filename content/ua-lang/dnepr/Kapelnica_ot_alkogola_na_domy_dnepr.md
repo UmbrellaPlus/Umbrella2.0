@@ -2,7 +2,7 @@
 tabTitle: Крапельниця від алкоголю вдома Дніпро | Umbrella Plus | Від 1999 грн
 title: Крапельниця від алкоголю вдома Дніпро
 description: Позбавляємо від похмілля легко та ефективно
-image: /img/Днепр new/271b8ff6b3c5604ba7cf01e3bd8f26ef_high1111111.jpg
+image: /img/dnepr-new/2233.jpg
 imageText: Крапельниця від алкоголю вдома Дніпро
 ratingAvarage: 4.98/5
 rating: '2876'

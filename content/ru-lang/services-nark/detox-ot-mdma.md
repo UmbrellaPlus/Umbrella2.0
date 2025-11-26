@@ -2,7 +2,7 @@
 tabTitle: Детоксикация от Экстази (MDMA) | Umbrella Plus | От 2599 грн
 title: Детоксикация от Экстази (MDMA)
 description: Путь к чистой жизни
-image: /img/Услуги/лечение наркомании/детоксикация от мдма.jpg
+image: /img/services/lech-nark/detox-mdma.jpg
 imageText: Детоксикация от Экстази (MDMA)
 ratingAvarage: 4.99/5
 rating: '9532'

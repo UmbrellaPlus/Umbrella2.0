@@ -2,7 +2,7 @@
 tabTitle: Лечение алкоголизма и наркомании в Одессе | Umbrella Plus | От 2199 грн
 title: Лечение алкоголизма и наркомании в Одессе
 description: Наркологи с опытом работы от пяти лет – гарантия на все услуги!
-image: /img/Odessa new/Лечение алкоголизма и наркомании Одесса.jpg
+image: /img/Odessa-new/lech.jpg
 imageText: Лечение алкоголизма и наркомании в Одессе
 ratingAvarage: 4.98/5
 rating: '7622'

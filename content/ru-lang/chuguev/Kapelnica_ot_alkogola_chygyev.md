@@ -2,7 +2,7 @@
 tabTitle: Капельница от алкоголя Чугуев | Umbrella Plus | От 2199 грн
 title: Капельница от алкоголя Чугуев
 description: Снимаем похмелье за один сеанс
-image: /img/Чугуев/Капельница от алкоголя Чугуев.jpg
+image: /img/chuguev/ka.jpg
 imageText: Капельница от алкоголя Чугуев
 ratingAvarage: 4.99/5
 rating: '3321'

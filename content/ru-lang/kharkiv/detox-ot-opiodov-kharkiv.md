@@ -4,7 +4,7 @@ tabTitle: >-
   2499 грн
 title: Детоксикация от опиоидов в Харькове
 description: 'Очистим организм, вернём силу и надежду'
-image: /img/Харьков Новое/detox-ot-opiodov.jpg
+image: /img/kharkov-new/detox-ot-opiodov.jpg
 imageText: Детоксикация от опиоидов в Харькове
 ratingAvarage: 4.98/5
 rating: '2902'

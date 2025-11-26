@@ -3,7 +3,7 @@ tabTitle: Крапельниця від алкоголю Одеса | Umbrella P
 title: Крапельниця від алкоголю в Одесі
 description: Ставимо на ноги швидко. Безпечно. Анонімно.
 image: >-
-  /img/Odessa%20new/%D0%9A%D0%B0%D0%BF%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BE%D1%82%20%D0%B0%D0%BB%D0%BA%D0%BE%D0%B3%D0%BE%D0%BB%D1%8F%20%D0%9E%D0%B4%D0%B5%D1%81%D1%81%D0%B0.jpg
+  /img/Odessa-new/ka.jpg
 imageText: Крапельниця від алкоголю Одеса
 ratingAvarage: 4.99/5
 rating: '5121'

@@ -3,7 +3,7 @@ layout: services
 tabTitle: Послуги з лікування наркоманії | Umbrella Plus | Безпечна Наркологія
 title: Лікування наркоманії
 description: UmbrellaPlus — повертаємо життя без наркотиків
-image: /img/%D0%A3%D1%81%D0%BB%D1%83%D0%B3%D0%B8/narkolog.jpg
+image: /img/services/narkolog.jpg
 imageText: Лікування наркоманії UmbrellaPlus
 ratingAvarage: 4.98/5
 rating: '14522'

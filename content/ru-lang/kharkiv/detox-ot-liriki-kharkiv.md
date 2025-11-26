@@ -2,7 +2,7 @@
 tabTitle: Детоксикация от Лирики (прегабалинов) в Харькове | Umbrella Plus | От 2499 грн
 title: Детоксикация от Лирики Харьков
 description: Очисти организм – открой путь к новой жизни
-image: /img/Харьков Новое/detox-ot-liriki-kharkiv.jpg
+image: /img/kharkov-new/detox-ot-liriki-kharkiv.jpg
 imageText: Детоксикация от Лирики Харьков
 ratingAvarage: 4.97/5
 rating: '2588'

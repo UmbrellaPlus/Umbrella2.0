@@ -2,7 +2,7 @@
 tabTitle: Подшивка от алкоголизма во Львове | Umbrella Plus | От 6999 грн
 title: Подшивка от алкоголизма во Львове
 description: Umbrella Plus Безопасная Наркология
-image: /img/Lvov new/1234.jpg
+image: /img/Lvov-new/1234.jpg
 imageText: Подшивка от алкоголизма во Львове
 ratingAvarage: 4.99/5
 rating: '2118'

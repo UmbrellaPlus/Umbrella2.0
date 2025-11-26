@@ -2,7 +2,7 @@
 tabTitle: Вывод из запоя Днепр | Umbrella Plus | От 1699 грн
 title: Вывод из запоя Днепр
 description: UmbrellaPlus — шаг к новой трезвой жизни
-image: /img/Днепр/89aa62cbc6ac1c69813bb5e95072aff4_highX.jpg
+image: /img/dnper/89aa62cbc6ac1c69813bb5e95072aff4_highX.jpg
 imageText: Вывод из запоя Днепр
 ratingAvarage: 4.97/5
 rating: '2511'

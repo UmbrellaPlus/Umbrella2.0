@@ -2,7 +2,7 @@
 tabTitle: Кодування від алкоголізму уколом Дисульфірам | Umbrella Plus | Від 4999 грн
 title: Кодування від алкоголізму уколом Дисульфірам
 description: Umbrella Plus Безпечна Наркологія
-image: /img/Kiev New/8.jpg
+image: /img/Kiev-New/8.jpg
 imageText: Кодування від алкоголізму уколом Дисульфірам
 ratingAvarage: 4.98/5
 rating: '4231'

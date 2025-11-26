@@ -2,7 +2,7 @@
 tabTitle: Виведення із запою Дніпро | Umbrella Plus | Від 1699 грн
 title: Виведення із запою Дніпро
 description: UmbrellaPlus - крок до нового тверезого життя
-image: /img/Днепр/89aa62cbc6ac1c69813bb5e95072aff4_highX.jpg
+image: /img/dnepr/89aa62cbc6ac1c69813bb5e95072aff4_highX.jpg
 imageText: Виведення із запою Дніпро
 ratingAvarage: 4.97/5
 rating: '2511'

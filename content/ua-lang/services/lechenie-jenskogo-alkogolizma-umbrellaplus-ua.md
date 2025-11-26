@@ -2,8 +2,7 @@
 tabTitle: Лікування жіночого алкоголізму | Umbrella Plus | Від 2199 грн
 title: Лікування жіночого алкоголізму
 description: Комплексний підхід для відновлення здоров'я та життя
-image: >-
-  /img/%D0%A3%D1%81%D0%BB%D1%83%D0%B3%D0%B8/%D0%9B%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE.jpg
+image: /img/services/lech-genskogo.jpg
 imageText: Лікування жіночого алкоголізму
 ratingAvarage: 4.97/5
 rating: '12734'

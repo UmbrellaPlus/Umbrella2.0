@@ -2,7 +2,7 @@
 tabTitle: Детоксикация от метадона | Umbrella Plus | От 2599 грн
 title: Лечение метадоновой зависимости
 description: Комплексный подход к детоксикации и восстановлению
-image: /img/Услуги/лечение наркомании/Лечение метадоновой зависимости.jpg
+image: /img/services/lech-nark/detox-metadon.jpg
 imageText: Детоксикация от метадона
 ratingAvarage: 4.99/5
 rating: '4532'

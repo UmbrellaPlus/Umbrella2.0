@@ -2,7 +2,7 @@
 tabTitle: Крапельниця від алкоголю Львів | Umbrella Plus | Від 1999 грн
 title: Крапельниця від алкоголю Львів
 description: UmbrellaPlus Безпечна Наркологія
-image: /img/Lvov new/lvov2.jpg
+image: /img/Lvov-new/lvov2.jpg
 imageText: Крапельниця від алкоголю Львів
 ratingAvarage: 4.98/5
 rating: '5111'

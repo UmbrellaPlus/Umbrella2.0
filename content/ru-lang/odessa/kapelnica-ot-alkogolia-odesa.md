@@ -2,7 +2,7 @@
 tabTitle: Капельница от алкоголя Одесса | Umbrella Plus | От 2199 грн
 title: Капельница от алкоголя Одесса
 description: Ставим на ноги быстро. Безопасно. Анонимно.
-image: /img/Odessa new/Капельница от алкоголя Одесса.jpg
+image: /img/Odessa-new/ka.jpg
 imageText: Капельница от алкоголя Одесса
 ratingAvarage: 4.99/5
 rating: '5121'

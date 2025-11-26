@@ -2,7 +2,7 @@
 tabTitle: Виведення із запою | Umbrella Plus | Від 2199 грн
 title: Виведення із запою
 description: 'Не відкладайте рішення, викличте нарколога анонімно'
-image: /img/%D0%A3%D1%81%D0%BB%D1%83%D0%B3%D0%B8/vivod-iz-zapoi.jpg
+image: /img/services/vivod-iz-zapoi.jpg
 imageText: Виведення із запою - Виведення з алкогольної інтоксикації
 ratingAvarage: 4.98/5
 rating: '17789'

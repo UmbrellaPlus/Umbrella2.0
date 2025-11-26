@@ -2,7 +2,7 @@
 tabTitle: Кодирование от Алкоголизма Лазером | Umbrella Plus | От 9999 грн
 title: Кодирование от алкоголизма лазером
 description: Мы можем остановить зависимость навсегда!
-image: /img/Услуги/кодирование от алкоголизма лазером.jpg
+image: /img/services/kod-lazerom.jpg
 imageText: Кодирование от алкоголизма лазером
 ratingAvarage: 4.98/5
 rating: '11266'

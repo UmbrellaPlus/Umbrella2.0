@@ -2,7 +2,7 @@
 tabTitle: Виведення із запою у Львові | Umbrella Plus | Від 1999 грн
 title: Виведення із запою Львів
 description: Не чекайте ранку - зупини запій вже сьогодні
-image: /img/Lvov new/2.jpg
+image: /img/Lvov-new/2.jpg
 imageText: Виведення із запою Львів
 ratingAvarage: 4.98/5
 rating: '4835'

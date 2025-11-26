@@ -2,7 +2,7 @@
 tabTitle: Кодування від алкоголізму уколом Еспераль | Umbrella Plus Львів | Від 6999 грн
 title: Кодування від алкоголізму уколом Еспераль
 description: Umbrella Plus Безпечна Наркологія
-image: /img/Lvov new/123.jpg
+image: /img/Lvov-new/123.jpg
 imageText: Кодування від алкоголізму уколом Еспераль
 ratingAvarage: 4.98/5
 rating: '2311'

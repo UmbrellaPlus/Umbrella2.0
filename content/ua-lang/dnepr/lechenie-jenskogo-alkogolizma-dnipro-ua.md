@@ -2,7 +2,7 @@
 tabTitle: Лікування жіночого алкоголізму у Дніпрі | Umbrella Plus | Від 1999 грн
 title: Лікування жіночого алкоголізму у Дніпрі
 description: Шлях до нового життя з турботою та розумінням
-image: /img/blog/400b3d7e1c6513b615a757c02e6da49eeeeeeeeeeeeeeeeeee_high.jpg
+image: /img/blog/kak-izbav-ot-pohmelia.jpg
 imageText: Лікування жіночого алкоголізму у Дніпрі
 ratingAvarage: 4.99/5
 rating: '4023'

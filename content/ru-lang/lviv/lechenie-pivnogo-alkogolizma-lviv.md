@@ -2,7 +2,7 @@
 tabTitle: Лечение пивного алкоголизма Львов | Umbrella Plus | От 1999 грн
 title: Лечение пивного алкоголизма Львов
 description: Umbrella Plus Безопасная Наркология
-image: /img/Lvov new/6.jpg
+image: /img/Lvov-new/6.jpg
 imageText: Лечение пивного алкоголизма Львов
 ratingAvarage: 4.97/5
 rating: '3211'

@@ -2,7 +2,7 @@
 tabTitle: Детоксикация от Псилоцибина (грибы) | Umbrella Plus | От 2599 грн
 title: Детоксикация от Псилоцибина (грибы)
 description: Забота о вашем теле и психике
-image: /img/Услуги/лечение наркомании/детоксикация от псилоцибина.jpg
+image: /img/services/lech-nark/detox-psylocibin.jpg
 imageText: Детоксикация от Псилоцибина (грибы)
 ratingAvarage: 4.99/5
 rating: '5327'

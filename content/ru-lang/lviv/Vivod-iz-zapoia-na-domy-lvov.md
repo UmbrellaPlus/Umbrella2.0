@@ -2,7 +2,7 @@
 tabTitle: Вывод из запоя на дому во Львове | Umbrella Plus | От 1999 грн
 title: Вывод из запоя на дому во Львове
 description: Быстрая помощь рядом — вывод из запоя без госпитализации
-image: /img/Lvov new/24.jpg
+image: /img/Lvov-new/24.jpg
 imageText: Вывод из запоя на дому во Львове
 ratingAvarage: 4.98/5
 rating: '4265'

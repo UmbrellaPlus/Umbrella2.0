@@ -2,7 +2,7 @@
 tabTitle: Лечение женского алкоголизма в Киеве | Umbrella Plus | От 2700 грн
 title: Лечение женского алкоголизма Киев
 description: Ваше здоровье на первом месте!
-image: /img/Kiev New/a9a9212b8120e16988307b26fb8e9ce3_high.jpg
+image: /img/Kiev-New/a9a9212b8120e16988307b26fb8e9ce3_high.jpg
 imageText: Лечение женского алкоголизма Киев
 ratingAvarage: 4.98/5
 rating: '5764'

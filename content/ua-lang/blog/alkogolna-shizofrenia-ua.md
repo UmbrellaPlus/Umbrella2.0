@@ -3,8 +3,7 @@ tabTitle: Алкогольна шизофренія | Umbrella Plus | Запис
 title: Алкогольна шизофренія - визначення та поняття
 description: 'Грань між пияцтвом і божевіллям — тонше, ніж здається.'
 date: 2025-10-12T00:00:00.000Z
-image: >-
-  /img/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%B0%D0%BB%D0%BA%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%88%D0%B8%D0%B7%D0%BE%D1%84%D1%80%D0%B5%D0%BD%D0%B8%D1%8F.jpg
+image: /img/blog/alk-shiz.jpg
 imageText: Алкогольна шизофренія - визначення та поняття
 ratingAvarage: 4.97/5
 rating: '1199'

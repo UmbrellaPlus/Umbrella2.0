@@ -2,7 +2,7 @@
 tabTitle: Вывод из запоя Харьков | Umbrella Plus | От 2199 грн
 title: Вывод из запоя Харьков
 description: Первый шаг к трезвой жизни
-image: /img/985c67f2ffd5f19bff94517cdea21f0e_high (1).jpg
+image: /img/kharkov-new/vz.jpg
 imageText: Вывод из запоя Харьков
 ratingAvarage: 4.98/5
 rating: '4902'

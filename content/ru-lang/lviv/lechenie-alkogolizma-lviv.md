@@ -2,7 +2,7 @@
 tabTitle: Лечение алкоголизма во Львове | Umbrella Plus | От 2200 грн
 title: Лечение алкоголизма во Львове
 description: Umbrella Plus Безопасная Наркология
-image: /img/Lvov new/6b51b28022f208bc82a73e3646ea26f4_high.jpg
+image: /img/Lvov-new/6b51b28022f208bc82a73e3646ea26f4_high.jpg
 imageText: Лечение алкоголизма во Львове
 ratingAvarage: 4.98/5
 rating: '2193'

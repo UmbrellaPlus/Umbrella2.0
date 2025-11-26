@@ -4,7 +4,7 @@ tabTitle: >-
   Umbrella Plus | Від 9999 грн
 title: Підшивка від алкоголізму Київ
 description: Надійний бар'єр на шляху до тверезості
-image: /img/Kiev%20New/podhivka-ot-alko-kiev.jpg
+image: /img/Kiev-New/podhivka-ot-alko-kiev.jpg
 imageText: Підшивка від алкоголізму Київ
 ratingAvarage: 4.99/5
 rating: '7855'

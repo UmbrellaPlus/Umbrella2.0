@@ -2,7 +2,7 @@
 tabTitle: Капельница от алкоголя Черкассы | Umbrella Plus | От 2199 грн
 title: Капельница от алкоголя в Черкассах
 description: Быстро восстановим силы и здоровье после алкоголя
-image: /img/Черкассы/Капельница от алкоголя Черкассы.jpg
+image: /img/cherkasy/ka.jpg
 imageText: Капельница от алкоголя Черкассы
 ratingAvarage: 4.99/5
 rating: '2942'

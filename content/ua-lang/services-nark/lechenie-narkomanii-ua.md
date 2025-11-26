@@ -2,8 +2,7 @@
 tabTitle: Лікування наркоманії | Umbrella Plus | Від 2599 грн
 title: Лікування наркоманії
 description: Поверни контроль над своїм життям
-image: >-
-  /img/%D0%A3%D1%81%D0%BB%D1%83%D0%B3%D0%B8/%D0%BB%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D1%80%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8/%D0%BB%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D1%80%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8.jpg
+image: /img/services/lech-nark/lech-nark.jpg
 imageText: Лікування наркоманії
 ratingAvarage: 4.98/5
 rating: '9782'

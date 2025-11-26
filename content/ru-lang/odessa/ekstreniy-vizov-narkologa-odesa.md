@@ -2,7 +2,7 @@
 tabTitle: Нарколог на дом Одесса | Umbrella Plus | От 2199 грн
 title: Нарколог на дом Одесса
 description: Забота о здоровье — без промедлений
-image: /img/Odessa new/Экстренный вызов нарколога Одесса.jpg
+image: /img/Odessa-new/emerg.jpg
 imageText: Нарколог на дом Одесса
 ratingAvarage: 4.99/5
 rating: '4832'

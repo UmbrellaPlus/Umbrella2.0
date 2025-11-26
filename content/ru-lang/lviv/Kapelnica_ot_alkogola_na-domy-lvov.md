@@ -2,7 +2,7 @@
 tabTitle: Капельница от алкоголя на дому во Львове | Umbrella Plus | От 1999 грн
 title: Капельница от алкоголя на дому во Львове
 description: UmbrellaPlus Безопасная Наркология
-image: /img/Lvov new/5.jpg
+image: /img/Lvov-new/5.jpg
 imageText: Капельница от алкоголя на дому во Львове
 ratingAvarage: 4.98/5
 rating: '5923'

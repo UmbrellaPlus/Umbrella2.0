@@ -2,7 +2,7 @@
 tabTitle: Кодирование по методу Довженко (Гипнозом) | Umbrella Plus | От 14999 грн
 title: Кодировка по методу Довженко
 description: Психотерапевтический путь к трезвости и свободе
-image: /img/Услуги/kod-ot-alkogolia-po-dovgenko.jpg
+image: /img/sevices/kod-ot-alkogolia-po-dovgenko.jpg
 imageText: Кодировка по методу Довженко
 ratingAvarage: 4.98/5
 rating: '11602'

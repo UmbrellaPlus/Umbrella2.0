@@ -2,7 +2,7 @@
 tabTitle: 'Лікування пивного алкоголізму Дніпро: Комплексний підхід від UmbrellaPlus'
 title: Лікування пивного алкоголізму Дніпро UmbrellaPlus
 description: Зроби перший крок до здорового та тверезого життя
-image: /img/Днепр/d1778e10e212e741d60fe49d41067e3d_high.jpg
+image: /img/dnepr/d1778e10e212e741d60fe49d41067e3d_high.jpg
 imageText: Лікування пивного алкоголізму Дніпро
 ratingAvarage: 4.96/5
 rating: '1633'

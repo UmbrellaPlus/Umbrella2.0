@@ -2,7 +2,7 @@
 tabTitle: Кодування від алкоголізму у Львові | Umbrella Plus | Від 4999 грн
 title: Кодування від алкоголізму у Львові
 description: UmbrellaPlus Безпечна Наркологія
-image: /img/Lvov new/а4.jpg
+image: /img/Lvov-new/а4.jpg
 imageText: Кодування від алкоголізму у Львові
 ratingAvarage: 4.98/5
 rating: '3123'

@@ -2,7 +2,7 @@
 tabTitle: Консультация нарколога | Umbrella Plus | От 1499 грн
 title: Консультация нарколога
 description: Первый шаг к выздоровлению
-image: /img/%D0%A3%D1%81%D0%BB%D1%83%D0%B3%D0%B8/narkolog.jpg
+image: /img/services/lech-nark/lech-nark.jpg
 imageText: Консультация нарколога
 ratingAvarage: 4.99/5
 rating: '22823'

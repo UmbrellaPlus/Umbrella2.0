@@ -2,7 +2,7 @@
 tabTitle: Виведення із запою вдома у Львові | Umbrella Plus | Від 1999 грн
 title: Виведення із запою вдома у Львові
 description: Швидка допомога поруч — виведення із запою без госпіталізації
-image: /img/Lvov new/24.jpg
+image: /img/Lvov-new/24.jpg
 imageText: Виведення із запою вдома у Львові
 ratingAvarage: 4.98/5
 rating: '4265'

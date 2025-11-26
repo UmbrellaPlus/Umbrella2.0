@@ -2,7 +2,7 @@
 tabTitle: Детоксикация после химиотерапии | Umbrella Plus | От 2199 грн
 title: Детоксикация после химиотерапии
 description: Шаг к восстановлению и новой жизни
-image: /img/Услуги/детоксикация после химиотерапии.jpg
+image: /img/services/detox-khymia.jpg
 imageText: Детоксикация после химиотерапии
 ratingAvarage: 4.99/5
 rating: '9782'

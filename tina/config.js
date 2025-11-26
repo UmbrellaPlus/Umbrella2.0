@@ -1,5 +1,5 @@
 import { defineConfig, FieldDescription } from "tinacms";
-import { tinaTableTemplate } from "tinacms";
+import { useTina } from 'tinacms/dist/react';
 
 // Your hosting provider likely exposes this as an environment variable
 const branch =
@@ -36,6 +36,10 @@ const homePageTemplate = [
         "С начала создания сайта название не менялось и его лучше не менять",
     },
   },
+  { type: "string", label: "Заголовок на странице", name: "homeHeader" },
+  { type: "string", label: "Первая строчка", name: "homeText1" },
+  { type: "string", label: "Вторая строчка", name: "homeText2" },
+  { type: "string", label: "Третья строчка", name: "homeText3" },
   {
     type: "image",
     label: "ПК версия картинки 1600x720. Шаблон (psd) есть в img/MAIN",

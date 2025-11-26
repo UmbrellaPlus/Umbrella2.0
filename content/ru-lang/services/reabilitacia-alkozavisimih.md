@@ -2,7 +2,7 @@
 tabTitle: Реабилитация Алкозависимых | Umbrella Plus | От 14999 грн
 title: Реабилитация Алкозависимых
 description: Проверенный метод лечения зависимости
-image: /img/Услуги/реабилитация алкоголизма.jpg
+image: /img/services/rehub-alk.jpg
 imageText: Реабилитация Алкозависимых
 ratingAvarage: 4.98/5
 rating: '7543'

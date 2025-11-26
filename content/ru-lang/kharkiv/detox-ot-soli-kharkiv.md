@@ -2,7 +2,7 @@
 tabTitle: 'Детоксикация от соли (α-PVP, MDPV, Мефедрон) | Umbrella Plus | От 2499 грн'
 title: 'Детоксикация от соли (α-PVP, MDPV, Мефедрон)'
 description: Вывод токсинов при употреблении солей
-image: /img/Харьков Новое/kap-ot-soli-kharkiv.jpg
+image: /img/kharkov-new/kap-ot-soli-kharkiv.jpg
 imageText: 'Детоксикация от соли (α-PVP, MDPV, Мефедрон)'
 ratingAvarage: 4.98/5
 rating: '2498'

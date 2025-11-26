@@ -2,7 +2,7 @@
 tabTitle: Кодирование от алкоголизма Черкассы | Umbrella Plus | От 6000 грн
 title: Кодирование от алкоголизма в Черкассах
 description: Трезвость под контролем врачей
-image: /img/Черкассы/Кодирование от алкоголизма Черкассы.jpg
+image: /img/cherkasy/kod.jpg
 imageText: Кодирование от алкоголизма в Черкассах
 ratingAvarage: 4.99/5
 rating: '3902'

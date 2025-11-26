@@ -2,7 +2,7 @@
 tabTitle: Вывод из запоя во Львове | Umbrella Plus | От 1999 грн
 title: Вывод из запоя Львов
 description: Не ждите утра — останови запой уже сегодня
-image: /img/Lvov new/2.jpg
+image: /img/Lvov-new/2.jpg
 imageText: Вывод из запоя Львов
 ratingAvarage: 4.98/5
 rating: '4835'

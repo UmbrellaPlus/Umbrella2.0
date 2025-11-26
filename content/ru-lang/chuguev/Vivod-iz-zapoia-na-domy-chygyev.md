@@ -2,7 +2,7 @@
 tabTitle: Вывод из запоя на дому Чугуев | Umbrella Plus | От 2199 грн
 title: Вывод из запоя на дому Чугуев
 description: Нарколог. Быстро. Анонимно. 24/7.
-image: /img/Чугуев/Вывод из запоя на дому Чугуев.jpg
+image: /img/chuguev/vz.jpg
 imageText: Вывод из запоя на дому Чугуев
 ratingAvarage: 4.99/5
 rating: '2902'

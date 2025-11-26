@@ -2,7 +2,7 @@
 tabTitle: Капельница при пищевом отравлении | Umbrella Plus | От 2199 грн
 title: Капельница при пищевом отравлении
 description: 'Быстрое облегчение, очищение и поддержка'
-image: /img/Услуги/капельница при пищевом отравлении.jpg
+image: /img/services/kap-food-poison.jpg
 imageText: Капельница при пищевом отравлении
 ratingAvarage: 4.99/5
 rating: '15622'

@@ -2,7 +2,7 @@
 tabTitle: Капельница от наркотиков Киев | Umbrella Plus | От 3000 грн
 title: Капельница от наркотиков Киев
 description: Первый шаг к новой жизни
-image: /img/Kiev-new10.09.2025/Капельница от наркотиков Киев.jpg
+image: /img/Kiev-new10.09.2025/nark.jpg
 imageText: Капельница от наркотиков Киев
 ratingAvarage: 4.98/5
 rating: '7862'

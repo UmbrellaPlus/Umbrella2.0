@@ -2,7 +2,7 @@
 tabTitle: Нарколог на дом Чугуев | Umbrella Plus | От 2199 грн
 title: Нарколог на дом в Чугуеве
 description: 'Помощь рядом, когда она нужна'
-image: /img/Чугуев/Нарколог на дом Чугуев.jpg
+image: /img/chuguev/narkdom.jpg
 imageText: Нарколог на дом в Чугуеве
 ratingAvarage: 4.99/5
 rating: '2416'

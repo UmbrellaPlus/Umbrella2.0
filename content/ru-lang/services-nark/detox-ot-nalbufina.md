@@ -2,7 +2,7 @@
 tabTitle: Детоксикация от налбуфина | Umbrella Plus | От 2599 грн
 title: Детоксикация от налбуфина
 description: Безопасный путь к свободе и здоровью!
-image: /img/Услуги/лечение наркомании/лечение налбуфиновой зависимости.jpg
+image: /img/services/lech-nark/detox-nalbufin.jpg
 imageText: Детоксикация от налбуфина
 ratingAvarage: 4.99/5
 rating: '5622'

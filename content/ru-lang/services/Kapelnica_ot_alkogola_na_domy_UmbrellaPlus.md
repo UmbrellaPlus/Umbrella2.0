@@ -2,7 +2,7 @@
 tabTitle: Капельница от алкоголя на дому | Umbrella Plus | От 2199 грн
 title: Капельница от алкоголя на дому
 description: Быстрое восстановление — не выходя из дома
-image: /img/Главное Лечение алкоголизма /2L4A0360 (1).jpg
+image: /img/services/vz-na-domu.jpg
 imageText: Капельница от алкоголя на дому
 ratingAvarage: 4.98/5
 rating: '18412'

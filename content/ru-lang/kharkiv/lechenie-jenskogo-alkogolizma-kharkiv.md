@@ -2,7 +2,7 @@
 tabTitle: Лечение женского алкоголизма Харьков | Umbrella Plus | От 2199 грн
 title: Лечение женского алкоголизма в Харькове
 description: Женское здоровье – без зависимости!
-image: /img/Харьков Новое/lechenie-jenskogo-alk-kharkiv.jpg
+image: /img/kharkov-new/lechenie-jenskogo-alk-kharkiv.jpg
 imageText: Лечение женского алкоголизма Харьков
 ratingAvarage: 4.97/5
 rating: '2521'
