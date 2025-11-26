@@ -5,7 +5,7 @@ tabTitle: >-
 title: Алкоголизм выходного дня
 description: Что если «отдых» становится проблемой?
 date: 2025-11-25T00:00:00.000Z
-image: /img/blog/alkogolizm-vihodnogo-dna.jpg
+image: /img/blog/alkogolizm-vihodnogo-dnia.jpg
 imageText: Алкоголизм выходного дня
 ratingAvarage: 4.99/5
 rating: '722'
