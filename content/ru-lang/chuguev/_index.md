@@ -2,7 +2,7 @@
 tabTitle: Лечение алкоголизма и наркомании Чугуев | Umbrella Plus | От 2199 грн
 title: Лечение алкоголизма и наркомании Чугуев
 description: Опытные наркологи с практикой более 5 лет
-image: /img/Чугуев/Лечение алкоголизма и наркомании Чугуев.jpg
+image: /img/chuguev/lechenie-alkogolizma-i-narkomanii-chuguev (1).jpg
 imageText: Лечение алкоголизма и наркомании Чугуев
 ratingAvarage: 4.99/5
 rating: '8902'
