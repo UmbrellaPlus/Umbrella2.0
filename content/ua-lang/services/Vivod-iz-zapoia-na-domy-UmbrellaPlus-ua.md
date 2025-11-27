@@ -2,7 +2,7 @@
 tabTitle: Виведення із запою вдома | Umbrella Plus | Від 2199 грн
 title: Виведення із запою вдома
 description: Тверезість починається сьогодні
-image: /img/services/vivod-iz-zapoi.jpg
+image: /img/services/vivod-iz-zapoia-na-domy.jpg
 imageText: Виведення із запою вдома
 ratingAvarage: 4.98/5
 rating: '17311'
