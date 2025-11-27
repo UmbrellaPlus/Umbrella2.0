@@ -2,7 +2,7 @@
 tabTitle: Консультація нарколога | Umbrella Plus | Від 1499 грн
 title: Консультація нарколога
 description: Перший крок до одужання
-image: /img/services/narkolog.jpg
+image: /img/services/konsultacia-narkologa.jpg
 imageText: Консультація нарколога
 ratingAvarage: 4.99/5
 rating: '22823'
