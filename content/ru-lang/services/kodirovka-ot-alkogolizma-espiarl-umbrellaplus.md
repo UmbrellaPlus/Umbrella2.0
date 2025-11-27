@@ -2,7 +2,7 @@
 tabTitle: Кодирование от алкоголизма уколом Эспераль | Umbrella Plus | От 7999 грн
 title: Кодирование от алкоголизма уколом Эспераль
 description: Шанс на трезвую и счастливую жизнь
-image: /img/services/kod-esperal.jpg
+image: /img/services/kod-ot-alkogolia-espiral.jpg
 imageText: Кодирование от алкоголизма уколом Эспераль
 ratingAvarage: 4.98/5
 rating: '11441'
