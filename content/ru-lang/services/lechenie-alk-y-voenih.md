@@ -2,7 +2,7 @@
 tabTitle: Анонимное лечение алкоголизма у военных | Umbrella Plus | От 2199 грн
 title: Лечение алкоголизма у военных
 description: Скидки на все услуги для ВСУ 13-30%
-image: /img/services/lech-alk-u-voennih.jpg
+image: /img/services/lechenia-ot-alkogolizma-voenim.jpg
 imageText: Анонимное лечение алкоголизма у военных
 ratingAvarage: 4.98/5
 rating: '11966'
