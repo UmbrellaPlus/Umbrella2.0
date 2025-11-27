@@ -2,7 +2,7 @@
 tabTitle: Капли Мидзо — Кодирование от алкоголизма | Umbrella Plus | От 1499 грн
 title: 'Кодирование от алкоголизма: Капли Мидзо'
 description: Современный и эффективный «трезвый барьер»
-image: /img/services/kod-midzo.jpg
+image: /img/services/kapli-midzo.jpg
 imageText: 'Кодирование от алкоголизма: Капли Мидзо'
 ratingAvarage: 4.98/5
 rating: '7564'
