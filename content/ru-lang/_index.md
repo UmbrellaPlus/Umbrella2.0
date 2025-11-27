@@ -8,7 +8,7 @@ mainpc: /img/MAIN/main-pc-ru.jpg
 mainmob: /img/MAIN/main-mob-ru.jpg
 imageDoctor: /img/main-about.jpg
 doctorName: Робулец Ольга Григорьевна
-doctorDescr: 'ведущий нарколог, специалист с многолетним опытом'
+doctorDescr: 'Ведущий нарколог, специалист с многолетним опытом'
 ---
 
 ## Помогаем обрести новую жизнь
