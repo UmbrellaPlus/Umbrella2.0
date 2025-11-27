@@ -4,6 +4,9 @@ title: Виведення із запою Одеса
 description: Ми допомагаємо повернути тверезість
 image: /img/Odessa-new/vivod-iz-zapoia-odessa.jpg
 imageText: Виведення із запою Одеса
+ratingAvarage: 4.99/5
+rating: '6211'
+reviewType: alk-2
 ---
 
 ## Виведення із запою Одеса
