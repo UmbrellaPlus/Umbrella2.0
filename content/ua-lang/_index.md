@@ -9,7 +9,7 @@ mainpc: /img/MAIN/main-pc-ua.jpg
 mainmob: /img/MAIN/main-mob-ua.jpg
 imageDoctor: /img/main-about.jpg
 doctorName: Робулець Ольга Григоріївна
-doctorDescr: 'ведучий нарколог, специаліст з багатолітним досвідом'
+doctorDescr: 'Ведучий нарколог, специаліст з багатолітним досвідом'
 ---
 
 ## Допомагаємо знайти нове життя
