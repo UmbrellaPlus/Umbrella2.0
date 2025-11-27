@@ -2,7 +2,7 @@
 tabTitle: Кодування від Алкоголізму Лазером | Umbrella Plus | Від 9999 грн
 title: Кодування від алкоголізму Лазером
 description: Ми можемо зупинити залежність назавжди!
-image: /img/services/kod-lazerom.jpg
+image: /img/services/kodirovka-ot-alkogolia-lazerom.jpg
 imageText: Кодування від Алкоголізму Лазером
 ratingAvarage: 4.98/5
 rating: '11266'
