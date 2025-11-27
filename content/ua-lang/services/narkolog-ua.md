@@ -2,7 +2,7 @@
 tabTitle: Екстрений виклик нарколога додому | Umbrella Plus | Від 2199 грн
 title: Екстрений виклик нарколога додому
 description: Допомога поряд. Конфіденційно. Ефективно.
-image: /img/services/narkolog.jpg
+image: /img/services/vizov-narkologa-na-dom.jpg
 imageText: Екстрений виклик нарколога додому
 ratingAvarage: 4.99/5
 rating: '21464'
