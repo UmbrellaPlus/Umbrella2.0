@@ -2,7 +2,7 @@
 tabTitle: Кодування за методом Довженка (Гіпноз) | Umbrella Plus | Від 14999 грн
 title: Кодування за методом Довженка
 description: Психотерапевтичний шлях до тверезості та свободи
-image: /img/sevices/kod-ot-alkogolia-po-dovgenko.jpg
+image: /img/services/kod-po-dovjenko.jpg
 imageText: Кодування за методом Довженка
 ratingAvarage: 4.98/5
 rating: '11602'
