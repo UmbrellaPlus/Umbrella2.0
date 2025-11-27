@@ -2,7 +2,7 @@
 tabTitle: Лікування пивного алкоголізму | Umbrella Plus | Від 2199 грн
 title: Лікування пивного алкоголізму
 description: Важливо зробити перший крок
-image: /img/services/lech-pivnogo-alk.jpg
+image: /img/services/lechenie-pivnogo-alkogolizma.jpg
 imageText: Лікування пивного алкоголізму
 ratingAvarage: 4.99/5
 rating: '14322'
