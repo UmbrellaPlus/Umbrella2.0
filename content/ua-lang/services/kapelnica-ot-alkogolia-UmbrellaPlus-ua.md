@@ -2,7 +2,7 @@
 tabTitle: Крапельниця від алкоголю | Umbrella Plus | Від 2199 грн
 title: Крапельниця від алкоголю
 description: Швидкий спосіб прибрати будь-яке похмілля
-image: /img/%D0%A3%D1%81%D0%BB%D1%83%D0%B3%D0%B8/narkolog.jpg
+image: /img/services/kapelnica-ot-alk.jpg
 imageText: Крапельниця від алкоголю
 ratingAvarage: 4.98/5
 rating: '15923'
