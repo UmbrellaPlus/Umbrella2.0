@@ -2,7 +2,7 @@
 tabTitle: Краплі Мідзо - Кодування від алкоголізму | Umbrella Plus | Від 1499 грн
 title: 'Кодування від алкоголізму: Краплі Мідзо'
 description: Сучасний та ефективний «тверезий бар'єр»
-image: /img/services/kod-midzo.jpg
+image: /img/services/kapli-midzo.jpg
 imageText: 'Кодування від алкоголізму: Краплі Мідзо'
 ratingAvarage: 4.98/5
 rating: '7564'
