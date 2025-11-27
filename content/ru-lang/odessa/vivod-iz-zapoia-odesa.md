@@ -1,3 +1,13 @@
+---
+tabTitle: Вывод из запоя Одесса | Umbrella Plus | От 2199 грн
+title: Вывод из запоя Одесса
+description: Мы помогаем вернуть трезвость
+image: /img/Odessa-new/vivod-iz-zapoia-odessa.jpg
+imageText: Вывод из запоя Одесса
+ratingAvarage: 4.99/5
+rating: '6211'
+reviewType: alk-2
+---
 
 ## Вывод из запоя Одесса
 
