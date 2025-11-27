@@ -2,7 +2,7 @@
 tabTitle: Лечение алкоголизма | Umbrella Plus | От 2199 грн
 title: Лечение алкоголизма
 description: Трезвость начинается здесь
-image: /img/services/lech-alk.jpg
+image: /img/services/lechenie-alkogolizma (2).jpg
 imageText: Лечение алкоголизма
 ratingAvarage: 4.98/5
 rating: '19283'
