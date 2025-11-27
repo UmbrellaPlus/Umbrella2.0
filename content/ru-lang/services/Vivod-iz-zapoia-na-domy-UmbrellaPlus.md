@@ -2,7 +2,7 @@
 tabTitle: Вывод из запоя на дому | Umbrella Plus | От 2199 грн
 title: Вывод из запоя на дому
 description: Трезвость начинается сегодня
-image: /img/services/vivod-iz-zapoi.jpg
+image: /img/services/vivod-iz-zapoia-na-domy.jpg
 imageText: Вывод из запоя на дому
 ratingAvarage: 4.98/5
 rating: '17311'
