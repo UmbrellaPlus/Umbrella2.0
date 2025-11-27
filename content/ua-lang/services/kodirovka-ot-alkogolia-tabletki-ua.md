@@ -2,7 +2,7 @@
 tabTitle: Кодування від алкоголізму таблетками | Umbrella Plus | Від 1499 грн
 title: Кодування від алкоголізму таблетками
 description: Перший крок до контролю за залежністю
-image: /img/services/kod-tabletki.jpg
+image: /img/services/kod-tabletko.jpg
 imageText: Кодування від алкоголізму таблетками
 ratingAvarage: 4.98/5
 rating: '17531'
