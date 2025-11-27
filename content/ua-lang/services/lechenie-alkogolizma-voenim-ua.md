@@ -2,7 +2,7 @@
 tabTitle: Анонімне лікування алкоголізму у військових | Umbrella Plus | Від 2199 грн
 title: Лікування алкоголізму у військових
 description: Знижки на всі послуги для ЗСУ 13-30%
-image: /img/services/lech-alk-u-voennih.jpg
+image: /img/services/lechenia-ot-alkogolizma-voenim.jpg
 imageText: Анонімне лікування алкоголізму у військових
 ratingAvarage: 4.98/5
 rating: '11966'
