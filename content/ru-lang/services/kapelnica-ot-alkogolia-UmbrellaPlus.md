@@ -2,7 +2,7 @@
 tabTitle: Капельница от алкоголя | Umbrella Plus | От 2199 грн
 title: Капельница от алкоголя
 description: Быстрый способ убрать любое похмелье
-image: /img/servies/kap-ot-alk.jpg
+image: /img/services/kapelnica-ot-alk.jpg
 imageText: Капельница от алкоголя UmbrellaPlus
 ratingAvarage: 4.98/5
 rating: '15923'
