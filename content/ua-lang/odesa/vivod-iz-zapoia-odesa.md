@@ -1,3 +1,10 @@
+---
+tabTitle: Виведення із запою Одеса | Umbrella Plus | Від 2199 грн
+title: Виведення із запою Одеса
+description: Ми допомагаємо повернути тверезість
+image: /img/Odessa-new/vivod-iz-zapoia-odessa.jpg
+imageText: Виведення із запою Одеса
+---
 
 ## Виведення із запою Одеса
 
