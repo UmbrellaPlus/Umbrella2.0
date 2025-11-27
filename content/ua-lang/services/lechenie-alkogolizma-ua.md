@@ -2,7 +2,7 @@
 tabTitle: Лікування алкоголізму | Umbrella Plus | Від 2199 грн
 title: Лікування алкоголізму
 description: Тверезість починається тут
-image: /img/services/lech-alk.jpg
+image: /img/services/lechenie-alkogolizma%20(2).jpg
 imageText: Лікування алкоголізму
 ratingAvarage: 4.98/5
 rating: '9283'
