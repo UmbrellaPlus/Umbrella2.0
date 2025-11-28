@@ -4,6 +4,9 @@ title: Вывод из запоя Чугуев
 description: Ваш трезвый старт начинается здесь
 image: /img/chuguev/vivod-iz-zapoia-chygyev (2).jpg
 imageText: Вывод из запоя Чугуев
+ratingAvarage: 4.99/5
+rating: '3654'
+reviewType: alk-2
 ---
 
 ## Вывод из запоя Чугуев
