@@ -1,3 +1,10 @@
+---
+tabTitle: Вывод из запоя Чугуев | Umbrella Plus | От 2199 грн
+title: Вывод из запоя Чугуев
+description: Ваш трезвый старт начинается здесь
+image: /img/chuguev/vivod-iz-zapoia-chygyev (2).jpg
+imageText: Вывод из запоя Чугуев
+---
 
 ## Вывод из запоя Чугуев
 
