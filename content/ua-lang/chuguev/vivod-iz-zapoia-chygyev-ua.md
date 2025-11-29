@@ -1,3 +1,13 @@
+---
+tabTitle: Виведення з запою Чугуїв | Umbrella Plus | Від 2199 грн
+title: Виведення з запою Чугуїв
+description: Ваш тверезий старт починається тут
+image: /img/chuguev/vivod-iz-zapoia-chygyev%20(2).jpg
+imageText: Виведення з запою Чугуїв
+ratingAvarage: 4.99/5
+rating: '3654'
+reviewType: alk-2
+---
 
 ## Виведення з запою Чугуїв
 
