@@ -1,3 +1,13 @@
+---
+tabTitle: Лікування алкоголізму Одеса | Umbrella Plus | Від 2199 грн
+title: 'Лікування алкоголізму Одеса '
+description: Безпечне лікування. Стійкий результат
+image: /img/Odessa-new/lechenie-alk-odessa.jpg
+imageText: 'Лікування алкоголізму Одеса '
+ratingAvarage: 4.99/5
+rating: '7214'
+reviewType: alk-2
+---
 
 ## Лікування алкоголізму Одеса
 
