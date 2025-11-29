@@ -2,6 +2,7 @@
 tabTitle: Лечение алкоголизма Одесса | Umbrella Plus | От 2199 грн
 title: Лечение алкоголизма в Одессе
 description: Безопасное лечение. Устойчивый результат
+image: /img/Odessa-new/lechenie-alk-odessa.jpg
 imageText: Лечение алкоголизма в Одессе
 ratingAvarage: 4.99/5
 rating: '7214'
