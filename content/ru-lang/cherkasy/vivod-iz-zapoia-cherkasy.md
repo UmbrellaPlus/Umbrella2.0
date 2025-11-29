@@ -1,5 +1,12 @@
 ---
+tabTitle: Вывод из запоя Черкассы | Umbrella Plus | От 2199 грн
+title: Вывод из запоя Черкассы
+description: 'Безопасно, быстро, с заботой о вашем здоровье'
 image: /img/cherkasy/vivod-iz-zapoia.jpg
+imageText: Вывод из запоя Черкассы
+ratingAvarage: 4.99/5
+rating: '4271'
+reviewType: alk-2
 ---
 
 ## Вывод из запоя Черкассы
