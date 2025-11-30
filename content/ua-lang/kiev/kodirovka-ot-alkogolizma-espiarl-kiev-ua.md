@@ -2,7 +2,7 @@
 tabTitle: Кодування від алкоголізму уколом Еспераль Київ | Umbrella Plus | Від 8000 грн
 title: Кодування від алкоголізму уколом Еспераль Київ
 description: Ваш надійний щит на шляху до тверезості!
-image: /img/Kiev-new10.09.2025/kod-ot-alkg-espiral-kiev.jpg
+image: /img/Kiev-new10.09.2025/kod-ot-alk-espiral-kiev.jpg
 imageText: Кодування від алкоголізму уколом Еспераль Київ
 ratingAvarage: 4.99/5
 rating: '7623'
