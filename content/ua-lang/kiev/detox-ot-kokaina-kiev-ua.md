@@ -2,7 +2,7 @@
 tabTitle: Детоксикація від кокаїну у Києві | Umbrella Plus | Від 3000 грн
 title: Детоксикація від кокаїну у Києві
 description: Повернемо сили та спокій
-image: /img/Kiev-new10.09.2025/detox-ot-kokaina-kiev.jpg
+image: /img/Kiev-new10.09.2025/detox-ot-kokaina.jpg
 imageText: Детоксикація від кокаїну у Києві
 ratingAvarage: 4.98/5
 rating: '6612'
