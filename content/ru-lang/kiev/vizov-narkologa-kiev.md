@@ -3,7 +3,7 @@ tabTitle: Нарколог на дом Киев | Umbrella Plus | От 2700 гр
 title: Нарколог на дом Киев
 description: Анонимно и безопасно
 image: /img/Kiev-new10.09.2025/vizov-nark-kiev.jpg
-imageText: Пивной алкоголизм
+imageText: Нарколог на дом Киев
 ratingAvarage: 4.98/5
 rating: '10632'
 reviewType: alk-1
