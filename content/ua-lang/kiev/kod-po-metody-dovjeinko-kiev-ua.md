@@ -2,7 +2,7 @@
 tabTitle: Кодування за методом Довженка Київ | Umbrella Plus | Від 14999 грн
 title: Кодування за методом Довженка Київ
 description: 'Без таблеток та уколів: кодування Гіпнозом'
-image: /img/Kiev-new10.09.2025/kod-po-dovgenko-kiev.jpg
+image: /img/Kiev-new10.09.2025/kod-po-dovjenko-kiev.jpg
 imageText: Кодування за методом Довженка Київ
 ratingAvarage: 4.98/5
 rating: '5463'
