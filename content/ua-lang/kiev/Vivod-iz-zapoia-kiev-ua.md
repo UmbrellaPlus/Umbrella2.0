@@ -2,7 +2,7 @@
 tabTitle: Виведення з запою Київ | Umbrella Plus | Від 2700 грн
 title: Виведення із запою Київ
 description: Тверезість починається сьогодні
-image: /img/Kiev-new10.09.2025/vivod-iz-zapoa-kiev.jpg
+image: /img/Kiev-new10.09.2025/vivod-zi-zapoia-kiv.jpg
 imageText: Виведення із запою Київ
 ratingAvarage: 4.98/5
 rating: '5214'
