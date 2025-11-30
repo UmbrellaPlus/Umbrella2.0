@@ -2,7 +2,7 @@
 tabTitle: Лікування алкоголізму та наркоманії у Харкові | Umbrella Plus | Від 2199 грн
 title: Лікування алкоголізму та наркоманії в Харкові
 description: Наркологи з досвідом роботи від 5 років – гарантія на всі послуги!
-image: /img/kharkov-new/vz.jpg
+image: /img/kharkov-new/lech-alk-nark.jpg
 imageText: Лікування алкоголізму та наркоманії в Харкові
 ratingAvarage: 4.98/5
 rating: '6211'
