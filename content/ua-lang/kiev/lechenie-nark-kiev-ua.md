@@ -2,7 +2,7 @@
 tabTitle: Лікування наркоманії Київ | Umbrella Plus | Від 3000 грн
 title: Лікування наркоманії Київ
 description: Ми поряд - Вихід є
-image: /img/Kiev-new10.09.2025/lechenie-nark-keiv-ru.jpg
+image: /img/Kiev-new10.09.2025/lechenie-nark-kiev.jpg
 imageText: Лікування наркоманії Київ
 ratingAvarage: 4.99/5
 rating: '7671'
