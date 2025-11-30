@@ -2,7 +2,7 @@
 tabTitle: Лечение алкоголизма и наркомании Киев | Umbrella Plus | От 2700 грн
 title: Лечение алкоголизма и наркомании Киев
 description: Наркологи с опытом работы от пяти лет – гарантия на все услуги!
-image: /img/Kiev-new10.09.2025/lech.jpg
+image: /img/Kiev-new10.09.2025/lech-alk-i-nark-kiev.jpg
 imageText: Лечение алкоголизма и наркомании Киев
 ratingAvarage: 4.98/5
 rating: '11324'
