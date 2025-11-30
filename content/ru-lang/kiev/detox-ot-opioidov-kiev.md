@@ -2,7 +2,7 @@
 tabTitle: Детоксикация от метадона (опиоидов) Киев | Umbrella Plus | От 3000 грн
 title: Детоксикация от метадона (опиоидов) Киев
 description: Наркотик не управляет тобой — выход есть
-image: /img/Kiev-new10.09.2025/detox-ot-metadona-kiev.jpg
+image: /img/Kiev-new10.09.2025/detox-ot-metadona.jpg
 imageText: Детоксикация от метадона (опиоидов) Киев
 ratingAvarage: 4.98/5
 rating: '5755'
