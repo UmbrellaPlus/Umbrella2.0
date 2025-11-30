@@ -2,7 +2,7 @@
 tabTitle: Лікування алкоголізму та наркоманії Київ | Umbrella Plus | Від 2700 грн
 title: Лікування алкоголізму та наркоманії Київ
 description: Наркологи з досвідом роботи від 5 років – гарантія на всі послуги!
-image: /img/Kiev-new10.09.2025/lech.jpg
+image: /img/Kiev-new10.09.2025/lech-alk-i-nark-kiev.jpg
 imageText: Лікування алкоголізму та наркоманії Київ
 ratingAvarage: 4.98/5
 rating: '11324'
