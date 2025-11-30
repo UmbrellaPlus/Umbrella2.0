@@ -50,7 +50,7 @@ main {
     flex-direction: row;
   }
   .hero-text {
-  min-height:20rem;
+  min-height:auto;
   }
   .main-image img { 
   }

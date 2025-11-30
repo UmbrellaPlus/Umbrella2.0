@@ -5,18 +5,21 @@
       <ul class="splide__list">
         {{ range first 3 (where .Site.RegularPages "Type" "blog") }}
         <li class="latest-news-card splide__slide">
-          <a href="{{ .RelPermalink }}">
-            <img
-              class="latest-news-image"
-              src="{{.Params.image}}"
-              alt="{{.Params.imageText}}"
-            />
-            <h3>{{ .Title }}</h3>
-            <p class="date">
-              Дата публікації: {{ .Date | time.Format ":date_long" }}
-            </p>
-          </a>
+          <p>
+            <a href="{{ .RelPermalink }}">
+              <img
+                class="latest-news-image"
+                src="{{.Params.image}}"
+                alt="{{.Params.imageText}}"
+              />
+              <p class="latest-news-title"><b>{{ .Title }}</b></p>
+              <p class="date">
+                Дата публікації: {{ .Date | time.Format ":date_long" }}
+              </p>
+            </a>
+          </p>
         </li>
+
         {{ end }}
       </ul>
     </div>
