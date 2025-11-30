@@ -2,7 +2,7 @@
 tabTitle: Лікування жіночого алкоголізму у Києві | Umbrella Plus | Від 2700 грн
 title: Лікування жіночого алкоголізму Київ
 description: Ваше здоров'я на першому місці!
-image: /img/Kiev New/a9a9212b8120e16988307b26fb8e9ce3_high.jpg
+image: /img/Kiev-new10.09.2025/lech-pivnogo-alk-kiev.jpg
 imageText: Лікування жіночоно алкоголізму Київ
 ratingAvarage: 4.98/5
 rating: '5764'
