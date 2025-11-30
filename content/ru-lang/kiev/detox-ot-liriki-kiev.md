@@ -3,7 +3,7 @@ tabTitle: Детоксикация от Лирики (Прегабалин) Ки
 title: Детоксикация от Лирики (Прегабалин) Киев
 description: 'Чистый организм, ясный разум, жизнь без лирики'
 image: /img/Kiev-new10.09.2025/detox-ot-liriki-kiev.jpg
-imageText: Детоксикация от Лирики (Прегабалин) Киев
+imageText: 'Детоксикация от Лирики (Прегабалин) Киев '
 ratingAvarage: 4.98/5
 rating: '8547'
 reviewType: blog
