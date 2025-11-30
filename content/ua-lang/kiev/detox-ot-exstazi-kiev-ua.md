@@ -2,7 +2,7 @@
 tabTitle: Детоксикація від екстазі Київ | Umbrella Plus | Від 3000 грн
 title: Детоксикація від екстазі Київ
 description: Чистий організм – крок до свободи
-image: /img/Kiev-new10.09.2025/detox-ot-ecstazi.jpg
+image: /img/Kiev-new10.09.2025/detox-ot-extazi.jpg
 imageText: Детоксикація від екстазі Київ
 ratingAvarage: 4.98/5
 rating: '7123'
