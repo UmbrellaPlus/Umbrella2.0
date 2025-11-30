@@ -2,7 +2,7 @@
 tabTitle: Лечение пивного алкоголизма в Киеве | Umbrella Plus | От 2700 грн
 title: Лечение пивного алкоголизма в Киеве
 description: Трезвость без компромиссов
-image: /img/Kiev-new10.09.2025/lech-pivnogo-alkg-kiev.jpg
+image: /img/Kiev-new10.09.2025/lech-pivnogo-alk-kiev.jpg
 imageText: Лечение пивного алкоголизма Киев
 ratingAvarage: 4.98/5
 rating: '4784'
