@@ -2,7 +2,7 @@
 tabTitle: Детоксикація від метадону (опіоїдів) Київ | Umbrella Plus | Від 3000 грн
 title: Детоксикація від метадону (опіоїдів) Київ
 description: Наркотик не керує тобою – вихід є
-image: /img/Kiev-new10.09.2025/detox-ot-metadona-kiev.jpg
+image: /img/Kiev-new10.09.2025/detox-ot-metadona.jpg
 imageText: Детоксикація від метадону (опіоїдів) Київ
 ratingAvarage: 4.98/5
 rating: '5755'
