@@ -2,7 +2,7 @@
 tabTitle: Нарколог додому Київ | Umbrella Plus | Від 2700 грн
 title: Нарколог додому Київ
 description: Анонімно та безпечно
-image: /img/Kiev-new10.09.2025/vizov-narkoliga-kiev.jpg
+image: /img/Kiev-new10.09.2025/nark.jpg
 imageText: Нарколог додому Київ
 ratingAvarage: 4.98/5
 rating: '10632'
