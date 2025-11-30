@@ -2,7 +2,7 @@
 tabTitle: Лікування алкоголізму у Києві | Umbrella Plus | Від 2700 грн
 title: Лікування алкоголізму у Києві
 description: Повернемо здоров'я та надію
-image: /img/Kiev New/5826569d035dc010f6e97f6c11661040_.jpg
+image: /img/Kiev-new10.09.2025/lechenie-alk-kiev.jpg
 imageText: Лікування алкоголізму у Києві
 ratingAvarage: 4.99/5
 rating: '4316'
