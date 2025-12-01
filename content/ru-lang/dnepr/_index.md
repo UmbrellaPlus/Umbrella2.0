@@ -2,7 +2,7 @@
 tabTitle: Лечение алкоголизма и наркомании в Днепре | Umbrella Plus | От 2199 грн
 title: Лечение алкоголизма и наркомании в Днепре
 description: Новая жизнь начинается здесь
-image: /img/dnepr new/2233.jpg
+image: /img/Днепр new/lech-alk-i-nark-dnepr.jpg
 imageText: Лечение алкоголизма и наркомании в Днепре
 ratingAvarage: 4.99/5
 rating: '9865'
