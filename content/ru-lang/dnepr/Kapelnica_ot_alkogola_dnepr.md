@@ -2,7 +2,7 @@
 tabTitle: Капельница от алкоголя Днепр | Umbrella Plus | От 2199 грн
 title: Капельница от алкоголя Днепр
 description: Вернем ясность трезвой жизни без похмелья
-image: ''
+image: /img/Днепр new/kap-ot-alk-dnepr.jpg
 imageText: Капельница от алкоголя Днепр
 ratingAvarage: 4.99/5
 rating: '5832'
