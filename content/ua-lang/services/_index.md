@@ -3,7 +3,7 @@ layout: services
 tabTitle: Послуги лікування алкоголізму | Umbrella Plus Безпечна Наркологія
 title: Лікування алкоголізму
 description: UmbrellaPlus – повертаємо життя без алкоголю
-image: /img/services/lechenie-alkogolizma.jpg
+image: /img/services/lechenie-alk-i-nark.jpg
 imageText: Лікування алкоголізму UmbrellaPlus
 ratingAvarage: 4.99/5
 rating: '19782'
