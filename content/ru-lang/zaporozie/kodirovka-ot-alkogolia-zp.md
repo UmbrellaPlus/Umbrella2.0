@@ -2,7 +2,7 @@
 tabTitle: Кодирование от алкоголизма в Запорожье | Umbrella Plus | От 6000 грн
 title: Кодирование от алкоголизма в Запорожье
 description: Шанс на новую жизнь
-image: ''
+image: /img/zaporoje/kod-ot-alk-zp.jpg
 imageText: Кодирование от алкоголизма в Запорожье
 ratingAvarage: 4.99/5
 rating: '4611'
