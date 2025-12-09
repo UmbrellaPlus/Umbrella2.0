@@ -4,7 +4,7 @@ title: Кодирование от алкоголизма в Запорожье
 description: Шанс на новую жизнь
 image: ''
 imageText: Кодирование от алкоголизма в Запорожье
-ratingAvarage: 4.98/5
+ratingAvarage: 4.99/5
 rating: '2313'
 reviewType: kod-2
 ---
