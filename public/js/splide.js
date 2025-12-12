@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
     type: "loop",
     speed: 800,
     start: (number = 1),
-    perPage: 3,
+    perPage: 4,
     breakpoints: {
       1280: {
         perPage: 2,
