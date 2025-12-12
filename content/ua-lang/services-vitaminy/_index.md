@@ -2,7 +2,7 @@
 tabTitle: Вітамінні крапельниці | Umbrella Plus | Від 1699 грн
 title: Вітамінні крапельниці
 description: Вітамінізуйся себе — відчуй легкість та оновлення!
-image: /img/services/kap-vitaminy.jpg
+image: /img/services/lech-vitamin/Kap-ot-alk-na-domy.jpg
 imageText: Вітамінні крапельниці
 ratingAvarage: 4.99/5
 rating: '9782'
