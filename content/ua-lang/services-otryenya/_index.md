@@ -2,7 +2,7 @@
 tabTitle: Крапельниця при харчовому отруєнні | Umbrella Plus | Від 2199 грн
 title: Крапельниця при харчовому отруєнні
 description: 'Швидке полегшення, очищення та підтримка'
-image: /img/services/kap-food-poison.jpg
+image: /img/services/lech-otravlenie/lech-alk-i-nark-kiev.jpg
 imageText: Крапельниця при харчовому отруєнні
 ratingAvarage: 4.99/5
 rating: '15622'
