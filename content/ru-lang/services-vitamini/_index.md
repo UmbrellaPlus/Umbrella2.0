@@ -2,7 +2,7 @@
 tabTitle: Витаминные Капельницы | Umbrella Plus | От 1699 грн
 title: Витаминные Капельницы
 description: Витаминизируй себя — почувствуй лёгкость и обновление
-image: /img/services/kap-vitaminy.jpg
+image: /img/services/lech-vitamin/Kap-ot-alk-na-domy.jpg
 imageText: Витаминные Капельницы
 ratingAvarage: 4.99/5
 rating: '9782'
