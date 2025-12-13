@@ -12,6 +12,9 @@ jobs:
   deploy-preview:
     runs-on: ubuntu-latest
     if: github.event.action != 'closed'  # Skip build on close (cleanup happens separately)
+    permissions:
+      contents: write   # Allows pushing to branches like gh-pages
+      pull-requests: write  # Allows posting comments on the PR
     steps:
       - name: Checkout
         uses: actions/checkout@v4
