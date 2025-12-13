@@ -1,0 +1,15 @@
+.partners-carousel-container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.partners-block-container img{
+    height: 100px;
+}
+
+@media (min-width: 1000px) {
+.partners-carousel-container{
+    max-width: 70vw;
+    margin:auto;
+}
+}
