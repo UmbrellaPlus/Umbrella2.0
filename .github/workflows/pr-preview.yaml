@@ -31,6 +31,6 @@ jobs:
       - name: Deploy Preview
         uses: rossjrw/pr-preview-action@v1
         with:
-          source-dir: ./public  # Hugo's default output directory
+          source-dir: public  # Hugo's default output directory
           preview-branch: gh-pages
           umbrella-dir: pr-preview  # Optional: groups previews under /pr-preview/
