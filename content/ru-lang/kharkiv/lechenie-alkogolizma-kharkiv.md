@@ -2,7 +2,7 @@
 tabTitle: Лечение алкоголизма в Харькове | Umbrella Plus | От 2199 грн
 title: Лечение алкоголизма Харьков
 description: Выбери жизнь без алкоголя
-image: /img/kharkov-new/lech-alkogolizna-kharkiv.jpg
+image: /img/kharkov-new/lech-alk-nark.jpg
 imageText: Лечение алкоголизма Харьков
 ratingAvarage: 4.96/5
 rating: '3209'
