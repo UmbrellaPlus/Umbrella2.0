@@ -9,6 +9,17 @@
   {{end}}
 </div>
 <div class="main-image">
-  <img src="{{.Params.image}}" alt="{{.Params.imageText}}" />
+
+{{ with .Params.image }}
+  {{ with resources.Get . }}
+    {{ with .Resize "1200x webp q70" }}
+      <img src="{{ .RelPermalink }}"
+           alt="{{$.Params.imageText}}"
+           loading="eager"
+           fetchpriority="high">
+    {{ end }}
+  {{ end }}
+{{ end }}  
+
 </div>
 {{ end }}

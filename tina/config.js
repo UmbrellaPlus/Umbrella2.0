@@ -70,6 +70,7 @@ const homePageTemplate = [
     label: "Основной текст страницы",
     name: "body",
     isBody: true,
+    toolbarOverride: ['heading', 'link', 'quote', 'ul', 'ol', 'bold', 'italic', 'code', 'codeBlock', 'mermaid', 'table', 'raw', 'embed'],
   },
 ];
 
@@ -173,6 +174,7 @@ const cityTemplate = [
     label: "Основной текст страницы",
     name: "body",
     isBody: true,
+    toolbarOverride: ['heading', 'link', 'quote', 'ul', 'ol', 'bold', 'italic', 'code', 'codeBlock', 'mermaid', 'table', 'raw', 'embed'],
   },
 ];
 
@@ -247,6 +249,7 @@ const blogTemplate = [
     label: "Основной текст страницы",
     name: "body",
     isBody: true,
+    toolbarOverride: ['heading', 'link', 'quote', 'ul', 'ol', 'bold', 'italic', 'code', 'codeBlock', 'mermaid', 'table', 'raw', 'embed'],
   },
 ];
 
@@ -279,6 +282,7 @@ const googleFeedbackTemplate = [
     label: "Текст отзыва",
     name: "body",
     isBody: true,
+    toolbarOverride: ['heading', 'link', 'quote', 'ul', 'ol', 'bold', 'italic', 'code', 'codeBlock', 'mermaid', 'table', 'raw', 'embed'],
   },
 ];
 
@@ -298,7 +302,7 @@ export default defineConfig({
   media: {
     tina: {
       mediaRoot: "img",
-      publicFolder: "static",
+      publicFolder: "assets",
     },
   },
   // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/schema/
