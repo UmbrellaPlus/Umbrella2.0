@@ -9,7 +9,7 @@
 
 {{ with .Params.image }}
   {{ with resources.Get . }}
-    {{ with .Resize "1200x webp q70" }}
+    {{ with .Resize "1200x webp q50" }}
       <img src="{{ .RelPermalink }}"
            alt="{{$.Params.imageText}}"
            loading="eager"
