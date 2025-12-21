@@ -52,3 +52,38 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 "
   rel="stylesheet"
 />
+
+{{ $blog := resources.Get "css/blog.css"}}
+{{ $citiescarousel := resources.Get "css/citiesCarusel.css"}}
+{{ $collaboration := resources.Get "css/collaboration.css"}}
+{{ $contacts := resources.Get "css/contacts.css"}}
+{{ $directory := resources.Get "css/directory.css"}}
+{{ $footer := resources.Get "css/footer.css"}}
+{{ $global := resources.Get "css/global.css" }}
+{{ $googleReviewsPage := resources.Get "css/googleReviewsPage.css"}}
+{{ $header := resources.Get "css/header.css" }}
+{{ $homepage := resources.Get "css/homepage.css"}}
+{{ $latestNews := resources.Get "css/latestNews.css"}}
+{{ $main := resources.Get "css/main.css"}}
+{{ $markdown := resources.Get "css/markdown.css"}}
+{{ $mediaQuery := resources.Get "css/mediaQuerry.css"}}
+{{ $parthnersCarousel := resources.Get "css/partners-carousel.css"}}
+{{ $preheader := resources.Get "css/preheader.css"}}
+{{ $reviews := resources.Get "css/reviews.css"}}
+{{ $specialists := resources.Get "css/specialists.css"}}
+{{ $splide := resources.Get "css/splide.css"}}
+{{ $starRating := resources.Get "css/star-rating.css"}}
+{{ $stickyPhone := resources.Get "css/sticky-phone.css"}}
+{{ $telegramForm := resources.Get "css/telegram-form.css"}}
+
+
+{{ $bundle := slice $blog $citiescarousel $collaboration $contacts $directory $footer $global $googleReviewsPage $header $homepage $latestNews $main $markdown $mediaQuery $parthnersCarousel $preheader $reviews $specialists $splide $starRating $stickyPhone $telegramForm | resources.Concat "css/bundle.css" | minify }}
+<style>
+  {{ $bundle.Content | safeCSS }}
+</style>
+
+{{ $cssFiles := resources.Match "css/*.css" }}
+{{ $bundle := $cssFiles | resources.Concat "css/bundle.css" | minify }}
+<style>
+  {{ $bundle.Content | safeCSS }}
+</style>

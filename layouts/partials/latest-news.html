@@ -7,11 +7,14 @@
         <li class="latest-news-card splide__slide">
           <p>
             <a href="{{ .RelPermalink }}">
+              {{with .Params.image}} {{with resources.Get .}} {{with .Resize
+              "300x webp q50"}}
               <img
                 class="latest-news-image"
-                src="{{.Params.image}}"
+                src="{{.RelPermalink}}"
                 alt="{{.Params.imageText}}"
               />
+              {{end}} {{end}} {{end}}
               <p class="latest-news-title"><b>{{ .Title }}</b></p>
               <p class="date">
                 Дата публикации: {{ .Date | time.Format ":date_long" }}

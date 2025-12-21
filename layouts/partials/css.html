@@ -1,0 +1,12 @@
+{{ $cssFiles := resources.Match "css/*.css" }}
+{{ $bundle := $cssFiles | resources.Concat "css/bundle.css" | minify }}
+<style>
+{{ $bundle.Content | safeCSS }}
+</style>
+
+<link
+  href="
+https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
+"
+  rel="stylesheet"
+/>

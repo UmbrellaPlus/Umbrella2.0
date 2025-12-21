@@ -32,7 +32,7 @@
     <!-- Default meta -->
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    {{partial "style-links.html"}}
+    {{partial "css.html"}}
     <title>{{.Title}}</title>
     <link rel="canonical" href="{{ .Permalink }}" />
   </head>
@@ -67,7 +67,13 @@
           <h3>{{ .Title }}</h3>
           <p>{{ .Params.Description }}</p>
         </div>
-        <img src="{{ .Params.image }}" alt="{{ .Params.imageText }}" />
+                      {{with .Params.image}} {{with resources.Get .}} {{with .Resize
+              "300x webp q50"}}
+              <img
+                src="{{.RelPermalink}}"
+                alt="{{.Params.imageText}}"
+              />
+              {{end}} {{end}} {{end}}
       </li>
     </a>
   {{ end }}

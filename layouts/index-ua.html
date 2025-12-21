@@ -35,7 +35,7 @@
     <title>{{.Title}}</title>
     {{/* Canonial URL */}}
     <link rel="canonical" href="{{ .Permalink }}" />
-    {{/* Styles */}} {{partial "style-links.html"}}
+    {{/* Styles */}} {{partial "css.html"}}
   </head>
   <body>
     <!-- Google Tag Manager (noscript) -->
@@ -66,9 +66,11 @@
         </div> -->
       </div>
       <div class="index-main-image">
+        {{$mob := resources.Get .Params.mainmob}} {{$pc := resources.Get
+        .Params.mainpc}}
         <picture>
-          <source media="(max-width: 720px)" srcset="{{.Params.mainmob}}" />
-          <img src="{{.Params.mainpc}}" alt="pc-version-main" />
+          <source media="(max-width: 1000px)" srcset="{{$mob.RelPermalink}}" />
+          <img src="{{$pc.RelPermalink}}" alt="pc-version-main" />
         </picture>
       </div>
     </main>
@@ -83,12 +85,14 @@
               <div class="discounts-image">
                 <a href="{{.Params.link}}">
                   <picture>
+                    {{$discPhone := resources.Get .Params.imagephone}}
+                    {{$discPC := resources.Get .Params.imagepc}}
                     <source
                       media="(max-width: 720px)"
-                      srcset="{{.Params.imagephone}}"
+                      srcset="{{$discPhone.RelPermalink}}"
                     />
                     <img
-                      src="{{.Params.imagepc}}"
+                      src="{{$discPC.RelPermalink}}"
                       alt="pc-version-main"
                     /> </picture
                 ></a>
@@ -104,7 +108,8 @@
     <div class="about-clinic">
       <div class="clinic-description">{{.Content}}</div>
       <div class="clinic-img">
-        <img class="preview" src="{{.Params.imageDoctor}}" alt="clinic-pic" />
+        {{$doctor := resources.Get .Params.imageDoctor}}
+        <img class="preview" src="{{$doctor.RelPermalink}}" alt="clinic-pic" />
         <p>
           <b>{{.Params.doctorName}}</b> <br />
           {{.Params.doctorDescr}}
