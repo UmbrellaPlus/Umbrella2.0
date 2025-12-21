@@ -29,7 +29,6 @@ header {
 }
 
 .language-switcher {
-  margin-top:5px;
   list-style: none;
   padding: 0.5rem 0.5rem;
   background-color: lightgrey;
@@ -46,6 +45,10 @@ header {
 .language-switcher li a {
   margin-top:10px;
   display: flex;
+}
+.language-switcher li a img{
+  width: 15px;
+  height: 15px;
 }
 .telegram-header img {
   width: 30px;

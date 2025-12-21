@@ -27,10 +27,10 @@
   align-items: center;
   gap:1rem;
 }
-.preheader-numbers p a{
+.preheader-numbers a{
   color:whitesmoke;
 }
-.preheader-numbers p a img{
+.preheader-numbers a img{
   width: 20px;
   filter: invert(32%) sepia(62%) saturate(1927%) hue-rotate(337deg) brightness(78%) contrast(117%);
 }
