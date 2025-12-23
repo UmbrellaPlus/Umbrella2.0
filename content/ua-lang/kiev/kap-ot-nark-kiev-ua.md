@@ -2,7 +2,7 @@
 tabTitle: Крапельниця від наркотиків Київ | Umbrella Plus | Від 3000 грн
 title: Крапельниця від наркотиків Київ
 description: Перший крок до нового життя
-image: /img/Kiev-new10.09.2025/ka.jpg
+image: /img/Kiev-new10.09.2025/nark.jpg
 imageText: Крапельниця від наркотиків Київ
 ratingAvarage: 4.98/5
 rating: '7862'
