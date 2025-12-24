@@ -2,7 +2,7 @@
 tabTitle: Виведення із запою на дому Дніпро | Umbrella Plus | Від 2199 грн
 title: Виведення із запою на дому Дніпро
 description: Ваш перший крок до тверезості – один дзвінок!
-image: /img/%D0%94%D0%BD%D0%B5%D0%BF%D1%80%20new/vivod-iz-zapoia-na-domy-dnepr.jpg
+image: ''
 imageText: Виведення із запою на дому Дніпро
 ratingAvarage: 4.99/5
 rating: '7652'
