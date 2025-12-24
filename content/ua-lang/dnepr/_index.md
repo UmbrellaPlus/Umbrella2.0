@@ -2,7 +2,7 @@
 tabTitle: Лікування алкоголізму та наркоманії у Дніпрі | Umbrella Plus | Від 2199 грн
 title: Лікування алкоголізму та наркоманії у Дніпрі
 description: Нове життя починається тут
-image: /img/%D0%94%D0%BD%D0%B5%D0%BF%D1%80%20new/lech-alk-i-nark-dnepr.jpg
+image: ''
 imageText: Лікування алкоголізму та наркоманії у Дніпрі
 ratingAvarage: 4.99/5
 rating: '9865'
