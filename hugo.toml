@@ -5,6 +5,10 @@ enableRobotsTXT = true
 defaultContentLanguage = "ru"
 defaultContentLanguageInSubdir = false
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [module]
 [[module.mounts]]
     source = "content/ru-lang"
