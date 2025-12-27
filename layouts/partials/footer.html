@@ -11,47 +11,40 @@
       <div class="footer-services">
         <div>
           <ul>
-            {{ range site.Menus.main }}
-            {{ if or (eq .Identifier "extra") (eq .Identifier "services") }}
-            {{ if .HasChildren }}
+            {{ range site.Menus.main }} {{ if or (eq .Identifier "extra") (eq
+            .Identifier "services") }} {{ if .HasChildren }}
             <!-- Выводим только детей, без самого пункта -->
             {{ range .Children }}
             <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-            {{ end }}
-            {{ end }}
-            {{ else if eq .Identifier "filials" }}
-            {{ else }}
+            {{ end }} {{ end }} {{ else if eq .Identifier "filials" }} {{ else
+            }}
             <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-            {{ end }}
-            {{ end }}
+            {{ end }} {{ end }}
           </ul>
         </div>
       </div>
       <div class="footer-services">
         <div>
-          {{ range site.Menus.main }}
-          {{if and (eq .Identifier "filials") .HasChildren}}
+          {{ range site.Menus.main }} {{if and (eq .Identifier "filials")
+          .HasChildren}}
           <ul>
             {{range .Children}}
             <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-            {{end}}
-            {{end}}
-            {{end}}
+            {{end}} {{end}} {{end}}
           </ul>
         </div>
       </div>
     </div>
-
   </div>
 
   <!-- Год -->
   <div class="year"><p>2019-{{ now.Year }} Всі права захищені</p></div>
 </footer>
-<script src="/js/axios.js"></script>
+<script src="/js/axios.js" defer></script>
 <script src="/js/header.js"></script>
-<script src="/js/splide.js"></script>
-<script src="/js/review.js"></script>
-<script src="/js/star-rating.js"></script>
-<script src="/js/splideCore.js"></script>
+<script src="/js/splide.js" defer></script>
+<script src="/js/review.js" defer></script>
+<script src="/js/star-rating.js" defer></script>
+<script src="/js/splideCore.js" defer></script>
 <link rel="stylesheet" href="/styles/splide.css" />
-<script src="/js/telegram.js"></script>
+<script src="/js/telegram.js" defer></script>
