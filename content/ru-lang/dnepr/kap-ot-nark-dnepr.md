@@ -1,5 +1,5 @@
 ---
-tabTitle: Капельница от наркотиков Днепр | Umbrella Plus | От 2199 грн
+tabTitle: Капельница от наркотиков Днепр | Umbrella Plus | От 2499 грн
 title: Капельница от наркотиков Днепр
 description: 'Быстрое облегчение, безопасное восстановление'
 image: /img/Dnepr/kap-ot-nark-dnepr.jpg
