@@ -1,5 +1,5 @@
 ---
-tabTitle: Крапельниця від наркотиків Дніпро | Umbrella Plus | Від 2199 грн
+tabTitle: Крапельниця від наркотиків Дніпро | Umbrella Plus | Від 2499 грн
 title: Крапельниця від наркотиків Дніпро
 description: 'Швидке полегшення, безпечне відновлення'
 image: /img/Dnepr/kap-ot-nark-dnepr.jpg
