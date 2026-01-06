@@ -2,7 +2,7 @@
 tabTitle: Лікування алкоголізму та наркоманії Чугуїв | Umbrella Plus | Від 2199 грн
 title: Лікування алкоголізму та наркоманії Чугуїв
 description: Досвідчені наркологи з практикою понад 5 років
-image: /img/chuguev/lechenie-alkogolizma-i-narkomanii-chuguev%20(1).jpg
+image: /img/chuguev/lech.jpg
 imageText: Лікування алкоголізму та наркоманії Чугуїв
 ratingAvarage: 4.99/5
 rating: '2902'
