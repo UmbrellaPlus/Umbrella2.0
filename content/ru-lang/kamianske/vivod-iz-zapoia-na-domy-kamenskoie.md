@@ -2,6 +2,7 @@
 tabTitle: Вывод из запоя на дому в Каменском | Umbrella Plus | От 2199 грн
 title: Вывод из запоя на дому Каменское
 description: Поможем вернуться к жизни сегодня
+image: /img/kamenskoie/vivod-iz-zapoia-doma-kamenskoia.jpg
 imageText: Вывод из запоя на дому в Каменском
 ratingAvarage: 4.99/5
 rating: '2611'
