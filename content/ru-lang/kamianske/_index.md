@@ -2,7 +2,7 @@
 tabTitle: Лечение алкоголизма и наркомании Каменское | Umbrella Plus | От 2199 грн
 title: Лечение алкоголизма и наркомании в Каменском
 description: Стоп зависимость. Начните лечение сегодня
-image: /img/kamenskoie/lechenie-alk-i-nark-kamenskoe.jpg
+image: /img/kamenskoie/kamenskoia-lechenie-alk-i-nark.jpg
 imageText: Лечение алкоголизма и наркомании в Каменском
 ratingAvarage: 4.98/5
 rating: '6128'
