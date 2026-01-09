@@ -1,3 +1,13 @@
+---
+tabTitle: Капельница от алкоголя Каменское | Umbrella Plus | От 2199 грн
+title: Капельница от алкоголя в Каменском
+description: 'Анонимно, безопасно, эффективно'
+image: /img/kamenskoie/kapelnica-ot-alkogolia-kamenskoie.jpg
+imageText: Капельница от алкоголя в Каменском
+ratingAvarage: 4.99/5
+rating: '3644'
+reviewType: alk-2
+---
 
 ## Капельница от алкоголя Каменское
 
