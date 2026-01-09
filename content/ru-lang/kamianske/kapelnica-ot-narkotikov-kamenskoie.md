@@ -1,3 +1,12 @@
+---
+tabTitle: Капельница от наркотиков в Каменском | Umbrella Plus | От 2499 грн
+title: Капельница от наркотиков в Каменском
+description: Мы поможем без лишних вопросов
+image: /img/kamenskoie/kap-ot-nark-kamenskoie.jpg
+imageText: Капельница от наркотиков в Каменском
+ratingAvarage: 4.99/5
+rating: '2719'
+---
 
 ## Капельница от наркотиков в Каменском
 
