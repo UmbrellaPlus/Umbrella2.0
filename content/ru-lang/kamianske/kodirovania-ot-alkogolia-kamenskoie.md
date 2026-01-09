@@ -1,3 +1,13 @@
+---
+tabTitle: Кодирование от алкоголизма Каменское | Umbrella Plus | От 6000 грн
+title: Кодирование от алкоголизма в Каменском
+description: Надежный барьер на пути к трезвости
+image: /img/kamenskoie/kod-ot-alk-kamenskoie.jpg
+imageText: Кодирование от алкоголизма в Каменском
+ratingAvarage: 4.99/5
+rating: '4532'
+reviewType: kod-2
+---
 
 ## Кодирование от алкоголизма Каменское
 
