@@ -1,3 +1,13 @@
+---
+tabTitle: Крапельниця від наркотиків у Кам'янському | Umbrella Plus | Від 2499 грн
+title: Крапельниця від наркотиків у Кам'янському
+description: Ми допоможемо без зайвих питань
+image: /img/kamenskoie/kap-ot-nark-kamenskoie.jpg
+imageText: Крапельниця від наркотиків у Кам'янському
+ratingAvarage: 4.99/5
+rating: '2719'
+reviewType: alk-2
+---
 
 ## Крапельниця від наркотиків у Кам’янському
 
