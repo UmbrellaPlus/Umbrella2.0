@@ -6,6 +6,7 @@ image: /img/kamenskoie/kap-ot-nark-kamenskoie.jpg
 imageText: Капельница от наркотиков в Каменском
 ratingAvarage: 4.99/5
 rating: '2719'
+reviewType: alk-2
 ---
 
 ## Капельница от наркотиков в Каменском
