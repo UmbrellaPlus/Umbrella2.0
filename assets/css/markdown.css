@@ -46,7 +46,6 @@ h2::after {
   border-radius: 0 10px 0 0;
   display: block;
   margin:auto;
-  aspect-ratio: 1 / 1;
 }
 .markdown ol, .markdown ul{
   align-self: flex-start;

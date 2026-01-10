@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://umbrella-plus.com.ua/</loc>
-    <lastmod>2025-12-14T22:00:00+00:00</lastmod>
+    <lastmod>2025-12-29T22:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/blog/</loc>
-    <lastmod>2025-12-14T22:00:00+00:00</lastmod>
+    <lastmod>2025-12-29T22:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
@@ -27,6 +27,9 @@
                 hreflang="ru-UA"
                 href="https://umbrella-plus.com.ua/blog/"
                 />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/blog/sleng-narkomanov/</loc>
+    <lastmod>2025-12-29T22:00:00+00:00</lastmod>
   </url><url>
     <loc>https://umbrella-plus.com.ua/blog/peredaiotsa-li-alkogolizm-po-nasledstvy/</loc>
     <lastmod>2025-12-14T22:00:00+00:00</lastmod>
@@ -756,6 +759,8 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/zaporozie/vivod-iz-zapoia-na-domy-zaporozhye/</loc>
   </url><url>
+    <loc>https://umbrella-plus.com.ua/kamianske/vivod-iz-zapoia-na-domy-kamenskoie/</loc>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/kiev/vivod-iz-zapoia-na-domy-kiev/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/chuguev/vivod-iz-zapoia-na-domy-chygyev/</loc>
@@ -860,6 +865,8 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/services/kapelnica-ot-alkogolia-umbrellaplus/</loc>
   </url><url>
+    <loc>https://umbrella-plus.com.ua/kamianske/kapelnica-ot-alkogolia-kamenskoie/</loc>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/cherkasy/kapelnica-ot-alkogolia-cherkassi/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/chornomorsk/kapelnica_ot_alkogola_chernomorsk/</loc>
@@ -910,19 +917,17 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/chuguev/kapelnica_ot_alkogola_chygyev/</loc>
   </url><url>
+    <loc>https://umbrella-plus.com.ua/kamianske/kapelnica-ot-narkotikov-kamenskoie/</loc>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/kharkiv/kap-ot-nark-kharkiv/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/kapelnica-ot-narkotikiv-cerkassy/</loc>
-  </url><url>
     <loc>https://umbrella-plus.com.ua/dnepr/kap-ot-nark-dnepr/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/zaporozie/kapelnica-ot-nakrotikov-zp/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/chuguev/kapelnica-ot-narkotikiv-chygyev/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/services-otravlenie/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/zaporozie/kodirovka-ot-alkogolia-zp/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/kamianske/kodirovania-ot-alkogolia-kamenskoie/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/kharkiv/kodirovka-ot-alkogolia-kharkiv/</loc>
   </url><url>
@@ -988,35 +993,11 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/dnepr/lechenie-alkogolizma-dnepr/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kamianske/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/kamianske/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/kamianske/"
-                />
-  </url><url>
     <loc>https://umbrella-plus.com.ua/kiev/lechenie-alkogolizma-kiev/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/odessa/lechenie-alkogolizma-odessa/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/chornomorsk/lechenie-alkogolizma-chernomorsk/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/lviv/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/lviv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/lviv/"
-                />
   </url><url>
     <loc>https://umbrella-plus.com.ua/lviv/lechenie-alkogolizma-lviv/</loc>
   </url><url>
@@ -1044,6 +1025,18 @@
                 rel="alternate"
                 hreflang="ru-UA"
                 href="https://umbrella-plus.com.ua/zaporozie/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/kamianske/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/kamianske/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/kamianske/"
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/odessa/</loc>
@@ -1082,6 +1075,18 @@
                 rel="alternate"
                 hreflang="ru-UA"
                 href="https://umbrella-plus.com.ua/kiev/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/lviv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/lviv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/lviv/"
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/chuguev/</loc>
@@ -1153,6 +1158,12 @@
     <loc>https://umbrella-plus.com.ua/kiev/lechenie-nark-kiev/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/lviv/lechenie-narkomanii-lvov/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/chuguev/kapelnica-ot-narkotikiv-chygyev/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/zaporozie/kapelnica-ot-nakrotikov-zp/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/cherkasy/kapelnica-ot-narkotikiv-cerkassy/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/services/lechenie-pivnogo-alkogolizma-umbrellaplus/</loc>
   </url><url>
