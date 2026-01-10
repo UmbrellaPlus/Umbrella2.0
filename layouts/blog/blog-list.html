@@ -25,27 +25,34 @@
       <h1>Лікування залежностей</h1>
       <h2>Останні статті</h2>
       {{end}}
+      <div>
+        {{ range first 1 (sort (where site.RegularPages "Type" "blog") "Date"
+        "desc") }} {{end}}
+      </div>
 
-<ul class="blog-list-container">
-  {{ range sort (where site.RegularPages "Type" "blog") "Date" "desc" }}
-    <a href="{{ .Permalink }}">
-      <li class="blog-list-post">
-        <div class="blog-list-post-text-container">
-          <h3>{{ .Title }}</h3>
-          <p>{{ .Params.Description }}</p>
-        </div>
-                      {{with .Params.image}} {{with resources.Get .}} {{with .Resize
-              "300x webp q50"}}
-              <img
-                src="{{.RelPermalink}}"
-                alt="{{.Params.imageText}}"
-              />
-              {{end}} {{end}} {{end}}
-      </li>
-    </a>
-  {{ end }}
-</ul>
-
+      <ul class="blog-list-container">
+        {{ range sort (where site.RegularPages "Type" "blog") "Date" "desc" }}
+        <a href="{{ .Permalink }}">
+          <li class="blog-list-post">
+            <div class="blog-list-post-upper-part">
+            <div class="blog-list-post-image-container">
+            {{with .Params.image}} 
+            {{with resources.Get .}} 
+            {{with .Resize "300x webp q50"}}
+            <img src="{{.RelPermalink}}" alt="{{.Params.imageText}}" />
+            {{end}} 
+            {{end}} 
+            {{end}}
+            </div>
+            <p style="color:grey; font-size: 12px">Дата написания: {{.Params.date | time.Format ":date_medium"}}</p>
+            <h3>{{ .Title }}</h3>
+            <p>{{.Params.description}}</p>
+            </div>
+            <div class="blog-list-post-lower-part">{{ printf "Время чтения ~%d мин." .ReadingTime }}</div>
+          </li>
+        </a>
+        {{ end }}
+      </ul>
     </div>
     {{if in .Site.Language "ru"}} {{partial "contacts.html" . }} {{ else }}
     {{partial "contacts-ua.html" . }} {{end}} {{partial "footer.html" .}}
