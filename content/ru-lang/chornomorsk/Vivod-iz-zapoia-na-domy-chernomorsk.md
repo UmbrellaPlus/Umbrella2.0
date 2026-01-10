@@ -1,11 +1,11 @@
 ---
 tabTitle: Вывод из запоя на дому в Черноморске | Umbrella Plus | От 2199 грн
 title: Вывод из запоя на дому Черноморск
-description: Umbrella Plus Безопасная Наркология
-image: /img/chernomorsc/2pe.jpg
+description: Оперативный выезд нарколога 24/7
+image: /img/chernomorsc/vivod-iz-zapoia-chernomorsk.jpg
 imageText: Вывод из запоя на дому в Черноморске
-ratingAvarage: 4.98/5
-rating: '2013'
+ratingAvarage: 4.99/5
+rating: '2813'
 reviewType: alk-1
 ---
 
