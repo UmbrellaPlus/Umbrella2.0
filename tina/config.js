@@ -1,5 +1,5 @@
 import { defineConfig, FieldDescription } from "tinacms";
-import { useTina } from 'tinacms/dist/react';
+import { useTina } from "tinacms/dist/react";
 
 // Your hosting provider likely exposes this as an environment variable
 const branch =
@@ -70,7 +70,21 @@ const homePageTemplate = [
     label: "Основной текст страницы",
     name: "body",
     isBody: true,
-    toolbarOverride: ['heading', 'link', 'quote', 'ul', 'ol', 'bold', 'italic', 'code', 'codeBlock', 'mermaid', 'table', 'raw', 'embed'],
+    toolbarOverride: [
+      "heading",
+      "link",
+      "quote",
+      "ul",
+      "ol",
+      "bold",
+      "italic",
+      "code",
+      "codeBlock",
+      "mermaid",
+      "table",
+      "raw",
+      "embed",
+    ],
   },
 ];
 
@@ -166,10 +180,12 @@ const cityTemplate = [
       {
         value: "otravl",
         label: "Пищевое отравление",
-      },      {
+      },
+      {
         value: "narkot",
         label: "Лечение наркомании",
-      },      {
+      },
+      {
         value: "lomka",
         label: "Лечение нарк ломки",
       },
@@ -180,7 +196,21 @@ const cityTemplate = [
     label: "Основной текст страницы",
     name: "body",
     isBody: true,
-    toolbarOverride: ['heading', 'link', 'quote', 'ul', 'ol', 'bold', 'italic', 'code', 'codeBlock', 'mermaid', 'table', 'raw', 'embed'],
+    toolbarOverride: [
+      "heading",
+      "link",
+      "quote",
+      "ul",
+      "ol",
+      "bold",
+      "italic",
+      "code",
+      "codeBlock",
+      "mermaid",
+      "table",
+      "raw",
+      "embed",
+    ],
   },
 ];
 
@@ -255,7 +285,21 @@ const blogTemplate = [
     label: "Основной текст страницы",
     name: "body",
     isBody: true,
-    toolbarOverride: ['heading', 'link', 'quote', 'ul', 'ol', 'bold', 'italic', 'code', 'codeBlock', 'mermaid', 'table', 'raw', 'embed'],
+    toolbarOverride: [
+      "heading",
+      "link",
+      "quote",
+      "ul",
+      "ol",
+      "bold",
+      "italic",
+      "code",
+      "codeBlock",
+      "mermaid",
+      "table",
+      "raw",
+      "embed",
+    ],
   },
 ];
 
@@ -288,7 +332,21 @@ const googleFeedbackTemplate = [
     label: "Текст отзыва",
     name: "body",
     isBody: true,
-    toolbarOverride: ['heading', 'link', 'quote', 'ul', 'ol', 'bold', 'italic', 'code', 'codeBlock', 'mermaid', 'table', 'raw', 'embed'],
+    toolbarOverride: [
+      "heading",
+      "link",
+      "quote",
+      "ul",
+      "ol",
+      "bold",
+      "italic",
+      "code",
+      "codeBlock",
+      "mermaid",
+      "table",
+      "raw",
+      "embed",
+    ],
   },
 ];
 
@@ -368,17 +426,17 @@ export default defineConfig({
           },
         },
       },
-      //CITIES-NEW
+      //CITIES-RU
       {
-        name: "filials_ru",
-        label: "Филиалы-RU",
+        name: "filials_ru_odessa",
+        label: "Ф-RU Одесская обл.",
         path: "content/ru-lang",
         fields: [...cityTemplate],
         match: {
           include:
-            "{cherkasy/**/*,chornomorsk/**/*,chuguev/**/*,dnepr/**/*,kamianske/**/*,kharkiv/**/*,kiev/**/*,lviv/**/*,odessa/**/*,zaporozie/**/*}",
+            "{chornomorsk/**/*,odessa/**/*}",
           exclude:
-            "{blog/**/*,directory/**/*,homepage/**/*,reviews/**/*,services/**/*,services-khymioterapiya/**/*,services-nark/**/*,services-otravlenie/**/*,services-vitamini/**/*,_index,about-us,collaboration,contacts}",
+            "{cherkasy/**/*,chuguev/**/*,dnepr/**/*,kamianske/**/*,kharkiv/**/*,kiev/**/*,lviv/**/*,zaporozie/**/*,blog/**/*,directory/**/*,homepage/**/*,reviews/**/*,services/**/*,services-khymioterapiya/**/*,services-nark/**/*,services-otravlenie/**/*,services-vitamini/**/*,_index,about-us,collaboration,contacts}",
         },
         ui: {
           allowedActions: {
@@ -386,6 +444,92 @@ export default defineConfig({
           },
         },
       },
+      {
+        name: "filials_ru_kharkov",
+        label: "Ф-RU Харьковская обл.",
+        path: "content/ru-lang",
+        fields: [...cityTemplate],
+        match: {
+          include:
+            "{chuguev/**/*,kharkiv/**/*}",
+          exclude:
+            "{cherkasy/**/*,chornomorsk/**/*,dnepr/**/*,kamianske/**/*,kiev/**/*,lviv/**/*,odessa/**/*,zaporozie/**/*,blog/**/*,directory/**/*,homepage/**/*,reviews/**/*,services/**/*,services-khymioterapiya/**/*,services-nark/**/*,services-otravlenie/**/*,services-vitamini/**/*,_index,about-us,collaboration,contacts}",
+        },
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "filials_ru_dnepr",
+        label: "Ф-RU Днепровская обл.",
+        path: "content/ru-lang",
+        fields: [...cityTemplate],
+        match: {
+          include:
+            "{dnepr/**/*,kamianske/**/*}",
+          exclude:
+            "{cherkasy/**/*,chornomorsk/**/*,chuguev/**/*,kharkiv/**/*,kiev/**/*,lviv/**/*,odessa/**/*,zaporozie/**/*,blog/**/*,directory/**/*,homepage/**/*,reviews/**/*,services/**/*,services-khymioterapiya/**/*,services-nark/**/*,services-otravlenie/**/*,services-vitamini/**/*,_index,about-us,collaboration,contacts}",
+        },
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "filials_ru_kiev",
+        label: "Ф-RU Киевская обл.",
+        path: "content/ru-lang",
+        fields: [...cityTemplate],
+        match: {
+          include:
+            "kiev/**/*",
+          exclude:
+            "{cherkasy/**/*,chornomorsk/**/*,chuguev/**/*,dnepr/**/*,kamianske/**/*,kharkiv/**/*,lviv/**/*,odessa/**/*,zaporozie/**/*,blog/**/*,directory/**/*,homepage/**/*,reviews/**/*,services/**/*,services-khymioterapiya/**/*,services-nark/**/*,services-otravlenie/**/*,services-vitamini/**/*,_index,about-us,collaboration,contacts}",
+        },
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "filials_ru_lvov",
+        label: "Ф-RU Львовская обл.",
+        path: "content/ru-lang",
+        fields: [...cityTemplate],
+        match: {
+          include:
+            "lviv/**/*",
+          exclude:
+            "{cherkasy/**/*,chornomorsk/**/*,chuguev/**/*,dnepr/**/*,kamianske/**/*,kharkiv/**/*,kiev/**/*,odessa/**/*,zaporozie/**/*,blog/**/*,directory/**/*,homepage/**/*,reviews/**/*,services/**/*,services-khymioterapiya/**/*,services-nark/**/*,services-otravlenie/**/*,services-vitamini/**/*,_index,about-us,collaboration,contacts}",
+        },
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "filials_ru_cherkasy",
+        label: "Ф-RU Черкасская обл.",
+        path: "content/ru-lang",
+        fields: [...cityTemplate],
+        match: {
+          include:
+            "cherkasy/**/*",
+          exclude:
+            "{chornomorsk/**/*,chuguev/**/*,dnepr/**/*,kamianske/**/*,kharkiv/**/*,kiev/**/*,lviv/**/*,odessa/**/*,zaporozie/**/*,blog/**/*,directory/**/*,homepage/**/*,reviews/**/*,services/**/*,services-khymioterapiya/**/*,services-nark/**/*,services-otravlenie/**/*,services-vitamini/**/*,_index,about-us,collaboration,contacts}",
+        },
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      //CITIES-UA
       {
         name: "filials_ua",
         label: "Филиалы-UA",
@@ -395,7 +539,7 @@ export default defineConfig({
           include:
             "{cherkasy/**/*,chornomorsk/**/*,chuguev/**/*,dnepr/**/*,kamianske/**/*,kharkiv/**/*,kiev/**/*,lviv/**/*,odesa/**/*,zaporozie/**/*}",
           exclude:
-            "{blog/**/*,directory/**/*,homepage/**/*,reviews/**/*,services/**/*,services-khymioterapiya/**/*,services-nark/**/*,services-otravlenie/**/*,services-vitamini/**/*,_index,about-us,collaboration,contacts}",
+            "*",
         },
         ui: {
           allowedActions: {
