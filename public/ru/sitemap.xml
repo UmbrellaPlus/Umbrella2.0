@@ -49,8 +49,6 @@
     <loc>https://umbrella-plus.com.ua/blog/kak-bistro-izbavitsa-ot-pohmelia/</loc>
     <lastmod>2025-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chornomorsk/kodirovka-ot-alkogolia-chernomorsk/</loc>
-  </url><url>
     <loc>https://umbrella-plus.com.ua/homepage/1/</loc>
     <xhtml:link
                 rel="alternate"
@@ -733,6 +731,18 @@
                 href="https://umbrella-plus.com.ua/reviewslocal/lomka/1/"
                 />
   </url><url>
+    <loc>https://umbrella-plus.com.ua/reviewslocal/lomka/2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/reviewslocal/lomka/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/reviewslocal/lomka/2/"
+                />
+  </url><url>
     <loc>https://umbrella-plus.com.ua/reviewslocal/narkot/1/</loc>
     <xhtml:link
                 rel="alternate"
@@ -833,18 +843,6 @@
                 rel="alternate"
                 hreflang="ru-UA"
                 href="https://umbrella-plus.com.ua/reviewsgoogle/6/"
-                />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewsgoogle/3/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewsgoogle/3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewsgoogle/3/"
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/services-nark/detox-ot-amfetamina/</loc>
@@ -969,6 +967,8 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/kamianske/kapelnica-ot-narkotikov-kamenskoie/</loc>
   </url><url>
+    <loc>https://umbrella-plus.com.ua/kiev/kapelnica-ot-narkotikov-kiev/</loc>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/kharkiv/kap-ot-nark-kharkiv/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/dnepr/kap-ot-nark-dnepr/</loc>
@@ -1016,6 +1016,8 @@
     <loc>https://umbrella-plus.com.ua/zaporozie/kod-ot-alkogolia-zp-esp/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/kiev/kodirovka-ot-alkogolizma-espiarl-kiev/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/chornomorsk/kodirovka-ot-alkogolia-chernomorsk/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/services/kapli-midzo/</loc>
   </url><url>
@@ -1141,6 +1143,18 @@
                 href="https://umbrella-plus.com.ua/lviv/"
                 />
   </url><url>
+    <loc>https://umbrella-plus.com.ua/chornomorsk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/chornomorsk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/chornomorsk/"
+                />
+  </url><url>
     <loc>https://umbrella-plus.com.ua/chuguev/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1158,18 +1172,6 @@
     <loc>https://umbrella-plus.com.ua/services/lechenie-alk-y-voenih/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/kharkiv/lechenie-alkogolizma-kharkiv/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/chornomorsk/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/chornomorsk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/chornomorsk/"
-                />
   </url><url>
     <loc>https://umbrella-plus.com.ua/services/lechenie-jenskogo-alkogolizma-umbrellaplus/</loc>
   </url><url>
@@ -1200,8 +1202,6 @@
     <loc>https://umbrella-plus.com.ua/services-nark/lechenie-narkomanii/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/zaporozie/lechenie-narkomanii-zp/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/kapelnica-ot-narkotikov-kiev/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/odessa/kapelnica-ot-nakrotikov-odessa/</loc>
   </url><url>
