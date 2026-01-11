@@ -163,6 +163,30 @@
                 href="https://umbrella-plus.com.ua/reviewslocal/detox-posle-himii/"
                 />
   </url><url>
+    <loc>https://umbrella-plus.com.ua/reviewslocal/lomka/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/reviewslocal/lomka/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/reviewslocal/lomka/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/reviewslocal/narkot/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/reviewslocal/narkot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/reviewslocal/narkot/"
+                />
+  </url><url>
     <loc>https://umbrella-plus.com.ua/reviewslocal/pishevoe-otravl/</loc>
     <xhtml:link
                 rel="alternate"
@@ -693,6 +717,30 @@
                 rel="alternate"
                 hreflang="ru-UA"
                 href="https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-2/8/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/reviewslocal/lomka/1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/reviewslocal/lomka/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/reviewslocal/lomka/1/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/reviewslocal/narkot/1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/reviewslocal/narkot/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/reviewslocal/narkot/1/"
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/reviewslocal/pishevoe-otravl/1/</loc>

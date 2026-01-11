@@ -166,6 +166,12 @@ const cityTemplate = [
       {
         value: "otravl",
         label: "Пищевое отравление",
+      },      {
+        value: "narkot",
+        label: "Лечение наркомании",
+      },      {
+        value: "lomka",
+        label: "Лечение нарк ломки",
       },
     ],
   },

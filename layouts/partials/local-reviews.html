@@ -52,8 +52,7 @@
           </div>
           <div class="reviews-text">{{.Content}}</div>
         </li>
-        {{end}} {{end}} 
-        {{else if eq .Params.reviewType "detox"}} {{with
+        {{end}} {{end}} {{else if eq .Params.reviewType "detox"}} {{with
         site.GetPage "reviewsLocal/Detox-posle-himii"}} {{range .RegularPages}}
         <li class="reviews-block splide__slide">
           <div class="reviews-name-rate">
@@ -62,8 +61,7 @@
           </div>
           <div class="reviews-text">{{.Content}}</div>
         </li>
-        {{end}} {{end}}
-        {{else if eq .Params.reviewType "otravl"}} {{with
+        {{end}} {{end}} {{else if eq .Params.reviewType "otravl"}} {{with
         site.GetPage "reviewsLocal/Pishevoe-otravl"}} {{range .RegularPages}}
         <li class="reviews-block splide__slide">
           <div class="reviews-name-rate">
@@ -72,8 +70,25 @@
           </div>
           <div class="reviews-text">{{.Content}}</div>
         </li>
-        {{end}} {{end}}
-        {{end}}
+        {{end}} {{end}} {{else if eq .Params.reviewType "narkot"}} {{with
+        site.GetPage "reviewsLocal/Narkot"}} {{range .RegularPages}}
+        <li class="reviews-block splide__slide">
+          <div class="reviews-name-rate">
+            <p>{{.Title}}</p>
+            <img src="/img/rating.png" alt="" />
+          </div>
+          <div class="reviews-text">{{.Content}}</div>
+        </li>
+        {{end}} {{end}} {{else if eq .Params.reviewType "lomka"}} {{with
+        site.GetPage "reviewsLocal/Lomka"}} {{range .RegularPages}}
+        <li class="reviews-block splide__slide">
+          <div class="reviews-name-rate">
+            <p>{{.Title}}</p>
+            <img src="/img/rating.png" alt="" />
+          </div>
+          <div class="reviews-text">{{.Content}}</div>
+        </li>
+        {{end}} {{end}} {{end}}
       </ul>
     </div>
   </section>
