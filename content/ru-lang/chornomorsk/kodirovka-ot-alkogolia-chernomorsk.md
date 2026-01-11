@@ -1,3 +1,13 @@
+---
+tabTitle: Кодирование от алкоголизма в Черноморске | Umbrella Plus | От 6000 грн
+title: Кодирование от алкоголизма Черноморск
+description: Верните мир и покой в свою семью
+image: /img/chernomorsc/kodirovka-ot-alk-chernomorsk.jpg
+imageText: Кодирование от алкоголизма Черноморск
+ratingAvarage: 4.99/5
+rating: '4468'
+reviewType: kod-2
+---
 
 ## Кодирование от алкоголизма Черноморск
 
