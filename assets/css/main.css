@@ -1,14 +1,15 @@
+.main-padding{
+  padding: 4.5rem;
+}
 main {
-  padding-top: 9rem;
   padding-bottom: 1rem;
-  background: rgb(17, 56, 96);
   background: linear-gradient(
     90deg,
     rgba(17, 56, 96, 1) 0%,
     rgba(29, 93, 155, 1) 75%,
     rgba(17, 56, 96, 1) 100%
   );
-  border-radius: 0 0 10px 10px;
+  border-radius: 10px;
   box-shadow: 1px 12px 19px 0px #00000050;
   display: flex;
   flex-direction: column;
@@ -48,6 +49,8 @@ main {
 @media (min-width: 1000px) {
   main {
     flex-direction: row;
+    margin: auto;
+    max-width: 70%;
   }
   .hero-text {
   min-height:auto;

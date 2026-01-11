@@ -717,6 +717,18 @@
                 href="https://umbrella-plus.com.ua/uk/reviewslocal/lomka/1/"
                 />
   </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/reviewslocal/lomka/2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/reviewslocal/lomka/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/reviewslocal/lomka/2/"
+                />
+  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/reviewslocal/narkot/1/</loc>
     <xhtml:link
                 rel="alternate"
@@ -773,6 +785,8 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/cherkasy/vivod-iz-zapoia-vdoma-cherkasi-ua/</loc>
   </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/chornomorsk/vivod-iz-zapoia-na-domy-chernomorsk-ua/</loc>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/chuguev/vivod-iz-zapoia-na-domy-chygyev-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/dnepr/vivod-iz-zapoia-dnepr-ua/</loc>
@@ -782,8 +796,6 @@
     <loc>https://umbrella-plus.com.ua/uk/kiev/vivod-iz-zapoia-kiev-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/lviv/vivod-iz-zapoia-lvov-ua/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/chornomorsk/vivod-iz-zapoia-na-domy-chernomorsk-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/dnepr/vivod-iz-zapoia-na-domy-dnepr-ua/</loc>
   </url><url>
@@ -819,18 +831,6 @@
                 rel="alternate"
                 hreflang="uk-UA"
                 href="https://umbrella-plus.com.ua/uk/reviewsgoogle/6/"
-                />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/reviewsgoogle/3/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewsgoogle/3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewsgoogle/3/"
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kharkiv/detox-ot-amfetamina-kharkiv/</loc>
@@ -959,6 +959,8 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/cherkasy/kodirovka-ot-alkogolia-cherkassy-ua/</loc>
   </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/chornomorsk/kodirovka-ot-alkogolizma-chernomorsk-ua/</loc>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/services/kapli-midzo-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/zaporozie/kod-ot-alkogolia-disulfiram-zp/</loc>
@@ -1027,19 +1029,23 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/lviv/kapelnica_ot_alkogola_lvov/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/chornomorsk/kapelnica_ot_alkogola_chernomorsk-ua/</loc>
-  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kharkiv/kapelnica_ot_alkogola_kharkiv-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/cherkasy/krapelnica_vid_alkogolia-cherkasy-ua/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/chornomorsk/kapelnica_ot_alkogola_chernomorsk-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/chuguev/kapelnica_ot_alkogola_chygyev-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/dnepr/kap-ot-nark-dnepr-ua/</loc>
   </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/kiev/kap-ot-nark-kiev-ua/</loc>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kamianske/kapelnica-ot-nark-kamenskoie-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kharkiv/kap-ot-nark-ua/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/chornomorsk/kapelnica-ot-nark-chernomorsk-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/services-otryenya/</loc>
   </url><url>
@@ -1149,6 +1155,18 @@
                 href="https://umbrella-plus.com.ua/uk/cherkasy/"
                 />
   </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/chornomorsk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/chornomorsk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/chornomorsk/"
+                />
+  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/chuguev/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1170,18 +1188,6 @@
     <loc>https://umbrella-plus.com.ua/uk/kiev/likyvania-alkogolizmy-kiev/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kharkiv/lechenie-alkogolizma-kharkiv-ua/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/chornomorsk/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/chornomorsk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/chornomorsk/"
-                />
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/services/lechenie-jenskogo-alkogolizma-umbrellaplus-ua/</loc>
   </url><url>
@@ -1208,8 +1214,6 @@
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/services-nark/lechenie-narkomanii-ua/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/kiev/kap-ot-nark-kiev-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/odesa/krapelnica_vid_narkotikiv-odesa-ua/</loc>
   </url><url>

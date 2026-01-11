@@ -35,7 +35,12 @@
   filter: invert(32%) sepia(62%) saturate(1927%) hue-rotate(337deg) brightness(78%) contrast(117%);
 }
 
-@media (min-width: 1000px){
+@media (min-width: 1600px){
+  .preheader{
+    max-width: 71%;
+    transform: translate(-50%, 0);
+    left:50%;
+  }
   .preheader-hours{
     display: block;
     color:whitesmoke;

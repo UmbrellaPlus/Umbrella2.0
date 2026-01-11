@@ -81,7 +81,7 @@ nav a img {
   background-color: whitesmoke;
   z-index: 10000;
   font-weight: 600;
-  font-size: 1.2rem;
+  font-size: 1.0rem;
   list-style: none;
   overflow-y: auto;
 }
@@ -125,7 +125,15 @@ nav a img {
   margin-top: 1rem;
   margin-left:1rem;
 }
-@media (min-width: 1400px) {
+@media (min-width: 1600px) {
+  header{
+    max-width: 71%;
+    margin: 3.5rem auto;
+    transform: translate(-50%, 0);
+    left:50%;
+    border-radius: 0 0 10px 10px;
+    box-shadow: 0px 2px 15px 0px #808080;
+  }
   #hamburger {
     display: none;
   }
