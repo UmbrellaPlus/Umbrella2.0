@@ -18,7 +18,7 @@ reviewType: alk-1
 | ------------------------------------------------------------------------------------------- | ----------- |
 | **[Вывод из запоя на дому](chornomorsk/Vivod-iz-zapoia-na-domy-chernomorsk)**               | От 2199 грн |
 | **[Капельница от алкоголя](chornomorsk/Kapelnica_ot_alkogola_chernomorsk)**                 | От 2199 грн |
-| **[Капельница от наркотиков](chornomorsk/kapelnica-ot-nark-chernomorsk-ua)**                | От 2499 грн |
+| **[Капельница от наркотиков](chornomorsk/kapelnica-ot-narkotikov-chernomorsk)**             | От 2499 грн |
 | **[Кодирование от алкоголизма Черноморск](chornomorsk/kodirovka-ot-alkogolia-chernomorsk)** | От 6000 грн |
 
 | Услуги \| Лечение алкоголизма              | Цена        |
