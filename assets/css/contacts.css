@@ -46,6 +46,7 @@
     flex-direction: column;
   }
   .contacts-map iframe {
+    aspect-ratio: 4/3;
     width: 100%;
     height: 100%;
   }
