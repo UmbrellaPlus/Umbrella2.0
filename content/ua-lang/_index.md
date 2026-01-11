@@ -1,6 +1,6 @@
 ---
 layout: index-ua
-title: Umbrella Plus | Безпечна наркологія
+tabTitle: Umbrella Plus | Безпечна наркологія
 homeHeader: Амбрела | Рятуємо життя щодня
 homeText1: Лікування алкоголізму та наркоманії
 homeText2: Зняття алкогольної/наркотичної інтоксикації
