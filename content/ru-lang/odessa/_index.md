@@ -18,7 +18,7 @@ reviewType: alk-2
 | ----------------------------------------------------------------------------- | ----------- |
 | **[Вывод из запоя на дому](odessa/vivod-iz-zapoia-na-domu-odesa)**            | От 2199 грн |
 | **[Капельница от алкоголя](odessa/kapelnica-ot-alkogolia-odesa)**             | От 2199 грн |
-| [Капельница от наркотиков](odessa/kapelnica-ot-nakrotikov-odessa)             | От 2499 грн |
+| **[Капельница от наркотиков](odessa/kapelnica-ot-nakrotikov-odessa)**         | От 2499 грн |
 | [Кодирование от алкоголизма Одесса](odessa/kodirovanie-ot-alkogolizma-odessa) | От 6000 грн |
 
 | Услуги \| Лечение алкоголизма                                    | Цена        |
