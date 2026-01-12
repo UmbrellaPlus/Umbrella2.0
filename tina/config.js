@@ -1,5 +1,5 @@
 import { defineConfig, FieldDescription } from "tinacms";
-import { useTina } from 'tinacms/dist/react';
+import { useTina } from "tinacms/dist/react";
 
 // Your hosting provider likely exposes this as an environment variable
 const branch =
@@ -70,7 +70,21 @@ const homePageTemplate = [
     label: "Основной текст страницы",
     name: "body",
     isBody: true,
-    toolbarOverride: ['heading', 'link', 'quote', 'ul', 'ol', 'bold', 'italic', 'code', 'codeBlock', 'mermaid', 'table', 'raw', 'embed'],
+    toolbarOverride: [
+      "heading",
+      "link",
+      "quote",
+      "ul",
+      "ol",
+      "bold",
+      "italic",
+      "code",
+      "codeBlock",
+      "mermaid",
+      "table",
+      "raw",
+      "embed",
+    ],
   },
 ];
 
@@ -166,10 +180,12 @@ const cityTemplate = [
       {
         value: "otravl",
         label: "Пищевое отравление",
-      },      {
+      },
+      {
         value: "narkot",
         label: "Лечение наркомании",
-      },      {
+      },
+      {
         value: "lomka",
         label: "Лечение нарк ломки",
       },
@@ -180,7 +196,21 @@ const cityTemplate = [
     label: "Основной текст страницы",
     name: "body",
     isBody: true,
-    toolbarOverride: ['heading', 'link', 'quote', 'ul', 'ol', 'bold', 'italic', 'code', 'codeBlock', 'mermaid', 'table', 'raw', 'embed'],
+    toolbarOverride: [
+      "heading",
+      "link",
+      "quote",
+      "ul",
+      "ol",
+      "bold",
+      "italic",
+      "code",
+      "codeBlock",
+      "mermaid",
+      "table",
+      "raw",
+      "embed",
+    ],
   },
 ];
 
@@ -255,7 +285,21 @@ const blogTemplate = [
     label: "Основной текст страницы",
     name: "body",
     isBody: true,
-    toolbarOverride: ['heading', 'link', 'quote', 'ul', 'ol', 'bold', 'italic', 'code', 'codeBlock', 'mermaid', 'table', 'raw', 'embed'],
+    toolbarOverride: [
+      "heading",
+      "link",
+      "quote",
+      "ul",
+      "ol",
+      "bold",
+      "italic",
+      "code",
+      "codeBlock",
+      "mermaid",
+      "table",
+      "raw",
+      "embed",
+    ],
   },
 ];
 
@@ -288,7 +332,21 @@ const googleFeedbackTemplate = [
     label: "Текст отзыва",
     name: "body",
     isBody: true,
-    toolbarOverride: ['heading', 'link', 'quote', 'ul', 'ol', 'bold', 'italic', 'code', 'codeBlock', 'mermaid', 'table', 'raw', 'embed'],
+    toolbarOverride: [
+      "heading",
+      "link",
+      "quote",
+      "ul",
+      "ol",
+      "bold",
+      "italic",
+      "code",
+      "codeBlock",
+      "mermaid",
+      "table",
+      "raw",
+      "embed",
+    ],
   },
 ];
 
@@ -368,17 +426,15 @@ export default defineConfig({
           },
         },
       },
-      //CITIES-NEW
+      //CITIES-RU
       {
-        name: "filials_ru",
-        label: "Филиалы-RU",
+        name: "filials_ru_odessa",
+        label: "Ф-RU Одесская обл.",
         path: "content/ru-lang",
         fields: [...cityTemplate],
         match: {
-          include:
-            "{cherkasy/**/*,chornomorsk/**/*,chuguev/**/*,dnepr/**/*,kamianske/**/*,kharkiv/**/*,kiev/**/*,lviv/**/*,odessa/**/*,zaporozie/**/*}",
-          exclude:
-            "{blog/**/*,directory/**/*,homepage/**/*,reviews/**/*,services/**/*,services-khymioterapiya/**/*,services-nark/**/*,services-otravlenie/**/*,services-vitamini/**/*,_index,about-us,collaboration,contacts}",
+          include: "{chornomorsk/**/*,odessa/**/*}",
+          exclude: "*",
         },
         ui: {
           allowedActions: {
@@ -387,15 +443,13 @@ export default defineConfig({
         },
       },
       {
-        name: "filials_ua",
-        label: "Филиалы-UA",
-        path: "content/ua-lang",
+        name: "filials_ru_kharkov",
+        label: "Ф-RU Харьковская обл.",
+        path: "content/ru-lang",
         fields: [...cityTemplate],
         match: {
-          include:
-            "{cherkasy/**/*,chornomorsk/**/*,chuguev/**/*,dnepr/**/*,kamianske/**/*,kharkiv/**/*,kiev/**/*,lviv/**/*,odesa/**/*,zaporozie/**/*}",
-          exclude:
-            "{blog/**/*,directory/**/*,homepage/**/*,reviews/**/*,services/**/*,services-khymioterapiya/**/*,services-nark/**/*,services-otravlenie/**/*,services-vitamini/**/*,_index,about-us,collaboration,contacts}",
+          include: "{chuguev/**/*,kharkiv/**/*}",
+          exclude: "*",
         },
         ui: {
           allowedActions: {
@@ -403,6 +457,247 @@ export default defineConfig({
           },
         },
       },
+      {
+        name: "filials_ru_dnepr",
+        label: "Ф-RU Днепровская обл.",
+        path: "content/ru-lang",
+        fields: [...cityTemplate],
+        match: {
+          include: "{dnepr/**/*,kamianske/**/*}",
+          exclude: "*",
+        },
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "filials_ru_kiev",
+        label: "Ф-RU Киевская обл.",
+        path: "content/ru-lang",
+        fields: [...cityTemplate],
+        match: {
+          include: "kiev/**/*",
+          exclude: "*",
+        },
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "filials_ru_lvov",
+        label: "Ф-RU Львовская обл.",
+        path: "content/ru-lang",
+        fields: [...cityTemplate],
+        match: {
+          include: "lviv/**/*",
+          exclude: "*",
+        },
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "filials_ru_cherkasy",
+        label: "Ф-RU Черкасская обл.",
+        path: "content/ru-lang",
+        fields: [...cityTemplate],
+        match: {
+          include: "cherkasy/**/*",
+          exclude: "*",
+        },
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "filials_ru_zaporozie",
+        label: "Ф-RU Запорожская обл.",
+        path: "content/ru-lang",
+        fields: [...cityTemplate],
+        match: {
+          include: "zaporozie/**/*",
+          exclude: "*",
+        },
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      //COUNTRIES-RU
+      {
+        name: "filials_ru_azerbaidjan",
+        label: "Ф-RU АЗЕРБАЙДЖАН",
+        path: "content/ru-lang",
+        fields: [...cityTemplate],
+        match: {
+          include: "azerbaidjan-baky/**/*",
+          exclude: "*",
+        },
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "filials_ru_gruziya",
+        label: "Ф-RU ГРУЗИЯ",
+        path: "content/ru-lang",
+        fields: [...cityTemplate],
+        match: {
+          include: "gruziya-tbilisi/**/*",
+          exclude: "*",
+        },
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "filials_ru_kazahstan",
+        label: "Ф-RU КАЗАХСТАН",
+        path: "content/ru-lang",
+        fields: [...cityTemplate],
+        match: {
+          include: "kazahstan-almaty/**/*",
+          exclude: "*",
+        },
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },      {
+        name: "filials_ru_moldova",
+        label: "Ф-RU МОЛДОВА",
+        path: "content/ru-lang",
+        fields: [...cityTemplate],
+        match: {
+          include: "moldova-kishinev/**/*",
+          exclude: "*",
+        },
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },      {
+        name: "filials_ru_polsha",
+        label: "Ф-RU ПОЛЬША",
+        path: "content/ru-lang",
+        fields: [...cityTemplate],
+        match: {
+          include: "polsha-varsava/**/*",
+          exclude: "*",
+        },
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      //CITIES-UA
+      {
+        name: "filials_ua_odesa",
+        label: "Ф-UA Одесская обл",
+        path: "content/ua-lang",
+        fields: [...cityTemplate],
+        match: {
+          include: "{chornomorsk/**/*,odesa/**/*}",
+          exclude: "*",
+        },
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "filials_ua_kharkiv",
+        label: "Ф-UA Харьковская обл.",
+        path: "content/ua-lang",
+        fields: [...cityTemplate],
+        match: {
+          include: "{chuguev/**/*,kharkiv/**/*}",
+          exclude: "*",
+        },
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "filials_ua_dnepr",
+        label: "Ф-UA Днепровская обл.",
+        path: "content/ua-lang",
+        fields: [...cityTemplate],
+        match: {
+          include: "{dnepr/**/*,kamianske/**/*}",
+          exclude: "*",
+        },
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "filials_ua_kiev",
+        label: "Ф-UA Киевская обл.",
+        path: "content/ua-lang",
+        fields: [...cityTemplate],
+        match: {
+          include: "{kiev/**/*}",
+          exclude: "*",
+        },
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "filials_ua_cherkasy",
+        label: "Ф-UA Черкасская обл.",
+        path: "content/ua-lang",
+        fields: [...cityTemplate],
+        match: {
+          include: "{cherkasy/**/*}",
+          exclude: "*",
+        },
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "filials_ua_zaporozie",
+        label: "Ф-UA Запорожская обл.",
+        path: "content/ua-lang",
+        fields: [...cityTemplate],
+        match: {
+          include: "{zaporozie/**/*}",
+          exclude: "*",
+        },
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      //COUNTRIES UA
       //BLOG
       {
         name: "blog_ru",
