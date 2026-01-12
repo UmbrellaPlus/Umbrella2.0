@@ -535,69 +535,11 @@ export default defineConfig({
       //COUNTRIES-RU
       {
         name: "filials_ru_azerbaidjan",
-        label: "Ф-RU АЗЕРБАЙДЖАН",
+        label: "Ф-RU ДРУГИЕ СТРАНЫ",
         path: "content/ru-lang",
         fields: [...cityTemplate],
         match: {
-          include: "azerbaidjan-baky/**/*",
-          exclude: "*",
-        },
-        ui: {
-          allowedActions: {
-            createNestedFolder: false,
-          },
-        },
-      },
-      {
-        name: "filials_ru_gruziya",
-        label: "Ф-RU ГРУЗИЯ",
-        path: "content/ru-lang",
-        fields: [...cityTemplate],
-        match: {
-          include: "gruziya-tbilisi/**/*",
-          exclude: "*",
-        },
-        ui: {
-          allowedActions: {
-            createNestedFolder: false,
-          },
-        },
-      },
-      {
-        name: "filials_ru_kazahstan",
-        label: "Ф-RU КАЗАХСТАН",
-        path: "content/ru-lang",
-        fields: [...cityTemplate],
-        match: {
-          include: "kazahstan-almaty/**/*",
-          exclude: "*",
-        },
-        ui: {
-          allowedActions: {
-            createNestedFolder: false,
-          },
-        },
-      },      {
-        name: "filials_ru_moldova",
-        label: "Ф-RU МОЛДОВА",
-        path: "content/ru-lang",
-        fields: [...cityTemplate],
-        match: {
-          include: "moldova-kishinev/**/*",
-          exclude: "*",
-        },
-        ui: {
-          allowedActions: {
-            createNestedFolder: false,
-          },
-        },
-      },      {
-        name: "filials_ru_polsha",
-        label: "Ф-RU ПОЛЬША",
-        path: "content/ru-lang",
-        fields: [...cityTemplate],
-        match: {
-          include: "polsha-varsava/**/*",
+          include: "{azerbaidjan-baky/**/*,gruziya-tbilisi/**/*,kazahstan-almaty/**/*,moldova-kishinev/**/*,polsha-varsava/**/*}",
           exclude: "*",
         },
         ui: {
@@ -658,7 +600,7 @@ export default defineConfig({
         path: "content/ua-lang",
         fields: [...cityTemplate],
         match: {
-          include: "{kiev/**/*}",
+          include: "kiev/**/*",
           exclude: "*",
         },
         ui: {
@@ -673,7 +615,7 @@ export default defineConfig({
         path: "content/ua-lang",
         fields: [...cityTemplate],
         match: {
-          include: "{cherkasy/**/*}",
+          include: "cherkasy/**/*",
           exclude: "*",
         },
         ui: {
@@ -688,7 +630,7 @@ export default defineConfig({
         path: "content/ua-lang",
         fields: [...cityTemplate],
         match: {
-          include: "{zaporozie/**/*}",
+          include: "zaporozie/**/*",
           exclude: "*",
         },
         ui: {
