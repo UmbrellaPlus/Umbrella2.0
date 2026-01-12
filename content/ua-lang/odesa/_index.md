@@ -17,7 +17,7 @@ reviewType: alk-2
 | Популярні послуги                                                          | Ціна         |
 | -------------------------------------------------------------------------- | ------------ |
 | **[Виведення із запою вдома](odesa/vivod-iz-zapoia-na-domu-odesa)**        | Від 2199 грн |
-| [Крапельниця від алкоголю](odesa/kapelnica-ot-alkogolia-odesa)             | Від 2199 грн |
+| **[Крапельниця від алкоголю](odesa/kapelnica-ot-alkogolia-odesa)**         | Від 2199 грн |
 | [Крапельниця від наркотиків](odesa/Krapelnica_vid_narkotikiv-odesa-ua)     | Від 2499 грн |
 | [Кодування від алкоголізму уколом](odesa/kodirovka-ot-alkogolsma-odesa-ua) | Від 6000 грн |
 
