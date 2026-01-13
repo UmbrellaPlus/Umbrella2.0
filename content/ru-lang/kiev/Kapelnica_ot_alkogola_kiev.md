@@ -4,7 +4,7 @@ title: 'Капельница от алкоголя Киев '
 description: Помощь здесь и сейчас
 image: /img/Kiev-new10.09.2025/ka.jpg
 imageText: Капельница от алкоголя Киев
-ratingAvarage: 4.98/5
+ratingAvarage: 4.99/5
 rating: '6728'
 reviewType: alk-1
 ---
