@@ -50,8 +50,6 @@
   justify-content: center;
   align-items: center;
 }
-.discounts-image{
-}
 .discounts-image img{
   width: 70vw;
   border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
@@ -123,13 +121,19 @@
   .about-clinic {
     max-width: 70vw;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
   }
   .about-clinic > * {
     flex: 1;
   }
+  .clinic-description{
+    flex:2;
+  }
   .clinic-img {
     margin-top: 1em;
+  }
+  .clinic-img img{
+    max-width: 12.5rem;
   }
 }
 

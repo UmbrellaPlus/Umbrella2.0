@@ -1,5 +1,5 @@
 .main-padding{
-  padding: 4.5rem;
+  padding: 4rem;
 }
 main {
   padding-bottom: 1rem;
@@ -54,8 +54,6 @@ main {
   }
   .hero-text {
   min-height:auto;
-  }
-  .main-image img { 
   }
   .hero-vid {
     padding: 1rem;

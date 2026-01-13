@@ -75,9 +75,10 @@ table {
 
 th,
 td {
-  padding: 12px;
+  padding: 0.8rem;
   text-align: left;
   border-bottom: 1px solid #ddd;
+  width: 75%;
 }
 
 th {
@@ -95,7 +96,7 @@ tbody tr:hover {
 
 @media (min-width: 1000px) {
   .markdown {
-    max-width: 50%;
+    max-width: 70%;
   }
 }
 

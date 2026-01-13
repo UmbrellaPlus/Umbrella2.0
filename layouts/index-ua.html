@@ -6,6 +6,7 @@
   <body>
     {{ partial "snowflakes.html" . }} {{partial "sticky-phone.html"}} {{ partial
     "preheader-ua.html"}} {{ partial "header.html"}}
+    <div class="main-padding"></div>
     <main>
       <div class="index-hero-text">
         <h1>{{.Params.homeHeader}}<br /></h1>
@@ -40,8 +41,8 @@
               <div class="discounts-image">
                 <a href="{{.Params.link}}">
                   <picture>
-                    {{$discPhone := resources.Get .Params.imagephone}}
-                    {{$discPC := resources.Get .Params.imagepc}}
+                    {{$discPhone := resources.Get .Params.imagephone}} {{$discPC
+                    := resources.Get .Params.imagepc}}
                     <source
                       media="(max-width: 720px)"
                       srcset="{{$discPhone.RelPermalink}}"
