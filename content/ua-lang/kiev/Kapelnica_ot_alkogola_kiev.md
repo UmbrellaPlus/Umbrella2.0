@@ -4,7 +4,7 @@ title: Крапельниця від алкоголю Київ
 description: Допомога тут і зараз
 image: /img/Kiev-new10.09.2025/ka.jpg
 imageText: Крапельниця від алкоголю Київ
-ratingAvarage: 4.98/5
+ratingAvarage: 4.99/5
 rating: '6728'
 reviewType: alk-1
 ---
