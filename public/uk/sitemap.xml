@@ -1255,6 +1255,18 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/chuguev/narkolig-na-dom-chygyev-ua/</loc>
   </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/doctors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/doctors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/doctors/"
+                />
+  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/reviews/</loc>
     <xhtml:link
                 rel="alternate"

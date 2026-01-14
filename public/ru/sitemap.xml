@@ -1251,6 +1251,18 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/kharkiv/vizov-narkologa-kharkov/</loc>
   </url><url>
+    <loc>https://umbrella-plus.com.ua/doctors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/doctors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/doctors/"
+                />
+  </url><url>
     <loc>https://umbrella-plus.com.ua/about-us/</loc>
     <xhtml:link
                 rel="alternate"

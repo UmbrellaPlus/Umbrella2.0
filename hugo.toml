@@ -66,7 +66,7 @@ defaultContentLanguageInSubdir = false
                         parent = 'services'
             [[languages.ru.menus.main]]
                 name = 'Врачи'
-                url = '/#doctors'
+                url = '/doctors'
                 weight = 20
                 identifier = 'doctors'
             [[languages.ru.menus.main]]
@@ -183,7 +183,7 @@ defaultContentLanguageInSubdir = false
                         parent = 'services'
             [[languages.uk.menus.main]]
                 name = 'Лікарі'
-                url = '/uk/#doctors'
+                url = '/uk/doctors'
                 weight = 20
                 identifier = 'doctors'
             [[languages.uk.menus.main]]

@@ -9,10 +9,28 @@
     "preheader-ua.html" . }}{{end}} {{partial "header.html" . }}
     <div class="main-padding"></div>
     <main>{{block "main".}}{{end}}</main>
-    <div class="markdown">{{.Content}}</div>
+    <div class="markdown-container">
+      <div class="markdown">{{.Content}}</div>
+      <div class="markdown-side-menu">
+        {{ range site.Menus.main }} {{if eq .Identifier "services"}}
+        <p class="markdown-side-menu-header">{{.Name}}</p>
+        {{ if .HasChildren }} {{range .Children}}
+        <ul>
+          <li><a href="{{.URL}}">{{.Name}}</a></li>
+        </ul>
+        {{ end }} {{end}} {{end}} {{end}} {{if in .Site.Language "ru"}}<p class="markdown-side-menu-header">Актуальные
+        новости</p>{{else}}<p class="markdown-side-menu-header">Актуальні новини</p>{{end}} {{ range first 5 (where
+        .Site.RegularPages "Type" "blog") }}
+        <ul>
+          <li>
+            <a href="{{.Permalink}}">{{.Name}}</a>
+          </li>
+        </ul>
+        {{end}}
+      </div>
+    </div>
     {{if in .Site.Language "ru"}} {{ partial "star-rating.html" .}}{{ else }} {{
-    partial "star-rating-ua.html" .}}{{end}}{{partial
-    "local-reviews.html" .}}
+    partial "star-rating-ua.html" .}}{{end}}{{partial "local-reviews.html" .}}
     <div style="text-align: center">
       {{ if in .Site.Language "ru" }} {{partial "latest-news.html" .}} {{ else
       }} {{partial "latest-news-ua.html" .}} {{ end }}

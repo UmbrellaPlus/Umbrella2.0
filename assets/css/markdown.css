@@ -1,13 +1,18 @@
-.markdown {
-  padding:1.5rem 0;
+.markdown-container {
+  display: flex;
   max-width: 97.5%;
   margin: auto;
+}
+.markdown {
+  margin:1.5rem 0;
   display: flex;
   flex-direction: column;
   min-height: 3em;
   white-space: normal;
 }
-
+.markdown-side-menu{
+  display: none;
+}
 .markdown h1{
   color:var(--blue)
 }
@@ -95,8 +100,36 @@ tbody tr:hover {
 }
 
 @media (min-width: 1000px) {
-  .markdown {
+  .markdown-container{
     max-width: 70%;
+  }
+  .markdown {
+    max-width: 60%;
+    align-self: flex-start;
+  }
+  .markdown-side-menu{
+    display: block;
+    margin: 3rem 1.5rem;
+    padding:1rem;
+    height: 100%;
+    background-color: whitesmoke;
+    border-radius: 1rem;
+  }
+  .markdown-side-menu-header{
+    padding: 0.5rem;
+    font-weight: 600;
+    color: var(--blue)
+  }
+  .markdown-side-menu ul{
+    margin-left:1rem;
+    list-style: none;
+    padding:0.5rem;
+  }
+  .markdown-side-menu ul li a{
+    transition: 0.1s;
+  }
+  .markdown-side-menu ul li a:hover{
+    color: grey;
   }
 }
 

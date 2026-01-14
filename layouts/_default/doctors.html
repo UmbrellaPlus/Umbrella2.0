@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  <body>
+    {{partial "sticky-phone.html"}} {{ partial "preheader.html"}} {{ partial
+    "header.html"}} <div class="main-padding"></div>{{if in .Site.Language "ru"}} {{partial
+    "doctors-slider.html"}} {{ else }} {{partial "doctors-slider-ua.html"}}
+    {{end}} {{if in .Site.Language "ru"}} {{partial "contacts.html" . }} {{ else
+    }} {{partial "contacts-ua.html" . }} {{end}} {{partial "footer.html" .}}
+  </body>
+</html>

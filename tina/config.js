@@ -539,7 +539,8 @@ export default defineConfig({
         path: "content/ru-lang",
         fields: [...cityTemplate],
         match: {
-          include: "{azerbaidjan-baky/**/*,gruziya-tbilisi/**/*,kazahstan-almaty/**/*,moldova-kishinev/**/*,polsha-varsava/**/*}",
+          include:
+            "{azerbaidjan-baky/**/*,gruziya-tbilisi/**/*,kazahstan-almaty/**/*,moldova-kishinev/**/*,polsha-varsava/**/*}",
           exclude: "*",
         },
         ui: {
@@ -586,6 +587,21 @@ export default defineConfig({
         fields: [...cityTemplate],
         match: {
           include: "{dnepr/**/*,kamianske/**/*}",
+          exclude: "*",
+        },
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "filials_ua_lviv",
+        label: "Ф-UA Львоваская обл.",
+        path: "content/ua-lang",
+        fields: [...cityTemplate],
+        match: {
+          include: "lviv/**/*",
           exclude: "*",
         },
         ui: {
