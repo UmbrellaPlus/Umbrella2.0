@@ -28,7 +28,7 @@
         {{ end }} {{ end }} {{ end }}
       </div>
     </main>
-    <div class="markdown">{{.Content}}</div>
+    <div class="markdown addidtionalPage">{{.Content}}</div>
     {{if in .Site.Language "ru"}} {{partial "cities-carousel.html" .}} {{ else
     }}{{partial "cities-carousel-ua.html" .}} {{end}} {{if in .Site.Language
     "ru"}} {{partial "contacts.html" . }} {{ else }} {{partial
