@@ -597,7 +597,7 @@ export default defineConfig({
       },
       {
         name: "filials_ua_lviv",
-        label: "Ф-UA Львоваская обл.",
+        label: "Ф-UA Львовская обл.",
         path: "content/ua-lang",
         fields: [...cityTemplate],
         match: {
