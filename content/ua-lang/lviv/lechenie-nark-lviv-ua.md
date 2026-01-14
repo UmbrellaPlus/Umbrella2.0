@@ -3,7 +3,7 @@ tabTitle: Крапельниця від наркотиків Львів | Umbrel
 title: ' Крапельниця від наркотиків Львів'
 description: Час повернути життя під контроль
 image: /img/lvov/kap-ot-nark-lviv.jpg
-imageText: 'Лікування наркоманії Львів: крапельниця від наркотиків'
+imageText: ' Крапельниця від наркотиків Львів'
 ratingAvarage: 4.99/5
 rating: '5832'
 reviewType: alk-2
