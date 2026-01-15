@@ -101,10 +101,10 @@ tbody tr:hover {
 
 @media (min-width: 1000px) {
   .markdown-container{
-    max-width: 70%;
+    max-width: 67%;
   }
   .markdown {
-    max-width: 60%;
+    min-width: 70%;
     align-self: flex-start;
   }
   .markdown-side-menu{
@@ -114,6 +114,7 @@ tbody tr:hover {
     height: 100%;
     background-color: whitesmoke;
     border-radius: 1rem;
+    min-width: 30%;
   }
   .markdown-side-menu-header{
     padding: 0.5rem;
