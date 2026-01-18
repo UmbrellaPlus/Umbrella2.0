@@ -2,6 +2,7 @@
 tabTitle: Алкогольна амнезія | UmbrellaPlus
 title: Алкогольна амнезія
 description: Провали в пам'яті після алкоголю – ознака ураження мозку
+date: 2026-01-17T22:55:37.147Z
 image: /img/blog/alkogolna-amnezia.jpg
 imageText: Алкогольна амнезія
 ratingAvarage: 4.99/5
