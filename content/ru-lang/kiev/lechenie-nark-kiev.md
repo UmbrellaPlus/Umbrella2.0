@@ -6,7 +6,7 @@ image: /img/Kiev-new10.09.2025/lechenie-nark-kiev.jpg
 imageText: Лечение наркомании Киев
 ratingAvarage: 4.99/5
 rating: '7671'
-reviewType: alk-2
+reviewType: narkot
 ---
 
 ## Лечение наркомании Киев
