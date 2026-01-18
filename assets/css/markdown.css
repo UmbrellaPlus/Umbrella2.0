@@ -108,6 +108,8 @@ tbody tr:hover {
     align-self: flex-start;
   }
   .markdown-side-menu{
+    position:sticky;
+    top:10rem;
     display: block;
     margin: 3rem 1.5rem;
     padding:1rem;

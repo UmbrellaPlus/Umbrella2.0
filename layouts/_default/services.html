@@ -28,7 +28,26 @@
         {{ end }} {{ end }} {{ end }}
       </div>
     </main>
-    <div class="markdown addidtionalPage">{{.Content}}</div>
+    <div class="markdown-container">
+      <div class="markdown">{{.Content}}</div>
+      <div class="markdown-side-menu">
+        {{ range site.Menus.main }} {{if eq .Identifier "services"}}
+        <p class="markdown-side-menu-header">{{.Name}}</p>
+        {{ if .HasChildren }} {{range .Children}}
+        <ul>
+          <li><a href="{{.URL}}">{{.Name}}</a></li>
+        </ul>
+        {{ end }} {{end}} {{end}} {{end}} {{if in .Site.Language "ru"}}<p class="markdown-side-menu-header">Актуальные
+        новости</p>{{else}}<p class="markdown-side-menu-header">Актуальні новини</p>{{end}} {{ range first 5 (where
+        .Site.RegularPages "Type" "blog") }}
+        <ul>
+          <li>
+            <a href="{{.Permalink}}">{{.Name}}</a>
+          </li>
+        </ul>
+        {{end}}
+      </div>
+    </div>
     {{if in .Site.Language "ru"}} {{partial "cities-carousel.html" .}} {{ else
     }}{{partial "cities-carousel-ua.html" .}} {{end}} {{if in .Site.Language
     "ru"}} {{partial "contacts.html" . }} {{ else }} {{partial

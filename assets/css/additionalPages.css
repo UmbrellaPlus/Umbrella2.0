@@ -1,3 +1,4 @@
-.addidtionalPage{
+.additionalPage{
     margin: auto !important;
-}
+    max-width: 70% !important;
+} 

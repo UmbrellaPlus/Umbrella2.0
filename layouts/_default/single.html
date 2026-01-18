@@ -6,17 +6,13 @@
   {{partial "telegram-form-ua.html" . }} {{end}}
 </div>
 <div class="main-image">
-
-{{ with .Params.image }}
-  {{ with resources.Get . }}
-    {{ with .Resize "1200x webp q50" }}
-      <img src="{{ .RelPermalink }}"
-           alt="{{$.Params.imageText}}"
-           loading="eager"
-           fetchpriority="high">
-    {{ end }}
-  {{ end }}
-{{ end }}
-
+  {{ with .Params.image }} {{ with resources.Get . }} {{ with .Resize "1200x webp q50" }}
+  <img
+    src="{{ .RelPermalink }}"
+    alt="{{$.Params.imageText}}"
+    loading="eager"
+    fetchpriority="high"
+  />
+  {{ end }} {{ end }} {{ end }}
 </div>
 {{ end }}

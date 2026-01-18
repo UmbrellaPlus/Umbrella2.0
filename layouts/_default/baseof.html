@@ -4,7 +4,7 @@
     {{ partial "head.html" . }}
   </head>
   <body>
-    {{ partial "snowflakes.html" . }} {{partial "sticky-phone.html" . }} {{if in
+    {{partial "sticky-phone.html" . }} {{if in
     .Site.Language "ru"}} {{partial "preheader.html" . }} {{ else }} {{partial
     "preheader-ua.html" . }}{{end}} {{partial "header.html" . }}
     <div class="main-padding"></div>
