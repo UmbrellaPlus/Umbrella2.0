@@ -6,6 +6,7 @@ image: /img/Kiev-new10.09.2025/lechenie-nark-kiev.jpg
 imageText: Лікування наркоманії Київ
 ratingAvarage: 4.99/5
 rating: '7671'
+reviewType: narkot
 ---
 
 ## Лікування наркоманії Київ
