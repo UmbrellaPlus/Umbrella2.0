@@ -1,8 +1,8 @@
 ---
-tabTitle: Капельница от алкоголя на дому Днепр | Umbrella Plus | От 1999 грн
+tabTitle: Капельница от алкоголя на дому в Днепре | Umbrella Plus | От 2199 грн
 title: Капельница от алкоголя на дому Днепр
 description: Избавляем от похмелья легко и эффективно
-image: /img/dnepr-new/2233.jpg
+image: /img/Dnepr/kap-ot-alkogolia-doma-dnepr.jpg
 imageText: Капельница от алкоголя на дому Днепр
 ratingAvarage: 4.98/5
 rating: '2876'
