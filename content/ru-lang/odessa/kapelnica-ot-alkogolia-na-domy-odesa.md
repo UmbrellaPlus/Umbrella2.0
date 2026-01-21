@@ -1,3 +1,13 @@
+---
+tabTitle: Капельница от алкоголя на дому Одесса | Umbrella Plus | От 2199 грн
+title: Капельница от алкоголя на дому в Одесса
+description: Забота о здоровье без риска
+image: /img/Odessa-new/Kapelnica-ot-alkogolia-na-domy-odesa.jpg
+imageText: Капельница от алкоголя на дому в Одесса
+ratingAvarage: 4.99/5
+rating: '5121'
+reviewType: alk-2
+---
 
 ## Капельница от алкоголя на дому Одесса
 
