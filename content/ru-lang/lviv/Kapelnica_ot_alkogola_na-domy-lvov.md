@@ -2,7 +2,7 @@
 tabTitle: Капельница от алкоголя на дому во Львове | Umbrella Plus | От 2199 грн
 title: Капельница от алкоголя на дому Львов
 description: Срочная помощь при алкогольной интоксикации
-image: ''
+image: /img/lvov/Kapelnica-ot-alkogolia-na-domy-lviv.jpg
 imageText: Капельница от алкоголя на дому во Львове
 ratingAvarage: 4.98/5
 rating: '5923'
