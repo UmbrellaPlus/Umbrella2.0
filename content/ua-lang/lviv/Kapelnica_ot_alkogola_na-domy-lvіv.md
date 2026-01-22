@@ -2,7 +2,7 @@
 tabTitle: Крапельниця від алкоголю вдома у Львові | Umbrella Plus | Від 2199 грн
 title: Крапельниця від алкоголю вдома Львів
 description: Термінова допомога при алкогольній інтоксикації
-image: /img/Lvov-new/5.jpg
+image: /img/lvov/Kapelnica-ot-alkogolia-na-domy-lviv.jpg
 imageText: Крапельниця від алкоголю вдома у Львові
 ratingAvarage: 4.98/5
 rating: '5923'
