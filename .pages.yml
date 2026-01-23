@@ -31,6 +31,7 @@ content:
     view:
       fields: [title]
     fields:
+        - { name: title, label: Заголовок на странице, type: string }
         - component: cityTemplate
   - name: services-ru
     label: Сервисы с главного меню
@@ -40,4 +41,5 @@ content:
     view:
       fields: [title]
     fields:
+        - { name: title, label: Заголовок на странице, type: string }
         - component: cityTemplate
