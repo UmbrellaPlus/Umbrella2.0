@@ -33,8 +33,8 @@ content:
     view:
       fields: [title]
     fields:
-      - name: useOfCollection
-      - component: cityTemplate
+      name: useOfCollection
+      component: cityTemplate
   - name: services-ru
     label: Сервисы с главного меню
     type: collection
@@ -43,5 +43,5 @@ content:
     view:
       fields: [title]
     fields:
-      - name: useOfCollection
-      - component: cityTemplate
+      name: useOfCollection
+      component: cityTemplate
