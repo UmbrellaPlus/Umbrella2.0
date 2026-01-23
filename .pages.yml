@@ -1,36 +1,37 @@
 media:
   input: assets/img
   output: /img
+  
 components:
   cityTemplate:
     fields:
-      - name: tabTitle, 
-        label: Название вкладки в гугле, 
+      - name: tabTitle,
+        label: Название вкладки в гугле,
         type: string
-      - name: title, 
-        label: Заголовок на странице, 
+      - name: title,
+        label: Заголовок на странице,
         type: string
-      - name: description, 
-        label: Описание под заголовком, 
+      - name: description,
+        label: Описание под заголовком,
         type: string
-      - name: image, 
-        label: Картинка, 
+      - name: image,
+        label: Картинка,
         type: image
       - name: imageText,
         label: Описание картинки (нужно для СЕО),
         type: string,
-      - name: ratingAvarage, 
-        label: Среднее оценивание статьи, 
+      - name: ratingAvarage,
+        label: Среднее оценивание статьи,
         type: string
-      - name: rating, 
-        label: Сколько человек оценили, 
+      - name: rating,
+        label: Сколько человек оценили,
         type: number
       - name: reviewType,
         label: Тип отзывов,
         type: select,
         options: { values: [alk-1, alk-2, kod-1, kod-2] }
-      - name: body, 
-        label: Основной текст, 
+      - name: body,
+        label: Основной текст,
         type: rich-text
 
 content:
@@ -41,7 +42,7 @@ content:
     view:
       fields: [title]
     fields:
-        - component: cityTemplate
+      - component: cityTemplate
   - name: services-ru
     label: Сервисы с главного меню
     type: collection
@@ -50,4 +51,4 @@ content:
     view:
       fields: [title]
     fields:
-        - component: cityTemplate
+      - component: cityTemplate
