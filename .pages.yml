@@ -30,7 +30,6 @@ components:
         label: Основной текст
         type: rich-text
 
-
 media:
   input: assets/img
   output: /img
@@ -43,6 +42,7 @@ content:
     view:
       fields: [title]
     fields:
+      - type: component
       - component: cityTemplate
   - name: services-ru
     label: Сервисы с главного меню
@@ -52,4 +52,5 @@ content:
     view:
       fields: [title]
     fields:
+      - type: component
       - component: cityTemplate
