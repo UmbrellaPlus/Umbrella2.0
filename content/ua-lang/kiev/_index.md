@@ -27,7 +27,7 @@ reviewType: alk-2
 | [Екстрений виклик нарколога](vizov-nark-kiev-ua)                        | Від 2700 грн |
 | **[Виведення із запою](Vivod-iz-zapoia-kiev-ua)**                       | Від 2700 грн |
 | **[Крапельниця від алкоголю вдома](Kapelnica_ot_alkogola_na_dom_kiev)** | Від 2700 грн |
-| [Лікування алкоголізму](likyvania-alkogolizmy-kiev)                     | Від 2700 грн |
+| [Лікування алкоголізму](kiev/likyvania-alkogolizmy-kiev)                | Від 2700 грн |
 | [Лікування пивного алкоголізму](likyvania-pivnogo-alkogolizma-kyiv)     | Від 2700 грн |
 | [Лікування жіночого алкоголізм](likyvania-jenskogo-alkogolizma-kiev)    | Від 2700 грн |
 | Тест на вживання алкоголю (слина)                                       | Від 1500 грн |
