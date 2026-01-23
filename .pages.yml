@@ -1,21 +1,21 @@
-media: 
-    input: assets/img
-    output: /img
-values: &city:       
-      - { name: tabTitle, label: Название вкладки в гугле, type: string }
-      - { name: title, label: Заголовок на странице, type: sting }
-      - { name: description, label: Описание под заголовком, type: string }
-      - { name: image, label: Картинка, type: image }
-      - { name: imageText, label: Описание картинки (нужно для СЕО), type: string }
-      - { name: ratingAvarage, label: Среднее оценивание статьи, type: string }
-      - { name: rating, label: Сколько человек оценили, type: number }
-      - {
-          name: reviewType,
-          label: Тип отзывов,
-          type: select,
-          options: { values: [alk-1, alk-2, kod-1, kod-2] },
-        }
-      - { name: body, label: Основной текст, type: rich-text}
+media:
+  input: assets/img
+  output: /img
+values: &city
+  - { name: tabTitle, label: Название вкладки в гугле, type: string }
+  - { name: title, label: Заголовок на странице, type: sting }
+  - { name: description, label: Описание под заголовком, type: string }
+  - { name: image, label: Картинка, type: image }
+  - { name: imageText, label: Описание картинки (нужно для СЕО), type: string }
+  - { name: ratingAvarage, label: Среднее оценивание статьи, type: string }
+  - { name: rating, label: Сколько человек оценили, type: number }
+  - {
+      name: reviewType,
+      label: Тип отзывов,
+      type: select,
+      options: { values: [alk-1, alk-2, kod-1, kod-2] },
+    }
+  - { name: body, label: Основной текст, type: rich-text }
 
 content:
   - name: kharkiv
