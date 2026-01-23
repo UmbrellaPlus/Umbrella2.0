@@ -1,7 +1,3 @@
-media:
-  input: assets/img
-  output: /img
-
 components:
   cityTemplate:
     fields:
@@ -33,6 +29,11 @@ components:
       - name: body
         label: Основной текст
         type: rich-text
+
+
+media:
+  input: assets/img
+  output: /img
 
 content:
   - name: kharkiv-ru
