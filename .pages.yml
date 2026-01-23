@@ -7,7 +7,7 @@ components:
     type: object
     fields:
       - { name: tabTitle, label: Название вкладки в гугле, type: string }
-      - { name: title, label: Заголовок на странице, type: sting }
+      - { name: title, label: Заголовок на странице, type: string }
       - { name: description, label: Описание под заголовком, type: string }
       - { name: image, label: Картинка, type: image }
       - {
