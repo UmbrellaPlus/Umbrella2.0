@@ -1,3 +1,13 @@
+---
+tabTitle: Лікування пивного алкоголізму Одеса | Umbrella Plus | От 2199 грн
+title: Лікування пивного алкоголізму Одеса
+description: Поверніть смак справжнього життя без градуса
+image: /img/Odessa-new/lechenie-pivnogo-alk-odesa.jpg
+imageText: Лікування пивного алкоголізму Одеса
+ratingAvarage: 4.98/5
+rating: '5221'
+reviewType: alk-1
+---
 
 ## Лікування пивного алкоголізму Одеса
 
