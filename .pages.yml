@@ -3,8 +3,6 @@ media:
   output: /img
 components:
   cityTemplate:
-    label: City Template
-    type: object
     fields:
       - { name: tabTitle, label: Название вкладки в гугле, type: string }
       - { name: title, label: Заголовок на странице, type: string }
@@ -30,6 +28,8 @@ content:
     label: Ф-РУ Харьков
     type: collection
     path: content/ru-lang/kharkiv
+    view:
+      fields: [title]
     fields:
         - component: cityTemplate
   - name: services-ru
@@ -37,5 +37,7 @@ content:
     type: collection
     path: content/ru-lang/services
     exclude: [_index.md]
+    view:
+      fields: [title]
     fields:
         - component: cityTemplate
