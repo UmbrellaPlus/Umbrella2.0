@@ -32,9 +32,7 @@ content:
     path: content/ru-lang/kharkiv
     view:
       fields: [title]
-    fields:
-      name: useOfCollection
-      component: cityTemplate
+    fields: { name: useOfCollection, component: cityTemplate }
   - name: services-ru
     label: Сервисы с главного меню
     type: collection
@@ -42,6 +40,4 @@ content:
     exclude: [_index.md]
     view:
       fields: [title]
-    fields:
-      name: useOfCollection
-      component: cityTemplate
+    fields: { name: useOfCollection, component: cityTemplate }
