@@ -33,7 +33,7 @@ content:
     view:
       fields: [title]
     fields:
-      - name: test
+      - name: cityTemplate
         component: cityTemplate
   - name: services-ru
     label: Сервисы с главного меню
@@ -43,5 +43,5 @@ content:
     view:
       fields: [title]
     fields:
-      - name: test1
+      - name: cityTemplate
         component: cityTemplate
