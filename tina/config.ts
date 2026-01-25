@@ -1,5 +1,11 @@
 import { defineConfig } from "tinacms";
-import { homePageNews, homePageTemplate, cityTemplate, blogTemplate, googleFeedbackTemplate } from "./fieldsReuse/commonFields";
+import {
+  homePageNews,
+  homePageTemplate,
+  cityTemplate,
+  blogTemplate,
+  googleFeedbackTemplate,
+} from "./fieldsReuse/commonFields";
 
 // Your hosting provider likely exposes this as an environment variable
 const branch =
@@ -9,7 +15,7 @@ const branch =
   "main";
 
 export default defineConfig({
-  branch, 
+  branch,
 
   // Get this from tina.io
   clientId: process.env.TINA_PUBLIC_CLIENT_ID,
@@ -86,13 +92,20 @@ export default defineConfig({
       //CITIES-RU
       {
         name: "filials_ru_odessa",
-        label: "Ф-RU Одесская обл.",
-        path: "content/ru-lang",
+        label: "Ф-RU Одесса",
+        path: "content/ru-lang/odessa",
         fields: [...cityTemplate],
-        match: {
-          include: "{chornomorsk/**/*,odessa/**/*}",
-          exclude: "*",
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
         },
+      },
+      {
+        name: "filials_ru_chernomorsk",
+        label: "Ф-RU - Черноморск",
+        path: "content/ru-lang/chornomorsk",
+        fields: [...cityTemplate],
         ui: {
           allowedActions: {
             createNestedFolder: false,
@@ -101,13 +114,20 @@ export default defineConfig({
       },
       {
         name: "filials_ru_kharkov",
-        label: "Ф-RU Харьковская обл.",
-        path: "content/ru-lang",
+        label: "Ф-RU Харьков",
+        path: "content/ru-lang/kharkiv",
         fields: [...cityTemplate],
-        match: {
-          include: "{chuguev/**/*,kharkiv/**/*}",
-          exclude: "*",
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
         },
+      },
+      {
+        name: "filials_ru_chuguev",
+        label: "Ф-RU - Чугуев",
+        path: "content/ru-lang/chuguev",
+        fields: [...cityTemplate],
         ui: {
           allowedActions: {
             createNestedFolder: false,
@@ -116,13 +136,20 @@ export default defineConfig({
       },
       {
         name: "filials_ru_dnepr",
-        label: "Ф-RU Днепровская обл.",
-        path: "content/ru-lang",
+        label: "Ф-RU Днепр",
+        path: "content/ru-lang/dnepr",
         fields: [...cityTemplate],
-        match: {
-          include: "{dnepr/**/*,kamianske/**/*}",
-          exclude: "*",
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
         },
+      },
+      {
+        name: "filials_ru_kamianske",
+        label: "Ф-RU - Каменское",
+        path: "content/ru-lang/kamianske",
+        fields: [...cityTemplate],
         ui: {
           allowedActions: {
             createNestedFolder: false,
@@ -131,13 +158,9 @@ export default defineConfig({
       },
       {
         name: "filials_ru_kiev",
-        label: "Ф-RU Киевская обл.",
-        path: "content/ru-lang",
+        label: "Ф-RU Киев",
+        path: "content/ru-lang/kiev",
         fields: [...cityTemplate],
-        match: {
-          include: "kiev/**/*",
-          exclude: "*",
-        },
         ui: {
           allowedActions: {
             createNestedFolder: false,
@@ -146,13 +169,9 @@ export default defineConfig({
       },
       {
         name: "filials_ru_lvov",
-        label: "Ф-RU Львовская обл.",
-        path: "content/ru-lang",
+        label: "Ф-RU Львов",
+        path: "content/ru-lang/lviv",
         fields: [...cityTemplate],
-        match: {
-          include: "lviv/**/*",
-          exclude: "*",
-        },
         ui: {
           allowedActions: {
             createNestedFolder: false,
@@ -161,13 +180,9 @@ export default defineConfig({
       },
       {
         name: "filials_ru_cherkasy",
-        label: "Ф-RU Черкасская обл.",
-        path: "content/ru-lang",
+        label: "Ф-RU Черкассы",
+        path: "content/ru-lang/cherkasy",
         fields: [...cityTemplate],
-        match: {
-          include: "cherkasy/**/*",
-          exclude: "*",
-        },
         ui: {
           allowedActions: {
             createNestedFolder: false,
@@ -176,13 +191,9 @@ export default defineConfig({
       },
       {
         name: "filials_ru_zaporozie",
-        label: "Ф-RU Запорожская обл.",
-        path: "content/ru-lang",
+        label: "Ф-RU Запорожье",
+        path: "content/ru-lang/zaporozie",
         fields: [...cityTemplate],
-        match: {
-          include: "zaporozie/**/*",
-          exclude: "*",
-        },
         ui: {
           allowedActions: {
             createNestedFolder: false,
@@ -203,19 +214,27 @@ export default defineConfig({
         ui: {
           allowedActions: {
             createNestedFolder: false,
+            create: false,
+            delete: false,
           },
         },
       },
       //CITIES-UA
       {
         name: "filials_ua_odesa",
-        label: "Ф-UA Одесская обл",
-        path: "content/ua-lang",
+        label: "Ф-UA Одесса",
+        path: "content/ua-lang/odesa",
         fields: [...cityTemplate],
-        match: {
-          include: "{chornomorsk/**/*,odesa/**/*}",
-          exclude: "*",
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
         },
+      },      {
+        name: "filials_ua_chornomorsk",
+        label: "Ф-UA - Черноморск",
+        path: "content/ua-lang/chornomorsk",
+        fields: [...cityTemplate],
         ui: {
           allowedActions: {
             createNestedFolder: false,
@@ -224,13 +243,19 @@ export default defineConfig({
       },
       {
         name: "filials_ua_kharkiv",
-        label: "Ф-UA Харьковская обл.",
-        path: "content/ua-lang",
+        label: "Ф-UA Харьков",
+        path: "content/ua-lang/kharkiv",
         fields: [...cityTemplate],
-        match: {
-          include: "{chuguev/**/*,kharkiv/**/*}",
-          exclude: "*",
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
         },
+      },      {
+        name: "filials_ua_chuguev",
+        label: "Ф-UA - Чугуев",
+        path: "content/ua-lang/chuguev",
+        fields: [...cityTemplate],
         ui: {
           allowedActions: {
             createNestedFolder: false,
@@ -239,13 +264,19 @@ export default defineConfig({
       },
       {
         name: "filials_ua_dnepr",
-        label: "Ф-UA Днепровская обл.",
-        path: "content/ua-lang",
+        label: "Ф-UA Днепр",
+        path: "content/ua-lang/dnepr",
         fields: [...cityTemplate],
-        match: {
-          include: "{dnepr/**/*,kamianske/**/*}",
-          exclude: "*",
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
         },
+      },      {
+        name: "filials_ua_kamianske",
+        label: "Ф-UA - Каменское",
+        path: "content/ua-lang/kamianske",
+        fields: [...cityTemplate],
         ui: {
           allowedActions: {
             createNestedFolder: false,
@@ -254,13 +285,9 @@ export default defineConfig({
       },
       {
         name: "filials_ua_lviv",
-        label: "Ф-UA Львовская обл.",
-        path: "content/ua-lang",
+        label: "Ф-UA Львов",
+        path: "content/ua-lang/lviv",
         fields: [...cityTemplate],
-        match: {
-          include: "lviv/**/*",
-          exclude: "*",
-        },
         ui: {
           allowedActions: {
             createNestedFolder: false,
@@ -269,13 +296,9 @@ export default defineConfig({
       },
       {
         name: "filials_ua_kiev",
-        label: "Ф-UA Киевская обл.",
-        path: "content/ua-lang",
+        label: "Ф-UA Киев",
+        path: "content/ua-lang/kiev",
         fields: [...cityTemplate],
-        match: {
-          include: "kiev/**/*",
-          exclude: "*",
-        },
         ui: {
           allowedActions: {
             createNestedFolder: false,
@@ -284,13 +307,9 @@ export default defineConfig({
       },
       {
         name: "filials_ua_cherkasy",
-        label: "Ф-UA Черкасская обл.",
-        path: "content/ua-lang",
+        label: "Ф-UA Черкассы",
+        path: "content/ua-lang/cherkasy",
         fields: [...cityTemplate],
-        match: {
-          include: "cherkasy/**/*",
-          exclude: "*",
-        },
         ui: {
           allowedActions: {
             createNestedFolder: false,
@@ -299,13 +318,9 @@ export default defineConfig({
       },
       {
         name: "filials_ua_zaporozie",
-        label: "Ф-UA Запорожская обл.",
-        path: "content/ua-lang",
+        label: "Ф-UA Запорожье",
+        path: "content/ua-lang/zaporozie",
         fields: [...cityTemplate],
-        match: {
-          include: "zaporozie/**/*",
-          exclude: "*",
-        },
         ui: {
           allowedActions: {
             createNestedFolder: false,
@@ -352,7 +367,7 @@ export default defineConfig({
           include:
             "{services/**/*,services-khymioterapiya/**/*,services-nark/**/*,services-otravlenie/**/*,services-vitamini/**/*}",
           exclude:
-            "{blog/**/*,cherkasy/**/*,chornomorsk/**/*,chuguev/**/*,dnepr/**/*,kamianske/**/*,kharkiv/**/*,kiev/**/*,lviv/**/*,odessa/**/*,zaporozie/**/*,directory/**/*,reviews/**/*,_index,about-us,collaboration,contacts}",
+            "*",
         },
         ui: {
           allowedActions: {
@@ -369,7 +384,7 @@ export default defineConfig({
           include:
             "{services/**/*,services-khimioterapiya/**/*,services-nark/**/*,services-otryenya/**/*,services-vitaminy/**/*}",
           exclude:
-            "{blog/**/*,cherkasy/**/*,chornomorsk/**/*,chuguev/**/*,dnepr/**/*,kamianske/**/*,kharkiv/**/*,kiev/**/*,lviv/**/*,odessa/**/*,zaporozie/**/*,directory/**/*,reviews/**/*,_index,about-us,collaboration,contacts}",
+            "*",
         },
         ui: {
           allowedActions: {
