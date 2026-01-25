@@ -1,0 +1,29 @@
+.faq{
+    max-width: 95%;
+    margin: 2rem auto;
+    display: flex;
+    flex-direction: column;
+    gap:1rem;
+}
+.faq-list summary{
+    font-size: 1.1rem;
+    cursor: pointer;
+}
+.faq-list summary::marker{
+    color: grey;
+}
+.faq-list details{
+    background-color: whitesmoke;
+    border-radius: 1rem;
+    padding:1rem;
+    margin-bottom: 0.25rem;
+    font-weight: 400;
+    line-height: 1.5rem;
+    padding:1rem;
+}
+
+@media (min-width:1000px){
+    .faq{
+        max-width: 70%;
+    }
+}

@@ -1,11 +1,10 @@
 import { defineConfig } from "tinacms";
-import {
-  homePageNews,
-  homePageTemplate,
-  cityTemplate,
-  blogTemplate,
-  googleFeedbackTemplate,
-} from "./fieldsReuse/commonFields";
+import { homePageNews } from "./fieldsReuse/homePageNews";
+import { homePageTemplate } from "./fieldsReuse/homePageTemplate";
+import { cityTemplate } from "./fieldsReuse/cityTemplate";
+import { blogTemplate } from "./fieldsReuse/blogTemplate";
+import { googleFeedbackTemplate } from "./fieldsReuse/googleFeedbackTemplate";
+import { faq } from "./fieldsReuse/faq";
 
 // Your hosting provider likely exposes this as an environment variable
 const branch =
@@ -230,7 +229,8 @@ export default defineConfig({
             createNestedFolder: false,
           },
         },
-      },      {
+      },
+      {
         name: "filials_ua_chornomorsk",
         label: "Ф-UA - Черноморск",
         path: "content/ua-lang/chornomorsk",
@@ -251,7 +251,8 @@ export default defineConfig({
             createNestedFolder: false,
           },
         },
-      },      {
+      },
+      {
         name: "filials_ua_chuguev",
         label: "Ф-UA - Чугуев",
         path: "content/ua-lang/chuguev",
@@ -272,7 +273,8 @@ export default defineConfig({
             createNestedFolder: false,
           },
         },
-      },      {
+      },
+      {
         name: "filials_ua_kamianske",
         label: "Ф-UA - Каменское",
         path: "content/ua-lang/kamianske",
@@ -366,8 +368,7 @@ export default defineConfig({
         match: {
           include:
             "{services/**/*,services-khymioterapiya/**/*,services-nark/**/*,services-otravlenie/**/*,services-vitamini/**/*}",
-          exclude:
-            "*",
+          exclude: "*",
         },
         ui: {
           allowedActions: {
@@ -383,8 +384,7 @@ export default defineConfig({
         match: {
           include:
             "{services/**/*,services-khimioterapiya/**/*,services-nark/**/*,services-otryenya/**/*,services-vitaminy/**/*}",
-          exclude:
-            "*",
+          exclude: "*",
         },
         ui: {
           allowedActions: {
@@ -522,6 +522,31 @@ export default defineConfig({
           allowedActions: {
             create: false,
             delete: false,
+            createNestedFolder: false,
+          },
+        },
+      },
+      //FAQ
+      {
+        name: "faq_ru",
+        label: "RU-FAQ",
+        path: "content/ru-lang/faq",
+        match: { exclude: "_index" },
+        fields: [...faq],
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      }, //FAQ
+      {
+        name: "faq_ua",
+        label: "UA-FAQ",
+        path: "content/ua-lang/faq",
+        match: { exclude: "_index" },
+        fields: [...faq],
+        ui: {
+          allowedActions: {
             createNestedFolder: false,
           },
         },

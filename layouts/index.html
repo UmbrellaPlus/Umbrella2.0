@@ -22,8 +22,8 @@
         </div> -->
       </div>
       <div class="index-main-image">
-        {{$mob := resources.Get .Params.mainmob}}
-        {{$pc := resources.Get .Params.mainpc}}
+        {{$mob := resources.Get .Params.mainmob}} {{$pc := resources.Get
+        .Params.mainpc}}
         <picture>
           <source media="(max-width: 1000px)" srcset="{{$mob.RelPermalink}}" />
           <img src="{{$pc.RelPermalink}}" alt="pc-version-main" />
@@ -41,8 +41,8 @@
               <div class="discounts-image">
                 <a href="{{.Params.link}}">
                   <picture>
-                    {{$discPhone := resources.Get .Params.imagephone}}
-                    {{$discPC := resources.Get .Params.imagepc}}
+                    {{$discPhone := resources.Get .Params.imagephone}} {{$discPC
+                    := resources.Get .Params.imagepc}}
                     <source
                       media="(max-width: 720px)"
                       srcset="{{$discPhone.RelPermalink}}"
@@ -66,7 +66,12 @@
       <div class="clinic-description">{{.Content}}</div>
       <div class="clinic-img">
         {{$doctor := resources.Get .Params.imageDoctor}}
-        <img class="preview" src="{{$doctor.RelPermalink}}" alt="clinic-pic" />
+        <img
+          class="preview"
+          src="{{$doctor.RelPermalink}}"
+          alt="clinic-pic"
+          loading="lazy"
+        />
         <p>
           <b>{{.Params.doctorName}}</b> <br />
           {{.Params.doctorDescr}}
@@ -129,8 +134,7 @@
       </div>
     </div>
 
-    {{partial "doctors-slider.html"}}
-
+    {{partial "doctors-slider.html"}} {{partial "cities-carousel.html" .}}
     <!-- Отзывы -->
     <div style="text-align: center; padding: 1rem">
       <h2>Отзывы о нашей работе</h2>
@@ -150,22 +154,38 @@
         <div class="splide__track">
           <ul class="partners-block-container splide__list">
             <li class="partner splide__slide">
-              <img src="/img/partners/partner-synevo.webp" alt="Synevo" />
+              <img
+                src="/img/partners/partner-synevo.webp"
+                alt="Synevo"
+                loading="lazy"
+              />
             </li>
             <li class="partner splide__slide">
-              <img src="/img/partners/partner-analitika.webp" alt="Analitika" />
+              <img
+                src="/img/partners/partner-analitika.webp"
+                alt="Analitika"
+                loading="lazy"
+              />
             </li>
             <li class="partner splide__slide">
-              <img src="/img/partners/partner-invivo.webp" alt="Invivo" />
+              <img
+                src="/img/partners/partner-invivo.webp"
+                alt="Invivo"
+                loading="lazy"
+              />
             </li>
             <li class="partner splide__slide">
-              <img src="/img/partners/partner-smartlab.webp" alt="Smartlab" />
+              <img
+                src="/img/partners/partner-smartlab.webp"
+                alt="Smartlab"
+                loading="lazy"
+              />
             </li>
           </ul>
         </div>
       </section>
     </div>
-    {{partial "cities-carousel.html" .}} {{ partial "latest-news.html" .}}
-    {{partial "contacts.html" . }} {{partial "footer.html" .}}
+    {{ partial "latest-news.html" .}} {{partial "contacts.html" . }} {{partial
+    "footer.html" .}}
   </body>
 </html>

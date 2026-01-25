@@ -30,7 +30,7 @@
       </div>
     </div>
     {{if in .Site.Language "ru"}} {{ partial "star-rating.html" .}}{{ else }} {{
-    partial "star-rating-ua.html" .}}{{end}}{{partial "local-reviews.html" .}}
+    partial "star-rating-ua.html" .}}{{end}}{{partial "faq.html" .}}{{partial "local-reviews.html" .}}
     <div style="text-align: center">
       {{ if in .Site.Language "ru" }} {{partial "latest-news.html" .}} {{ else
       }} {{partial "latest-news-ua.html" .}} {{ end }}

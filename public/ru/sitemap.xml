@@ -54,6 +54,54 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/azerbaidjan-baky/</loc>
   </url><url>
+    <loc>https://umbrella-plus.com.ua/faq/1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/faq/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/faq/1/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/faq/2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/faq/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/faq/2/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/faq/3/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/faq/3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/faq/3/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/faq/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/faq/"
+                />
+  </url><url>
     <loc>https://umbrella-plus.com.ua/gruziya-tbilisi/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/homepage/2/</loc>

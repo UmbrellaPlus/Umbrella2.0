@@ -1,0 +1,17 @@
+<div class="faq">
+    {{if in .Site.Language "ru"}}
+    <h2>Ответы на часто задаваемые вопросы</h2>
+    {{else}}
+    <h2>Відповіді на часто задавані питання</h2>
+    {{end}}
+    <div class="faq-list">
+      {{range where site.RegularPages "Type" "faq"}}
+      <details>
+        <summary>{{.Params.question}}</summary>
+        {{.Content}}
+      </details>
+      {{end}}
+    </div>
+    <div></div>
+  </div>
+</div>
