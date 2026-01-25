@@ -1,6 +1,12 @@
 ---
 tabTitle: Лечение наркомании Одесса | Umbrella Plus | От 2499 грн
 title: Лечение наркомании в Одессе
+description: Путь к жизни без зависимости
+image: /img/Odessa-new/lechenie-nark-odesa.jpg
+imageText: Лечение наркомании в Одессе
+ratingAvarage: 4.99/5
+rating: '7544'
+reviewType: lomka
 ---
 
 ## Лечение наркомании Одесса
