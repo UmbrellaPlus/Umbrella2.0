@@ -1,7 +1,12 @@
 ---
 tabTitle: Вызов нарколога на дом Днепр | Umbrella Plus | От 2199 грн
 title: Вызов нарколога на дом в Днепре
+description: Профессиональная помощь 24/7
 image: /img/Dnepr/vizov-narkologa-na-dom.jpg
+imageText: Вызов нарколога на дом в Днепре
+ratingAvarage: 4.99/5
+rating: '6611'
+reviewType: alk-2
 ---
 
 ## Вызов нарколога на дом Днепр
