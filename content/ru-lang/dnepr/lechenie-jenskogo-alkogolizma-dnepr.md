@@ -1,8 +1,8 @@
 ---
-tabTitle: Лечение женского алкоголизма в Днепр | Umbrella Plus | От 1999 грн
-title: Лечение женского алкоголизма в Днепр
+tabTitle: Лечение женского алкоголизма в Днепр | Umbrella Plus | От 2199 грн
+title: Лечение женского алкоголизма Днепр
 description: Путь к новой жизни с заботой и пониманием
-image: /img/blog/kak-izbav-ot-pohmelia.jpg
+image: /img/Dnepr/lechenie-jenskogo-alk-dnepr.jpg
 imageText: Лечение женского алкоголизма в Днепр
 ratingAvarage: 4.99/5
 rating: '4023'
