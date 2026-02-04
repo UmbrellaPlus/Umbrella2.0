@@ -28,7 +28,7 @@ reviewType: alk-1
 | **[Вывод из запоя](dnepr/Vivod-iz-zapoia-dnepr)**                                  | От 2199 грн |
 | **[Капельница от алкоголя на дому](dnepr/Kapelnica_ot_alkogola_na-domy-v-dnepre)** | От 2199 грн |
 | **[Лечение алкоголизма](lechenie-alkogolizma-dnepr)**                              | От 2199 грн |
-| [Лечение пивного алкоголизма Днепр](lechenie-pivnogo-alkogolizma-dnepr)            | От 2199 грн |
+| **[Лечение пивного алкоголизма Днепр](lechenie-pivnogo-alkogolizma-dnepr)**        | От 2199 грн |
 | **[Лечение женского алкоголизма Днепр](lechenie-jenskogo-alkogolizma-dnepr)**      | От 2199 грн |
 | Тест на употребление алкоголя (слюна)                                              | От 1500 грн |
 
