@@ -28,7 +28,7 @@ reviewType: alk-1
 | **[Виведення із запою](Vivod-iz-zapoia-dnepr-ua)**                                   | Від 2199 грн |
 | **[Крапельниця від алкоголю вдома](Kapelnica_ot_alkogola_na_domy_dnepr)**            | Від 2199 грн |
 | **[Лікування алкоголізму](lechenie-alkogolizma-dnepr-ua)**                           | Від 2199 грн |
-| Лікування пивного алкоголізму Дніпро                                                 | Від 2199 грн |
+| [Лікування пивного алкоголізму Дніпро](lechenie-pivnogo-alkogolizma-dnepr-ua)        | Від 2199 грн |
 | **[Лікування жіночого алкоголізму Дніпро](lechenie-jenskogo-alkogolizma-dnipro-ua)** | Від 2199 грн |
 | Тест на вживання алкоголю (слина)                                                    | Від 1500 грн |
 
