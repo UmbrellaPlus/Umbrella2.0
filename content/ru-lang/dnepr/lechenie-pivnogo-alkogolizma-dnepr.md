@@ -1,11 +1,11 @@
 ---
-tabTitle: 'Лечение пивного алкоголизма Днепр: Комплексный подход от UmbrellaPlus'
-title: Лечение пивного алкоголизма Днепр UmbrellaPlus
+tabTitle: Лечение пивного алкоголизма Днепр | Umbrella Plus | От 2199 грн
+title: Лечение пивного алкоголизма Днепр
 description: Сделай первый шаг к здоровой и трезвой жизни
-image: /img/dnepr/d1778e10e212e741d60fe49d41067e3d_high.jpg
+image: /img/Dnepr/lechenie-pivnogo-alkogolizma-dnepr.jpg
 imageText: Лечение пивного алкоголизма Днепр
 ratingAvarage: 4.96/5
-rating: '1633'
+rating: '5633'
 reviewType: alk-2
 ---
 
