@@ -4,7 +4,7 @@ title: Лечение пивного алкоголизма Днепр
 description: Сделай первый шаг к здоровой и трезвой жизни
 image: /img/Dnepr/lechenie-pivnogo-alkogolizma-dnepr.jpg
 imageText: Лечение пивного алкоголизма Днепр
-ratingAvarage: 4.96/5
+ratingAvarage: 4.99/5
 rating: '5633'
 reviewType: alk-2
 ---
