@@ -59,7 +59,7 @@ reviewType: alk-1
 | Популярні послуги                                                                                       | Ціна         |
 | ------------------------------------------------------------------------------------------------------- | ------------ |
 | **[Лікування алкоголізму](https://umbrella-plus.com.ua/uk/dnepr/lechenie-alkogolizma-dnepr-ua/)**       | Від 2199 грн |
-| **[Виклик нарколога додому](https://umbrella-plus.com.ua/uk/dnepr/vizov-narkologa-dodomy-dnipro/)**     | Від 2199 грн |
+| **[Нарколог Дніпро](https://umbrella-plus.com.ua/uk/dnepr/konsultacia-narkologa-dnepr-ua/)**            | Від 2199 грн |
 | **[Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/dnepr/kapelnica_ot_alkogola_dnepr/)**      | Від 2199 грн |
 | **[Кодування від алкоголізму](https://umbrella-plus.com.ua/uk/dnepr/kodirovka-ot-alkogolia-dnepr-ua/)** | Від 6000 грн |
 
