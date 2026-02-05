@@ -63,7 +63,7 @@ reviewType: alk-2
 | Популярные услуги                                                                                    | Цена        |
 | ---------------------------------------------------------------------------------------------------- | ----------- |
 | **[Нарколог Днепр](https://umbrella-plus.com.ua/dnepr/konsultacia-narkologa-dnepr/)**                | От 2199 грн |
-| **[Капельница от алкоголя](https://umbrella-plus.com.ua/dnepr/konsultacia-narkologa-dnepr/)**        | От 2199 грн |
+| **[Капельница от алкоголя](https://umbrella-plus.com.ua/dnepr/kapelnica_ot_alkogola_dnepr/)**        | От 2199 грн |
 | **[Вывод из запоя на дому](https://umbrella-plus.com.ua/dnepr/vivod-iz-zapoia-na-domy-dnepr/)**      | От 2199 грн |
 | **[Кодирование от алкоголизма](https://umbrella-plus.com.ua/dnepr/kodirovka-ot-alkogolizma-dnepr/)** | От 6000 грн |
 
