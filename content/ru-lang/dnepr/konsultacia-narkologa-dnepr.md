@@ -1,5 +1,12 @@
 ---
-tabTitle: Консультация нарколога Днепр | Umbrella Plus | От 1500 грн
+tabTitle: Нарколог Днепр | Umbrella Plus | Консультация от 1500 грн
+title: Нарколог Днепр
+description: Один разговор может изменить всё
+image: /img/Dnepr/narkolig-dnepr.jpg
+imageText: Нарколог Днепр
+ratingAvarage: 4.99/5
+rating: '8212'
+reviewType: alk-1
 ---
 
 ## Консультация нарколога Днепр
