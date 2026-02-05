@@ -1,3 +1,13 @@
+---
+tabTitle: Лікування наркотичної залежності Дніпро | Umbrella Plus | Від 2499 грн
+title: Лікування наркоманії Дніпро
+description: Комплексний підхід та контроль на кожному етапі
+image: /img/Dnepr/lechenie-nark-dnepr.jpg
+imageText: Лікування наркотичної залежності у Дніпрі
+ratingAvarage: 4.99/5
+rating: '7665'
+reviewType: lomka
+---
 
 ## Лікування наркотичної залежності Дніпро
 
