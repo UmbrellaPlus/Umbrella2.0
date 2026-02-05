@@ -56,12 +56,12 @@ reviewType: alk-2
 
 Стоимость **вывода из запоя на дому в Днепре** начинается от 2199 грн.
 
-| Популярные услуги                                                                                | Цена        |
-| ------------------------------------------------------------------------------------------------ | ----------- |
-| [Лечение алкоголизма](https://umbrella-plus.com.ua/dnepr/lechenie-alkogolizma-dnepr/)            | От 2199 грн |
-| [Вызов нарколога на дом](https://umbrella-plus.com.ua/dnepr/vizov-narkologa-na-dom-dnepr/)       | От 2199 грн |
-| [Капельница от алкоголя](https://umbrella-plus.com.ua/dnepr/kapelnica_ot_alkogola_dnepr/)        | От 2199 грн |
-| [Кодирование от алкоголизма](https://umbrella-plus.com.ua/dnepr/kodirovka-ot-alkogolizma-dnepr/) | От 6000 грн |
+| Популярные услуги                                                                                    | Цена        |
+| ---------------------------------------------------------------------------------------------------- | ----------- |
+| **[Лечение алкоголизма](https://umbrella-plus.com.ua/dnepr/lechenie-alkogolizma-dnepr/)**            | От 2199 грн |
+| **[Вызов нарколога на дом](https://umbrella-plus.com.ua/dnepr/vizov-narkologa-na-dom-dnepr/)**       | От 2199 грн |
+| **[Капельница от алкоголя](https://umbrella-plus.com.ua/dnepr/kapelnica_ot_alkogola_dnepr/)**        | От 2199 грн |
+| **[Кодирование от алкоголизма](https://umbrella-plus.com.ua/dnepr/kodirovka-ot-alkogolizma-dnepr/)** | От 6000 грн |
 
 ## Что делать, если человек в запое? Пошаговая рекомендация
 
