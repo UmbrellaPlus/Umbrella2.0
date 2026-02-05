@@ -49,12 +49,12 @@ reviewType: alk-2
 
 Стоимость **капельницы от алкоголя в Днепре** начинается от 2199 грн.
 
-| Популярные услуги                                                                                | Цена        |
-| ------------------------------------------------------------------------------------------------ | ----------- |
-| [Лечение алкоголизма](https://umbrella-plus.com.ua/dnepr/lechenie-alkogolizma-dnepr/)            | От 2199 грн |
-| [Нарколог Днепр](https://umbrella-plus.com.ua/dnepr/konsultacia-narkologa-dnepr/)                | От 2199 грн |
-| [Вывод из запоя на дому](https://umbrella-plus.com.ua/dnepr/vivod-iz-zapoia-na-domy-dnepr/)      | От 2199 грн |
-| [Кодирование от алкоголизма](https://umbrella-plus.com.ua/dnepr/kodirovka-ot-alkogolizma-dnepr/) | От 6000 грн |
+| Популярные услуги                                                                                    | Цена        |
+| ---------------------------------------------------------------------------------------------------- | ----------- |
+| **[Лечение алкоголизма](https://umbrella-plus.com.ua/dnepr/lechenie-alkogolizma-dnepr/)**            | От 2199 грн |
+| **[Нарколог Днепр](https://umbrella-plus.com.ua/dnepr/konsultacia-narkologa-dnepr/)**                | От 2199 грн |
+| **[Вывод из запоя на дому](https://umbrella-plus.com.ua/dnepr/vivod-iz-zapoia-na-domy-dnepr/)**      | От 2199 грн |
+| **[Кодирование от алкоголизма](https://umbrella-plus.com.ua/dnepr/kodirovka-ot-alkogolizma-dnepr/)** | От 6000 грн |
 
 ## Когда нужна капельница от алкогольной интоксикации?
 
