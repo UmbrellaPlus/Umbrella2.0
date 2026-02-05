@@ -1,3 +1,13 @@
+---
+tabTitle: Тест на употребление алкоголя Днепр | Umbrella Plus | От 1500 грн
+title: Тест на алкоголь Днепр
+description: Медицинская точность
+image: /img/Dnepr/test-na-alk-dnepr.jpg
+imageText: Тест на алкоголь Днепр
+ratingAvarage: 4.98/5
+rating: '2902'
+reviewType: alk-2
+---
 
 ## Тест на употребление алкоголя Днепр
 
