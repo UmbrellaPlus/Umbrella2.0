@@ -1,3 +1,13 @@
+---
+tabTitle: Лечение наркотической зависимости Днепр | Umbrella Plus | От 2499 грн
+title: Лечение наркомании Днепр
+description: Комплексный подход и контроль на каждом этапе
+image: /img/Dnepr/lechenie-nark-dnepr.jpg
+imageText: Лечение наркотической зависимости в Днепре
+ratingAvarage: 4.99/5
+rating: '7665'
+reviewType: narkot
+---
 
 ## Лечение наркотической зависимости Днепр
 
