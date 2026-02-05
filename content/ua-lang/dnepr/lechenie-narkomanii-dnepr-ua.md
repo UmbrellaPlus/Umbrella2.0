@@ -6,7 +6,7 @@ image: /img/Dnepr/lechenie-nark-dnepr.jpg
 imageText: Лікування наркотичної залежності у Дніпрі
 ratingAvarage: 4.99/5
 rating: '7665'
-reviewType: lomka
+reviewType: narkot
 ---
 
 ## Лікування наркотичної залежності Дніпро
