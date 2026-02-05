@@ -65,12 +65,12 @@ reviewType: narkot
 
 Вартість лікування наркоманії в Дніпрі починається від 2499 грн
 
-| Популярні послуги                                                                                   | Ціна          |
-| --------------------------------------------------------------------------------------------------- | ------------- |
-| [Консультація нарколога](https://umbrella-plus.com.ua/uk/dnepr/konsultacia-narkologa-dnepr-ua/)     | Від 1500 грн  |
-| [Лікування наркоманії](https://umbrella-plus.com.ua/uk/dnepr/lechenie-narkomanii-dnepr-ua/)         | Від 2499 грн  |
-| [Підшивка від наркотиків](https://umbrella-plus.com.ua/uk/dnepr/podshivka-ot-narkotikov-dnepr-ua/)  | Від 15000 грн |
-| [Виведення із запою вдома](https://umbrella-plus.com.ua/uk/dnepr/vivod-iz-zapoia-na-domy-dnepr-ua/) | Від 2199 грн  |
+| Популярні послуги                                                                                       | Ціна          |
+| ------------------------------------------------------------------------------------------------------- | ------------- |
+| **[Консультація нарколога](https://umbrella-plus.com.ua/uk/dnepr/konsultacia-narkologa-dnepr-ua/)**     | Від 1500 грн  |
+| **[Лікування наркоманії](https://umbrella-plus.com.ua/uk/dnepr/lechenie-narkomanii-dnepr-ua/)**         | Від 2499 грн  |
+| **[Підшивка від наркотиків](https://umbrella-plus.com.ua/uk/dnepr/podshivka-ot-narkotikov-dnepr-ua/)**  | Від 15000 грн |
+| **[Виведення із запою вдома](https://umbrella-plus.com.ua/uk/dnepr/vivod-iz-zapoia-na-domy-dnepr-ua/)** | Від 2199 грн  |
 
 ## Лікування від кокаїну
 
