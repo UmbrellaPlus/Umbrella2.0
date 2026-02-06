@@ -45,12 +45,12 @@ reviewType: alk-2
 
 Вартість **крапельниці від алкоголю в Одесі** починається від 2199 грн.
 
-| Популярні послуги                                                                                    | Ціна         |
-| ---------------------------------------------------------------------------------------------------- | ------------ |
-| [Лікування алкоголізму](https://umbrella-plus.com.ua/uk/odesa/lechenie-alkogolizma-odessa/)          | Від 2199 грн |
-| [Виклик нарколога додому](https://umbrella-plus.com.ua/uk/odesa/ekstreniy-vizov-narkologa-odesa/)    | Від 2199 грн |
-| [Виведення із запою вдома](https://umbrella-plus.com.ua/uk/odesa/vivod-iz-zapoia-na-domu-odesa/)     | Від 2199 грн |
-| [Кодування від алкоголізму](https://umbrella-plus.com.ua/uk/odesa/kodirovka-ot-alkogolsma-odesa-ua/) | Від 6000 грн |
+| Популярні послуги                                                                                        | Ціна         |
+| -------------------------------------------------------------------------------------------------------- | ------------ |
+| **[Лікування алкоголізму](https://umbrella-plus.com.ua/uk/odesa/lechenie-alkogolizma-odessa/)**          | Від 2199 грн |
+| **[Нарколог Одеса](https://umbrella-plus.com.ua/uk/odesa/konsyltacia-narkologa-odesa/)**                 | Від 2199 грн |
+| **[Виведення із запою вдома](https://umbrella-plus.com.ua/uk/odesa/vivod-iz-zapoia-na-domu-odesa/)**     | Від 2199 грн |
+| **[Кодування від алкоголізму](https://umbrella-plus.com.ua/uk/odesa/kodirovka-ot-alkogolsma-odesa-ua/)** | Від 6000 грн |
 
 ## Лікування алкоголізму в Одесі — крапельниця від запою як перший крок
 
