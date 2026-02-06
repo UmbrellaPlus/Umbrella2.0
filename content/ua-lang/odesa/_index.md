@@ -23,7 +23,7 @@ reviewType: alk-2
 
 | Послуги \| Лікування алкоголізму                                                                      | Ціна         |
 | ----------------------------------------------------------------------------------------------------- | ------------ |
-| [Консультація нарколога](konsyltacia-narkologa-odesa)                                                 | Від 1500 грн |
+| **[Консультація нарколога](konsyltacia-narkologa-odesa)**                                             | Від 1500 грн |
 | **[Виклик нарколога додому](https://umbrella-plus.com.ua/uk/odesa/ekstreniy-vizov-narkologa-odesa/)** | Від 2199 грн |
 | **[Виведення із запою](odesa/vivod-iz-zapoia-odesa)**                                                 | Від 2199 грн |
 | **[Крапельниця від алкоголю вдома](odesa/kapelnica-ot-alkogolia-na-domy-odesa)**                      | Від 2199 грн |
