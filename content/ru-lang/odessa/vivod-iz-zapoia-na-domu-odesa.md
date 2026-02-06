@@ -48,7 +48,7 @@ reviewType: alk-2
 | Популярные услуги                                                                                    | Цена        |
 | ---------------------------------------------------------------------------------------------------- | ----------- |
 | [Лечение алкоголизма](https://umbrella-plus.com.ua/odessa/lechenie-alkogolizma-odessa/)              | От 2199 грн |
-| [Вызов нарколога на дом](https://umbrella-plus.com.ua/odessa/ekstreniy-vizov-narkologa-odesa/)       | От 2199 грн |
+| [Нарколог Одесса](https://umbrella-plus.com.ua/odessa/konsyltacia-narkologa-odesa/)                  | От 2199 грн |
 | [Капельница от алкоголя](https://umbrella-plus.com.ua/odessa/kapelnica-ot-alkogolia-odesa/)          | От 2199 грн |
 | [Кодирование от алкоголизма](https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-odessa/) | От 6000 грн |
 
