@@ -29,7 +29,7 @@ reviewType: alk-2
 | **[Крапельниця від алкоголю вдома](odesa/kapelnica-ot-alkogolia-na-domy-odesa)**                      | Від 2199 грн |
 | **[Лікування алкоголізму](odesa/lechenie-alkogolizma-odessa)**                                        | Від 2199 грн |
 | **[Лікування пивного алкоголізму](odesa/lechenie-pivnogo-alkogolizma-odesa)**                         | Від 2199 грн |
-| Лікування жіночого алкоголізму                                                                        | Від 2199 грн |
+| [Лікування жіночого алкоголізму](lechenie-jenskogo-alkogolizma-odessa)                                | Від 2199 грн |
 | Тест на вживання алкоголю (слина)                                                                     | Від 1500 грн |
 
 | Послуги \| Лікування наркоманії                                        | Ціна         |
