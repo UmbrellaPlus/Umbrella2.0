@@ -1,3 +1,13 @@
+---
+tabTitle: Нарколог Одеса | Umbrella Plus | Консультація від 1500 грн
+title: Нарколог Одеса
+description: Допомога нарколога в Одесі 24/7
+image: /img/Odessa-new/narkolog-odessa.jpg
+imageText: Нарколог Одеса
+ratingAvarage: 4.99/5
+rating: '9219'
+reviewType: alk-2
+---
 
 ## Нарколог Одеса
 
