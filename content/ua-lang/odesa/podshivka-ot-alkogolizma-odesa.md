@@ -1,3 +1,13 @@
+---
+tabTitle: Підшивка від наркотиків в Одесі
+title: Підшивка від наркотиків Одеса
+description: Надійний бар'єр між вами та залежністю
+image: /img/Odessa-new/podshivka-ot-nark-odessa.jpg
+imageText: Підшивка від наркотиків Одеса
+ratingAvarage: 4.98/5
+rating: '7002'
+reviewType: narkot
+---
 
 ## Підшивка від наркотиків в Одесі
 
