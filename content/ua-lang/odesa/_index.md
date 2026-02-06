@@ -21,16 +21,17 @@ reviewType: alk-2
 | **[Крапельниця від наркотиків](odesa/Krapelnica_vid_narkotikiv-odesa-ua)** | Від 2499 грн |
 | **[Кодування від алкоголізму](odesa/kodirovka-ot-alkogolsma-odesa-ua)**    | Від 6000 грн |
 
-| Послуги \| Лікування алкоголізму                                                                      | Ціна         |
-| ----------------------------------------------------------------------------------------------------- | ------------ |
-| **[Консультація нарколога](konsyltacia-narkologa-odesa)**                                             | Від 1500 грн |
-| **[Виклик нарколога додому](https://umbrella-plus.com.ua/uk/odesa/ekstreniy-vizov-narkologa-odesa/)** | Від 2199 грн |
-| **[Виведення із запою](odesa/vivod-iz-zapoia-odesa)**                                                 | Від 2199 грн |
-| **[Крапельниця від алкоголю вдома](odesa/kapelnica-ot-alkogolia-na-domy-odesa)**                      | Від 2199 грн |
-| **[Лікування алкоголізму](odesa/lechenie-alkogolizma-odessa)**                                        | Від 2199 грн |
-| **[Лікування пивного алкоголізму](odesa/lechenie-pivnogo-alkogolizma-odesa)**                         | Від 2199 грн |
-| **[Лікування жіночого алкоголізму](lechenie-jenskogo-alkogolizma-odessa)**                            | Від 2199 грн |
-| **[Тест на вживання алкоголю (слина)](test-na-alkogol-odesa-ua)**                                     | Від 1500 грн |
+| Послуги \| Лікування алкоголізму                                                                      | Ціна          |
+| ----------------------------------------------------------------------------------------------------- | ------------- |
+| **[Консультація нарколога](konsyltacia-narkologa-odesa)**                                             | Від 1500 грн  |
+| **[Виклик нарколога додому](https://umbrella-plus.com.ua/uk/odesa/ekstreniy-vizov-narkologa-odesa/)** | Від 2199 грн  |
+| **[Виведення із запою](odesa/vivod-iz-zapoia-odesa)**                                                 | Від 2199 грн  |
+| **[Крапельниця від алкоголю вдома](odesa/kapelnica-ot-alkogolia-na-domy-odesa)**                      | Від 2199 грн  |
+| **[Лікування алкоголізму](odesa/lechenie-alkogolizma-odessa)**                                        | Від 2199 грн  |
+| **[Лікування пивного алкоголізму](odesa/lechenie-pivnogo-alkogolizma-odesa)**                         | Від 2199 грн  |
+| **[Лікування жіночого алкоголізму](lechenie-jenskogo-alkogolizma-odessa)**                            | Від 2199 грн  |
+| **[Підшивка від наркотиків](podshivka-ot-alkogolizma-odesa)**                                         | Від 15000 грн |
+| **[Тест на вживання алкоголю (слина)](test-na-alkogol-odesa-ua)**                                     | Від 1500 грн  |
 
 | Послуги \| Лікування наркоманії                                        | Ціна         |
 | ---------------------------------------------------------------------- | ------------ |
