@@ -1,3 +1,13 @@
+---
+tabTitle: Подшивка от наркотиков в Одессе | Umbrella Plus | От 15000 грн
+title: Подшивка от наркотиков Одесса
+description: Надежный барьер между вами и зависимостью
+image: /img/Odessa-new/podshivka-ot-nark-odessa.jpg
+imageText: Подшивка от наркотиков Одесса
+ratingAvarage: 4.98/5
+rating: '7002'
+reviewType: narkot
+---
 
 ## Подшивка от наркотиков в Одессе
 
