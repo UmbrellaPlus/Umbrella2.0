@@ -29,7 +29,7 @@ reviewType: alk-2
 | **[Капельница от алкоголя на дому](odessa/kapelnica-ot-alkogolia-na-domy-odesa)** | От 2199 грн |
 | **[Лечение алкоголизма](odessa/lechenie-alkogolizma-odessa)**                     | От 2199 грн |
 | **[Лечение пивного алкоголизма](odessa/lechenie-pivnogo-alkogolizma-odesa)**      | От 2199 грн |
-| [Лечение женского алкоголизма](lechenie-jenskogo-alkogolizma-odessa)              | От 2199 грн |
+| **[Лечение женского алкоголизма](lechenie-jenskogo-alkogolizma-odessa)**          | От 2199 грн |
 | Тест на употребление алкоголя (слюна)                                             | От 1500 грн |
 
 | Услуги \| Лечение наркомании                                         | Цена        |
