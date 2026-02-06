@@ -1,3 +1,13 @@
+---
+tabTitle: Лечение женского алкоголизма Одесса | Umbrella Plus | От 2199 грн
+title: Лечение женского алкоголизма в Одессе
+description: Верните гармонию в свою жизнь
+image: /img/Odessa-new/lechenie-jensoko-alkogolizma-odesa.jpg
+imageText: Лечение женского алкоголизма в Одессе
+ratingAvarage: 4.98/5
+rating: '4992'
+reviewType: alk-2
+---
 
 ## Лечение женского алкоголизма Одесса
 
