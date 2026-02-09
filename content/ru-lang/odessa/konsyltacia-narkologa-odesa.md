@@ -43,12 +43,12 @@ reviewType: alk-2
 
 Стоимость консультации и помощи нарколога в Одессе начинается от 1500 грн.
 
-| Популярные услуги                                                                                 | Цена        |
-| ------------------------------------------------------------------------------------------------- | ----------- |
-| [Лечение алкоголизма](https://umbrella-plus.com.ua/odessa/lechenie-alkogolizma-odessa/)           | От 2199 грн |
-| [Капельница от алкоголя](https://umbrella-plus.com.ua/odessa/kapelnica-ot-alkogolia-odesa/)       | От 2199 грн |
-| [Вывод из запоя на дому](https://umbrella-plus.com.ua/odessa/vivod-iz-zapoia-na-domu-odesa/)      | От 2199 грн |
-| [Кодирование от алкоголя](https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-odessa/) | От 6000 грн |
+| Популярные услуги                                                                                     | Цена        |
+| ----------------------------------------------------------------------------------------------------- | ----------- |
+| **[Лечение алкоголизма](https://umbrella-plus.com.ua/odessa/lechenie-alkogolizma-odessa/)**           | От 2199 грн |
+| **[Капельница от алкоголя](https://umbrella-plus.com.ua/odessa/kapelnica-ot-alkogolia-odesa/)**       | От 2199 грн |
+| **[Вывод из запоя на дому](https://umbrella-plus.com.ua/odessa/vivod-iz-zapoia-na-domu-odesa/)**      | От 2199 грн |
+| **[Кодирование от алкоголя](https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-odessa/)** | От 6000 грн |
 
 ## Лечение алкоголизма и вывод из запоя
 
