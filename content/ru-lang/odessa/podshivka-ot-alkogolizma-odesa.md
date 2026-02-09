@@ -62,12 +62,12 @@ reviewType: narkot
 
 Стоимость подшивки от наркотиков в Одессе начинается от 15000 грн.
 
-| Популярные услуги                                                                               | Цена        |
-| ----------------------------------------------------------------------------------------------- | ----------- |
-| [Консультация нарколога](https://umbrella-plus.com.ua/odessa/konsyltacia-narkologa-odesa/)      | От 1500 грн |
-| [Лечение наркомании](https://umbrella-plus.com.ua/odessa/lechenie-narkomanii-v-odese/)          | От 2499 грн |
-| [Капельница от наркотиков](https://umbrella-plus.com.ua/odessa/kapelnica-ot-nakrotikov-odessa/) | От 2499 грн |
-| [Вывод из запоя на дому](https://umbrella-plus.com.ua/odessa/vivod-iz-zapoia-na-domu-odesa/)    | От 2199 грн |
+| Популярные услуги                                                                                   | Цена        |
+| --------------------------------------------------------------------------------------------------- | ----------- |
+| **[Консультация нарколога](https://umbrella-plus.com.ua/odessa/konsyltacia-narkologa-odesa/)**      | От 1500 грн |
+| **[Лечение наркомании](https://umbrella-plus.com.ua/odessa/lechenie-narkomanii-v-odese/)**          | От 2499 грн |
+| **[Капельница от наркотиков](https://umbrella-plus.com.ua/odessa/kapelnica-ot-nakrotikov-odessa/)** | От 2499 грн |
+| **[Вывод из запоя на дому](https://umbrella-plus.com.ua/odessa/vivod-iz-zapoia-na-domu-odesa/)**    | От 2199 грн |
 
 ## Кому подходит метод подшивки
 
