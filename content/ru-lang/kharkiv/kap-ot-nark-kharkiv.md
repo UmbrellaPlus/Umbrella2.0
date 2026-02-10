@@ -5,8 +5,8 @@ description: Первый шаг к трезвой жизни
 image: /img/kharkov-new/kap-ot-nark.jpg
 imageText: Капельница от наркотиков в Харькове
 ratingAvarage: 4.99/5
-rating: '2988'
-reviewType: alk-1
+rating: '6988'
+reviewType: narkot
 ---
 
 ## Капельница от наркотиков в Харькове
