@@ -1,3 +1,13 @@
+---
+tabTitle: Нарколог Харьков | Umbrella Plus | Консультация от 1500 грн
+title: Нарколог Харьков
+description: Надёжная помощь без огласки
+image: /img/kharkov-new/narkolog-kharkiv.jpg
+imageText: Нарколог Харьков
+ratingAvarage: 4.99/5
+rating: '11242'
+reviewType: alk-2
+---
 
 ## Нарколог Харьков
 
