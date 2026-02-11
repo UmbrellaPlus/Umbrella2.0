@@ -1,3 +1,13 @@
+---
+tabTitle: Нарколог Харків | Umbrella Plus | Консультація від 1500 грн
+title: Нарколог Харків
+description: Надійна допомога без розголосу
+image: /img/kharkov-new/narkolog-kharkiv.jpg
+imageText: Нарколог Харків
+ratingAvarage: 4.99/5
+rating: '11242'
+reviewType: alk-2
+---
 
 ## Нарколог Харків
 
