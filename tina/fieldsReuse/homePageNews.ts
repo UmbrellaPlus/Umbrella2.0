@@ -16,6 +16,11 @@ export const homePageNews: TinaField[] = [
     label: "Ссылка после нажатия на картинку",
     name: "link",
   },
+  {
+    type: "boolean",
+    name: "draft",
+    label: "Скрыть от показа?",
+  },
 ];
 
-export default homePageNews
+export default homePageNews;

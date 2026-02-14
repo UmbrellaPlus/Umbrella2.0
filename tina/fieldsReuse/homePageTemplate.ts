@@ -4,7 +4,7 @@ export const homePageTemplate: TinaField[] = [
   {
     type: "string",
     label: "Название вкладки в Гугле",
-    name: "title",
+    name: "tabTitle",
     ui: {
       description:
         "С начала создания сайта название не менялось и его лучше не менять",
@@ -14,16 +14,6 @@ export const homePageTemplate: TinaField[] = [
   { type: "string", label: "Первая строчка", name: "homeText1" },
   { type: "string", label: "Вторая строчка", name: "homeText2" },
   { type: "string", label: "Третья строчка", name: "homeText3" },
-  {
-    type: "image",
-    label: "ПК версия картинки 1600x720. Шаблон (psd) есть в img/MAIN",
-    name: "mainpc",
-  },
-  {
-    type: "image",
-    label: "Мобильная версия картинки 1280х1280. Шаблон (psd) есть в img/MAIN",
-    name: "mainmob",
-  },
   {
     type: "image",
     label: "Картинка справа от основного текста",

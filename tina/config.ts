@@ -5,6 +5,7 @@ import { cityTemplate } from "./fieldsReuse/cityTemplate";
 import { blogTemplate } from "./fieldsReuse/blogTemplate";
 import { googleFeedbackTemplate } from "./fieldsReuse/googleFeedbackTemplate";
 import { faq } from "./fieldsReuse/faq";
+import celebration from "./fieldsReuse/celebration";
 
 // Your hosting provider likely exposes this as an environment variable
 const branch =
@@ -34,28 +35,23 @@ export default defineConfig({
   // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/r/content-modelling-collections/
   schema: {
     collections: [
-      //MAIN-PAGE-NEWS
+      //CHOOSE THE CELEBRATION
       {
-        name: "homepagenews_ru",
-        label: "Слайдер на главной странице - RU",
-        path: "content/ru-lang/homepage",
+        name: "celebration",
+        label: "Выбор праздника",
+        path: "content/celebration",
         match: {
-          exclude: "_index",
+          include: "settings",
         },
-        fields: [...homePageNews],
-        ui: { allowedActions: { createNestedFolder: false } },
-      },
-      {
-        name: "homepagenews_ua",
-        label: "Слайдер на главной странице - UA",
-        path: "content/ua-lang/homepage",
-        match: {
-          exclude: "_index",
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+            createNestedFolder: false,
+          },
         },
-        fields: [...homePageNews],
-        ui: { allowedActions: { createNestedFolder: false } },
-      },
-      //MAIN-PAGE
+        fields: [...celebration],
+      }, //MAIN-PAGE
       {
         name: "home_ru",
         label: "Главная страница-RU",
@@ -87,6 +83,27 @@ export default defineConfig({
             createNestedFolder: false,
           },
         },
+      },
+      //MAIN-PAGE-NEWS
+      {
+        name: "homepagenews_ru",
+        label: "Слайдер на главной странице - RU",
+        path: "content/ru-lang/homepage",
+        match: {
+          exclude: "_index",
+        },
+        fields: [...homePageNews],
+        ui: { allowedActions: { createNestedFolder: false } },
+      },
+      {
+        name: "homepagenews_ua",
+        label: "Слайдер на главной странице - UA",
+        path: "content/ua-lang/homepage",
+        match: {
+          exclude: "_index",
+        },
+        fields: [...homePageNews],
+        ui: { allowedActions: { createNestedFolder: false } },
       },
       //CITIES-RU
       {

@@ -4,8 +4,6 @@ homeHeader: Амбрелла | Спасаем жизни каждый день
 homeText1: Лечение алкоголизма и наркомании
 homeText2: Снятие алкогольной/наркотической интоксикации
 homeText3: Срочный выезд нарколога на дом
-mainpc: /img/MAIN/main-pc-ru.jpg
-mainmob: /img/MAIN/main-mob-ru.jpg
 imageDoctor: /img/main-about.jpg
 doctorName: Робулец Ольга Григорьевна
 doctorDescr: 'Ведущий нарколог, специалист с многолетним опытом'

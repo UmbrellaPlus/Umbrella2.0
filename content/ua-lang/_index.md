@@ -5,8 +5,6 @@ homeHeader: Амбрела | Рятуємо життя щодня
 homeText1: Лікування алкоголізму та наркоманії
 homeText2: Зняття алкогольної/наркотичної інтоксикації
 homeText3: Виїзд нарколога додому
-mainpc: /img/MAIN/main-pc-ua.jpg
-mainmob: /img/MAIN/main-mob-ua.jpg
 imageDoctor: /img/main-about.jpg
 doctorName: Робулець Ольга Григоріївна
 doctorDescr: 'Ведучий нарколог, специаліст з багатолітним досвідом'

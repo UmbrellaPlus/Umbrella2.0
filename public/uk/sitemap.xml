@@ -100,30 +100,6 @@
                 href="https://umbrella-plus.com.ua/uk/faq/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/homepage/2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/homepage/2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/homepage/2/"
-                />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/homepage/3/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/homepage/3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/homepage/3/"
-                />
-  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/homepage/</loc>
     <xhtml:link
                 rel="alternate"
@@ -134,6 +110,30 @@
                 rel="alternate"
                 hreflang="uk-UA"
                 href="https://umbrella-plus.com.ua/uk/homepage/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/homepage/cherkasy-filial/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/homepage/cherkasy-filial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/homepage/cherkasy-filial/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/homepage/zsu-discount/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/homepage/zsu-discount/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/homepage/zsu-discount/"
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/odesa/detox-ot-amfetamina-odesa/</loc>
@@ -266,6 +266,18 @@
                 rel="alternate"
                 hreflang="uk-UA"
                 href="https://umbrella-plus.com.ua/uk/categories/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/settings/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/settings/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/settings/"
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/reviewsgoogle/4/</loc>
@@ -1299,6 +1311,8 @@
     <loc>https://umbrella-plus.com.ua/uk/chuguev/narkolig-na-dom-chygyev-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/odesa/konsyltacia-narkologa-odesa/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/kharkiv/konsultacia-narkologa-kharkiv-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/doctors/</loc>
     <xhtml:link

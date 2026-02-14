@@ -1,0 +1,6 @@
+---
+imagepc: /img/HOMEPAGE-SLIDER/zsu-disc/zsu-pc-ua.jpg
+imagephone: /img/HOMEPAGE-SLIDER/zsu-disc/zsu-mob-ua.jpg
+link: "https://umbrella-plus.com.ua/ua"
+draft: false
+---

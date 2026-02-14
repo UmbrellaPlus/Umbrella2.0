@@ -22,10 +22,15 @@
         </div> -->
       </div>
       <div class="index-main-image">
-        {{$mob := resources.Get .Params.mainmob}} {{$pc := resources.Get
-        .Params.mainpc}}
+        {{ $settings := site.GetPage "settings" }}
+        {{ $celebration := $settings.Params.celebration }} 
+        {{$mob := resources.Get (printf "/img/MAIN/%s-mob-%s.jpg" $celebration .Site.Language.Lang)}} 
+        {{$pc:= resources.Get (printf "/img/MAIN/%s-pc-%s.jpg" $celebration .Site.Language.Lang)}}
         <picture>
-          <source media="(max-width: 1000px)" srcset="{{$mob.RelPermalink}}" />
+          <source
+            media="(max-width: 1000px)"
+            srcset="{{$mob.RelPermalink}}"
+          />
           <img src="{{$pc.RelPermalink}}" alt="pc-version-main" />
         </picture>
       </div>

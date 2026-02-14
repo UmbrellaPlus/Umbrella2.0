@@ -26,6 +26,14 @@ defaultContentLanguageInSubdir = false
     source = "content/shared"
     target = "content"
     lang = "uk"
+[[module.mounts]]
+    source = "content/celebration"
+    target = "content"
+    lang = "ru"
+[[module.mounts]]
+    source = "content/celebration"
+    target = "content"
+    lang = "uk"
 
 
 [languages]

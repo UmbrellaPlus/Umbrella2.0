@@ -1,0 +1,6 @@
+---
+imagepc: /img/HOMEPAGE-SLIDER/black-friday/blackf-pc-ua.jpg
+imagephone: /img/HOMEPAGE-SLIDER/black-friday/blackf-mob-ua.jpg
+link: "https://umbrella-plus.com.ua/"
+draft: true
+---
