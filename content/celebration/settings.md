@@ -1,6 +1,6 @@
 ---
 Title: celebration
 name: celebration
-celebration: default
+celebration: womand
 ---
 

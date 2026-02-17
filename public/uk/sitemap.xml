@@ -100,6 +100,18 @@
                 href="https://umbrella-plus.com.ua/uk/faq/"
                 />
   </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/homepage/8mars/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/homepage/8mars/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/homepage/8mars/"
+                />
+  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/homepage/</loc>
     <xhtml:link
                 rel="alternate"
