@@ -4,8 +4,8 @@ title: Капельница от алкоголя на дому Харьков
 description: Экстренная помощь при интоксикации
 image: /img/kharkov-new/kap-ot-alk-na-domy.jpg
 imageText: Капельница от алкоголя на дому Харьков
-ratingAvarage: 4.97/5
-rating: '5879'
+ratingAvarage: 4.99/5
+rating: '7879'
 reviewType: alk-2
 ---
 
