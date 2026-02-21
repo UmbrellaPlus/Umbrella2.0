@@ -1,3 +1,13 @@
+---
+tabTitle: Тест на употребление алкоголя | Umbrella Plus | От 1500 грн
+title: Тест на алкоголь
+description: Объективный результат без ожидания
+image: /img/kharkov-new/test-na-alk-kharkiv.jpg
+imageText: Тест на употребление алкоголя
+ratingAvarage: 4.99/5
+rating: '7622'
+reviewType: alk-2
+---
 
 ## Тест на употребление алкоголя (слюна)
 
