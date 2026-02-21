@@ -1,5 +1,5 @@
 ---
-tabTitle: Подшивка от наркотиков в Харькове
+tabTitle: Подшивка от наркотиков в Харькове | Umbrella Plus | От 15000 грн
 title: Подшивка от наркотиков Харьков
 description: Радикальное лечение зависимости
 image: /img/kharkov-new/podshivka-ot-nark-kharkiv.jpg
