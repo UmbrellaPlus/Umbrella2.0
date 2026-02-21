@@ -1,11 +1,11 @@
 ---
 tabTitle: Лечение наркомании в Харькове | Umbrella Plus | От 2499 грн
-title: Лечение наркомании в Харькове
+title: Лечение наркомании Харьков
 description: Сделай шаг к жизни без наркотиков
-image: /img/kharkov-new/lech-nark-kharkiv.jpg
+image: /img/kharkov-new/lechenie-nark-kharkiv.jpg
 imageText: Лечение наркомании в Харькове
 ratingAvarage: 4.98/5
-rating: '2496'
+rating: '9896'
 reviewType: kod-2
 ---
 
