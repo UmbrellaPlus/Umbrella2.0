@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="uk">
   <head>
+     <meta property="og:image" content="{{.Params.imageDoctor | absURL}}">
+    <meta property="og:description" content="{{.Params.homeText1}}">
     {{ partial "head.html" . }}
-    <meta property="og:image" content="{{.Params.imageDoctor}}">
   </head>
   <body>
     {{partial "sticky-phone.html"}} {{ partial "preheader-ua.html"}} {{ partial
