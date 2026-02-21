@@ -1,6 +1,13 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="description" content="{{.Params.description}}" />
+<meta property="og:title" content="{{.Params.tabTitle}}">
+<meta property="og:description" content="{{.Params.description}}">
+<meta property="og:image" content="{{.Params.image}}">
+<meta property="og:url" content="{{.Permalink}}">
+<meta property="og:type" content="article">
+<!-- Favicon -->
+<link rel="shortcut icon" href="{{ "img/flavicon.png" | relURL }}" type="image/x-icon">
 <title>{{.Params.tabTitle}}</title>
 <!-- Canonical URL -->
 <link rel="canonical" href="{{ .Permalink }}" />

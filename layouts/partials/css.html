@@ -1,6 +1,3 @@
-<!-- Favicon -->
-<link rel="shortcut icon" href="{{ "img/umbrella.png" | relURL }}" type="image/x-icon">
-
 {{ $cssFiles := resources.Match "css/*.css" }}
 {{ $bundle := $cssFiles | resources.Concat "css/bundle.css" | minify }}
 <style>
