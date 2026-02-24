@@ -1,3 +1,13 @@
+---
+tabTitle: Підшивка від наркотиків у Харкові | Umbrella Plus | Від 15000 грн
+title: Підшивка від наркотиків у Харкові
+description: Радикальне лікування залежності
+image: /img/kharkov-new/podshivka-ot-nark-kharkiv.jpg
+imageText: Підшивка від наркотиків Харків
+ratingAvarage: 4.98/5
+rating: '4902'
+reviewType: narkot
+---
 
 ## Подшивка від наркотиків у Харкові
 
