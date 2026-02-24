@@ -1,5 +1,5 @@
 ---
-tabTitle: Нарколог додому Харків | Umbrella Plus | 2199 грн
+tabTitle: Нарколог додому Харків | Umbrella Plus | Від 2199 грн
 title: Нарколог додому Харків
 description: Допомога без зайвих питань
 image: /img/kharkov-new/narkolog-kharkiv.jpg
