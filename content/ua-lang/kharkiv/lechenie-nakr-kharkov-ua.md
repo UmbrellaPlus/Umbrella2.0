@@ -1,9 +1,9 @@
 ---
 tabTitle: Лікування наркоманії у Харкові | Umbrella Plus | Від 2499 грн
-title: Лікування наркоманії у Харкові
+title: Лікування наркоманії Харків
 description: Зроби крок до життя без наркотиків
 image: /img/kharkov-new/lechenie-nark-kharkiv.jpg
-imageText: Лікування наркоманії у Харкові
+imageText: Лікування наркоманії Харків
 ratingAvarage: 4.98/5
 rating: '9896'
 reviewType: narkot
