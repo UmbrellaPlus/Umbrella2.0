@@ -6,7 +6,7 @@ image: /img/kharkov-new/lechenie-nark-kharkiv.jpg
 imageText: Лечение наркомании в Харькове
 ratingAvarage: 4.98/5
 rating: '9896'
-reviewType: kod-2
+reviewType: narkot
 ---
 
 ## Лечение наркомании в Харькове
