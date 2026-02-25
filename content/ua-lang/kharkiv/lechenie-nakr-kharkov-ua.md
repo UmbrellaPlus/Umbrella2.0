@@ -75,12 +75,12 @@ reviewType: narkot
 
 Вартість лікування наркоманії в Харкові починається від 2499 грн.
 
-| Популярні послуги                                                                                       | Ціна          |
-| ------------------------------------------------------------------------------------------------------- | ------------- |
-| [Консультація нарколога](https://umbrella-plus.com.ua/uk/kharkiv/konsultacia-narkologa-kharkiv-ua/)     | Від 1500 грн  |
-| [Крапельниця від наркотиків](https://umbrella-plus.com.ua/uk/kharkiv/kap-ot-nark-ua/)                   | Від 2499 грн  |
-| [Підшивка від наркотиків](https://umbrella-plus.com.ua/uk/kharkiv/podshivka-ot-narkoticov-kharkiv-ua/)  | Від 15000 грн |
-| [Виведення із запою вдома](https://umbrella-plus.com.ua/uk/kharkiv/vivod-iz-zapoia-na-domy-kharkiv-ua/) | Від 2199 грн  |
+| Популярні послуги                                                                                           | Ціна          |
+| ----------------------------------------------------------------------------------------------------------- | ------------- |
+| **[Консультація нарколога](https://umbrella-plus.com.ua/uk/kharkiv/konsultacia-narkologa-kharkiv-ua/)**     | Від 1500 грн  |
+| **[Крапельниця від наркотиків](https://umbrella-plus.com.ua/uk/kharkiv/kap-ot-nark-ua/)**                   | Від 2499 грн  |
+| **[Підшивка від наркотиків](https://umbrella-plus.com.ua/uk/kharkiv/podshivka-ot-narkoticov-kharkiv-ua/)**  | Від 15000 грн |
+| **[Виведення із запою вдома](https://umbrella-plus.com.ua/uk/kharkiv/vivod-iz-zapoia-na-domy-kharkiv-ua/)** | Від 2199 грн  |
 
 ## Чим небезпечна наркоманія для здоров’я
 
