@@ -51,12 +51,12 @@ reviewType: narkot
 
 Вартість детоксикації від наркотиків у Харкові починається від 2499 грн.
 
-| Популярні послуги                                                                                       | Ціна          |
-| ------------------------------------------------------------------------------------------------------- | ------------- |
-| [Консультація нарколога](https://umbrella-plus.com.ua/uk/kharkiv/konsultacia-narkologa-kharkiv-ua/)     | Від 1500 грн  |
-| [Лікування наркоманії](https://umbrella-plus.com.ua/uk/kharkiv/lechenie-nakr-kharkov-ua/)               | Від 2499 грн  |
-| [Підшивка від наркотиків](https://umbrella-plus.com.ua/uk/kharkiv/podshivka-ot-narkoticov-kharkiv-ua/)  | Від 15000 грн |
-| [Виведення із запою вдома](https://umbrella-plus.com.ua/uk/kharkiv/vivod-iz-zapoia-na-domy-kharkiv-ua/) | Від 2199 грн  |
+| Популярні послуги                                                                                           | Ціна          |
+| ----------------------------------------------------------------------------------------------------------- | ------------- |
+| **[Консультація нарколога](https://umbrella-plus.com.ua/uk/kharkiv/konsultacia-narkologa-kharkiv-ua/)**     | Від 1500 грн  |
+| **[Лікування наркоманії](https://umbrella-plus.com.ua/uk/kharkiv/lechenie-nakr-kharkov-ua/)**               | Від 2499 грн  |
+| **[Підшивка від наркотиків](https://umbrella-plus.com.ua/uk/kharkiv/podshivka-ot-narkoticov-kharkiv-ua/)**  | Від 15000 грн |
+| **[Виведення із запою вдома](https://umbrella-plus.com.ua/uk/kharkiv/vivod-iz-zapoia-na-domy-kharkiv-ua/)** | Від 2199 грн  |
 
 ## Анонімна крапельниця від наркотиків без госпіталізації
 
