@@ -100,6 +100,6 @@ rating: '1199'
 
 **Алкогольна шизофренія — це не просто наслідок пияцтва,** а тяжке психічне захворювання, яке потребує негайного втручання фахівців. Чим раніше розпочато лікування, тим вищий шанс повернути тверезість, ясність розуму та нормальне життя.
 
-Якщо ви помічаєте у себе чи близьких галюцинації, неадекватну поведінку, підозрілість — не чекайте погіршення. **Зверніться до наркологічної служби UmbrellaPlus** — тут допоможуть безпечно вийти з кризи, відновити здоров’я й розпочати нове життя без алкоголю.
+Якщо ви помічаєте у себе чи близьких галюцинації, неадекватну поведінку, підозрілість — не чекайте погіршення. **Зверніться до наркологічної служби UmbrellaPlus** — тут допоможуть безпечно вийти з кризи, відновити здоров’я й розпочати нове життя без алкоголю у таких містах: **([Київ](https://umbrella-plus.com.ua/uk/kiev/vivod-iz-zapoia-na-domy-kiev-ua/) | [Харків](https://umbrella-plus.com.ua/uk/kharkiv/vivod-iz-zapoia-na-domy-kharkiv-ua/) | [Одеса](https://umbrella-plus.com.ua/uk/odesa/vivod-iz-zapoia-na-domu-odesa/) | [Дніпро](https://umbrella-plus.com.ua/uk/dnepr/vivod-iz-zapoia-na-domy-dnepr-ua/) | [Львів](https://umbrella-plus.com.ua/uk/lviv/vivod-iz-zapoia-na-domy-lv%D1%96v-ua/) | [Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/vivod-iz-zapoia-na-domy-zaporozhye-ua/) | [Черкаси](https://umbrella-plus.com.ua/uk/cherkasy/vivod-iz-zapoia-vdoma-cherkasi-ua/))**
 
 **Телефон для консультації:** **[+38(050-021-69-57)](tel:0500216957)**
