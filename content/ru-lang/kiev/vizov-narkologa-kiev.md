@@ -2,7 +2,7 @@
 tabTitle: Вызов нарколога на дом в Киеве | Umbrella Plus | От 2700 грн
 title: Вызов нарколога на дом Киев
 description: Анонимно и безопасно
-image: /img/Kiev-new10.09.2025/vizov-nark-kiev.jpg
+image: /img/Kiev-new10.09.2025/nark.jpg
 imageText: Нарколог на дом Киев
 ratingAvarage: 4.98/5
 rating: '10632'
