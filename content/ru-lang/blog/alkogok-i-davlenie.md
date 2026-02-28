@@ -1,3 +1,12 @@
+---
+tabTitle: Влияние алкоголя на давление  | Umbrella Plus |  Мнение нарколога
+title: 'Влияние алкоголя на давление '
+description: Каждая рюмка — нагрузка на сердце
+image: /img/blog/davlenie-ot-alkogolia.jpg
+imageText: 'Влияние алкоголя на давление '
+ratingAvarage: 4.99/5
+rating: '864'
+---
 
 ## Влияние алкоголя на давление: опасные мифы о «лечебных» дозах
 
@@ -132,7 +141,7 @@
 
 Отдельно стоит подчеркнуть: если повышение давления произошло после употребления алкоголя, не стоит откладывать обращение за медицинской помощью. Неконтролируемая гипертония на фоне интоксикации или в период «выхода» может значительно повышать риск инсульта или инфаркта. В таких ситуациях важно не пытаться стабилизировать состояние повторной дозой спиртного, а получить профессиональную консультацию. При необходимости врач может оценить степень интоксикации, провести детоксикацию, скорректировать терапию или помочь безопасно выйти из запойного состояния. Комплексная оценка позволяет снизить нагрузку на сердечно-сосудистую систему и предотвратить тяжёлые осложнения. Получить помощь нарколога, терапевта и кардиолога можно в наркологии UmbrellaPlus в городах:
 
-**([Киев](https://umbrella-plus.com.ua/kiev/vivod-iz-zapoia-na-domy-kiev/) | [Харьков](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/) | [Одесса](https://umbrella-plus.com.ua/odessa/vivod-iz-zapoia-na-domu-odesa/) | [Днепр](https://umbrella-plus.com.ua/dnepr/vivod-iz-zapoia-na-domy-dnepr/) | [Львов](https://umbrella-plus.com.ua/lviv/vivod-iz-zapoia-na-domy-lvov/) | [Запорожье](https://umbrella-plus.com.ua/zaporozie/vivod-iz-zapoia-na-domy-zaporozhye/) | [Черкассы](https://umbrella-plus.com.ua/cherkasy/vivod-iz-zapoia-na-domu-cherkassi/)) **Своевременная медицинская помощь позволяет исключить опасные осложнения, стабилизировать показатели давления и вернуть контроль над состоянием.
+\*\*([Киев](https://umbrella-plus.com.ua/kiev/vivod-iz-zapoia-na-domy-kiev/) | [Харьков](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/) | [Одесса](https://umbrella-plus.com.ua/odessa/vivod-iz-zapoia-na-domu-odesa/) | [Днепр](https://umbrella-plus.com.ua/dnepr/vivod-iz-zapoia-na-domy-dnepr/) | [Львов](https://umbrella-plus.com.ua/lviv/vivod-iz-zapoia-na-domy-lvov/) | [Запорожье](https://umbrella-plus.com.ua/zaporozie/vivod-iz-zapoia-na-domy-zaporozhye/) | [Черкассы](https://umbrella-plus.com.ua/cherkasy/vivod-iz-zapoia-na-domu-cherkassi/)) \*\*Своевременная медицинская помощь позволяет исключить опасные осложнения, стабилизировать показатели давления и вернуть контроль над состоянием.
 
 ## Профилактика скачков давления — помощь наркологов и терапевтов UmbrellaPlus
 
