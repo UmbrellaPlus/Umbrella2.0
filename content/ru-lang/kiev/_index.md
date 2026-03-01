@@ -28,8 +28,8 @@ reviewType: alk-1
 | **[Вывод из запоя](Vivod-iz-zapoia-kiev)**                               | От 2700 грн |
 | **[Капельница от алкоголя на дому](Kapelnica_ot_alkogola_na_domy_kiev)** | От 2700 грн |
 | **[Лечение алкоголизма](kiev/lechenie-alkogolizma-kiev)**                | От 2700 грн |
-| [Лечение пивного алкоголизма](lechenie-pivnogi-alkogolizma-kiev)         | От 2700 грн |
-| [Лечение женского алкоголизм](lechenie-jenskogo-alkogolizma-kiev)        | От 2700 грн |
+| **[Лечение пивного алкоголизма](lechenie-pivnogi-alkogolizma-kiev)**     | От 2700 грн |
+| **[Лечение женского алкоголизм](lechenie-jenskogo-alkogolizma-kiev)**    | От 2700 грн |
 | Тест на употребление алкоголя (слюна)                                    | От 1500 грн |
 
 | Услуги \| Лечение наркомании                                               | Цена        |
