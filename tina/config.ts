@@ -497,10 +497,10 @@ export default defineConfig({
       //O NAS I SOTRYDNICHESTVO
       {
         name: "menuPages_ru",
-        label: "О нас и Сотрудничество-RU",
+        label: "О нас и Сотрудничество, Политика Конф-RU",
         path: "content/ru-lang",
         match: {
-          include: "{about-us,collaboration}",
+          include: "{about-us,collaboration,privacy-policy}",
         },
         fields: [
           {
@@ -521,10 +521,10 @@ export default defineConfig({
       },
       {
         name: "menuPages_ua",
-        label: "О нас и Сотрудничество-UA",
+        label: "О нас и Сотрудничество, Политика Конф-UA",
         path: "content/ua-lang",
         match: {
-          include: "{about-us,collaboration}",
+          include: "{about-us,collaboration,privacy-policy}",
         },
         fields: [
           {
@@ -543,7 +543,7 @@ export default defineConfig({
           },
         },
       },
-      //FAQ
+      //FAQRU
       {
         name: "faq_ru",
         label: "RU-FAQ",
@@ -555,7 +555,7 @@ export default defineConfig({
             createNestedFolder: false,
           },
         },
-      }, //FAQ
+      }, //FAQUA
       {
         name: "faq_ua",
         label: "UA-FAQ",

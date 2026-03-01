@@ -856,6 +856,8 @@
                 href="https://umbrella-plus.com.ua/reviewslocal/vitaminy/3/"
                 />
   </url><url>
+    <loc>https://umbrella-plus.com.ua/blog/alkogok-i-davlenie/</loc>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/services/vivod-iz-zapoia-umbrellaplus/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/chornomorsk/vivod-iz-zapoia-chernomorsk/</loc>
@@ -900,6 +902,8 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/odessa/ekstreniy-vizov-narkologa-odesa/</loc>
   </url><url>
+    <loc>https://umbrella-plus.com.ua/kiev/vizov-narkologa-kiev/</loc>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/reviewsgoogle/6/</loc>
     <xhtml:link
                 rel="alternate"
@@ -911,6 +915,8 @@
                 hreflang="ru-UA"
                 href="https://umbrella-plus.com.ua/reviewsgoogle/6/"
                 />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/blog/gidazepam_i_alkogol/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/services-nark/detox-ot-amfetamina/</loc>
   </url><url>
@@ -1308,13 +1314,13 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/dnepr/konsultacia-narkologa-dnepr/</loc>
   </url><url>
+    <loc>https://umbrella-plus.com.ua/kiev/konsultacia-narkologa-kiev/</loc>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/cherkasy/narkolog-na-dom-cherkassy/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/chuguev/narcolog-na-dom-chygyev/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/zaporozie/narcolog-na-dom-zaporoje/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/vizov-narkologa-kiev/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/kharkiv/vizov-narkologa-kharkov/</loc>
   </url><url>
@@ -1372,6 +1378,18 @@
                 rel="alternate"
                 hreflang="ru-UA"
                 href="https://umbrella-plus.com.ua/directory/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/privacy-policy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/privacy-policy/"
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/services/reabilitacia-alkozavisimih/</loc>
