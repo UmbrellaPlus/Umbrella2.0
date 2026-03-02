@@ -2,6 +2,7 @@
 tabTitle: Лікування алкоголізму в домашніх умовах | Umbrella Plus | Думка лікаря
 title: Лікування алкоголізму в домашніх умовах
 description: Тверезість починається з рішення
+date: 2026-03-01T11:15:02.160Z
 image: /img/blog/lechenie-alk-doma.png
 imageText: Лікування алкоголізму в домашніх умовах
 ratingAvarage: 4.99/5
