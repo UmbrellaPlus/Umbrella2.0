@@ -2,7 +2,7 @@
 tabTitle: Примусове лікування алкоголізму | Umbrella Plus
 title: Примусове лікування алкоголізму
 description: Правда без міфів та ілюзій
-date: 2026-03-02T18:44:17.603Z
+date: 2026-03-01T18:44:17.603Z
 image: /img/blog/kopstitucia.png
 imageText: Примусове лікування алкоголізму
 ratingAvarage: 4.98/5
