@@ -3,7 +3,7 @@ tabTitle: Когда похмелье становится опасным | Umbr
 title: Когда похмелье становится опасным
 description: Берегите сердце после алкоголя
 date: 2026-03-03T17:29:14.716Z
-image: /img/blog/от похмелья.png
+image: /img/blog/ot-pohmelia.png
 imageText: Когда похмелье становится опасным
 ratingAvarage: 4.99/5
 rating: '466'
