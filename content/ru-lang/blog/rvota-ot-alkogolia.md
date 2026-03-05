@@ -2,6 +2,7 @@
 tabTitle: Сильная рвота после алкоголя что делать | Umbrella Plus | Советы нарколога
 title: Сильная рвота после алкоголя
 description: Не ждите осложнений — восстановите организм безопасно
+image: /img/blog/rvota.jpg
 imageText: Сильная рвота после алкоголя
 ratingAvarage: 4.99/5
 rating: '645'
