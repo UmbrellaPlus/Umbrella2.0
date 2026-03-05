@@ -3,7 +3,7 @@ tabTitle: Влияние алкоголя на давление  | Umbrella Plus
 title: 'Влияние алкоголя на давление '
 description: Каждая рюмка — нагрузка на сердце
 date: 2026-02-28T07:32:30.496Z
-image: /img/blog/davlenie-ot-alkogolia.jpg
+image: ''
 imageText: 'Влияние алкоголя на давление '
 ratingAvarage: 4.99/5
 rating: '864'
