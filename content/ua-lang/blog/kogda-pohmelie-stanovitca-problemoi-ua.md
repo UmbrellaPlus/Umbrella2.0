@@ -3,7 +3,7 @@ tabTitle: Коли похмілля стає небезпечним | Umbrella P
 title: Коли похмілля стає небезпечним
 description: Бережіть серце після алкоголю
 date: 2026-03-03T17:38:05.273Z
-image: /img/blog/ot-pohmelia.png
+image: ''
 imageText: Коли похмілля стає небезпечним
 ratingAvarage: 4.99/5
 rating: '466'
