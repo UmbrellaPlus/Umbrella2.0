@@ -3,7 +3,7 @@ tabTitle: Що робити якщо людина п'є кілька днів | 
 title: Що робити якщо людина п'є кілька днів
 description: 'Не чекайте ускладнень: допомога при запої доступна вже сьогодні'
 date: 2026-03-04T16:37:56.243Z
-image: /img/blog/chto-delat-esli-chelivek-piet.png
+image: ''
 imageText: Що робити якщо людина п'є кілька днів
 ratingAvarage: 4.99/5
 rating: '462'
