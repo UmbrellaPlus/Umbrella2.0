@@ -3,7 +3,7 @@ tabTitle: Вплив алкоголю на тиск | Umbrella Plus | Думка
 title: Вплив алкоголю на тиск
 description: Кожна чарка – навантаження на серце
 date: 2026-02-28T07:46:55.207Z
-image: /img/blog/davlenie-ot-alkogolia.jpg
+image: ''
 imageText: Вплив алкоголю на тиск
 ratingAvarage: 4.99/5
 rating: '864'
