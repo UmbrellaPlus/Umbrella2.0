@@ -3,7 +3,7 @@ tabTitle: 'Принудительное лечение алкоголизма | 
 title: Принудительное лечение алкоголизма
 description: Правда без мифов и иллюзий
 date: 2026-03-01T18:18:34.615Z
-image: /img/blog/kopstitucia.png
+image: ''
 imageText: Принудительное лечение алкоголизма
 ratingAvarage: 4.98/5
 rating: '312'
