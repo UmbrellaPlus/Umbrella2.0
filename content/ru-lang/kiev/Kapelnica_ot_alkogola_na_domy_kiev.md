@@ -39,10 +39,10 @@ reviewType: alk-2
 
 | Популярные услуги                                                                                | Цена        |
 | ------------------------------------------------------------------------------------------------ | ----------- |
-| [Вывод из запоя на дому](https://umbrella-plus.com.ua/kiev/vivod-iz-zapoia-na-domy-kiev/)        | От 2700 грн |
-| [Капельница от алкоголя](https://umbrella-plus.com.ua/kiev/kapelnica_ot_alkogola_kiev/)          | От 2700 грн |
-| [Капельница от наркотиков](https://umbrella-plus.com.ua/kiev/kapelnica-ot-narkotikov-kiev/)      | От 3000 грн |
-| [Кодирование от алкоглизма Киев](https://umbrella-plus.com.ua/kiev/kodirovka-ot-alkogolia-kiev/) | От 6000 грн |
+| **[Нарколог Киев](https://umbrella-plus.com.ua/kiev/konsultacia-narkologa-kiev/)**               | От 1500 грн |
+| **[Капельница от алкоголя](https://umbrella-plus.com.ua/kiev/kapelnica_ot_alkogola_kiev/)**      | От 2700 грн |
+| **[Вывод из запоя на дому](https://umbrella-plus.com.ua/kiev/vivod-iz-zapoia-na-domy-kiev/)**    | От 3000 грн |
+| **[Кодирование от алкоголизма](https://umbrella-plus.com.ua/kiev/kodirovka-ot-alkogolia-kiev/)** | От 6000 грн |
 
 ## Обрыв запоя дома
 
