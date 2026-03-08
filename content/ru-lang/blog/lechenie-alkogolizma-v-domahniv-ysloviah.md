@@ -3,7 +3,7 @@ tabTitle: Лечение алкоголизма в домашних услови
 title: Лечение алкоголизма в домашних условиях
 description: Трезвость начинается с решения
 date: 2026-03-01T11:05:16.937Z
-image: ''
+image: /img/blog/lechenie-alk.jpg
 imageText: Лечение алкоголизма в домашних условиях
 ratingAvarage: 4.99/5
 rating: '441'
