@@ -43,7 +43,7 @@ reviewType: alk-1
 | ----------------------------------------------------------------------------------------------------- | ------------ |
 | **[Лікування алкоголізму](https://umbrella-plus.com.ua/uk/kiev/likyvania-alkogolizmy-kiev/)**         | Від 2700 грн |
 | **[Нарколог Київ](https://umbrella-plus.com.ua/uk/kiev/konsultacia-narkologa-kiev-ua/)**              | Від 2700 грн |
-| **[Виведення із запою вдома](https://umbrella-plus.com.ua/uk/kiev/vivod-iz-zapoia-na-domy-kiev-ua/)** | Від 3000 грн |
+| **[Виведення із запою вдома](https://umbrella-plus.com.ua/uk/kiev/vivod-iz-zapoia-na-domy-kiev-ua/)** | Від 2700 грн |
 | **[Кодування від алкоголізму](https://umbrella-plus.com.ua/uk/kiev/kodirovka-ot-alkogolia-kiev-ua/)** | Від 6000 грн |
 
 ## Ефективна крапельниця від алкоголю
