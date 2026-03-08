@@ -75,7 +75,7 @@ reviewType: alk-2
 
 | Популярні послуги                                                                                     | Ціна         |
 | ----------------------------------------------------------------------------------------------------- | ------------ |
-| Консультація нарколога                                                                                | Від 2700 грн |
+| **[Консультація нарколога](https://umbrella-plus.com.ua/uk/kiev/konsultacia-narkologa-kiev-ua/)**     | Від 2700 грн |
 | **[Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/kiev/kapelnica_ot_alkogola_kiev/)**      | Від 2700 грн |
 | **[Виведення із запою вдома](https://umbrella-plus.com.ua/uk/kiev/vivod-iz-zapoia-na-domy-kiev-ua/)** | Від 2700 грн |
 | **[Кодування від алкоголю](https://umbrella-plus.com.ua/uk/kiev/kodirovka-ot-alkogolia-kiev-ua/)**    | Від 6000 грн |
