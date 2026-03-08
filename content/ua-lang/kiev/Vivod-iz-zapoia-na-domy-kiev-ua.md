@@ -48,7 +48,7 @@ reviewType: alk-1
 | ----------------------------------------------------------------------------------------------------- | ------------ |
 | **[Лікування алкоголізму](https://umbrella-plus.com.ua/uk/kiev/likyvania-alkogolizmy-kiev/)**         | Від 2700 грн |
 | **[Нарколог Київ](https://umbrella-plus.com.ua/uk/kiev/konsultacia-narkologa-kiev-ua/)**              | Від 2700 грн |
-| **[Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/kiev/kapelnica_ot_alkogola_kiev/)**      | Від 3000 грн |
+| **[Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/kiev/kapelnica_ot_alkogola_kiev/)**      | Від 2700 грн |
 | **[Кодування від алкоголізму](https://umbrella-plus.com.ua/uk/kiev/kodirovka-ot-alkogolia-kiev-ua/)** | Від 6000 грн |
 
 ## Коли необхідний терміновий виклик нарколога додому у Києві
