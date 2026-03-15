@@ -3,6 +3,7 @@ tabTitle: 8 порад батькам алкоголіка що не можна 
 title: 8 порад батькам алкоголіка
 description: Шо не можна робити
 date: 2026-03-14T08:40:41.989Z
+image: /img/blog/8-sovetov.jpg
 imageText: 8 порад батькам алкоголіка
 ratingAvarage: 4.98/5
 rating: '459'
