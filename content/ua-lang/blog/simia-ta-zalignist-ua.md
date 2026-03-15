@@ -2,6 +2,8 @@
 tabTitle: Сім’я та залежність як вибудувати здорові стосунки | Umbrella Plus | Поради нарколога
 title: Сім’я та залежність
 description: Як вибудувати здорові стосунки
+date: 2026-03-14T07:09:13.104Z
+image: /img/blog/psihologia-i-zavisimost.jpg
 imageText: Сім’я та залежність як вибудувати здорові стосунки
 ratingAvarage: 4.99/5
 rating: '325'
