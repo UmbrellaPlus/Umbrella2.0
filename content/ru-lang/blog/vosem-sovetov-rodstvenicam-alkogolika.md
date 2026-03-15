@@ -1,8 +1,9 @@
 ---
-tabTitle: '8 советов родителям алкоголика: что нельзя делать | Umbrella Plus'
+tabTitle: 8 советов родителям алкоголика что нельзя делать | Umbrella Plus
 title: 8 советов родителям алкоголика
 description: Что нельзя делать
 date: 2026-03-14T08:33:31.249Z
+image: /img/blog/8-sovetov.jpg
 imageText: 8 советов родителям алкоголика
 ratingAvarage: 4.98/5
 rating: '459'
