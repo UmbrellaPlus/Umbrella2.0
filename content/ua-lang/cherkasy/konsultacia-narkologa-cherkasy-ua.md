@@ -1,3 +1,13 @@
+---
+tabTitle: Консультація нарколога Черкаси | Umbrella Plus | Від 1500 грн
+title: Консультація нарколога Черкаси
+description: Зробіть перший крок до відновлення
+image: /img/cherkasy/vz.jpg
+imageText: Консультація нарколога Черкаси
+ratingAvarage: 4.99/5
+rating: '4712'
+reviewType: alk-1
+---
 
 ## Консультація нарколога Черкаси
 
