@@ -2,6 +2,7 @@
 tabTitle: Роль спорта в лечении зависимости | Umbrella Plus | Объясняет нарколог
 title: Роль спорта в лечении зависимости
 description: Движение к свободе начинается со спорта
+image: /img/blog/sport-i-zavisimost.jpg
 imageText: Роль спорта в лечении зависимости
 ratingAvarage: 4.98/5
 rating: '754'
