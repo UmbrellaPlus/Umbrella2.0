@@ -100,4 +100,4 @@
 
 Мы работаем в таких городах Украины, как **([Киев](https://umbrella-plus.com.ua/kiev/vivod-iz-zapoia-na-domy-kiev/) | [Харьков](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/) | [Одесса](https://umbrella-plus.com.ua/odessa/vivod-iz-zapoia-na-domu-odesa/) | [Днепр](https://umbrella-plus.com.ua/dnepr/vivod-iz-zapoia-na-domy-dnepr/) | [Львов](https://umbrella-plus.com.ua/lviv/vivod-iz-zapoia-na-domy-lvov/) | [Запорожье](https://umbrella-plus.com.ua/zaporozie/vivod-iz-zapoia-na-domy-zaporozhye/) | [Черкассы](https://umbrella-plus.com.ua/cherkasy/vivod-iz-zapoia-na-domu-cherkassi/)**) обеспечивая доступ к квалифицированной помощи независимо от места проживания.
 
-Телефон для консультации и вызова нарколога: +38 (050) 021-69-57
+Телефон для консультации и вызова нарколога: **[+38(050-021-69-57)](tel:0500216957)**
