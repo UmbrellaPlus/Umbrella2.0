@@ -1,3 +1,13 @@
+---
+tabTitle: Газлайтинг что это такое | Umbrella Plus | Объясняет психиатр
+title: Газлайтинг что это такое
+description: 'Тихая манипуляция, которая разрушает уверенность'
+date: 2026-03-20T12:11:25.485Z
+image: /img/blog/gazlainting.jpg
+imageText: Газлайтинг что это такое
+ratingAvarage: 4.99/5
+rating: '812'
+---
 
 ## Газлайтинг это
 
