@@ -1,6 +1,7 @@
 ---
 tabTitle: Лікування алкоголізму в Черкасах | Umbrella Plus | Від 2199 грн
 title: Лікування алкоголізму в Черкасах
+description: Допомагаємо повернутися до життя без алкоголю
 image: /img/cherkasy/lechenie-alk-cherkasy.jpg
 imageText: Лікування алкоголізму в Черкасах
 ratingAvarage: 4.98/5
