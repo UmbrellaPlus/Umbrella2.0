@@ -1,3 +1,13 @@
+---
+tabTitle: Крапельниця від алкоголю на дому Черкаси | Umbrella Plus | Від 2499 грн
+title: Крапельниця від алкоголю на дому Черкаси
+description: Терміновий виїзд нарколога додому
+image: /img/cherkasy/kapelnica-ot-alkogolia-doma-cherkasy.jpg
+imageText: Крапельниця від алкоголю на дому Черкаси
+ratingAvarage: 4.99/5
+rating: '6123'
+reviewType: alk-2
+---
 
 ## Крапельниця від алкоголю на дому Черкаси
 
