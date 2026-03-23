@@ -2,6 +2,7 @@
 tabTitle: Тест на употребление алкоголя Черкассы | Umbrella Plus | От 1500 грн
 title: Тест на употребление алкоголя Черкассы
 description: Быстро. Точно. Конфиденциально
+image: /img/cherkasy/test-na-alkogol.jpg
 imageText: Тест на употребление алкоголя Черкассы
 ratingAvarage: 4.98/5
 rating: '1661'
