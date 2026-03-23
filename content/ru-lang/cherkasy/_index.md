@@ -29,7 +29,7 @@ reviewType: alk-1
 | **[Капельница от алкоголя на дому](kapelnica-ot-alkogolia-na-domy-cherkasy)**     | От 2199 грн |
 | **[Лечение алкоголизма](lechenie-alkogolizma-cherkasy)**                          | От 2199 грн |
 | **[Лечение пивного алкоголизма Черкассы](lechenie-pivnogo-alkogolizma-cherkasy)** | От 2199 грн |
-| Лечение женского алкоголизм Черкассы                                              | От 2199 грн |
+| **[Лечение женского алкоголизм Черкассы](lechenie-jenskogo-alkogolizma)**         | От 2199 грн |
 | **[Тест на употребление алкоголя (слюна)](test-na-alkogol-cherkasy)**             | От 1500 грн |
 
 | Услуги \| Лечение наркомании                          | Цена        |
