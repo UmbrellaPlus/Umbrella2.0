@@ -2,6 +2,7 @@
 tabTitle: Лечение женского алкоголизма в Черкассах | Umbrella Plus | От 2199 грн
 title: Лечение женского алкоголизма в Черкассах
 description: Верните себе себя — начните путь к трезвости
+image: /img/cherkasy/lechenie-jenskogo-alkogolizma.jpg
 imageText: Лечение женского алкоголизма в Черкассах
 ratingAvarage: 4.98/5
 rating: '3521'
