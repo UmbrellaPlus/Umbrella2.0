@@ -1,6 +1,8 @@
 ---
 tabTitle: Лікування пивного алкоголізму в Черкасах | Umbrella Plus | Від 2199 грн
 title: Лікування пивного алкоголізму в Черкасах
+description: Комплексне лікування – стійкий результат
+image: /img/cherkasy/lechenie-pivnogo-alkogolizma.jpg
 imageText: Лікування пивного алкоголізму в Черкасах
 ratingAvarage: 4.98/5
 rating: '4902'
