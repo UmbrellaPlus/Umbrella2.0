@@ -28,7 +28,7 @@ reviewType: alk-1
 | **[Виведення із запою](vivod-iz-zapoia-cherkasy-ua)**                         | Від 2199 грн |
 | **[Крапельниця від алкоголю вдома](kapelnica-ot-alkogolia-doma-cherkasy-ua)** | Від 2199 грн |
 | **[Лікування алкоголізму](lechenie-alkogolizma-cherkasy-ua)**                 | Від 2199 грн |
-| Лікування пивного алкоголізму                                                 | Від 2199 грн |
+| **[Лікування пивного алкоголізму](lechenie-pivnogo-alkogolizma-cherkasy-ua)** | Від 2199 грн |
 | Лікування жіночого алкоголізм                                                 | Від 2199 грн |
 | **[Тест на вживання алкоголю (слина)](test-na-alkogol-cherkasy-ua)**          | Від 1500 грн |
 
