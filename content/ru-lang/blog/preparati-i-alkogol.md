@@ -3,6 +3,7 @@ tabTitle: 'Смертельный коктейль из аптечки: Самы
 title: Таблетки которые нельзя мешать с алкоголем
 description: Смертельный коктейль из аптечки
 date: 2026-03-24T15:13:12.279Z
+image: /img/blog/tabletki-i-alkogol.jpg
 imageText: Таблетки которые нельзя мешать с алкоголем
 ratingAvarage: 4.99/5
 rating: '451'
