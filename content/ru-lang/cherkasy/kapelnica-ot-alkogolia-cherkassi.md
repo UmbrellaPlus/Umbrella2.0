@@ -51,12 +51,12 @@ reviewType: alk-2
 
 Стоимость **капельницы от алкоголя в Черкассах** начинается от 2199 грн.
 
-| Популярные услуги                                                                                     | Цена        |
-| ----------------------------------------------------------------------------------------------------- | ----------- |
-| [Лечение алкоголизма](https://umbrella-plus.com.ua/cherkasy/lechenie-alkogolizma-cherkasy/)           | От 2199 грн |
-| [Нарколог Черкассы](https://umbrella-plus.com.ua/cherkasy/konsultacia-narkologa-cherkasy/)            | От 2199 грн |
-| [Вывод из запоя на дому](https://umbrella-plus.com.ua/cherkasy/vivod-iz-zapoia-na-domu-cherkassi/)    | От 2199 грн |
-| [Кодирование от алкоголизма](https://umbrella-plus.com.ua/cherkasy/kodirovka-ot-alkogolia-cherkassy/) | От 6000 грн |
+| Популярные услуги                                                                                         | Цена        |
+| --------------------------------------------------------------------------------------------------------- | ----------- |
+| **[Лечение алкоголизма](https://umbrella-plus.com.ua/cherkasy/lechenie-alkogolizma-cherkasy/)**           | От 2199 грн |
+| **[Нарколог Черкассы](https://umbrella-plus.com.ua/cherkasy/konsultacia-narkologa-cherkasy/)**            | От 2199 грн |
+| **[Вывод из запоя на дому](https://umbrella-plus.com.ua/cherkasy/vivod-iz-zapoia-na-domu-cherkassi/)**    | От 2199 грн |
+| **[Кодирование от алкоголизма](https://umbrella-plus.com.ua/cherkasy/kodirovka-ot-alkogolia-cherkassy/)** | От 6000 грн |
 
 ## Какой эффект от капельницы от алкоголя
 
