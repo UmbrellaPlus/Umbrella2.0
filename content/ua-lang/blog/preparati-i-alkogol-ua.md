@@ -214,7 +214,7 @@
 
 ## Терміновий виклик нарколога додому
 
-У випадках, коли самопочуття погіршується після поєднання алкоголю і лікарських препаратів, потрібна кваліфікована медична допомога. Наркологічна клініка UmbrellaPlus здійснює терміновий виїзд лікаря додому в таких містах України, як ([Київ](https://umbrella-plus.com.ua/uk/kiev/vivod-iz-zapoia-na-domy-kiev-ua/) | [Харків](https://umbrella-plus.com.ua/uk/kharkiv/vivod-iz-zapoia-na-domy-kharkiv-ua/) | [Одеса](https://umbrella-plus.com.ua/uk/odesa/vivod-iz-zapoia-na-domu-odesa/) | [Дніпро](https://umbrella-plus.com.ua/uk/dnepr/vivod-iz-zapoia-na-domy-dnepr-ua/) | [Львів](https://umbrella-plus.com.ua/uk/lviv/vivod-iz-zapoia-na-domy-lv%D1%96v-ua/) | [Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/vivod-iz-zapoia-na-domy-zaporozhye-ua/) | [Черкаси](https://umbrella-plus.com.ua/uk/cherkasy/vivod-iz-zapoia-vdoma-cherkasi-ua/)).
+У випадках, коли самопочуття погіршується після поєднання алкоголю і лікарських препаратів, потрібна кваліфікована медична допомога. Наркологічна клініка UmbrellaPlus здійснює терміновий виїзд лікаря додому в таких містах України, як **([Київ](https://umbrella-plus.com.ua/uk/kiev/vivod-iz-zapoia-na-domy-kiev-ua/) | [Харків](https://umbrella-plus.com.ua/uk/kharkiv/vivod-iz-zapoia-na-domy-kharkiv-ua/) | [Одеса](https://umbrella-plus.com.ua/uk/odesa/vivod-iz-zapoia-na-domu-odesa/) | [Дніпро](https://umbrella-plus.com.ua/uk/dnepr/vivod-iz-zapoia-na-domy-dnepr-ua/) | [Львів](https://umbrella-plus.com.ua/uk/lviv/vivod-iz-zapoia-na-domy-lv%D1%96v-ua/) | [Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/vivod-iz-zapoia-na-domy-zaporozhye-ua/) | [Черкаси](https://umbrella-plus.com.ua/uk/cherkasy/vivod-iz-zapoia-vdoma-cherkasi-ua/)).**
 
 Наші лікарі забезпечують:
 
