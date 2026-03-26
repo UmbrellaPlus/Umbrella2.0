@@ -2,6 +2,7 @@
 tabTitle: Подшивка от наркотиков Черкассы | Umbrella Plus | От 15000 грн
 title: Подшивка от наркотиков Черкассы
 description: 'Контроль, защита и новый старт'
+image: /img/cherkasy/podshivka-ot-nark.jpg
 imageText: Подшивка от наркотиков Черкассы
 ratingAvarage: 4.98/5
 rating: '4902'
