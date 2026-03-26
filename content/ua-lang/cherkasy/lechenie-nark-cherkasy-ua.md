@@ -4,6 +4,9 @@ title: Лікування наркоманії в Черкасах
 description: Крок до нового життя без залежності
 image: /img/cherkasy/lechenie-nark.jpg
 imageText: Лікування наркоманії в Черкасах
+ratingAvarage: 4.99/5
+rating: '5618'
+reviewType: narkot
 ---
 
 ## Лікування наркоманії в Черкасах
