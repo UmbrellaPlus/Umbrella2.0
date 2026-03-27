@@ -86,12 +86,12 @@ reviewType: narkot
 
 Вартість лікування наркоманії в Черкасах починається від 2499 грн.
 
-| Популярні послуги                                                                                             | Ціна          |
-| ------------------------------------------------------------------------------------------------------------- | ------------- |
-| [Консультація нарколога](https://umbrella-plus.com.ua/uk/cherkasy/konsultacia-narkologa-cherkasy-ua/)         | Від 1500 грн  |
-| [Крапельниця від наркотиків](https://umbrella-plus.com.ua/uk/cherkasy/krapelnica-vid-narkotikov-cherkasy-ua/) | Від 2499 грн  |
-| [Підшивка від наркотиків](https://umbrella-plus.com.ua/uk/cherkasy/podhivka-ot-nark-cherkasy-ua/)             | Від 15000 грн |
-| [Виведення із запою вдома](https://umbrella-plus.com.ua/uk/cherkasy/vivod-iz-zapoia-vdoma-cherkasi-ua/)       | Від 2199 грн  |
+| Популярні послуги                                                                                                 | Ціна          |
+| ----------------------------------------------------------------------------------------------------------------- | ------------- |
+| **[Консультація нарколога](https://umbrella-plus.com.ua/uk/cherkasy/konsultacia-narkologa-cherkasy-ua/)**         | Від 1500 грн  |
+| **[Крапельниця від наркотиків](https://umbrella-plus.com.ua/uk/cherkasy/krapelnica-vid-narkotikov-cherkasy-ua/)** | Від 2499 грн  |
+| **[Підшивка від наркотиків](https://umbrella-plus.com.ua/uk/cherkasy/podhivka-ot-nark-cherkasy-ua/)**             | Від 15000 грн |
+| **[Виведення із запою вдома](https://umbrella-plus.com.ua/uk/cherkasy/vivod-iz-zapoia-vdoma-cherkasi-ua/)**       | Від 2199 грн  |
 
 ## Індивідуальний підхід до лікування залежності
 
