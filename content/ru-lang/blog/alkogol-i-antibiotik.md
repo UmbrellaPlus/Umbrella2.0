@@ -2,6 +2,7 @@
 tabTitle: Алкоголь и антибиотики — мнение нарколога  | Umbrella Plus
 title: Почему нельзя пить алкоголь при приёме антибиотиков
 description: Реальный риск смерти при сочетании алкоголя и лекарств
+image: /img/blog/antibiotik-i-alkogol.jpg
 imageText: Почему нельзя пить алкоголь при приёме антибиотиков
 ratingAvarage: 4.99/5
 rating: '1288'
