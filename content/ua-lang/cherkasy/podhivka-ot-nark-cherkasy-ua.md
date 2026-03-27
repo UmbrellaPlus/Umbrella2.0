@@ -69,12 +69,12 @@ reviewType: narkot
 
 Вартість підшивки від наркотиків у Черкасах починається від 15000 грн.
 
-| Популярні послуги                                                                                                 | Ціна          |
-| ----------------------------------------------------------------------------------------------------------------- | ------------- |
-| **[Консультація нарколога](https://umbrella-plus.com.ua/uk/cherkasy/konsultacia-narkologa-cherkasy-ua/)**         | Від 1500 грн  |
-| **[Крапельниця від наркотиків](https://umbrella-plus.com.ua/uk/cherkasy/krapelnica-vid-narkotikov-cherkasy-ua/)** | Від 2499 грн  |
-| **[Підшивка від наркотиків](https://umbrella-plus.com.ua/uk/cherkasy/podhivka-ot-nark-cherkasy-ua/)**             | Від 15000 грн |
-| **[Виведення із запою вдома](https://umbrella-plus.com.ua/uk/cherkasy/vivod-iz-zapoia-vdoma-cherkasi-ua/)**       | Від 2199 грн  |
+| Популярні послуги                                                                                                 | Ціна         |
+| ----------------------------------------------------------------------------------------------------------------- | ------------ |
+| **[Консультація нарколога](https://umbrella-plus.com.ua/uk/cherkasy/konsultacia-narkologa-cherkasy-ua/)**         | Від 1500 грн |
+| **[Крапельниця від наркотиків](https://umbrella-plus.com.ua/uk/cherkasy/krapelnica-vid-narkotikov-cherkasy-ua/)** | Від 2499 грн |
+| **[Лікування наркоманії](https://umbrella-plus.com.ua/uk/cherkasy/lechenie-nark-cherkasy-ua/)**                   | Від 2499 грн |
+| **[Виведення із запою вдома](https://umbrella-plus.com.ua/uk/cherkasy/vivod-iz-zapoia-vdoma-cherkasi-ua/)**       | Від 2199 грн |
 
 ## Скільки діє підшивка
 
