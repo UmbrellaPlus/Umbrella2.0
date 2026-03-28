@@ -1,3 +1,13 @@
+---
+tabTitle: Нарколог Запорожье | Umbrella Plus | От 1500 грн
+title: Нарколог Запорожье
+description: Безопасное лечение и поддержка на каждом этапе
+image: /img/zaporoje/narkolog-zaporoje.jpg
+imageText: 'Нарколог Запорожье '
+ratingAvarage: 4.99/5
+rating: '4232'
+reviewType: alk-2
+---
 
 ## Нарколог Запорожье
 
