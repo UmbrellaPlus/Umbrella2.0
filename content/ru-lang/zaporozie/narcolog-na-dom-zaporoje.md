@@ -1,11 +1,11 @@
 ---
-tabTitle: Нарколог на дом Запорожье | Umbrella Plus | От 1999 грн
+tabTitle: Нарколог на дом Запорожье | Umbrella Plus | От 2199 грн
 title: Нарколог на дом Запорожье
 description: Анонимная наркологическая помощь на дому
-image: /img/zaporoje/5nark.jpg
+image: /img/zaporoje/narkolog-zaporoje.jpg
 imageText: Нарколог на дом Запорожье
 ratingAvarage: 4.99/5
-rating: '1744'
+rating: '5744'
 reviewType: alk-1
 ---
 
