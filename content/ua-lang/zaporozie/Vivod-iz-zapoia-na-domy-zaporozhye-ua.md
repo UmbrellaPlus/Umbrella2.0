@@ -53,12 +53,12 @@ reviewType: alk-1
 
 Вартість **виведення із запою на дому в Запоріжжі** починається від 2199 грн.
 
-| Популярні послуги                                                                                          | Ціна         |
-| ---------------------------------------------------------------------------------------------------------- | ------------ |
-| [Лікування алкоголізму](https://umbrella-plus.com.ua/uk/zaporozie/lechenie-alkogolizma-zp-ua/)             | Від 2199 грн |
-| [Нарколог Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/narkolog-zaporije-ua/)                      | Від 2199 грн |
-| [Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/zaporozie/kapelnica_ot_alkogola_zaporozhye-ua/) | Від 2199 грн |
-| [Кодування від алкоголізму](https://umbrella-plus.com.ua/uk/zaporozie/kod-ot-alkogolia-zp_ua/)             | Від 6000 грн |
+| Популярні послуги                                                                                              | Ціна         |
+| -------------------------------------------------------------------------------------------------------------- | ------------ |
+| **[Лікування алкоголізму](https://umbrella-plus.com.ua/uk/zaporozie/lechenie-alkogolizma-zp-ua/)**             | Від 2199 грн |
+| **[Нарколог Запоріжжя](https://umbrella-plus.com.ua/uk/zaporozie/narkolog-zaporije-ua/)**                      | Від 2199 грн |
+| **[Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/zaporozie/kapelnica_ot_alkogola_zaporozhye-ua/)** | Від 2199 грн |
+| **[Кодування від алкоголізму](https://umbrella-plus.com.ua/uk/zaporozie/kod-ot-alkogolia-zp_ua/)**             | Від 6000 грн |
 
 ## Як наркологи виводять із запою вдома
 
