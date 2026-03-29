@@ -1,11 +1,12 @@
 ---
-tabTitle: Лікування алкоголізму у Запоріжжі | Umbrella Plus | Від 1999 грн
+tabTitle: Лікування алкоголізму у Запоріжжі | Umbrella Plus | Від 2199 грн
 title: Лікування алкоголізму у Запоріжжі
 description: Шанс на життя без залежності
-image: ''
+image: /img/zaporoje/lechenie-alk.jpg
 imageText: Лікування алкоголізму у Запоріжжі
 ratingAvarage: 4.98/5
-rating: '2620'
+rating: '4620'
+reviewType: alk-2
 ---
 
 ## Лікування алкоголізму в Запоріжжі
