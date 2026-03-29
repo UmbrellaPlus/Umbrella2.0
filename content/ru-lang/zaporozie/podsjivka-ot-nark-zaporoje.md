@@ -1,3 +1,13 @@
+---
+tabTitle: Подшивки от наркотиков в Запорожье | Umbrella Plus | От 15000 грн
+title: Подшивки от наркотиков в Запорожье
+description: Контроль тяги — уверенность в завтрашнем дне
+image: /img/zaporoje/podshivka-ot-narl-zaporoje.jpg
+imageText: Подшивки от наркотиков в Запорожье
+ratingAvarage: 4.99/5
+rating: '3551'
+reviewType: narkot
+---
 
 ## Подшивки от наркотиков в Запорожье
 
