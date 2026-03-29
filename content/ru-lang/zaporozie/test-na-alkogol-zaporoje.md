@@ -2,6 +2,7 @@
 tabTitle: Тест на употребление алкоголя Запорожье | Umbrella Plus | От 1500 грн
 title: Тест на употребление алкоголя Запорожье
 description: Контроль трезвости — быстро и анонимно
+image: /img/zaporoje/test-na-alkogol-zaporoje.jpg
 imageText: Тест на употребление алкоголя Запорожье
 ratingAvarage: 4.99/5
 rating: '1322'
