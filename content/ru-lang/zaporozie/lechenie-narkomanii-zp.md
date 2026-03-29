@@ -2,7 +2,7 @@
 tabTitle: Лечение наркомании в Запорожье | Umbrella Plus | От 2499 грн
 title: Лечение наркомании в Запорожье
 description: Первый шаг в трезвость
-image: ''
+image: /img/zaporoje/lechenie-nark-zaporoje.jpg
 imageText: Лечение наркомании в Запорожье
 ratingAvarage: 4.98/5
 rating: '7477'
