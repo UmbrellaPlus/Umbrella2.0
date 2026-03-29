@@ -39,12 +39,12 @@ reviewType: alk-2
 
 Стоимость лечения наркомании в Запорожье начинается от 2499 грн.
 
-| Популярные услуги                                                                                                                                                                       | Цена         |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| **[Консультация нарколога](\[https://umbrella-plus.com.ua/zaporozie/narkolog-zaporije/]\(https://umbrella-plus.com.ua/zaporozie/narkolog-zaporije/)**                                   | От 1500 грн  |
-| **[Капельница от наркотиков](https://umbrella-plus.com.ua/zaporozie/kapelnica-ot-nakrotikov-zp/)**                                                                                      | От 2499 грн  |
-| **[Подшивка от наркотиков](\[https://umbrella-plus.com.ua/zaporozie/podsjivka-ot-nark-zaporoje/]\(https://umbrella-plus.com.ua/zaporozie/podsjivka-ot-nark-zaporoje/)**                 | От 15000 грн |
-| **[Вывод из запоя на дому](\[https://umbrella-plus.com.ua/zaporozie/vivod-iz-zapoia-na-domy-zaporozhye/]\(https://umbrella-plus.com.ua/zaporozie/vivod-iz-zapoia-na-domy-zaporozhye/)** | От 2199 грн  |
+| Популярные услуги                                                                                        | Цена        |
+| -------------------------------------------------------------------------------------------------------- | ----------- |
+| **[Консультация нарколога](https://umbrella-plus.com.ua/zaporozie/narkolog-zaporije/)**                  | От 1500 грн |
+| **[Капельница от наркотиков](https://umbrella-plus.com.ua/zaporozie/podsjivka-ot-nark-zaporoje/)**       | От 2499 грн |
+| **[Подшивка от наркотиков](https://umbrella-plus.com.ua/zaporozie/podsjivka-ot-nark-zaporoje/)**         | От 2499 грн |
+| **[Вывод из запоя на дому](https://umbrella-plus.com.ua/zaporozie/vivod-iz-zapoia-na-domy-zaporozhye/)** | От 2199 грн |
 
 ## Детоксикация организма от наркотиков
 
