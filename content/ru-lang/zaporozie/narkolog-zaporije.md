@@ -76,12 +76,12 @@ reviewType: alk-2
 
 Стоимость консультации и помощи нарколога в Запорожье начинается от 1500 грн.
 
-| Популярні послуги                                                                                                | Ціна         |
-| ---------------------------------------------------------------------------------------------------------------- | ------------ |
-| **[Лікування алкоголізму](https://umbrella-plus.com.ua/uk/zaporozie/lechenie-alkogolizma-zp-ua/)**               | Від 2199 грн |
-| **[Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/zaporozie/kapelnica_ot_alkogola_zaporozhye-ua/)**   | Від 2199 грн |
-| **[Виведення із запою вдома](https://umbrella-plus.com.ua/uk/zaporozie/vivod-iz-zapoia-na-domy-zaporozhye-ua/)** | Від 2199 грн |
-| **[Кодування від алкоголізму](https://umbrella-plus.com.ua/uk/zaporozie/kod-ot-alkogolia-zp_ua/)**               | Від 6000 грн |
+| Популярные услуги                                                                                        | Цена        |
+| -------------------------------------------------------------------------------------------------------- | ----------- |
+| **[Лечение алкоголизма](https://umbrella-plus.com.ua/zaporozie/lechenie-alkogolizma-zaporoje/)**         | От 2199 грн |
+| **[Капельница от алкоголя](https://umbrella-plus.com.ua/zaporozie/kapelnica_ot_alkogola_zaporozhye/)**   | От 2199 грн |
+| **[Вывод из запоя на дому](https://umbrella-plus.com.ua/zaporozie/vivod-iz-zapoia-na-domy-zaporozhye/)** | От 2199 грн |
+| **[Кодирование от алкоголизма](https://umbrella-plus.com.ua/zaporozie/kodirovka-ot-alkogolia-zp/)**      | От 6000 грн |
 
 ## Выведение из запоя под контролем нарколога
 
