@@ -1,3 +1,13 @@
+---
+tabTitle: Швидка наркологічна допомога Одеса 24/7 | Umbrella Plus | От 2199 грн
+title: Швидка наркологічна допомога Одеса
+description: 'Ми поряд, коли кожен момент на рахунку'
+image: /img/Odessa-new/narkolog-odessa.jpg
+imageText: Швидка наркологічна допомога Одеса
+ratingAvarage: 4.99/5
+rating: '8324'
+reviewType: alk-2
+---
 
 ## Швидка наркологічна допомога Одеса 24/7
 
