@@ -2,6 +2,7 @@
 tabTitle: Вывод из запоя в стационаре Одесса | Umbrella Plus | От 2199 грн
 title: Вывод из запоя в стационаре Одесса
 description: надежное восстановление здоровья и возвращение к новой жизни
+image: /img/Odessa-new/lechenie-pivnogo-alk-odesa.jpg
 imageText: Вывод из запоя в стационаре Одесса
 ratingAvarage: 4.98/5
 rating: '6183'
