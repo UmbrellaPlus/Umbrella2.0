@@ -1,3 +1,13 @@
+---
+tabTitle: Срочный вывод из запоя в Одессе | Umbrella Plus | От 2199 грн
+title: Срочный вывод из запоя в Одессе
+description: Помощь здесь и сейчас
+image: /img/Odessa-new/narkolog-odessa.jpg
+imageText: Срочный вывод из запоя в Одессе
+ratingAvarage: 4.99/5
+rating: '3512'
+reviewType: alk-2
+---
 
 ## Срочный вывод из запоя в Одессе
 
