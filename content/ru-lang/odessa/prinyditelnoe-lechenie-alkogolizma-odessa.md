@@ -1,3 +1,13 @@
+---
+tabTitle: Принудительный вывод из запоя в Одессе | Umbrella Plus | От 2199 грн
+title: Принудительный вывод из запоя в Одессе
+description: Поможем даже в самых сложных ситуациях запоя
+image: /img/Odessa-new/lechenie-pivnogo-alk-odesa.jpg
+imageText: Принудительный вывод из запоя в Одессе
+ratingAvarage: 4.98/5
+rating: '1623'
+reviewType: alk-1
+---
 
 ## Принудительный вывод из запоя в Одессе
 
