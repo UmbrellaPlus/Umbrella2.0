@@ -2,6 +2,7 @@
 tabTitle: Анонимный вывод из запоя Одесса | Umbrella Plus | От 2199 грн
 title: Анонимный вывод из запоя Одесса
 description: Помощь без огласки — результат без риска
+image: /img/Odessa-new/lechenie-alk-odessa.jpg
 imageText: Анонимный вывод из запоя Одесса
 ratingAvarage: 4.99/5
 rating: '3226'
