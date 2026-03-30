@@ -2,6 +2,7 @@
 tabTitle: Скорая наркологическая помощь Одесса 24/7 | Umbrella Plus | От 2199 грн
 title: Скорая наркологическая помощь Одесса
 description: 'Мы рядом, когда каждый момент на счету'
+image: /img/Odessa-new/narkolog-odessa.jpg
 imageText: Скорая наркологическая помощь Одесса
 ratingAvarage: 4.99/5
 rating: '8324'
