@@ -2,6 +2,7 @@
 tabTitle: Анонимный вывод из запоя Харьков | Umbrella Plus | От 2199 грн
 title: Анонимный вывод из запоя Харьков
 description: Помощь без лишних вопросов
+image: /img/Odessa-new/narkolog-odessa.jpg
 imageText: Анонимный вывод из запоя Харьков
 ratingAvarage: 4.98/5
 rating: '4232'
