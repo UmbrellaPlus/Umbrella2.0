@@ -2,6 +2,7 @@
 tabTitle: Вывод из запоя в стационаре Харьков | Umbrella Plus | От 2199 грн
 title: Вывод из запоя в стационаре Харьков
 description: Быстрое восстановление под профессиональным наблюдением
+image: /img/kharkov-new/vivod-iz-zapoia-stacionar.jpg
 imageText: Вывод из запоя в стационаре Харьков
 ratingAvarage: 4.98/5
 rating: '4661'
