@@ -6,6 +6,7 @@ image: /img/kharkov-new/test-na-alk-kharkiv.jpg
 imageText: Термінове виведення із запою Харків
 ratingAvarage: 4.99/5
 rating: '4998'
+reviewType: alk-2
 ---
 
 ## Термінове виведення із запою Харків
