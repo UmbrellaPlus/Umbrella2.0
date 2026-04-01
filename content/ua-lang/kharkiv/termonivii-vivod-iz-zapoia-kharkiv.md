@@ -1,3 +1,12 @@
+---
+tabTitle: Термінове виведення із запою Харків | Umbrella Plus | Від 2199 грн
+title: Термінове виведення із запою Харків
+description: Допомога без зволікання
+image: /img/kharkov-new/test-na-alk-kharkiv.jpg
+imageText: Термінове виведення із запою Харків
+ratingAvarage: 4.99/5
+rating: '4998'
+---
 
 ## Термінове виведення із запою Харків
 
