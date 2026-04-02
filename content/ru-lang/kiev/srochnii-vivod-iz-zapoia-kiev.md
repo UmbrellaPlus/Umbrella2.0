@@ -1,7 +1,7 @@
 ---
 tabTitle: Срочный вывод из запоя Киев | Umbrella Plus | От 2700 грн
 title: Срочный вывод из запоя Киев
-description: Помощь когда каждая минута имеет значение.
+description: Помощь когда каждая минута имеет значение
 image: /img/Kiev-new10.09.2025/detox-ot-soli-kiev.jpg
 imageText: Срочный вывод из запоя Киев
 ratingAvarage: 4.98/5
