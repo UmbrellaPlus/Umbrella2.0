@@ -5,5 +5,10 @@
     <span class="star" data-value="4">&#9733;</span>
     <span class="star" data-value="5">&#9733;</span>
 </div>
+{{if in .Site.Language "ru"}}
 <div id="rating-value">Ваша оценка: <b><span id="rating"></span></b> <br><span><span>{{.Params.ratingAvarage}}</span> (<span id="rating-votes">{{.Params.rating}}</span> проголосовали)</span></div>
 <div id="rating-thanks">Благодарим за отзыв. Каждая оценка важна для нас<span id="rating"></span></div>
+{{else}}
+<div id="rating-value">Ваша оцінка: <b><span id="rating"></span></b> <br><span><span>{{.Params.ratingAvarage}}</span> (<span id="rating-votes">{{.Params.rating}}</span> проголосовали)</span></div>
+<div id="rating-thanks">Дякуємо за відгук. Кожна оцінка важлива для нас<span id="rating"></span></div>
+{{end}}

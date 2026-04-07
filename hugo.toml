@@ -159,6 +159,11 @@ defaultContentLanguageInSubdir = false
                         pageRef = '/privacy-policy'
                         weight = 40
                         parent = 'extra'
+                    [[languages.ru.menus.main]]
+                        name = 'Лицензии и сертификаты'
+                        pageRef = '/licenses'
+                        weight = 50
+                        parent = 'extra'
     [languages.uk]
         contentDir = 'content/ua-lang'
         languageCode = 'uk-UA'
@@ -279,4 +284,9 @@ defaultContentLanguageInSubdir = false
                         name = 'Політика конфіденційності'
                         pageRef = '/privacy-policy'
                         weight = 40
+                        parent = 'extra'
+                    [[languages.uk.menus.main]]
+                        name = 'Ліцензії та сертифікати'
+                        pageRef = '/licenses'
+                        weight = 50
                         parent = 'extra'

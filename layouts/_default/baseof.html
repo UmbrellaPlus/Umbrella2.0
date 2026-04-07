@@ -10,7 +10,7 @@
     <div class="main-padding"></div>
     <main>{{block "main".}}{{end}}</main>
     <div class="markdown-container">
-      <div class="markdown">{{.Content}}</div>
+      <div class="markdown">{{.Content}}{{partial "banner.html" .}}{{ partial "star-rating.html" .}}</div>
       <div class="markdown-side-menu">
         {{ range site.Menus.main }} {{if eq .Identifier "services"}}
         <p class="markdown-side-menu-header">{{.Name}}</p>
@@ -28,9 +28,7 @@
         </ul>
         {{end}}
       </div>
-    </div>
-    {{if in .Site.Language "ru"}} {{ partial "star-rating.html" .}}{{ else }} {{
-    partial "star-rating-ua.html" .}}{{end}}{{partial "faq.html" .}}{{partial "local-reviews.html" .}}
+    </div> {{partial "faq.html" .}}{{partial "local-reviews.html" .}}
     <div style="text-align: center">
       {{ if in .Site.Language "ru" }} {{partial "latest-news.html" .}} {{ else
       }} {{partial "latest-news-ua.html" .}} {{ end }}

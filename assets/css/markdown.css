@@ -44,14 +44,6 @@ h2::after {
   line-height: 1.6rem;
   padding: 1rem;
 }
-.markdown img {
-  max-width: 50%;
-  height: auto;
-  box-shadow: -3px 3px 0px var(--blue);
-  border-radius: 0 10px 0 0;
-  display: block;
-  margin:auto;
-}
 .markdown ol, .markdown ul{
   align-self: flex-start;
   padding:1rem 2rem;

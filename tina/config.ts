@@ -5,7 +5,8 @@ import { cityTemplate } from "./fieldsReuse/cityTemplate";
 import { blogTemplate } from "./fieldsReuse/blogTemplate";
 import { googleFeedbackTemplate } from "./fieldsReuse/googleFeedbackTemplate";
 import { faq } from "./fieldsReuse/faq";
-import celebration from "./fieldsReuse/celebration";
+import { celebration } from "./fieldsReuse/celebration";
+import { licenses } from "./fieldsReuse/licenses";
 
 // Your hosting provider likely exposes this as an environment variable
 const branch =
@@ -562,6 +563,18 @@ export default defineConfig({
         path: "content/ua-lang/faq",
         match: { exclude: "_index" },
         fields: [...faq],
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "licenses",
+        label: "Licenses-and-certificates",
+        path: "content/shared/licenses",
+        match: { exclude: "_index" },
+        fields: [...licenses],
         ui: {
           allowedActions: {
             createNestedFolder: false,

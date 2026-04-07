@@ -1,0 +1,24 @@
+.banner {
+  max-width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+.banner picture source {
+  object-fit: cover;
+  padding: 1rem 0;
+  border-radius: 20px;
+}
+.banner picture img {
+    border-radius: 10px;
+}
+
+@media (min-width: 1000px) {
+  .banner {
+    max-width: 100%;
+  }
+  .banner picture img {
+    width: 100%;
+    border-radius: 20px;
+  }
+}

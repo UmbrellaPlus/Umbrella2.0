@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  <body>
+    {{ $licensesSection := site.GetPage "section" "licenses" }} 
+    {{ $lisenceImgLink := resources.Get .Params.img}}
+    {{partial "sticky-phone.html"}} {{ partial "preheader.html"}} {{ partial
+    "header.html"}}
+    <div class="license-padding"></div>
+    <ul class="licenses-container">
+      {{range $licensesSection.RegularPages}}
+      <li class="license-post"><img src="{{$lisenceImgLink.RelPermalink}}" /></li>
+      {{end}}
+    </ul>
+    {{ partial "footer.html" . }}
+  </body>
+</html>

@@ -46,7 +46,7 @@
         margin: auto;
         flex-direction: row;
         flex-wrap: wrap;
-        justify-self: flex-start;
+        justify-content: center;
     }
     .blog-list-post{
         width: 15rem;
