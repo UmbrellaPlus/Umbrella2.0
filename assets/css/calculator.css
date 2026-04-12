@@ -1,0 +1,10 @@
+.calculator-container{
+ margin: auto;
+ max-width: 95%;   
+}
+
+@media (min-width:1000px){
+    .calculator-container{
+        max-width: 60%;
+    }
+}

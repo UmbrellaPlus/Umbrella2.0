@@ -132,7 +132,4 @@ tbody tr:hover {
   .markdown ol, ul {
     padding: 0;
   }
-  .markdown img {
-    max-width: 95%;
-}
 }

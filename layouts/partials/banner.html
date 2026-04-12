@@ -1,5 +1,5 @@
 {{/* used in the end of page as call to action */}}
-<div class="banner">
+<a href="tel:+380687972782"><div class="banner">
   {{$bannerMobRu := resources.Get "/img/BANNER/banner-mob-ru.jpg"}} {{$bannerMobUa := resources.Get
   "/img/BANNER/banner-mob-ua.jpg"}} {{$bannerPcRu := resources.Get "/img/BANNER/banner-pc-ru.jpg"}} {{$bannerPcUa :=
   resources.Get "/img/BANNER/banner-pc-ua.jpg"}} {{if in .Site.Language "ru"}}
@@ -13,4 +13,4 @@
     <img src="{{$bannerMobUa.RelPermalink}}" alt="call-to-action" />
   </picture>
   {{end}}
-</div>
+</div></a>
