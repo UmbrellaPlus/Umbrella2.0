@@ -45,7 +45,7 @@ reviewType: alk-2
 
 | Популярні послуги                                                                                           | Ціна         |
 | ----------------------------------------------------------------------------------------------------------- | ------------ |
-| **[Нарколог Харків](https://umbrella-plus.com.ua/uk/kharkiv/konsultacia-narkologa-kharkiv-ua/)**            | Від 1500 грн |
+| **[Нарколог Чугуєв](https://umbrella-plus.com.ua/uk/kharkiv/konsultacia-narkologa-kharkiv-ua/)**            | Від 1500 грн |
 | **[Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/kharkiv/kapelnica_ot_alkogola_kharkiv-ua/)**   | Від 2199 грн |
 | **[Виведення із запою вдома](https://umbrella-plus.com.ua/uk/kharkiv/vivod-iz-zapoia-na-domy-kharkiv-ua/)** | Від 2199 грн |
 | **[Кодування від алкоголізму](https://umbrella-plus.com.ua/uk/kharkiv/kodirovka-ot-alkogolia-kharkiv-ua/)** | Від 6000 грн |
