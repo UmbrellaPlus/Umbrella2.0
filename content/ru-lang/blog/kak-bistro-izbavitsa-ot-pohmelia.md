@@ -2,8 +2,8 @@
 tabTitle: Как быстро избавиться от похмелья — Рабочие советы | Umbrella Plus | Безопасная наркология
 title: Как быстро избавиться от похмелья — Рабочие советы
 description: Советы врача нарколога
-date: 2025-10-05T00:00:00.000Z
-image: /img/blog/kak-izbav-ot-pohmelia.jpg
+date: 2026-04-12T00:00:00.000Z
+image: /img/blog/kak-izbavitca-ot-pohmelia.jpg
 imageText: Как быстро избавиться от похмелья
 ratingAvarage: 4.98/5
 rating: '1522'
