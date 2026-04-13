@@ -2,8 +2,8 @@
 tabTitle: Як швидко позбутися похмілля — Дієві поради | Umbrella Plus | Безпечна наркологія
 title: Як швидко позбутися похмілля — Дієві поради
 description: Поради лікаря нарколога
-date: 2025-10-05T00:00:00.000Z
-image: /img/blog/kak-izbav-ot-pohmelia.jpg
+date: 2026-04-12T00:00:00.000Z
+image: /img/blog/kak-izbavitca-ot-pohmelia.jpg
 imageText: Як швидко позбутися похмілля — Дієві поради
 ratingAvarage: 4.98/5
 rating: '1522'
