@@ -1,5 +1,5 @@
 ---
-tabTitle: Консультація нарколога Umbrella Plus | Від 1500 грн
+tabTitle: Консультація нарколога | Від 1500 грн
 title: Консультація нарколога
 description: Перший крок до одужання
 image: /img/services/lechenie-alkogolizma.jpg
