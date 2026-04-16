@@ -18,7 +18,7 @@ reviewType: alk-2
 | Популярные услуги                                                              | Цена        |
 | ------------------------------------------------------------------------------ | ----------- |
 | **[Консультация нарколога](services/konsultacia-narkologa)**                   | От 1500 грн |
-| **[Капельница от алкоголя](services/kapelnica-ot-alkogolia-UmbrellaPlus)**     | От 2199 грн |
+| **[Лечение алкоголизма](services/lechenie-alkogolizma)**                       | От 2199 грн |
 | **[Вывод из запоя на дому](services/Vivod-iz-zapoia-na-domy-UmbrellaPlus)**    | От 2199 грн |
 | **[Кодирование от алкоголизма](services/kodirovka-ot-alkogolia-umbrellaplus)** | От 6000 грн |
 
