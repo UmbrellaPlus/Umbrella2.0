@@ -3,7 +3,7 @@ tabTitle: Капельница от алкоголя | Umbrella Plus | От 2199
 title: Капельница от алкоголя
 description: Быстрый способ убрать любое похмелье
 image: /img/services/kapelnica-ot-alk.jpg
-imageText: Капельница от алкоголя UmbrellaPlus
+imageText: Капельница от алкоголя
 ratingAvarage: 4.98/5
 rating: '15923'
 reviewType: alk-1
