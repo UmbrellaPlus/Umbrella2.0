@@ -30,6 +30,7 @@ function renderTest() {
   let option4 = document.getElementById("option4");
   let option5 = document.getElementById("option5");
 
+
   question.innerHTML = "";
   question.innerHTML = questionsArray[questionId].question;
   answer1.innerHTML = "";
@@ -42,12 +43,21 @@ function renderTest() {
   answer4.innerHTML = questionsArray[questionId].option4;
   answer5.innerHTML = "";
   answer5.innerHTML = questionsArray[questionId].option5;
-  console.log(questionId)
+}
+
+function checkRadio(){
+  let questionsRadio = document.querySelectorAll(".kalkulatorRadio")
+  questionsRadio.forEach(e => {
+    if(e.checked){
+      console.log(e)
+    }
+  })
 }
 
 buttonNext.addEventListener("click", () => {
   if (questionId !== 9) {
     questionId++;
+    checkRadio();
     renderTest();
   } else {
     return;

@@ -363,6 +363,21 @@ export default defineConfig({
           },
         },
       },
+
+            {
+        name: "shadow_blog_ru",
+        label: "Скрытый-Блог-RU",
+        path: "content/ru-lang/shadow-blog",
+        fields: [...blogTemplate],
+        match: {
+          exclude: "_index",
+        },
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
       {
         name: "blog_ua",
         label: "Блог-UA",
@@ -377,17 +392,103 @@ export default defineConfig({
           },
         },
       },
+            {
+        name: "shadow_blog_ua",
+        label: "Скрытый-Блог-UA",
+        path: "content/ua-lang/shadow-blog",
+        fields: [...blogTemplate],
+        match: {
+          exclude: "_index",
+        },
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
       //SERVICES-NEW
       {
-        name: "services_ru",
-        label: "Услуги-RU",
-        path: "content/ru-lang",
+        name: "services_alkogolizm_ru",
+        label: "Услуги-Алкоголизм-RU",
+        path: "content/ru-lang/services",
         fields: [...cityTemplate],
-        match: {
-          include:
-            "{services/**/*,services-khymioterapiya/**/*,services-nark/**/*,services-otravlenie/**/*,services-vitamini/**/*}",
-          exclude: "*",
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
         },
+      },
+      {
+        name: "services_ru_otravlenie",
+        label: "Услуги-Отравление-RU",
+        path: "content/ru-lang/services-otravlenie",
+        fields: [...cityTemplate],
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "services_ru_khymioterapiya",
+        label: "Услуги-Химиотерапия-RU",
+        path: "content/ru-lang/services-khymioterapiya",
+        fields: [...cityTemplate],
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "services_ru_nark",
+        label: "Услуги-Наркология-RU",
+        path: "content/ru-lang/services-nark",
+        fields: [...cityTemplate],
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "services_ru_vitamini",
+        label: "Услуги-Витамины-RU",
+        path: "content/ru-lang/services-vitamini",
+        fields: [...cityTemplate],
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "services_ua_alkogolizm",
+        label: "Услуги-Отравление-UA",
+        path: "content/ua-lang/services-otryenya",
+        fields: [...cityTemplate],
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "services_ua_khimioterapiya",
+        label: "Услуги-Химиотерапия-UA",
+        path: "content/ua-lang/services-khimioterapiya",
+        fields: [...cityTemplate],
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "services_ua_nark",
+        label: "Услуги-Наркология-UA",
+        path: "content/ua-lang/services-nark",
+        fields: [...cityTemplate],
         ui: {
           allowedActions: {
             createNestedFolder: false,
@@ -396,14 +497,9 @@ export default defineConfig({
       },
       {
         name: "services_ua",
-        label: "Услуги-UA",
-        path: "content/ua-lang",
+        label: "Услуги-Витамины-UA",
+        path: "content/ua-lang/services-vitaminy",
         fields: [...cityTemplate],
-        match: {
-          include:
-            "{services/**/*,services-khimioterapiya/**/*,services-nark/**/*,services-otryenya/**/*,services-vitaminy/**/*}",
-          exclude: "*",
-        },
         ui: {
           allowedActions: {
             createNestedFolder: false,
