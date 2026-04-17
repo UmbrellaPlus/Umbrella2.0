@@ -1,7 +1,7 @@
 ---
 tabTitle: Крапельниця від алкоголю у Чорноморську | Umbrella Plus | Від 2199 грн
 title: Крапельниця від алкоголю Чорноморськ
-description: Поставимо на ноги сьогодні!
+description: Поставимо на ноги вже сьогодні!
 image: /img/chernomorsc/kapelnica-ot-alk-chernomorsk.jpg
 imageText: Крапельниця від алкоголю Чорноморськ
 ratingAvarage: 4.99/5
