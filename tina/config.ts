@@ -462,8 +462,20 @@ export default defineConfig({
           },
         },
       },
+            
       {
         name: "services_ua_alkogolizm",
+        label: "Услуги-Алкоголизм-UA",
+        path: "content/ua-lang/services",
+        fields: [...cityTemplate],
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "services_ua_otravlenie",
         label: "Услуги-Отравление-UA",
         path: "content/ua-lang/services-otryenya",
         fields: [...cityTemplate],
