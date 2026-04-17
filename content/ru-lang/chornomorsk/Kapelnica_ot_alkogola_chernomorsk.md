@@ -1,7 +1,7 @@
 ---
 tabTitle: Капельница от алкоголя в Черноморске | Umbrella Plus | От 2199 грн
 title: Капельница от алкоголя Черноморск
-description: Поставим на ноги сегодня!
+description: Поставим на ноги уже сегодня!
 image: /img/chernomorsc/kapelnica-ot-alk-chernomorsk.jpg
 imageText: Капельница от алкоголя в Черноморске
 ratingAvarage: 4.99/5
