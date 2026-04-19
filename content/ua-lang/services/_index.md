@@ -20,7 +20,7 @@ reviewType: alk-2
 | **[Консультація нарколога](services/konsultacia-narkologa-ua)**                 | Від 1500 грн |
 | **[Крапельниця від алкоголю](services/kapelnica-ot-alkogolia-UmbrellaPlus-ua)** | Від 2199 грн |
 | **[Виведення з запою вдома](services/Vivod-iz-zapoia-na-domy-UmbrellaPlus-ua)** | Від 2199 грн |
-| **[Кодування від алкоголізму]()**                                               | Від 6000 грн |
+| **[Кодування від алкоголізму](kodirovanie-ot-alkogolizma-ua)**                  | Від 6000 грн |
 
 | Послуги \| Лікування алкоголізму   | Ціна         |
 | ---------------------------------- | ------------ |
