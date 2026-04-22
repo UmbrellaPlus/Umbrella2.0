@@ -1,6 +1,6 @@
 ---
 tabTitle: Детоксикація від ЛСД Одесса | Umbrella Plus | Від 2499 грн
-title: Детоксикація від ЛСД в Одесса
+title: Детоксикація від ЛСД в Одессі
 description: Спокій та контроль вже сьогодні
 image: /img/Odessa-new/detox-ot-lsd-odessa.jpg
 imageText: Детоксикація від ЛСД Одеса
