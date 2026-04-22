@@ -3,6 +3,7 @@ tabTitle: Чому алкоголь та Парацетамол – це “см
 title: Чому поєднання алкоголю та парацетамолу небезпечне
 description: Подвійний удар для печінки
 date: 2026-04-21T12:51:48.119Z
+image: /img/blog2/paracetamol-i-alkogol.jpg
 imageText: Чому поєднання алкоголю та парацетамолу небезпечне
 ratingAvarage: 4.99/5
 rating: '582'
