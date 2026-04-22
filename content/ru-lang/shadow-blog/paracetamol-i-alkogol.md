@@ -3,6 +3,7 @@ tabTitle: Почему алкоголь и Парацетамол — это “
 title: Почему сочетание алкоголя и парацетамола опасно
 description: Двойной удар для печени
 date: 2026-04-21T12:51:51.205Z
+image: /img/blog2/paracetamol-i-alkogol.jpg
 imageText: Почему сочетание алкоголя и парацетамола опасно
 ratingAvarage: 4.99/5
 rating: '582'
