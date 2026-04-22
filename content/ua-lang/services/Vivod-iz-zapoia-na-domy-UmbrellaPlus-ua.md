@@ -52,12 +52,12 @@ reviewType: alk-1
 
 Вартість **виведення із запою на дому** починається від 2199 грн.
 
-| Популярні послуги                                                                                            | Ціна         |
-| ------------------------------------------------------------------------------------------------------------ | ------------ |
-| [Консультація нарколога](https://umbrella-plus.com.ua/uk/services/konsultacia-narkologa-ua/)                 | Від 1500 грн |
-| [Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/services/kapelnica-ot-alkogolia-umbrellaplus-ua/) | Від 2199 грн |
-| [Лікування алкоголізму](https://umbrella-plus.com.ua/uk/services/lechenie-alkogolizma-ua/)                   | Від 2199 грн |
-| [Кодування від алкоголізму](https://umbrella-plus.com.ua/uk/services/kodirovanie-ot-alkogolizma-ua/)         | Від 6000 грн |
+| Популярні послуги                                                                                                | Ціна         |
+| ---------------------------------------------------------------------------------------------------------------- | ------------ |
+| **[Консультація нарколога](https://umbrella-plus.com.ua/uk/services/konsultacia-narkologa-ua/)**                 | Від 1500 грн |
+| **[Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/services/kapelnica-ot-alkogolia-umbrellaplus-ua/)** | Від 2199 грн |
+| **[Лікування алкоголізму](https://umbrella-plus.com.ua/uk/services/lechenie-alkogolizma-ua/)**                   | Від 2199 грн |
+| **[Кодування від алкоголізму](https://umbrella-plus.com.ua/uk/services/kodirovanie-ot-alkogolizma-ua/)**         | Від 6000 грн |
 
 ## Протягом якого часу приїжджає лікар нарколог
 
