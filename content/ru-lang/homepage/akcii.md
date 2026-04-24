@@ -1,6 +1,6 @@
 ---
-imagepc: /img/HOMEPAGE-SLIDER/akcii/vihodni-bez-poh.jpg
-imagephone: /img/HOMEPAGE-SLIDER/akcii/vihodni-bez-pohmel.jpg
+imagepc: /img/HOMEPAGE-SLIDER/akcii/rupk1.jpg
+imagephone: /img/HOMEPAGE-SLIDER/akcii/rumob1.jpg
 link: 'https://umbrella-plus.com.ua/'
 draft: false
 ---
