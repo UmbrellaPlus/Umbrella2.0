@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://umbrella-plus.com.ua/uk/</loc>
-    <lastmod>2026-04-12T09:45:11+00:00</lastmod>
+    <lastmod>2026-04-21T12:51:48+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
@@ -14,6 +14,28 @@
                 hreflang="uk-UA"
                 href="https://umbrella-plus.com.ua/uk/"
                 />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/shadow-blog/</loc>
+    <lastmod>2026-04-21T12:51:48+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/shadow-blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/shadow-blog/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/shadow-blog/paracetamol-i-alkogol-ua/</loc>
+    <lastmod>2026-04-21T12:51:48+00:00</lastmod>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/shadow-blog/slabkist-pislia-alkogolia-ua/</loc>
+    <lastmod>2026-04-18T18:42:15+00:00</lastmod>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/shadow-blog/vodka-i-alkogol-ua/</loc>
+    <lastmod>2026-04-17T14:12:26+00:00</lastmod>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/blog/alkogolna-encefalopatia-ua/</loc>
     <lastmod>2026-04-12T09:45:11+00:00</lastmod>
@@ -282,12 +304,6 @@
                 href="https://umbrella-plus.com.ua/uk/licenses/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/odesa/detox-ot-amfetamina-odesa/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/odesa/detox-ot-kokaina-odesa/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/odesa/detox-ot-lsd-odesa/</loc>
-  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/odesa/detox-ot-metamfetamina-odesa/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/odesa/detox-ot-opiodov-odesa/</loc>
@@ -373,8 +389,6 @@
                 hreflang="uk-UA"
                 href="https://umbrella-plus.com.ua/uk/reviewslocal/vitaminy/"
                 />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/services/kodirovanie-ot-alkogolizma-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kiev/kapelnica_ot_alkogola_na_dom_kiev/</loc>
   </url><url>
@@ -1010,8 +1024,6 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/odesa/vivod-iz-zapoia-stacionar-odesa-ua/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/chornomorsk/vivod-iz-zapoia-chernomorsk-ua/</loc>
-  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kharkiv/vivod-iz-zapoia-kharkiv-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/cherkasy/vivod-iz-zapoia-cherkasy-ua/</loc>
@@ -1062,6 +1074,8 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/services-nark/detox-ot-amfetamina-ua/</loc>
   </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/odesa/detox-ot-amfetamina-odesa/</loc>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kiev/detox-ot-amfetamina-kiev-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kharkiv/detox-ot-mdma-kharkiv-ua/</loc>
@@ -1071,6 +1085,8 @@
     <loc>https://umbrella-plus.com.ua/uk/kiev/detox-ot-exstazi-kiev-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/services-nark/detox-ot-kokaina-ua/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/odesa/detox-ot-kokaina-odesa/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kiev/detox-ot-kokaina-kiev-ua/</loc>
   </url><url>
@@ -1083,6 +1099,8 @@
     <loc>https://umbrella-plus.com.ua/uk/kharkiv/detox-ot-liriki-kharkiv-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/services-nark/detox-ot-lsd-ua/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/odesa/detox-ot-lsd-odesa/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kiev/detox-ot-lsd-kiev-ua/</loc>
   </url><url>
@@ -1129,6 +1147,8 @@
                 hreflang="uk-UA"
                 href="https://umbrella-plus.com.ua/uk/contacts/"
                 />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/services/kodirovanie-ot-alkogolizma-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/odesa/kodirovka-ot-alkogolizma-belgorod-dnestrovsk-ua/</loc>
   </url><url>
@@ -1290,19 +1310,9 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/odesa/kapelnica-ot-otravlenia-odesa-ua/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/services-otryenya/</loc>
+    <loc>https://umbrella-plus.com.ua/uk/chornomorsk/kapelnica-ot-pishevogo-otravlenia-chernomorsk-ua/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/shadow-blog/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/shadow-blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/shadow-blog/"
-                />
+    <loc>https://umbrella-plus.com.ua/uk/services-otryenya/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/services/lechenie-alkogolizma-ua/</loc>
   </url><url>
@@ -1310,7 +1320,7 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/cherkasy/lechenie-alkogolizma-cherkasy-ua/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/chornomorsk/-lechenie-alkogolizma-chernomorsk-ua/</loc>
+    <loc>https://umbrella-plus.com.ua/uk/chornomorsk/lechenie-alkogolizma-v-chernomorske-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/dnepr/lechenie-alkogolizma-dnepr-ua/</loc>
   </url><url>
@@ -1660,6 +1670,8 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/kharkiv/termonivii-vivod-iz-zapoia-kharkiv/</loc>
   </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/chornomorsk/vivod-iz-zapoia-chernomorsk-ua/</loc>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/dnepr/test-na-alk-dnepr-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/odesa/test-na-alkogol-odesa-ua/</loc>
@@ -1671,6 +1683,8 @@
     <loc>https://umbrella-plus.com.ua/uk/kiev/test-na-alkogol-kiev-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/cherkasy/test-na-alkogol-cherkasy-ua/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/chornomorsk/narkolog-dodomy-chernomorsk-ua/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/odesa/shvidka-nark-dopomoga-belgorod-dnestrovsk-ua/</loc>
   </url><url>
