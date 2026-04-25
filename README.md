@@ -3,7 +3,7 @@
 Для предупреждения появления дальнейших багов
 
 ## Изменение картинки на главной странице
-![Main Page Image](/xREADME_images/main_image.png)
+![Main Page Image](/xREADME_images/main-image.png)
 
 В Тине есть коллекция "Выбор праздника".
 
@@ -36,7 +36,7 @@
 
 ## Добавление картинки в Слайдер на главной странице
 
-![Slider main page](/xREADME_images/sales-slider.png)
+![Slider main page](/xREADME_images/sale-slider.png)
 
 Слайдер находяться в Тине в коллекции "Слайдер на главной странице - RU" и "Слайдер на главной странице - UA"
 
