@@ -1,5 +1,5 @@
 ---
-tabTitle: Крапельниця від опіоїдів Одеса | Umbrella Plus | От 2499 грн
+tabTitle: Крапельниця від опіоїдів Одеса | Umbrella Plus | Від 2499 грн
 title: Крапельниця від опіоїдів Одеса
 description: Швидке полегшення та безпечне відновлення
 image: /img/Odessa-new/kod.jpg
