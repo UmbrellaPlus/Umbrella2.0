@@ -1,3 +1,13 @@
+---
+tabTitle: Капельница от опиоидов Одесса | Umbrella Plus | От 2499 грн
+title: Капельница от опиоидов Одесса
+description: Быстрое облегчение и безопасное восстановление
+image: /img/Odessa-new/kod.jpg
+imageText: Капельница от опиоидов Одесса
+ratingAvarage: 4.99/5
+rating: '3041'
+reviewType: lomka
+---
 
 ## Капельница от опиоидов Одесса
 
@@ -45,6 +55,13 @@
 ## Стоимость детоксикации от опиоидов в Одессе
 
 Стоимость детоксикации от опиоидов в Одессе начинается от 2499 грн.
+
+| Популярные услуги                                                                                   | Цена        |
+| --------------------------------------------------------------------------------------------------- | ----------- |
+| **[Консультация нарколога](https://umbrella-plus.com.ua/odessa/konsyltacia-narkologa-odesa/)**      | От 1500 грн |
+| **[Лечение наркомании](https://umbrella-plus.com.ua/odessa/lechenie-narkomanii-v-odese/)**          | От 2499 грн |
+| **[Капельница от наркотиков](https://umbrella-plus.com.ua/odessa/kapelnica-ot-nakrotikov-odessa/)** | От 2499 грн |
+| **[Вывод из запоя на дому](https://umbrella-plus.com.ua/odessa/vivod-iz-zapoia-na-domu-odesa/)**    | От 2199 грн |
 
 ## Как проходит детоксикация от опиоидов
 
