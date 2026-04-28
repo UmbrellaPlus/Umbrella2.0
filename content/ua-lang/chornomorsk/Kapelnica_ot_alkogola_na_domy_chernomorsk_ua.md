@@ -103,7 +103,7 @@ reviewType: alk-2
 
 | Популярні послуги                                                                                        | Ціна         |
 | -------------------------------------------------------------------------------------------------------- | ------------ |
-| **[Нарколог Чорноморськ](https://umbrella-plus.com.ua/uk/odesa/konsyltacia-narkologa-odesa/)**           | Від 2199 грн |
+| **[Нарколог Чорноморськ](https://umbrella-plus.com.ua/uk/odesa/konsyltacia-narkologa-odesa/)**           | Від 1500 грн |
 | **[Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/odesa/kapelnica-ot-alkogolia-odesa/)**      | Від 2199 грн |
 | **[Виведення із запою вдома](https://umbrella-plus.com.ua/uk/odesa/vivod-iz-zapoia-na-domu-odesa/)**     | Від 2199 грн |
 | **[Кодування від алкоголізму](https://umbrella-plus.com.ua/uk/odesa/kodirovka-ot-alkogolsma-odesa-ua/)** | Від 6000 грн |
