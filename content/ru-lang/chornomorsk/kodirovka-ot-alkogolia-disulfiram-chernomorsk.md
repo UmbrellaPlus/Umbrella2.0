@@ -2,7 +2,7 @@
 tabTitle: Кодирование от алкоголизма уколом дисульфирам Черноморск | Umbrella Plus | От 6000 грн
 title: Кодирование от алкоголизма уколом дисульфирам Черноморск
 description: Надёжная защита от срывов
-image: /img/Odessa-new/podshivka-ot-nark-odessa.jpg
+image: /img/chernomorsc/kodirovka-ot-alk-chernomorsk.jpg
 imageText: Кодирование от алкоголизма уколом дисульфирам Черноморск
 ratingAvarage: 4.99/5
 rating: '2944'
@@ -53,7 +53,7 @@ reviewType: kod-2
 
 | Популярные услуги                                                                                        | Цена        |
 | -------------------------------------------------------------------------------------------------------- | ----------- |
-| **[Нарколог Черноморск](https://umbrella-plus.com.ua/odessa/konsyltacia-narkologa-odesa/)**              | От 2199 грн |
+| **[Нарколог Черноморск](https://umbrella-plus.com.ua/odessa/konsyltacia-narkologa-odesa/)**              | От 1500 грн |
 | **[Капельница от алкоголя](https://umbrella-plus.com.ua/odessa/kapelnica-ot-alkogolia-odesa/)**          | От 2199 грн |
 | **[Вывод из запоя на дому](https://umbrella-plus.com.ua/odessa/vivod-iz-zapoia-na-domu-odesa/)**         | От 2199 грн |
 | **[Кодирование от алкоголизма](https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-odessa/)** | От 6000 грн |
