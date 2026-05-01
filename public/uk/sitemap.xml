@@ -370,18 +370,6 @@
                 href="https://umbrella-plus.com.ua/uk/licenses/5/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/licenses/6/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/licenses/6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/licenses/6/"
-                />
-  </url><url>
     <loc>https://umbrella-plus.com.ua/uk/licenses/7/</loc>
     <xhtml:link
                 rel="alternate"
@@ -416,18 +404,6 @@
                 rel="alternate"
                 hreflang="uk-UA"
                 href="https://umbrella-plus.com.ua/uk/licenses/9/"
-                />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/uk/licenses/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/licenses/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/licenses/"
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/odesa/kodirovka-po-dovgenko-odessa/</loc>
@@ -596,6 +572,18 @@
                 rel="alternate"
                 hreflang="uk-UA"
                 href="https://umbrella-plus.com.ua/uk/reviewslocal/kodirovanie-type-2/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/uk/licenses/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/licenses/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/licenses/"
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/uk/reviewsgoogle/2/</loc>

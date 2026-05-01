@@ -1,3 +1,0 @@
----
-img: "/img/LICENSES&CERTIFICATES/sertificat5.jpg"
----

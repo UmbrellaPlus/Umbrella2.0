@@ -126,3 +126,18 @@ document.addEventListener("DOMContentLoaded", function () {
     },
   }).mount();
 });
+
+//CAROUSEL FOR LICENSES
+document.addEventListener("DOMContentLoaded", function () {
+  new Splide("#licenses-carousel", {
+    type: "loop",
+    speed: 800,
+    gap: `10px`,
+    perPage: 3,
+    breakpoints: {
+      1000: {
+        perPage: 1,
+      },
+    },
+  }).mount();
+});

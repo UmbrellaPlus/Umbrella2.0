@@ -1,0 +1,16 @@
+<div class="cities-carousel-container">
+  <h2>Лицензии и сертификаты</h2>
+  <section id="licenses-carousel" class="splide">
+    <div class="splide__track">
+      {{ $licensesSection := site.GetPage "section" "licenses" }}
+      <ul class="splide__list">
+        {{range $licensesSection.RegularPages}}
+        <li class="license-post splide__slide">
+          {{ $lisenceImgLink := resources.Get .Params.img}}
+          <img src="{{$lisenceImgLink.RelPermalink}}" />
+        </li>
+        {{end}}
+      </ul>
+    </div>
+  </section>
+</div>

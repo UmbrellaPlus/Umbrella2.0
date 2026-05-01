@@ -9,9 +9,9 @@
     "header.html" .}}
     <div class="license-padding"></div>
     <ul class="licenses-container">
-      {{range $licensesSection.RegularPages}} {{ $lisenceImgLink :=
-      resources.Get .Params.img}}
+      {{range $licensesSection.RegularPages}}
       <li class="license-post">
+        {{ $lisenceImgLink := resources.Get .Params.img}}
         <img src="{{$lisenceImgLink.RelPermalink}}" />
       </li>
       {{end}}
