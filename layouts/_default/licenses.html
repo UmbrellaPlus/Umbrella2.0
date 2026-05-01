@@ -5,13 +5,12 @@
   </head>
   <body>
     {{ $licensesSection := site.GetPage "section" "licenses" }} 
-    {{ $lisenceImgLink := resources.Get .Params.img}}
-    {{partial "sticky-phone.html"}} {{ partial "preheader.html"}} {{ partial
-    "header.html"}}
+    {{ $lisenceImgLink := $licensesSection.Params.img}} {{partial "sticky-phone.html" .}} {{ partial
+    "preheader.html" .}} {{ partial "header.html" .}}
     <div class="license-padding"></div>
     <ul class="licenses-container">
       {{range $licensesSection.RegularPages}}
-      <li class="license-post"><img src="{{$lisenceImgLink.RelPermalink}}" /></li>
+      <li class="license-post"><img src="{{$lisenceImgLink | relURL}}" /></li>
       {{end}}
     </ul>
     {{ partial "footer.html" . }}
