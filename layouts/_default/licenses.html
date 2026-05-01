@@ -4,13 +4,16 @@
     {{ partial "head.html" . }}
   </head>
   <body>
-    {{ $licensesSection := site.GetPage "section" "licenses" }} 
-    {{ $lisenceImgLink := $licensesSection.Params.img}} {{partial "sticky-phone.html" .}} {{ partial
-    "preheader.html" .}} {{ partial "header.html" .}}
+    {{ $licensesSection := site.GetPage "section" "licenses" }} {{partial
+    "sticky-phone.html" .}} {{ partial "preheader.html" .}} {{ partial
+    "header.html" .}}
     <div class="license-padding"></div>
     <ul class="licenses-container">
-      {{range $licensesSection.RegularPages}}
-      <li class="license-post"><img src="{{$lisenceImgLink | relURL}}" /></li>
+      {{range $licensesSection.RegularPages}} {{ $lisenceImgLink :=
+      resources.Get .Params.img}}
+      <li class="license-post">
+        <img src="{{$lisenceImgLink.RelPermalink}}" />
+      </li>
       {{end}}
     </ul>
     {{ partial "footer.html" . }}

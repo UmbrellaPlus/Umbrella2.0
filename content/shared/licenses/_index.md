@@ -1,3 +1,3 @@
 ---
-img: "img/LICENSES&CERTIFICATES/sertificat4.jpg"
+img: "/img/LICENSES&CERTIFICATES/sertificat5.jpg"
 ---
