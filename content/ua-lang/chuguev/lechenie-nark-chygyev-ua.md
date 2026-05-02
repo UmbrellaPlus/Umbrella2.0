@@ -4,8 +4,10 @@ title: Лікування наркоманії Чугуїв
 description: Перший крок до життя без наркотиків
 image: /img/chuguev/kap-ot-nark-odessa.jpg
 imageText: Лікування наркоманії Чугуїв
+ratingAvarage: 4.99/5
+rating: '1372'
+reviewType: narkot
 ---
-
 
 ## Лікування наркоманії Чугуїв
 
