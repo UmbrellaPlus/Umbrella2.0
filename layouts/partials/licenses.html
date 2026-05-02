@@ -1,5 +1,9 @@
 <div class="cities-carousel-container">
+  {{if in .Site.Language "ru"}}
   <h2>Лицензии и сертификаты</h2>
+  {{else}}
+  <h2>Ліцензії та сертифікати</h2>
+  {{end}}
   <section id="licenses-carousel" class="splide">
     <div class="splide__track">
       {{ $licensesSection := site.GetPage "section" "licenses" }}
