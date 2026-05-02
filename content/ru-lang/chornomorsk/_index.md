@@ -36,3 +36,9 @@ reviewType: alk-1
 | **[Лечение наркомании](https://umbrella-plus.com.ua/chornomorsk/lechenie-narkomanii-chernomorsk/)**           | От 2499 грн  |
 | **[Капельница от наркотиков](https://umbrella-plus.com.ua/chornomorsk/kapelnica-ot-narkotikov-chernomorsk/)** | От 2499 грн  |
 | **[Подшивка от наркотиков](https://umbrella-plus.com.ua/chornomorsk/podshivka-ot-nark-chernomorks/)**         | От 15000 грн |
+
+Услуги Лечение пищевого отравлния
+
+| Услуги \| Терапевтического профиля                                                                                               | Цена        |
+| -------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| **[Капельница от пищевого отравления](https://umbrella-plus.com.ua/chornomorsk/kapelnica-ot-pichevogo-otravlenia-chernomorsk/)** | От 2199 грн |
