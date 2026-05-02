@@ -20,7 +20,7 @@
 }
 
 .index-main-image picture{
-  padding: 1em;
+  padding: 0;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -30,9 +30,13 @@
   max-width: 90%;
   border-radius: 10px;
 }
-@media (max-width: 1000px) {
+@media (min-width: 1000px) {
 .index-hero-text {
     justify-content: center;
+}
+.index-main-image picture{
+    padding: .5rem;
+  justify-content: flex-end;
 }
 }
 
