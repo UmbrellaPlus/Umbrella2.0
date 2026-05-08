@@ -4,7 +4,7 @@ title: Лікування пивного алкоголізму Одеса
 description: Поверніть смак справжнього життя без градуса
 image: /img/Odessa-new/lechenie-pivnogo-alk-odesa.jpg
 imageText: Лікування пивного алкоголізму Одеса
-ratingAvarage: 4.98/5
+ratingAvarage: 4.99/5
 rating: '5221'
 reviewType: alk-1
 ---
