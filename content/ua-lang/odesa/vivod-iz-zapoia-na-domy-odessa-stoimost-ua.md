@@ -29,12 +29,12 @@ reviewType: alk-2
 
 Виведення з запою вдома в Одесі починається від 2199 грн.
 
-| Популярные услуги                                                                                        | Цена        |
-| -------------------------------------------------------------------------------------------------------- | ----------- |
-| **[Нарколог Одесса](https://umbrella-plus.com.ua/odessa/konsyltacia-narkologa-odesa/)**                  | От 1500 грн |
-| **[Капельница от алкоголя](https://umbrella-plus.com.ua/odessa/kapelnica-ot-alkogolia-odesa/)**          | От 2199 грн |
-| **[Вывод из запоя на дому](https://umbrella-plus.com.ua/odessa/vivod-iz-zapoia-na-domu-odesa/)**         | От 2199 грн |
-| **[Кодирование от алкоголизма](https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-odessa/)** | От 6000 грн |
+| Популярні послуги                                                                                        | Ціна         |
+| -------------------------------------------------------------------------------------------------------- | ------------ |
+| **[Нарколог Одеса](https://umbrella-plus.com.ua/uk/odesa/konsyltacia-narkologa-odesa/)**                 | Від 1500 грн |
+| **[Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/odesa/kapelnica-ot-alkogolia-odesa/)**      | Від 2199 грн |
+| **[Виведення із запою вдома](https://umbrella-plus.com.ua/uk/odesa/vivod-iz-zapoia-na-domu-odesa/)**     | Від 2199 грн |
+| **[Кодування від алкоголізму](https://umbrella-plus.com.ua/uk/odesa/kodirovka-ot-alkogolsma-odesa-ua/)** | Від 6000 грн |
 
 ## Від чого залежить ціна виведення з запою вдома
 
