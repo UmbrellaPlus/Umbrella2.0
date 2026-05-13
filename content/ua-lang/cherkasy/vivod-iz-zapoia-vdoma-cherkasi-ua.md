@@ -57,7 +57,7 @@ reviewType: alk-2
 | Популярні послуги                                                                                              | Ціна         |
 | -------------------------------------------------------------------------------------------------------------- | ------------ |
 | **[Лікування алкоголізму](https://umbrella-plus.com.ua/uk/cherkasy/lechenie-alkogolizma-cherkasy-ua/)**        | Від 2199 грн |
-| **[Нарколог Черкаси](https://umbrella-plus.com.ua/uk/cherkasy/konsultacia-narkologa-cherkasy-ua/)**            | Від 2199 грн |
+| **[Нарколог Черкаси](https://umbrella-plus.com.ua/uk/cherkasy/konsultacia-narkologa-cherkasy-ua/)**            | Від 1500 грн |
 | **[Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/cherkasy/krapelnica_vid_alkogolia-cherkasy-ua/)** | Від 2199 грн |
 | **[Кодування від алкоголізму](https://umbrella-plus.com.ua/uk/cherkasy/kodirovka-ot-alkogolia-cherkassy-ua/)** | Від 6000 грн |
 
