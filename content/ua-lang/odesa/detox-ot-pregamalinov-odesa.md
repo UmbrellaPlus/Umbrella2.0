@@ -1,9 +1,9 @@
 ---
-tabTitle: Детоксикація від прегабалінів Одеса | Umbrella Plus | Від 2499 грн
-title: Крапельниця від прегабалінів Одеса
+tabTitle: Крапельниця від прегабалінів (Ліріки) у Одесі | Umbrella Plus | Від 2499 грн
+title: Крапельниця від прегабалінів (Лірики)
 description: Стабілізуємо стан за годинник
 image: /img/Odessa-new/detox-ot-lsd-odessa.jpg
-imageText: Детоксикація від прегабалінів Одеса
+imageText: Крапельниця від прегабалінів (Лірики)
 ratingAvarage: 4.99/5
 rating: '2075'
 reviewType: lomka
