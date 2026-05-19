@@ -4,7 +4,7 @@ title: 'Алкогольная эпилепсия, что это такое'
 description: Как распознать и остановить опасные приступы
 date: 2025-10-10T00:00:00.000Z
 image: /img/blog/alkogolna-epilepsia.jpg
-imageText: Алкогольная эпилепсия
+imageText: 'Алкогольная эпилепсия, что это такое'
 ratingAvarage: 4.99/5
 rating: '1887'
 ---
