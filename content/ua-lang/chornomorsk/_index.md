@@ -26,7 +26,7 @@ reviewType: alk-1
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | **[Лікування алкоголізму](https://umbrella-plus.com.ua/uk/chornomorsk/lechenie-alkogolizma-v-chernomorske-ua/)**                                  | Від 2199 грн  |
 | **[Виведення із запою](https://umbrella-plus.com.ua/uk/chornomorsk/vivod-iz-zapoia-chernomorsk-ua/)**                                             | Від 2199 грн  |
-| **[Екстрений виклик нарколога додом](https://umbrella-plus.com.ua/uk/chornomorsk/narkolog-dodomy-chernomorsk-ua/)**                               | Від 2199 грн  |
+| **[Екстрений виклик нарколога додому](https://umbrella-plus.com.ua/uk/chornomorsk/narkolog-dodomy-chernomorsk-ua/)**                              | Від 2199 грн  |
 | **[Крапельниця від алкоголю вдома](https://umbrella-plus.com.ua/uk/chornomorsk/kapelnica_ot_alkogola_na_domy_chernomorsk_ua/)**                   | Від 2199 грн  |
 | **[Кодування від алкоголізму дисульфірам (укол)](https://umbrella-plus.com.ua/uk/chornomorsk/kodirovka-ot-alkogolia-disulfiram-chernomorsk-ua/)** | Від 6000 грн  |
 | **[Кодування від алкоголізму дисульфірам (підшивка)](https://umbrella-plus.com.ua/uk/chornomorsk/podshivka-ot-alkogolizma-chernomorsk-ua/)**      | Від 15000 грн |
