@@ -1,9 +1,9 @@
 ---
-tabTitle: Детоксикація від кокаїну в Одесі | Umbrella Plus | Від 2499 грн
-title: Детоксикація від кокаїну Одеса
+tabTitle: Крапельниця від кокаїну в Одесі | Umbrella Plus | Від 2499 грн
+title: Крапельниця від кокаїну Одеса
 description: Допомога без зайвого стресу
 image: /img/Odessa-new/kod.jpg
-imageText: Детоксикація від кокаїну Одеса
+imageText: Крапельниця від кокаїну Одеса
 ratingAvarage: 4.99/5
 rating: '2716'
 reviewType: lomka
