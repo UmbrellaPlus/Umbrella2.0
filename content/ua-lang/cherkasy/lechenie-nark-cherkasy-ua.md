@@ -2,7 +2,7 @@
 tabTitle: Лікування наркоманії в Черкасах | Umbrella Plus | Від 2499 грн
 title: Лікування наркоманії в Черкасах
 description: Крок до нового життя без залежності
-image: /img/cherkasy/lechenie-nark.jpg
+image: /img/cherkasy/lechenie-nark-cherkasy.jpg
 imageText: Лікування наркоманії в Черкасах
 ratingAvarage: 4.99/5
 rating: '5618'
