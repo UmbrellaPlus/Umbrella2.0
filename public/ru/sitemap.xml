@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://umbrella-plus.com.ua/</loc>
-    <lastmod>2026-04-28T20:11:55+00:00</lastmod>
+    <lastmod>2026-05-03T17:15:53+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/blog/</loc>
-    <lastmod>2026-04-28T20:11:55+00:00</lastmod>
+    <lastmod>2026-05-03T17:15:53+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
@@ -27,6 +27,15 @@
                 hreflang="ru-UA"
                 href="https://umbrella-plus.com.ua/blog/"
                 />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/blog/ciroz-pecheni/</loc>
+    <lastmod>2026-05-03T17:15:53+00:00</lastmod>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/blog/steatoz-pecheni/</loc>
+    <lastmod>2026-05-02T17:35:10+00:00</lastmod>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/blog/fibroz-pecheni/</loc>
+    <lastmod>2026-05-02T08:35:28+00:00</lastmod>
   </url><url>
     <loc>https://umbrella-plus.com.ua/blog/psihoterapia-pri-alkogolizme/</loc>
     <lastmod>2026-04-28T20:11:55+00:00</lastmod>
@@ -415,14 +424,6 @@
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/moldova-kishinev/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kodirovka-po-dovgenko-odessa/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kodirovka-ykolom-disylfiram-odesa/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kodirovka-ykolom-espial-odesa/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/lechenie-alkogolizma-voenim-odesa/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/polsha-varsava/</loc>
   </url><url>
@@ -1192,25 +1193,9 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/kiev/detox-ot-amfetamina-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/detox-ot-amfetamina-odesa/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/detox-ot-amfetamina-kharkiv/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/kharkiv/detox-ot-amfetamina-kharkiv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/kharkiv/detox-ot-amfetamina-kharkiv/"
-                />
-  </url><url>
     <loc>https://umbrella-plus.com.ua/services-nark/detox-ot-kokaina/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/kiev/detox-ot-kokaina-kiev/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/detox-ot-kokaina-odesa/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/kharkiv/kap-ot-kokaina-kharkiv/</loc>
   </url><url>
@@ -1226,11 +1211,7 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/kharkiv/detox-ot-lsd-kharkiv/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/detox-ot-lsd-odesa/</loc>
-  </url><url>
     <loc>https://umbrella-plus.com.ua/kiev/detox-ot-opioidov-kiev/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/detox-ot-metamfetamina-odesa/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/services-nark/detox-ot-nalbufina/</loc>
   </url><url>
@@ -1318,11 +1299,33 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/cherkasy/kapelnica-ot-alkogolia-na-domy-cherkasy/</loc>
   </url><url>
+    <loc>https://umbrella-plus.com.ua/chuguev/kapelnica-ot-alkogolia-na-domy-chygyev/</loc>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_kharkiv/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/chornomorsk/kapelnica_ot_alkogola_chernomorsk/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/chuguev/kapelnica_ot_alkogola_chygyev/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/odessa/detox-ot-amfetamina-odesa/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/kharkiv/detox-ot-amfetamina-kharkiv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/kharkiv/detox-ot-amfetamina-kharkiv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/kharkiv/detox-ot-amfetamina-kharkiv/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/odessa/detox-ot-kokaina-odesa/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/odessa/detox-ot-lsd-odesa/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/odessa/detox-ot-metamfetamina-odesa/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/odessa/kapelnica-ot-nark-intoksikacii-belgorod-dnestrovsk/</loc>
   </url><url>
@@ -1356,7 +1359,7 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/chuguev/kapelnica-ot-otravlenia-chygyev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/detox-ot-pregamalinov-odesa/</loc>
+    <loc>https://umbrella-plus.com.ua/odessa/detox-ot-pregabalinov-odesa/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/services-otravlenie/</loc>
   </url><url>
@@ -1386,6 +1389,8 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/zaporozie/dovjenko-zp/</loc>
   </url><url>
+    <loc>https://umbrella-plus.com.ua/odessa/kodirovka-ykolom-disylfiram-odesa/</loc>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/services/kodirovka-ot-alkogolia-disulfiram-umbrellaplus/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/lviv/kodirovka-ot-alkogolia-disulfiram-lvov/</loc>
@@ -1398,9 +1403,13 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/chornomorsk/kodirovka-ot-alkogolia-disulfiram-chernomorsk/</loc>
   </url><url>
+    <loc>https://umbrella-plus.com.ua/chuguev/kodirovka-ot-alkogolizma-disulfiram-chygyev/</loc>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/kharkiv/kodirovka-ot-alkogolizma-espiarl-kharkiv/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/lviv/kodirovka-ot-alkogolizma-espiarl-lvov/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/odessa/kodirovka-ykolom-espial-odesa/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/services/kodirovka-ot-alkogolizma-espiarl-umbrellaplus/</loc>
   </url><url>
@@ -1416,6 +1425,8 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/kiev/kod-po-metodu-dovg-kiev/</loc>
   </url><url>
+    <loc>https://umbrella-plus.com.ua/odessa/kodirovka-po-dovgenko-odessa/</loc>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/services/kodirovanie-po-dovgenko/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/services/konsultacia-narkologa/</loc>
@@ -1423,6 +1434,8 @@
     <loc>https://umbrella-plus.com.ua/chornomorsk/konsultacia-narkologa-chernomorsk/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/cherkasy/konsultacia-narkologa-cherkasy/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/services/narkolog/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/chornomorsk/narkolog-na-dom-chernomorsk/</loc>
   </url><url>
@@ -1558,6 +1571,8 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/kamianske/lechenie-alkogolizma-kamenskoe/</loc>
   </url><url>
+    <loc>https://umbrella-plus.com.ua/odessa/lechenie-alkogolizma-voenim-odesa/</loc>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/services/lechenie-alk-y-voenih/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/kharkiv/lechenie-alkogolizma-kharkiv/</loc>
@@ -1621,6 +1636,8 @@
     <loc>https://umbrella-plus.com.ua/kharkiv/lechenie-nark-kharkiv/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/chornomorsk/lechenie-narkomanii-chernomorsk/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/chuguev/lechenie-nark-chygyev/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/services/lechenie-pivnogo-alkogolizma-umbrellaplus/</loc>
   </url><url>
@@ -1700,6 +1717,8 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/kharkiv/podshivka_ot_alkogolizma_kharkiv/</loc>
   </url><url>
+    <loc>https://umbrella-plus.com.ua/chuguev/podhivka-ot-alkogolizma-chygyev/</loc>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/odessa/podshivka-ot-alkogolizma-odesa/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/odessa/podshivka-ot-nark-belgorod-dnestrovsk/</loc>
@@ -1715,6 +1734,8 @@
     <loc>https://umbrella-plus.com.ua/cherkasy/podhivka-ot-nark-cherkasy/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/chornomorsk/podshivka-ot-nark-chernomorks/</loc>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/chuguev/podshivka-ot-nark-chygyev/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/zaporozie/podsjivka-ot-nark-zaporoje/</loc>
   </url><url>
@@ -1831,7 +1852,5 @@
     <loc>https://umbrella-plus.com.ua/services/kapli-midzo/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/services/vivod-iz-zapoia-umbrellaplus/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/services/narkolog/</loc>
   </url>
 </urlset>
