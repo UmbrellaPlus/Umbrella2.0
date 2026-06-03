@@ -1,3 +1,13 @@
+---
+tabTitle: Вывод из запоя круглосуточно Одесса | Umbrella Plus | От 2199 грн
+title: Вывод из запоя круглосуточно в Одессе
+description: Скорая помощь в любое время суток
+image: /img/Odessa-new/kod.jpg
+imageText: Вывод из запоя круглосуточно Одесса
+ratingAvarage: 4.99/5
+rating: '1942'
+reviewType: alk-2
+---
 
 ## Вывод из запоя круглосуточно Одесса
 
