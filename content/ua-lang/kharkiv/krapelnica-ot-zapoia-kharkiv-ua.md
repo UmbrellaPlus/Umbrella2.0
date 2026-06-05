@@ -1,3 +1,13 @@
+---
+tabTitle: Крапельниця від запою Харків | Umbrella Plus | Від 2199 грн
+title: Крапельниця від запою Харків
+description: 'Безпечно, анонімно, 24/7'
+image: /img/kharkov-new/kn.jpg
+imageText: Крапельниця від запою Харків
+ratingAvarage: 4.99/5
+rating: '3226'
+reviewType: alk-2
+---
 
 ## Крапельниця від запою Харків
 
