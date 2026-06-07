@@ -4,7 +4,7 @@ title: Крапельниця від опіоїдів Харків
 description: 'Очистимо організм, повернемо силу і надію'
 image: /img/kharkov-new/kod.jpg
 imageText: Крапельниця від опіоїдів Харків
-ratingAvarage: 4.98/5
+ratingAvarage: 4.99/5
 rating: '2902'
 reviewType: narkot
 ---
