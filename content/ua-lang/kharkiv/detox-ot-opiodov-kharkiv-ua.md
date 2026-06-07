@@ -1,12 +1,12 @@
 ---
-tabTitle: 'Детоксикація від налбуфіну (метадона, опіоїдів) в Харькове | Umbrella Plus | Від 2499 грн'
-title: Детоксикація від опіоїдів Харків
+tabTitle: Крапельниця від опіоїдів Харків | Umbrella Plus | Від 2499 грн
+title: Крапельниця від опіоїдів Харків
 description: 'Очистимо організм, повернемо силу і надію'
-image: /img/Харьков Новое/detox-ot-opiodov.jpg
-imageText: Детоксикація від опіоїдів Харків
+image: /img/kharkov-new/kod.jpg
+imageText: Крапельниця від опіоїдів Харків
 ratingAvarage: 4.98/5
 rating: '2902'
-reviewType: alk-2
+reviewType: narkot
 ---
 
 ## Крапельниця від опіоїдів Харків
