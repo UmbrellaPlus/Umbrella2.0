@@ -2,9 +2,9 @@
 tabTitle: Капельница от опиоидов Харьков | Umbrella Plus | От 2499 грн
 title: Капельница от опиоидов Харьков
 description: 'Очистим организм, вернём силу и надежду'
-image: ''
+image: /img/kharkov-new/kod.jpg
 imageText: Капельница от опиоидов Харьков
-ratingAvarage: 4.98/5
+ratingAvarage: 4.99/5
 rating: '2902'
 reviewType: narkot
 ---
