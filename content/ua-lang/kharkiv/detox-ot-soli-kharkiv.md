@@ -1,10 +1,10 @@
 ---
-tabTitle: 'Детоксикація від солі (α-PVP, MDPV, Мефедрон) Umbrella Plus | Від 2499 грн'
-title: 'Детоксикація від солі (α-PVP, MDPV, Мефедрон)'
+tabTitle: Крапельниця від солі Харків | Umbrella Plus | Від 2499 грн
+title: Крапельниця від солі Харків
 description: Виведення токсинів при вживанні солей
-image: /img/Харьков Новое/kap-ot-soli-kharkiv.jpg
-imageText: 'Детоксикація від солі (α-PVP, MDPV, Мефедрон)'
-ratingAvarage: 4.98/5
+image: /img/kharkov-new/kapelnica-ot-amfetamina.jpg
+imageText: Крапельниця від солі Харків
+ratingAvarage: 4.99/5
 rating: '2498'
 reviewType: alk-2
 ---
