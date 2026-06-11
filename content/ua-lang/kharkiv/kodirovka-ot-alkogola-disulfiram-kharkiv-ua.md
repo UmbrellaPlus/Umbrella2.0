@@ -2,7 +2,7 @@
 tabTitle: Кодування від алкоголізму уколом дисульфірам Харків | Umbrella Plus | Від 6000 грн
 title: Кодування від алкоголізму уколом дисульфірам
 description: Надійний крок до тверезого життя
-image: ''
+image: /img/kharkov-new/vz.jpg
 imageText: Кодування від алкоголізму уколом дисульфірам Харків
 ratingAvarage: 4.99/5
 rating: '5923'
