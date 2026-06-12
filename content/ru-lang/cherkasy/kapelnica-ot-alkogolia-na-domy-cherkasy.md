@@ -1,5 +1,5 @@
 ---
-tabTitle: Капельница от алкоголя на дому Черкассы | Umbrella Plus | От 2499 грн
+tabTitle: Капельница от алкоголя на дому Черкассы | Umbrella Plus | От 2199 грн
 title: Капельница от алкоголя на дому
 description: Cрочный выезд нарколога на дом
 image: /img/cherkasy/kapelnica-ot-alkogolia-doma-cherkasy.jpg
