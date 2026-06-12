@@ -1,8 +1,12 @@
 ---
-tabTitle: 'Корсаковский синдром: причины , симптомы , лечение | Umbrella Plus'
+tabTitle: 'Корсаковский синдром: причины, симптомы и лечение | UmbrellaPlus'
 title: Корсаковский синдром
-description: 'Причины , симптомы , лечение '
+description: 'Причины, симптомы и лечение '
 date: 2026-06-11T18:55:01.874Z
+image: /img/blog/korsakivskyi-syndrom.jpg
+imageText: 'Корсаковский синдром: причины, симптомы и лечение'
+ratingAvarage: 4.99/5
+rating: '1352'
 ---
 
 ## Корсаковский синдром
