@@ -2,6 +2,7 @@
 tabTitle: Круглосуточный вывод из запоя в Черкассах | Umbrella Plus | От 2199 грн
 title: Круглосуточный вывод из запоя
 description: Помощь при интоксикации в Черкассах 24/7
+image: /img/cherkasy/kruglosytochni-vivod-iz-zapoia.jpg
 imageText: Круглосуточный вывод из запоя в Черкассах
 ratingAvarage: 4.99/5
 rating: '2512'
