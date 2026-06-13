@@ -1,7 +1,8 @@
 ---
 tabTitle: Справка психиатра-нарколога в Одессе | Umbrella Plus | От 1500 грн
-title: Справка психиатра-нарколога в Одессе
+title: Справка психиатра-нарколога
 description: Медицинский осмотр и справка в удобное для вас время
+image: /img/Odessa-new/narkolog-odessa.jpg
 imageText: Справка психиатра-нарколога в Одессе
 ratingAvarage: 4.99/5
 rating: '5712'
