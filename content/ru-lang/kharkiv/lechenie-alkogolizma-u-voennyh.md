@@ -2,6 +2,7 @@
 tabTitle: Лечение алкоголизма у военных в Харькове | Umbrella Plus | От 2199 грн
 title: Лечение алкоголизма у военных
 description: Наркологическая помощь в Харькове
+image: /img/kharkov-new/lechenie-voenih-kharkiv.jpg
 imageText: Лечение алкоголизма у военных в Харькове
 ratingAvarage: 4.99/5
 rating: '3934'
