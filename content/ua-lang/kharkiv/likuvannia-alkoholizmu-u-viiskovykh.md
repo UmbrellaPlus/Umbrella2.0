@@ -1,3 +1,13 @@
+---
+tabTitle: Лікування алкоголізму у військових у Харкові | Umbrella Plus | Від 2199 грн
+title: Лікування алкоголізму у військових
+description: Наркологічна допомога у Харкові
+image: /img/kharkov-new/lechenie-voenih-kharkiv.jpg
+imageText: Лікування алкоголізму у військових у Харкові
+ratingAvarage: 4.99/5
+rating: '3934'
+reviewType: alk-2
+---
 
 ## Лікування алкоголізму у військових у Харкові
 
