@@ -3,6 +3,7 @@ tabTitle: Чёрная рвота после алкоголя — что это 
 title: Чёрная рвота после алкоголя — что это может означать
 description: 'Опасный сигнал организма, который нельзя игнорировать'
 date: 2026-06-12T18:56:01.649Z
+image: /img/blog/chornaia-rvota-posle-alkogolia.jpg
 imageText: Чёрная рвота после алкоголя — что это может означать
 ratingAvarage: 4.99/5
 rating: '1121'
