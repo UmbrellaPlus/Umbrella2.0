@@ -3,6 +3,7 @@ tabTitle: Чорне блювання після алкоголю - що це м
 title: Чорне блювання після алкоголю - що це може означати
 description: 'Небезпечний сигнал організму, який не можна ігнорувати'
 date: 2026-06-12T18:56:33.551Z
+image: /img/blog/chornaia-rvota-posle-alkogolia.jpg
 imageText: Чорне блювання після алкоголю - що це може означати
 ratingAvarage: 4.99/5
 rating: '1121'
