@@ -1,6 +1,6 @@
 ---
 tabTitle: Как быстро вывести человека из запоя в Черкассах | Umbrella Plus | От 2199 грн
-title: Как быстро вывести человека из запоя в Черкассах
+title: Как быстро вывести человека из запоя
 description: Наркологическая помощь на дому без ожидания
 image: /img/cherkasy/kak-bystro-vyvesti-cheloveka-iz-zapoya-v-cherkassakh.jpg
 imageText: Как быстро вывести человека из запоя в Черкассах
