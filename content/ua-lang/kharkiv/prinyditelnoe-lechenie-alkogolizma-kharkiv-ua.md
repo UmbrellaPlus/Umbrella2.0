@@ -1,9 +1,9 @@
 ---
-tabTitle: Примусове виведення із запою Харків | Umbrella Plus | Від 2199 грн
-title: Примусове виведення із запою Харків
+tabTitle: Примусове лікування алкоголізму у Харкові | Umbrella Plus | Від 2199 грн
+title: Примусове лікування алкоголізму
 description: Діємо швидко та законно
 image: /img/kharkov-new/lech-alk-nark.jpg
-imageText: Примусове виведення із запою Харків
+imageText: Примусове лікування алкоголізму у Харкові
 ratingAvarage: 4.99/5
 rating: '3716'
 reviewType: alk-2
