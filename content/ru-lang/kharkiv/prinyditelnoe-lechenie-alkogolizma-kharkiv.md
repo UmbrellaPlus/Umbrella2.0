@@ -1,9 +1,9 @@
 ---
-tabTitle: Принудительный вывод из запоя Харьков | Umbrella Plus | От 2199 грн
-title: Принудительный вывод из запоя
+tabTitle: Принудительное лечение алкоголизма в Харькове | Umbrella Plus | От 2199 грн
+title: Принудительное лечение алкоголизма
 description: Действуем быстро и законно
 image: /img/kharkov-new/lech-alk-nark.jpg
-imageText: Принудительный вывод из запоя Харьков
+imageText: Принудительное лечение алкоголизма в Харькове
 ratingAvarage: 4.99/5
 rating: '3716'
 reviewType: alk-1
