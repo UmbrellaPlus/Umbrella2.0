@@ -1,9 +1,9 @@
 ---
-tabTitle: Швидка наркологічна допомога вдома Харків 24/7 | Umbrella Plus | Від 2199 грн
-title: Швидка наркологічна допомога вдома Харків 24/7
+tabTitle: Швидка наркологічна допомога у Харкові | Umbrella Plus | Від 2199 грн
+title: Швидка наркологічна допомога
 description: 'Швидко, професійно, анонімно'
 image: /img/kharkov-new/lechenie-nark-kharkiv.jpg
-imageText: Швидка наркологічна допомога вдома Харків 24/7
+imageText: Швидка наркологічна допомога Харків
 ratingAvarage: 4.99/5
 rating: '4728'
 reviewType: alk-2
