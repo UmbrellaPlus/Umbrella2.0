@@ -59,12 +59,12 @@ reviewType: kod-2
 
 Стоимость подшивки от алкоголизма в Харькове начинается от 15000 грн.
 
-| Популярные услуги                                                                                        | Цена        |
-| -------------------------------------------------------------------------------------------------------- | ----------- |
-| **[Нарколог Одесса](https://umbrella-plus.com.ua/odessa/konsyltacia-narkologa-odesa/)**                  | От 1500 грн |
-| **[Капельница от алкоголя](https://umbrella-plus.com.ua/odessa/kapelnica-ot-alkogolia-odesa/)**          | От 2199 грн |
-| **[Вывод из запоя на дому](https://umbrella-plus.com.ua/odessa/vivod-iz-zapoia-na-domu-odesa/)**         | От 2199 грн |
-| **[Кодирование от алкоголизма](https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-odessa/)** | От 6000 грн |
+| Популярные услуги                                                                                      | Цена        |
+| ------------------------------------------------------------------------------------------------------ | ----------- |
+| **[Нарколог Харьков](https://umbrella-plus.com.ua/kharkiv/konsultacia-narkologa-kharkiv/)**            | От 1500 грн |
+| **[Капельница от алкоголя](https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_kharkiv/)**      | От 2199 грн |
+| **[Вывод из запоя на дому](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/)**    | От 2199 грн |
+| **[Кодирование от алкоголизма](https://umbrella-plus.com.ua/kharkiv/kodirovka-ot-alkogolia-kharkiv/)** | От 6000 грн |
 
 ## Сколько дней нужно не пить, чтобы закодироваться от алкоголизма
 
