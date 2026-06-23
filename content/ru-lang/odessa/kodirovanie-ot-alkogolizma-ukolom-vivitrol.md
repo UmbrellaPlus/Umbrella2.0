@@ -6,7 +6,7 @@ image: /img/Odessa-new/kod-ykolom-vivitron.jpg
 imageText: Кодирование от алкоголизма уколом Вивитрол в Одессе
 ratingAvarage: 4.99/5
 rating: '1582'
-reviewType: alk-2
+reviewType: kod-2
 ---
 
 ## Кодирование от алкоголизма уколом Вивитрол в Одессе
