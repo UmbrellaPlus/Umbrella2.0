@@ -11,10 +11,7 @@
       <div class="hero-text">
         <h1>{{.Title}}</h1>
         <p>{{.Params.Description}}</p>
-        {{if in .Site.Language "ru"}} {{ partial "telegram-form.html" . }} {{
-        else }} {{ partial "telegram-form-ua.html" . }} {{end}} {{if in
-        .Site.Language "ru"}}{{partial "cities-we-work.html" .}} {{ else
-        }}{{partial "cities-we-work-ua.html" .}} {{end}}
+        {{ partial "telegram-form.html" . }}
       </div>
       <div class="main-image">
         {{ with .Params.image }} {{ with resources.Get . }} {{ with .Resize
@@ -37,9 +34,11 @@
         <ul>
           <li><a href="{{.URL}}">{{.Name}}</a></li>
         </ul>
-        {{ end }} {{end}} {{end}} {{end}} {{if in .Site.Language "ru"}}<p class="markdown-side-menu-header">Актуальные
-        новости</p>{{else}}<p class="markdown-side-menu-header">Актуальні новини</p>{{end}} {{ range first 5 (where
-        .Site.RegularPages "Type" "blog") }}
+        {{ end }} {{end}} {{end}} {{end}} {{if in .Site.Language "ru"}}
+        <p class="markdown-side-menu-header">Актуальные новости</p>
+        {{else}}
+        <p class="markdown-side-menu-header">Актуальні новини</p>
+        {{end}} {{ range first 5 (where .Site.RegularPages "Type" "blog") }}
         <ul>
           <li>
             <a href="{{.Permalink}}">{{.Name}}</a>
@@ -48,9 +47,7 @@
         {{end}}
       </div>
     </div>
-    {{if in .Site.Language "ru"}} {{partial "cities-carousel.html" .}} {{ else
-    }}{{partial "cities-carousel-ua.html" .}} {{end}} {{if in .Site.Language
-    "ru"}} {{partial "contacts.html" . }} {{ else }} {{partial
-    "contacts-ua.html" . }} {{end}} {{partial "footer.html" . }}
+    {{partial "cities-carousel.html" .}} {{partial "contacts.html" . }}
+    {{partial "footer.html" . }}
   </body>
 </html>

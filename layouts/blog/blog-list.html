@@ -14,9 +14,8 @@
       ></iframe
     ></noscript>
     <!-- End Google Tag Manager (noscript) -->
-    {{partial "sticky-phone.html"}} {{if in .Site.Language "ru"}} {{partial
-    "preheader.html" . }} {{ else }} {{partial "preheader-ua.html" . }}{{end}}
-    {{ partial "header.html"}}
+    {{partial "sticky-phone.html"}} {{partial "preheader.html" . }} {{ partial
+    "header.html"}}
     <div class="blog-padding">
       {{if in .Site.Language "ru"}}
       <h1>Лечение зависимостей</h1>
@@ -25,36 +24,73 @@
       <h1>Лікування залежностей</h1>
       <h2>Останні статті</h2>
       {{end}}
-      <div>
-        {{ range first 1 (sort (where site.RegularPages "Type" "blog") "Date"
-        "desc") }} {{end}}
-      </div>
+    </div>
 
-      <ul class="blog-list-container">
-        {{ range sort (where site.RegularPages "Type" "blog") "Date" "desc" }}
-        <a href="{{ .Permalink }}">
-          <li class="blog-list-post">
-            <div class="blog-list-post-upper-part">
+    <ul class="blog-list-container">
+      {{$paginator := .Paginate (where site.RegularPages "Type" "blog")}} {{
+      range sort $paginator.Pages "Date" "desc" }} {{if in .Site.Language "ru"}}
+      <a href="{{ .Permalink }}">
+        <li class="blog-list-post">
+          <div class="blog-list-post-upper-part">
             <div class="blog-list-post-image-container">
-            {{with .Params.image}} 
-            {{with resources.Get .}} 
-            {{with .Resize "300x webp q50"}}
-            <img src="{{.RelPermalink}}" alt="{{.Params.imageText}}" />
-            {{end}} 
-            {{end}} 
-            {{end}}
+              {{with .Params.image}} {{with resources.Get .}} {{with .Resize
+              "300x webp q50"}}
+              <img src="{{.RelPermalink}}" alt="{{.Params.imageText}}" />
+              {{end}} {{end}} {{end}}
             </div>
-            <p style="color:grey; font-size: 12px">Дата написания: {{.Params.date | time.Format ":date_medium"}}</p>
+            <p style="color: grey; font-size: 12px">
+              Дата написания: {{.Params.date | time.Format ":date_medium"}}
+            </p>
             <h3>{{ .Title }}</h3>
             <p>{{.Params.description}}</p>
+          </div>
+          <div class="blog-list-post-lower-part">
+            {{ printf "Время чтения ~%d мин." .ReadingTime }}
+          </div>
+        </li>
+      </a>
+      {{else}}
+      <a href="{{ .Permalink }}">
+        <li class="blog-list-post">
+          <div class="blog-list-post-upper-part">
+            <div class="blog-list-post-image-container">
+              {{with .Params.image}} {{with resources.Get .}} {{with .Resize
+              "300x webp q50"}}
+              <img src="{{.RelPermalink}}" alt="{{.Params.imageText}}" />
+              {{end}} {{end}} {{end}}
             </div>
-            <div class="blog-list-post-lower-part">{{ printf "Время чтения ~%d мин." .ReadingTime }}</div>
-          </li>
-        </a>
-        {{ end }}
-      </ul>
+            <p style="color: grey; font-size: 12px">
+              Дата написання: {{.Params.date | time.Format ":date_medium"}}
+            </p>
+            <h3>{{ .Title }}</h3>
+            <p>{{.Params.description}}</p>
+          </div>
+          <div class="blog-list-post-lower-part">
+            {{ printf "Час прочитання ~%d хв." .ReadingTime }}
+          </div>
+        </li>
+      </a>
+      {{end}} {{ end }}
+    </ul>
+    {{if in .Site.Language "ru"}}
+    <div class="PaginationNavigation">
+      {{ if $paginator.HasPrev }}
+      <a href="{{ $paginator.Prev.URL }}">Предыдущая страница</a>
+      {{ end }} {{with $paginator}} {{ range .Pagers }}
+      <b><a href="{{ .URL }}">{{ .PageNumber }}</a></b>
+      {{ end }} {{end}} {{ if $paginator.HasNext }}
+      <a href="{{ $paginator.Next.URL }}">Следующая страница</a>
+      {{ end }}
     </div>
-    {{if in .Site.Language "ru"}} {{partial "contacts.html" . }} {{ else }}
-    {{partial "contacts-ua.html" . }} {{end}} {{partial "footer.html" .}}
+    {{else}}
+    <div class="PaginationNavigation"> {{ if $paginator.HasPrev }}
+      <a href="{{ $paginator.Prev.URL }}">Попередня сторінка</a>
+      {{ end }} {{with $paginator}} {{ range .Pagers }}
+      <b><a href="{{ .URL }}">{{ .PageNumber }}</a></b>
+      {{ end }} {{end}} {{ if $paginator.HasNext }}
+      <a href="{{ $paginator.Next.URL }}">Наступна сторінка</a>
+      {{ end }} {{end}}
+    </div>
+    {{partial "contacts.html" . }} {{partial "footer.html" .}}
   </body>
 </html>

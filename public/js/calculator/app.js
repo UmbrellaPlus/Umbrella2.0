@@ -1,9 +1,8 @@
 let questionsArray;
 let questionId = 0;
-let points;
+let points = 0;
 
-const buttonPrev = document.getElementById("buttonPrev");
-const buttonNext = document.getElementById("buttonNext");
+const buttonAnswer = document.getElementById("buttonAnswer");
 
 // fetch questions
 async function fetchQuestions() {
@@ -19,56 +18,64 @@ async function fetchQuestions() {
 
 function renderTest() {
   let question = document.getElementById("question");
-  let answer1 = document.getElementById("answer1");
-  let answer2 = document.getElementById("answer2");
-  let answer3 = document.getElementById("answer3");
-  let answer4 = document.getElementById("answer4");
-  let answer5 = document.getElementById("answer5");
-  let option1 = document.getElementById("option1");
-  let option2 = document.getElementById("option2");
-  let option3 = document.getElementById("option3");
-  let option4 = document.getElementById("option4");
-  let option5 = document.getElementById("option5");
+  let answers = document.getElementById("answers");
 
-
-  question.innerHTML = "";
   question.innerHTML = questionsArray[questionId].question;
-  answer1.innerHTML = "";
-  answer1.innerHTML = questionsArray[questionId].option1;
-  answer2.innerHTML = "";
-  answer2.innerHTML = questionsArray[questionId].option2;
-  answer3.innerHTML = "";
-  answer3.innerHTML = questionsArray[questionId].option3;
-  answer4.innerHTML = "";
-  answer4.innerHTML = questionsArray[questionId].option4;
-  answer5.innerHTML = "";
-  answer5.innerHTML = questionsArray[questionId].option5;
+
+  const options = questionsArray[questionId].options;
+
+  options.forEach((e, index) => {
+    const optContainer = document.createElement("div");
+    const optCircle = document.createElement("input");
+    const optLabel = document.createElement("label");
+    optCircle.type = "radio";
+    optCircle.name = "answer";
+    optCircle.value = index;
+    optLabel.textContent = e;
+    optContainer.id = e;
+    optContainer.appendChild(optCircle);
+    optContainer.appendChild(optLabel);
+    answers.appendChild(optContainer);
+  });
+
+  checkRadio();
 }
 
-function checkRadio(){
-  let questionsRadio = document.querySelectorAll(".kalkulatorRadio")
-  questionsRadio.forEach(e => {
-    if(e.checked){
-      console.log(e)
-    }
-  })
+function checkRadio() {
+  const options = questionsArray[questionId].options;
+
+  options.forEach((e) => {
+    let option = document.getElementById(e);
+
+    option.addEventListener("click", () => {
+      option.children[0].checked = true;
+      buttonAnswer.style.visibility = "visible";
+      points = points + Number(option.children[0].value);
+
+      options.forEach((id) => {
+        document.getElementById(id).style.pointerEvents = "none";
+      });
+    });
+  });
 }
 
-buttonNext.addEventListener("click", () => {
+function removeElements() {
+  const options = questionsArray[questionId].options;
+  options.forEach((e) => {
+    let option = document.getElementById(e);
+    option.remove();
+    console.log(option);
+  });
+}
+
+buttonAnswer.addEventListener("click", () => {
   if (questionId !== 9) {
+    removeElements();
     questionId++;
-    checkRadio();
-    renderTest();
+    setTimeout(300,renderTest())
   } else {
     return;
   }
-});
-buttonPrev.addEventListener("click", () => {
-  if (questionId !== 0) {
-    questionId--;
-    renderTest();
-  }
-  return;
 });
 
 fetchQuestions();

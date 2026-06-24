@@ -1,16 +1,35 @@
-{{/* used in the end of page as call to action */}}
-<a href="tel:+380687972782"><div class="banner">
-  {{$bannerMobRu := resources.Get "/img/BANNER/banner-mob-ru.jpg"}} {{$bannerMobUa := resources.Get
-  "/img/BANNER/banner-mob-ua.jpg"}} {{$bannerPcRu := resources.Get "/img/BANNER/banner-pc-ru.jpg"}} {{$bannerPcUa :=
-  resources.Get "/img/BANNER/banner-pc-ua.jpg"}} {{if in .Site.Language "ru"}}
-  <picture>
-    <source srcset="{{$bannerPcRu.RelPermalink}}" media="(width >= 1000px)" />
-    <img src="{{$bannerMobRu.RelPermalink}}" alt="call-to-action" />
-  </picture>
-  {{else}}
-  <picture>
-    <source srcset="{{$bannerPcUa.RelPermalink}}" media="(width >= 1000px)" />
-    <img src="{{$bannerMobUa.RelPermalink}}" alt="call-to-action" />
-  </picture>
-  {{end}}
-</div></a>
+{{/* used in the end of page as call to action */}} {{$bannerMobRu :=
+resources.Get "/img/BANNER/banner-mob-ru.jpg"}} {{$bannerMobUa := resources.Get
+"/img/BANNER/banner-mob-ua.jpg"}} {{$bannerPcRu := resources.Get
+"/img/BANNER/banner-pc-ru.jpg"}} {{$bannerPcUa := resources.Get
+"/img/BANNER/banner-pc-ua.jpg"}} {{if in .Site.Language "ru"}}
+<div class="interestingArticle">
+  <p>
+    Возможно интересная статья: <br />{{if .Params.interestingArticleLink
+    }}<a href="{{.Params.interestingArticleLink}}">{{.Params.interestingArticleName}}</a>{{else}}{{ range first 1 (where site.RegularPages "Type" "shadow-blog")}}<a href="{{.Permalink}}">{{.Title}}</a>{{end}}</a
+    >{{end}}
+  </p>
+</div>
+<a href="tel:+380687972782"
+  ><div class="banner">
+    <picture>
+      <source srcset="{{$bannerPcRu.RelPermalink}}" media="(width >= 1000px)" />
+      <img src="{{$bannerMobRu.RelPermalink}}" alt="call-to-action" />
+    </picture></div
+></a>
+{{else}}
+<div class="interestingArticle">
+  <p>
+    Можливо цікава стаття: <br />{{if .Params.interestingArticleLink
+    }}<a href="{{.Params.interestingArticleLink}}">{{.Params.interestingArticleName}}</a>{{else}}{{ range first 1 (where site.RegularPages "Type" "shadow-blog")}}<a href="{{.Permalink}}">{{.Title}}</a>{{end}}</a
+    >{{end}}
+  </p>
+</div>
+<a href="tel:+380687972782"
+  ><div class="banner">
+    <picture>
+      <source srcset="{{$bannerPcUa.RelPermalink}}" media="(width >= 1000px)" />
+      <img src="{{$bannerMobUa.RelPermalink}}" alt="call-to-action" />
+    </picture></div
+></a>
+{{end}}

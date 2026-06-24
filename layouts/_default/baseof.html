@@ -4,13 +4,14 @@
     {{ partial "head.html" . }}
   </head>
   <body>
-    {{partial "sticky-phone.html" . }} {{if in
-    .Site.Language "ru"}} {{partial "preheader.html" . }} {{ else }} {{partial
-    "preheader-ua.html" . }}{{end}} {{partial "header.html" . }}
+    {{partial "sticky-phone.html" . }} {{partial "preheader.html" . }} {{partial
+    "header.html" . }}
     <div class="main-padding"></div>
     <main>{{block "main".}}{{end}}</main>
     <div class="markdown-container">
-      <div class="markdown">{{.Content}}{{partial "banner.html" .}}{{ partial "star-rating.html" .}}</div>
+      <div class="markdown">
+        {{.Content}}{{partial "banner.html" .}}{{ partial "star-rating.html" .}}
+      </div>
       <div class="markdown-side-menu">
         {{ range site.Menus.main }} {{if eq .Identifier "services"}}
         <p class="markdown-side-menu-header">{{.Name}}</p>
@@ -18,9 +19,11 @@
         <ul>
           <li><a href="{{.URL}}">{{.Name}}</a></li>
         </ul>
-        {{ end }} {{end}} {{end}} {{end}} {{if in .Site.Language "ru"}}<p class="markdown-side-menu-header">Актуальные
-        новости</p>{{else}}<p class="markdown-side-menu-header">Актуальні новини</p>{{end}} {{ range first 5 (where
-        .Site.RegularPages "Type" "blog") }}
+        {{ end }} {{end}} {{end}} {{end}} {{if in .Site.Language "ru"}}
+        <p class="markdown-side-menu-header">Актуальные новости</p>
+        {{else}}
+        <p class="markdown-side-menu-header">Актуальні новини</p>
+        {{end}} {{ range first 5 (where .Site.RegularPages "Type" "blog") }}
         <ul>
           <li>
             <a href="{{.Permalink}}">{{.Name}}</a>
@@ -28,12 +31,9 @@
         </ul>
         {{end}}
       </div>
-    </div> {{partial "faq.html" .}}{{partial "local-reviews.html" .}}
-    <div style="text-align: center">
-      {{ if in .Site.Language "ru" }} {{partial "latest-news.html" .}} {{ else
-      }} {{partial "latest-news-ua.html" .}} {{ end }}
     </div>
-    {{if in .Site.Language "ru"}} {{partial "contacts.html" . }} {{ else }}
-    {{partial "contacts-ua.html" . }} {{end}} {{partial "footer.html" . }}
+    {{partial "faq.html" .}}{{partial "local-reviews.html" .}}
+    <div style="text-align: center">{{partial "latest-news.html" .}}</div>
+    {{partial "contacts.html" . }} {{partial "footer.html" . }}
   </body>
 </html>

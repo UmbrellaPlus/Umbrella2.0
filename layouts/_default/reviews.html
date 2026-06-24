@@ -4,9 +4,8 @@
     {{ partial "head.html" . }}
   </head>
   <body>
-    {{partial "sticky-phone.html"}} {{if in .Site.Language "ru"}} {{partial
-    "preheader.html" . }} {{ else }} {{partial "preheader-ua.html" . }}{{end}}
-    {{ partial "header.html"}}
+    {{partial "sticky-phone.html"}} {{partial "preheader.html" . }} {{ partial
+    "header.html"}}
     <div class="google-reviews-padding">
       {{if in .Site.Language "ru"}}
       <h1>Отзывы о нашей работе</h1>
@@ -14,8 +13,7 @@
       <h1>Відгуки про нашу роботу</h1>
       {{end}}
     </div>
-    {{partial "google-reviews.html" . }} {{if in .Site.Language "ru"}} {{partial
-    "contacts.html" . }} {{ else }} {{partial "contacts-ua.html" . }} {{end}}
-    {{partial "footer.html" .}}
+    {{partial "google-reviews.html" . }}{{partial "contacts.html" . }} {{partial
+    "footer.html" .}}
   </body>
 </html>

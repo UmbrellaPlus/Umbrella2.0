@@ -101,6 +101,20 @@ export const cityTemplate: TinaField[] = [
         label: "Лечение нарк ломки",
       },
     ],
+  },  {
+    type: "string",
+    label: "Название интересной статьи",
+    name: "interestingArticleName",
+    ui: {
+      description: "Например: Корсаковский синдром",
+    },
+  },  {
+    type: "string",
+    label: "Ссылка на интересную статью",
+    name: "interestingArticleLink",
+    ui: {
+      description: "Например: https://umbrella-plus.com.ua/blog/korsakivskyi-syndrom/",
+    },
   },
   {
     type: "rich-text",

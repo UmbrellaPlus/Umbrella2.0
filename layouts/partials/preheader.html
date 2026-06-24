@@ -1,17 +1,47 @@
+{{if in .Site.Language "ru"}}
 <div class="preheader">
   <p class="preheader-hours">
     Бесплатная консультация, работаем круглосуточно 24/7
   </p>
   <div class="preheader-numbers">
-      <a href="tel:+380687972782"
-        ><img src="/img/header-preheader/telephone.avif" alt="phonenum" />+38(068) 79 72 782</a
-      >
-      <a href="tel:+380500216957"
-        ><img src="/img/header-preheader/telephone.avif" alt="phonenum" />+38(050) 021 69
-        57</a
-      >
+    <a href="tel:+380687972782"
+      ><img src="/img/header-preheader/telephone.avif" alt="phonenum" />+38(068)
+      79 72 782</a
+    >
+    <a href="tel:+380500216957"
+      ><img src="/img/header-preheader/telephone.avif" alt="phonenum" />+38(050)
+      021 69 57</a
+    >
   </div>
   <p>
     <a href="#" class="preheader-button">Бесплатная консультация</a>
   </p>
 </div>
+{{ else }}
+<div class="preheader">
+  <p class="preheader-hours">
+    Безкоштовна консультація, працюємо цілодобово 24/7
+  </p>
+  <div class="preheader-numbers">
+    <p>
+      <a href="tel:+380687972782"
+        ><img
+          src="/img/header-preheader/telephone.avif"
+          alt="phonenum"
+        />+38(068) 79 72 782</a
+      >
+    </p>
+    <p>
+      <a href="tel:+380500216957"
+        ><img
+          src="/img/header-preheader/telephone.avif"
+          alt="phonenum"
+        />+38(050) 021 69 57</a
+      >
+    </p>
+  </div>
+  <p>
+    <a href="#" class="preheader-button">Безкоштовна консультація</a>
+  </p>
+</div>
+{{end}}

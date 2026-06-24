@@ -18,10 +18,10 @@
   },
   "homepage": "https://github.com/UmbrellaPlus/Umbrella2.0#readme",
   "dependencies": {
-    "tinacms": "^3.7.1"
+    "tinacms": "^3.9.3"
   },
   "devDependencies": {
-    "@tinacms/cli": "^2.2.1",
+    "@tinacms/cli": "^2.5.1",
     "@types/node": "^25.0.10"
   }
 }

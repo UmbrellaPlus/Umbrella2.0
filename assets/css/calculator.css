@@ -1,6 +1,39 @@
 .calculator-container{
  margin: auto;
- max-width: 95%;   
+ max-width: 95%;
+ border: 1px solid whitesmoke;
+ border-radius: 20px;
+ padding: 3rem;
+ background-color: whitesmoke;
+}
+#question{
+    font-weight: 500;
+    font-size: 1.25rem;
+    padding: 1rem;
+}
+#answers div{
+    padding: 1rem;
+    margin-bottom:.5rem;
+    background-color: white;
+    border-radius: 10px;
+}
+#answers div, #answers div *{
+    cursor: pointer;
+}
+#answers div input {
+    color: var(--blue);
+    width: 1rem;
+    height: 1rem;
+    margin-right: .5rem;
+}
+#buttonAnswer{
+    visibility: hidden;
+    padding: .5rem;
+    border-radius: 5px;
+    border: 1px solid var(--blue);
+    background-color: white;
+    color: var(--blue);
+    cursor: pointer;
 }
 
 @media (min-width:1000px){

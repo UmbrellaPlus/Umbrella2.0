@@ -9,7 +9,7 @@
     {{ partial "head.html" . }}
   </head>
   <body>
-    {{partial "sticky-phone.html"}} {{ partial "preheader-ua.html"}} {{ partial
+    {{partial "sticky-phone.html"}} {{ partial "preheader.html"}} {{ partial
     "header.html"}}
     <div class="main-padding"></div>
     <main>
@@ -20,8 +20,8 @@
           <br />{{.Params.homeText3}}
           <br />
         </p>
-        {{partial "telegram-form-ua.html" . }}
-        <!-- {{partial "cities-we-work-ua.html" }}
+        {{partial "telegram-form.html" . }}
+        <!-- {{partial "cities-we-work.html" }}
         <div class="main-approval">
           <p>Відкриті з 2019 року. Понад 5000 задоволених клієнтів.</p>
         </div> -->
@@ -139,8 +139,8 @@
       </div>
     </div>
 
-    {{partial "doctors-slider-ua.html"}}{{partial "licenses.html" .}} {{partial
-    "cities-carousel-ua.html"}}
+    {{partial "doctors-slider.html"}}{{partial "licenses.html" .}} {{partial
+    "cities-carousel.html"}}
     <div style="text-align: center; padding: 1rem">
       <h2>Вiдгуки про нашу роботу</h2>
     </div>
@@ -183,7 +183,7 @@
         </div>
       </section>
     </div>
-    {{ partial "latest-news-ua.html" .}} {{partial "contacts-ua.html" . }}
+    {{ partial "latest-news.html" .}} {{partial "contacts.html" . }}
     {{partial "footer.html" .}}
   </body>
 </html>

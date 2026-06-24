@@ -9,57 +9,17 @@
     "header.html"}}
     <div class="license-padding"></div>
     <div class="calculator-container">
-      <p id="question">question</p>
-      <ul>
-        <li>
-          <input
-            type="radio"
-            id="option1"
-            name="option"
-            class="kalkulatorRadio"
-          /><label for="option1" id="answer1"></label>
-        </li>
-        <li>
-          <input
-            type="radio"
-            id="option2"
-            name="option"
-            class="kalkulatorRadio"
-          /><label for="option2" id="answer2"></label>
-        </li>
-        <li>
-          <input
-            type="radio"
-            id="option3"
-            name="option"
-            class="kalkulatorRadio"
-          /><label for="option3" id="answer3"></label>
-        </li>
-        <li>
-          <input
-            type="radio"
-            id="option4"
-            name="option"
-            class="kalkulatorRadio"
-          /><label for="option4" id="answer4"></label>
-        </li>
-        <li>
-          <input
-            type="radio"
-            id="option5"
-            name="option"
-            class="kalkulatorRadio"
-          /><label for="option5" id="answer5"></label>
-        </li>
-      </ul>
-      <button id="buttonPrev">Попереднє питання</button>
-      <button id="buttonNext">Наступне питання</button>
-      <br />
-      <br />
       <div>
-        Инфа для Стаса: основа для калькулятора
-        https://www.uptodate.com/contents/calculator-alcohol-consumption-screening-audit-questionnaire-in-adults-patient-education
+        Прогрес: <span>0%</span>
+        <progress id="progressBar" max="100" value="25"></progress>
       </div>
+      <div id="question"></div>
+      <div id="answers"></div>
+      <button id="buttonAnswer">Ответить</button>
+    </div>
+    <div>
+      Инфа для Стаса: основа для калькулятора
+      https://www.uptodate.com/contents/calculator-alcohol-consumption-screening-audit-questionnaire-in-adults-patient-education
     </div>
     <div class="year"><p>2019-{{ now.Year }} Всі права захищені</p></div>
   </body>

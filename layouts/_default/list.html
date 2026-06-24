@@ -2,8 +2,7 @@
 <div class="hero-text">
   <h1>{{.Title}}</h1>
   <p>{{.Params.Description}}</p>
-  {{if in .Site.Language "ru"}} {{ partial "telegram-form.html" . }} {{ else }}
-  {{partial "telegram-form-ua.html" . }} {{end}}
+   {{ partial "telegram-form.html" . }}
 </div>
 <div class="main-image">
   {{ with .Params.image }} {{ with resources.Get . }} {{ with .Resize "1200x webp q70" }}

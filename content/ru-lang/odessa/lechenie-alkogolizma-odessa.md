@@ -7,6 +7,8 @@ imageText: Лечение алкоголизма в Одессе
 ratingAvarage: 4.99/5
 rating: '7214'
 reviewType: alk-2
+interestingArticleName: Корсаковский синдром
+interestingArticleLink: https://umbrella-plus.com.ua/blog/korsakivskyi-syndrom/
 ---
 
 ## Лечение алкоголизма в Одессе

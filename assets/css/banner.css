@@ -1,3 +1,10 @@
+.interestingArticle {
+  padding: 1.5rem;
+}
+.interestingArticle p {
+  border-left: 3px solid var(--blue);
+  height: 80%;
+}
 .banner {
   max-width: 90%;
   margin: auto;
