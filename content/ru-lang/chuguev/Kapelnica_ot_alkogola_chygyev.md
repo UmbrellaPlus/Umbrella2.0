@@ -51,7 +51,7 @@ interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kakoy-ukol-vyzyvaet-o
 
 | Популярные услуги                                                                                      | Цена        |
 | ------------------------------------------------------------------------------------------------------ | ----------- |
-| **[Консультація нарколога](https://umbrella-plus.com.ua/kharkiv/konsultacia-narkologa-kharkiv/)**      | От 1500 грн |
+| **[Консультация нарколога](https://umbrella-plus.com.ua/kharkiv/konsultacia-narkologa-kharkiv/)**      | От 1500 грн |
 | **[Капельница от алкоголя](https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_kharkiv/)**      | От 2199 грн |
 | **[Вывод из запоя на дому](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/)**    | От 2199 грн |
 | **[Кодирование от алкоголизма](https://umbrella-plus.com.ua/kharkiv/kodirovka-ot-alkogolia-kharkiv/)** | От 6000 грн |
