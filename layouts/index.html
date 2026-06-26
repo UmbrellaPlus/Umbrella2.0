@@ -49,8 +49,7 @@
               <div class="discounts-image">
                 <a href="{{.Params.link}}">
                   <picture>
-                    {{$discPhone := resources.Get .Params.imagephone}} {{$discPC
-                    := resources.Get .Params.imagepc}}
+                    {{$discPhone := resources.Get .Params.imagephone}} {{$discPC := resources.Get .Params.imagepc}}
                     <source
                       media="(max-width: 720px)"
                       srcset="{{$discPhone.RelPermalink}}"
