@@ -15,7 +15,7 @@
       </div>
       <div id="question"></div>
       <div id="answers"></div>
-      <button id="buttonAnswer">Ответить</button>
+      <button id="buttonAnswer"></button>
     </div>
     <div>
       Инфа для Стаса: основа для калькулятора
@@ -24,4 +24,8 @@
     <div class="year"><p>2019-{{ now.Year }} Всі права захищені</p></div>
   </body>
 </html>
-<script type="module" src="/js/calculator/app.js"></script>
+{{if in .Site.Language "ru"}}
+<script type="module" src="/js/calculator/app_ru.js"></script>
+{{else}}
+<script type="module" src="/js/calculator/app_ua.js"></script>
+{{end}}

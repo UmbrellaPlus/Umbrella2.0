@@ -3,11 +3,26 @@ resources.Get "/img/BANNER/banner-mob-ru.jpg"}} {{$bannerMobUa := resources.Get
 "/img/BANNER/banner-mob-ua.jpg"}} {{$bannerPcRu := resources.Get
 "/img/BANNER/banner-pc-ru.jpg"}} {{$bannerPcUa := resources.Get
 "/img/BANNER/banner-pc-ua.jpg"}} {{if in .Site.Language "ru"}}
+<div class="spesialist-checked">
+  <div class="spesialist-checked-image">
+    <img src="/img/doctors-from-slider/ddoc-stas.jpg" alt="" />
+  </div>
+  <div class="spesialist-checked-text">
+    <p>Статья проверена экспертом</p>
+    <p>Могучев Станислав</p>
+    <p>Врач терапевт</p>
+  </div>
+</div>
 <div class="interestingArticle">
   <p>
-    Возможно интересная статья: <br />{{if .Params.interestingArticleLink
-    }}<a href="{{.Params.interestingArticleLink}}">{{.Params.interestingArticleName}}</a>{{else}}{{ range first 1 (where site.RegularPages "Type" "shadow-blog")}}<a href="{{.Permalink}}">{{.Title}}</a>{{end}}</a
-    >{{end}}
+    Возможно интересная статья: <br />{{if .Params.interestingArticleLink}}
+    <a href="{{.Params.interestingArticleLink}}"
+      >{{.Params.interestingArticleName}}</a
+    >
+    {{else}}{{ range first 1 (where site.RegularPages "Type" "shadow-blog")}}<a
+      href="{{.Permalink}}"
+      >{{.Title}}</a
+    >{{end}} {{end}}
   </p>
 </div>
 <a href="tel:+380687972782"
@@ -18,11 +33,25 @@ resources.Get "/img/BANNER/banner-mob-ru.jpg"}} {{$bannerMobUa := resources.Get
     </picture></div
 ></a>
 {{else}}
+<div class="spesialist-checked">
+  <div class="spesialist-checked-image">
+    <img src="/img/doctors-from-slider/ddoc-stas.jpg" alt="" />
+  </div>
+  <div class="spesialist-checked-text">
+    <p>Стаття перевірена експертом</p>
+    <p>Могучов Станіслав</p>
+    <p>Лікар терапевт</p>
+  </div>
+</div>
 <div class="interestingArticle">
   <p>
-    Можливо цікава стаття: <br />{{if .Params.interestingArticleLink
-    }}<a href="{{.Params.interestingArticleLink}}">{{.Params.interestingArticleName}}</a>{{else}}{{ range first 1 (where site.RegularPages "Type" "shadow-blog")}}<a href="{{.Permalink}}">{{.Title}}</a>{{end}}</a
-    >{{end}}
+    Можливо цікава стаття: <br />{{if .Params.interestingArticleLink }}<a
+      href="{{.Params.interestingArticleLink}}"
+      >{{.Params.interestingArticleName}}</a
+    >{{else}}{{ range first 1 (where site.RegularPages "Type" "shadow-blog")}}<a
+      href="{{.Permalink}}"
+      >{{.Title}}</a
+    >{{end}}{{end}}
   </p>
 </div>
 <a href="tel:+380687972782"

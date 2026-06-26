@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://umbrella-plus.com.ua/</loc>
-    <lastmod>2026-06-17T12:21:16+00:00</lastmod>
+    <lastmod>2026-06-26T14:33:26+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
@@ -15,11 +15,39 @@
                 href="https://umbrella-plus.com.ua/"
                 />
   </url><url>
+    <loc>https://umbrella-plus.com.ua/odessa/</loc>
+    <lastmod>2026-06-26T14:33:26+00:00</lastmod>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/odessa/otkapat-ot-alkogolya-odessa/</loc>
+    <lastmod>2026-06-26T14:33:26+00:00</lastmod>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/chuguev/kapelnica-ot-alkogolia-na-domy-chygyev/</loc>
+    <lastmod>2026-06-26T13:51:59+00:00</lastmod>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/chuguev/</loc>
+    <lastmod>2026-06-26T13:51:59+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/chuguev/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/chuguev/"
+                />
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/odessa/zakodirovatsya-ot-alkogolizma/</loc>
+    <lastmod>2026-06-26T08:04:50+00:00</lastmod>
+  </url><url>
+    <loc>https://umbrella-plus.com.ua/chuguev/vivod-iz-zapoia-na-domy-chygyev/</loc>
+    <lastmod>2026-06-26T08:02:39+00:00</lastmod>
+  </url><url>
     <loc>https://umbrella-plus.com.ua/blog/kak-ochistitsya-ot-narkotikov-rabochie-sovety/</loc>
     <lastmod>2026-06-17T12:21:16+00:00</lastmod>
   </url><url>
     <loc>https://umbrella-plus.com.ua/blog/</loc>
-    <lastmod>2026-06-17T12:21:16+00:00</lastmod>
+    <lastmod>2026-06-26T08:07:18+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
@@ -180,7 +208,7 @@
     <lastmod>2026-03-01T11:05:16+00:00</lastmod>
   </url><url>
     <loc>https://umbrella-plus.com.ua/blog/gidazepam_i_alkogol/</loc>
-    <lastmod>2026-02-28T07:33:04+00:00</lastmod>
+    <lastmod>2026-06-26T08:07:18+00:00</lastmod>
   </url><url>
     <loc>https://umbrella-plus.com.ua/blog/alkogok-i-davlenie/</loc>
     <lastmod>2026-02-28T07:32:30+00:00</lastmod>
@@ -209,6 +237,16 @@
     <loc>https://umbrella-plus.com.ua/azerbaidjan-baky/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/calculator/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://umbrella-plus.com.ua/uk/calculator/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="https://umbrella-plus.com.ua/calculator/"
+                />
   </url><url>
     <loc>https://umbrella-plus.com.ua/faq/1/</loc>
     <xhtml:link
@@ -1186,8 +1224,6 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/chornomorsk/vivod-iz-zapoia-na-domy-chernomorsk/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chuguev/vivod-iz-zapoia-na-domy-chygyev/</loc>
-  </url><url>
     <loc>https://umbrella-plus.com.ua/odessa/vivod-iz-zapoia-odesa/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/odessa/vivod-iz-zapoia-na-domy-odessa-stoimost/</loc>
@@ -1250,8 +1286,6 @@
   </url><url>
     <loc>https://umbrella-plus.com.ua/kharkiv/dostupnaya-narkologicheskaya-pomoshch-v-kharkove/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/zakodirovatsya-ot-alkogolizma/</loc>
-  </url><url>
     <loc>https://umbrella-plus.com.ua/cherkasy/kak-bystro-vyvesti-cheloveka-iz-zapoya-v-cherkassakh/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/odessa/kak-bystro-vyvesti-cheloveka-iz-zapoya-v-odesse/</loc>
@@ -1313,8 +1347,6 @@
     <loc>https://umbrella-plus.com.ua/lviv/kapelnica_ot_alkogola_na-domy-lvov/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_na_domy_kharkiv/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/chuguev/kapelnica-ot-alkogolia-na-domy-chygyev/</loc>
   </url><url>
     <loc>https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_kharkiv/</loc>
   </url><url>
@@ -1550,8 +1582,6 @@
                 href="https://umbrella-plus.com.ua/kamianske/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/</loc>
-  </url><url>
     <loc>https://umbrella-plus.com.ua/kharkiv/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1610,18 +1640,6 @@
                 rel="alternate"
                 hreflang="ru-UA"
                 href="https://umbrella-plus.com.ua/chornomorsk/"
-                />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/chuguev/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/chuguev/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/chuguev/"
                 />
   </url><url>
     <loc>https://umbrella-plus.com.ua/kamianske/lechenie-alkogolizma-kamenskoe/</loc>
