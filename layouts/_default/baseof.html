@@ -2,6 +2,7 @@
 <html lang="{{ $.Site.Language.Lang }}">
   <head>
     {{ partial "head.html" . }}
+    {{ partial "schema/single.html" .}}
   </head>
   <body>
     {{partial "sticky-phone.html" . }} {{partial "preheader.html" . }} {{partial
@@ -10,7 +11,20 @@
     <main>{{block "main".}}{{end}}</main>
     <div class="markdown-container">
       <div class="markdown">
-        {{.Content}}{{partial "banner.html" .}}{{ partial "star-rating.html" .}}
+        {{if in .Site.Language "ru"}}
+        <div class="snippet">
+          <p>
+            {{ with .Params.date }} Дата написания: {{ time.Format ":date_medium" . }} {{ else }} Дата написания: Обновляется... {{ end }}
+          </p>
+          <p>{{ with .Params.lastmod }} Последнее обновление: {{ time.Format ":date_medium" . }} {{ else }} Последнее обновление: Обновляется... {{ end }}</p>
+        </div>
+        {{else}}
+        <div class="snippet">
+          <p>{{ with .Params.date }} Дата написання: {{ time.Format ":date_medium" . }} {{ else }} Дата написання: Оновлюється... {{ end }}</p> 
+          <p>{{ with .Params.lastmod }} Останнє оновлення: {{ time.Format ":date_medium" . }} {{ else }} Останнє оновлення: Оновлюється... {{ end }}</p>
+        </div>
+        {{end}} {{.Content}}{{partial "banner.html" .}}{{ partial
+        "star-rating.html" .}}
       </div>
       <div class="markdown-side-menu">
         {{ range site.Menus.main }} {{if eq .Identifier "services"}}

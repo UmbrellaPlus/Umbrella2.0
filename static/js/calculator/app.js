@@ -50,13 +50,29 @@ function checkRadio() {
     option.addEventListener("click", () => {
       option.children[0].checked = true;
       buttonAnswer.style.visibility = "visible";
-      points = points + Number(option.children[0].value);
-
-      options.forEach((id) => {
-        document.getElementById(id).style.pointerEvents = "none";
-      });
     });
   });
+}
+
+function registrateAnswer() {
+  const options = questionsArray[questionId].options;
+
+  let i = 0;
+
+  options.forEach((e) => {
+    let option = document.getElementById(e);
+    if (option.children[0].checked) {
+      points = points + Number(option.children[0].value);
+    } else {
+      i++;
+    }
+  });
+  if (i == 5) {
+    window.alert("Нужно выбрать ответ");
+    console.log(i);
+    return false;
+  }
+  return true;
 }
 
 function removeElements() {
@@ -64,17 +80,49 @@ function removeElements() {
   options.forEach((e) => {
     let option = document.getElementById(e);
     option.remove();
-    console.log(option);
   });
+}
+
+function moveProgressbar() {
+  let prosent = document.getElementById("prosent");
+  let progressBar = document.getElementById("progressBar");
+
+  let progress = Math.floor(((questionId + 1) / 10) * 100);
+  prosent.textContent = progress;
+
+  progressBar.value = progress;
 }
 
 buttonAnswer.addEventListener("click", () => {
   if (questionId !== 9) {
+    if (!registrateAnswer()) {
+      return;
+    }
     removeElements();
+    moveProgressbar();
     questionId++;
-    setTimeout(300,renderTest())
+    console.log(points);
+    setTimeout(300, renderTest());
   } else {
-    return;
+    moveProgressbar();
+    buttonAnswer.innerHTML = "Закончить тестирование";
+    buttonAnswer.addEventListener("click", () => {
+      let question = document.getElementById("question");
+      let answers = document.getElementById("answers");
+
+      question.innerHTML = "";
+      answers.innerHTML = "";
+
+      const results = document.createElement("div");
+      results.innerHTML =
+        "От 0 до 7 баллов: Низкий риск <br/> От 8 до 15 баллов: Средний риск <br/> От 16 до 19 баллов: Высокий риск <br/> От 20 до 40 баллов: Зависимость <br/> <br/> У вас" +
+        " " +
+        points +
+        " " +
+        "баллов";
+      question.appendChild(results);
+      buttonAnswer.style.visibility = "hidden";
+    });
   }
 });
 

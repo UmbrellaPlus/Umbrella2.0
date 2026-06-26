@@ -4,17 +4,23 @@
   margin: auto;
 }
 .markdown {
-  margin:1.5rem 0;
+  margin: 1.5rem 0;
   display: flex;
   flex-direction: column;
   min-height: 3em;
   white-space: normal;
 }
-.markdown-side-menu{
+.snippet,
+.snippet * {
+  display: flex;
+  color: grey;
+  margin:-.5rem 0;
+}
+.markdown-side-menu {
   display: none;
 }
-.markdown h1{
-  color:var(--blue)
+.markdown h1 {
+  color: var(--blue);
 }
 
 .markdown > h1,
@@ -45,14 +51,16 @@ h2::after {
   line-height: 1.6rem;
   padding: 1rem;
 }
-.markdown ol, .markdown ul{
+.markdown ol,
+.markdown ul {
   align-self: flex-start;
-  padding:1rem 2rem;
-  list-style:inside;
+  padding: 1rem 2rem;
+  list-style: inside;
 }
-.markdown ol li, .markdown ul li{
+.markdown ol li,
+.markdown ul li {
   margin-bottom: 1rem;
-  padding:0rem 1rem;
+  padding: 0rem 1rem;
   line-height: 1.6rem;
 }
 .table-container {
@@ -93,44 +101,45 @@ tbody tr:hover {
 }
 
 @media (min-width: 1000px) {
-  .markdown-container{
+  .markdown-container {
     max-width: 67%;
   }
   .markdown {
     min-width: 70%;
     align-self: flex-start;
   }
-  .markdown-side-menu{
-    position:sticky;
-    top:10rem;
+  .markdown-side-menu {
+    position: sticky;
+    top: 10rem;
     display: block;
     margin: 3rem 1.5rem;
-    padding:1rem;
+    padding: 1rem;
     height: 100%;
     background-color: whitesmoke;
     border-radius: 1rem;
     min-width: 30%;
   }
-  .markdown-side-menu-header{
+  .markdown-side-menu-header {
     padding: 0.5rem;
     font-weight: 600;
-    color: var(--blue)
+    color: var(--blue);
   }
-  .markdown-side-menu ul{
-    margin-left:1rem;
+  .markdown-side-menu ul {
+    margin-left: 1rem;
     list-style: none;
-    padding:0.5rem;
+    padding: 0.5rem;
   }
-  .markdown-side-menu ul li a{
+  .markdown-side-menu ul li a {
     transition: 0.1s;
   }
-  .markdown-side-menu ul li a:hover{
+  .markdown-side-menu ul li a:hover {
     color: grey;
   }
 }
 
 @media (max-width: 450px) {
-  .markdown ol, ul {
+  .markdown ol,
+  ul {
     padding: 0;
   }
 }

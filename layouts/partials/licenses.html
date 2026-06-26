@@ -11,7 +11,7 @@
         {{range $licensesSection.RegularPages}}
         <li class="license-post splide__slide">
           {{ $lisenceImgLink := resources.Get .Params.img}}
-          <img src="{{$lisenceImgLink.RelPermalink}}" />
+          <img src="{{$lisenceImgLink.RelPermalink}}" loading="lazy"/>
         </li>
         {{end}}
       </ul>

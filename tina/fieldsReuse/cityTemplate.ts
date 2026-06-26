@@ -2,6 +2,23 @@ import { TinaField } from "tinacms";
 
 export const cityTemplate: TinaField[] = [
   {
+    type: "datetime",
+    label: "Дата создания статьи",
+    name: "date",
+    ui: {
+      description:
+        "Автоматически ставиться при создании статьи",
+    },
+  },  {
+    type: "datetime",
+    label: "Дата последнего изменения статьи",
+    name: "lastmod",
+    ui: {
+      description:
+        "Автоматически обновляется, когда сохраняешь статью",
+    },
+  },
+  {
     type: "string",
     label: "Название вкладки в Гугле",
     name: "tabTitle",
@@ -101,19 +118,22 @@ export const cityTemplate: TinaField[] = [
         label: "Лечение нарк ломки",
       },
     ],
-  },  {
+  },
+  {
     type: "string",
     label: "Название интересной статьи",
     name: "interestingArticleName",
     ui: {
       description: "Например: Корсаковский синдром",
     },
-  },  {
+  },
+  {
     type: "string",
     label: "Ссылка на интересную статью",
     name: "interestingArticleLink",
     ui: {
-      description: "Например: https://umbrella-plus.com.ua/blog/korsakivskyi-syndrom/",
+      description:
+        "Например: https://umbrella-plus.com.ua/blog/korsakivskyi-syndrom/",
     },
   },
   {
@@ -139,4 +159,4 @@ export const cityTemplate: TinaField[] = [
   },
 ];
 
-export default cityTemplate
+export default cityTemplate;

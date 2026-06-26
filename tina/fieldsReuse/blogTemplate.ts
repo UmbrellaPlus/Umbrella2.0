@@ -1,7 +1,14 @@
 import { TinaField } from "tinacms";
 
-
 export const blogTemplate: TinaField[] = [
+  {
+    type: "datetime",
+    label: "Дата последнего изменения статьи",
+    name: "lastmod",
+    ui: {
+      description: "Автоматически обновляется, когда сохраняешь статью",
+    },
+  },
   {
     type: "string",
     label: "Название вкладки в Гугле",
@@ -35,7 +42,7 @@ export const blogTemplate: TinaField[] = [
     name: "date",
     ui: {
       description:
-        "Выбери дату. Нужно для сортировки в актуальных новостях и на странице блога. +отображается в самой статье",
+        "Автоматически ставиться при создании статьи. Нужно для сортировки в актуальных новостях и на странице блога. +отображается в самой статье",
     },
   },
   {
@@ -90,4 +97,4 @@ export const blogTemplate: TinaField[] = [
   },
 ];
 
-export default blogTemplate
+export default blogTemplate;

@@ -112,9 +112,18 @@ export default defineConfig({
         label: "Ф-RU Одесса",
         path: "content/ru-lang/odessa",
         fields: [...cityTemplate],
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+        }),
         ui: {
           allowedActions: {
             createNestedFolder: false,
+          },
+          beforeSubmit: async ({ values }) => {
+            return {
+              ...values,
+              lastmod: new Date().toISOString(),
+            };
           },
         },
       },
@@ -123,9 +132,18 @@ export default defineConfig({
         label: "Ф-RU - Черноморск",
         path: "content/ru-lang/chornomorsk",
         fields: [...cityTemplate],
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+        }),
         ui: {
           allowedActions: {
             createNestedFolder: false,
+          },
+          beforeSubmit: async ({ values }) => {
+            return {
+              ...values,
+              lastmod: new Date().toISOString(),
+            };
           },
         },
       },
@@ -134,9 +152,18 @@ export default defineConfig({
         label: "Ф-RU Харьков",
         path: "content/ru-lang/kharkiv",
         fields: [...cityTemplate],
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+        }),
         ui: {
           allowedActions: {
             createNestedFolder: false,
+          },
+          beforeSubmit: async ({ values }) => {
+            return {
+              ...values,
+              lastmod: new Date().toISOString(),
+            };
           },
         },
       },
@@ -145,9 +172,18 @@ export default defineConfig({
         label: "Ф-RU - Чугуев",
         path: "content/ru-lang/chuguev",
         fields: [...cityTemplate],
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+        }),
         ui: {
           allowedActions: {
             createNestedFolder: false,
+          },
+          beforeSubmit: async ({ values }) => {
+            return {
+              ...values,
+              lastmod: new Date().toISOString(),
+            };
           },
         },
       },
@@ -156,9 +192,18 @@ export default defineConfig({
         label: "Ф-RU Днепр",
         path: "content/ru-lang/dnepr",
         fields: [...cityTemplate],
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+        }),
         ui: {
           allowedActions: {
             createNestedFolder: false,
+          },
+          beforeSubmit: async ({ values }) => {
+            return {
+              ...values,
+              lastmod: new Date().toISOString(),
+            };
           },
         },
       },
@@ -167,9 +212,18 @@ export default defineConfig({
         label: "Ф-RU - Каменское",
         path: "content/ru-lang/kamianske",
         fields: [...cityTemplate],
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+        }),
         ui: {
           allowedActions: {
             createNestedFolder: false,
+          },
+          beforeSubmit: async ({ values }) => {
+            return {
+              ...values,
+              lastmod: new Date().toISOString(),
+            };
           },
         },
       },
@@ -178,9 +232,18 @@ export default defineConfig({
         label: "Ф-RU Киев",
         path: "content/ru-lang/kiev",
         fields: [...cityTemplate],
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+        }),
         ui: {
           allowedActions: {
             createNestedFolder: false,
+          },
+          beforeSubmit: async ({ values }) => {
+            return {
+              ...values,
+              lastmod: new Date().toISOString(),
+            };
           },
         },
       },
@@ -189,9 +252,18 @@ export default defineConfig({
         label: "Ф-RU Львов",
         path: "content/ru-lang/lviv",
         fields: [...cityTemplate],
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+        }),
         ui: {
           allowedActions: {
             createNestedFolder: false,
+          },
+          beforeSubmit: async ({ values }) => {
+            return {
+              ...values,
+              lastmod: new Date().toISOString(),
+            };
           },
         },
       },
@@ -200,9 +272,18 @@ export default defineConfig({
         label: "Ф-RU Черкассы",
         path: "content/ru-lang/cherkasy",
         fields: [...cityTemplate],
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+        }),
         ui: {
           allowedActions: {
             createNestedFolder: false,
+          },
+          beforeSubmit: async ({ values }) => {
+            return {
+              ...values,
+              lastmod: new Date().toISOString(),
+            };
           },
         },
       },
@@ -211,9 +292,18 @@ export default defineConfig({
         label: "Ф-RU Запорожье",
         path: "content/ru-lang/zaporozie",
         fields: [...cityTemplate],
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+        }),
         ui: {
           allowedActions: {
             createNestedFolder: false,
+          },
+          beforeSubmit: async ({ values }) => {
+            return {
+              ...values,
+              lastmod: new Date().toISOString(),
+            };
           },
         },
       },
@@ -223,6 +313,9 @@ export default defineConfig({
         label: "Ф-RU ДРУГИЕ СТРАНЫ",
         path: "content/ru-lang",
         fields: [...cityTemplate],
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+        }),
         match: {
           include:
             "{azerbaidjan-baky/**/*,gruziya-tbilisi/**/*,kazahstan-almaty/**/*,moldova-kishinev/**/*,polsha-varsava/**/*}",
@@ -234,6 +327,12 @@ export default defineConfig({
             create: false,
             delete: false,
           },
+          beforeSubmit: async ({ values }) => {
+            return {
+              ...values,
+              lastmod: new Date().toISOString(),
+            };
+          },
         },
       },
       //CITIES-UA
@@ -242,9 +341,18 @@ export default defineConfig({
         label: "Ф-UA Одесса",
         path: "content/ua-lang/odesa",
         fields: [...cityTemplate],
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+        }),
         ui: {
           allowedActions: {
             createNestedFolder: false,
+          },
+          beforeSubmit: async ({ values }) => {
+            return {
+              ...values,
+              lastmod: new Date().toISOString(),
+            };
           },
         },
       },
@@ -253,9 +361,18 @@ export default defineConfig({
         label: "Ф-UA - Черноморск",
         path: "content/ua-lang/chornomorsk",
         fields: [...cityTemplate],
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+        }),
         ui: {
           allowedActions: {
             createNestedFolder: false,
+          },
+          beforeSubmit: async ({ values }) => {
+            return {
+              ...values,
+              lastmod: new Date().toISOString(),
+            };
           },
         },
       },
@@ -264,9 +381,18 @@ export default defineConfig({
         label: "Ф-UA Харьков",
         path: "content/ua-lang/kharkiv",
         fields: [...cityTemplate],
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+        }),
         ui: {
           allowedActions: {
             createNestedFolder: false,
+          },
+          beforeSubmit: async ({ values }) => {
+            return {
+              ...values,
+              lastmod: new Date().toISOString(),
+            };
           },
         },
       },
@@ -275,9 +401,18 @@ export default defineConfig({
         label: "Ф-UA - Чугуев",
         path: "content/ua-lang/chuguev",
         fields: [...cityTemplate],
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+        }),
         ui: {
           allowedActions: {
             createNestedFolder: false,
+          },
+          beforeSubmit: async ({ values }) => {
+            return {
+              ...values,
+              lastmod: new Date().toISOString(),
+            };
           },
         },
       },
@@ -286,9 +421,18 @@ export default defineConfig({
         label: "Ф-UA Днепр",
         path: "content/ua-lang/dnepr",
         fields: [...cityTemplate],
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+        }),
         ui: {
           allowedActions: {
             createNestedFolder: false,
+          },
+          beforeSubmit: async ({ values }) => {
+            return {
+              ...values,
+              lastmod: new Date().toISOString(),
+            };
           },
         },
       },
@@ -297,9 +441,18 @@ export default defineConfig({
         label: "Ф-UA - Каменское",
         path: "content/ua-lang/kamianske",
         fields: [...cityTemplate],
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+        }),
         ui: {
           allowedActions: {
             createNestedFolder: false,
+          },
+          beforeSubmit: async ({ values }) => {
+            return {
+              ...values,
+              lastmod: new Date().toISOString(),
+            };
           },
         },
       },
@@ -308,9 +461,18 @@ export default defineConfig({
         label: "Ф-UA Львов",
         path: "content/ua-lang/lviv",
         fields: [...cityTemplate],
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+        }),
         ui: {
           allowedActions: {
             createNestedFolder: false,
+          },
+          beforeSubmit: async ({ values }) => {
+            return {
+              ...values,
+              lastmod: new Date().toISOString(),
+            };
           },
         },
       },
@@ -319,9 +481,18 @@ export default defineConfig({
         label: "Ф-UA Киев",
         path: "content/ua-lang/kiev",
         fields: [...cityTemplate],
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+        }),
         ui: {
           allowedActions: {
             createNestedFolder: false,
+          },
+          beforeSubmit: async ({ values }) => {
+            return {
+              ...values,
+              lastmod: new Date().toISOString(),
+            };
           },
         },
       },
@@ -330,9 +501,18 @@ export default defineConfig({
         label: "Ф-UA Черкассы",
         path: "content/ua-lang/cherkasy",
         fields: [...cityTemplate],
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+        }),
         ui: {
           allowedActions: {
             createNestedFolder: false,
+          },
+          beforeSubmit: async ({ values }) => {
+            return {
+              ...values,
+              lastmod: new Date().toISOString(),
+            };
           },
         },
       },
@@ -341,9 +521,18 @@ export default defineConfig({
         label: "Ф-UA Запорожье",
         path: "content/ua-lang/zaporozie",
         fields: [...cityTemplate],
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+        }),
         ui: {
           allowedActions: {
             createNestedFolder: false,
+          },
+          beforeSubmit: async ({ values }) => {
+            return {
+              ...values,
+              lastmod: new Date().toISOString(),
+            };
           },
         },
       },
@@ -354,6 +543,9 @@ export default defineConfig({
         label: "Блог-RU",
         path: "content/ru-lang/blog",
         fields: [...blogTemplate],
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+        }),
         match: {
           exclude: "_index",
         },
@@ -361,20 +553,35 @@ export default defineConfig({
           allowedActions: {
             createNestedFolder: false,
           },
+          beforeSubmit: async ({ values }) => {
+            return {
+              ...values,
+              lastmod: new Date().toISOString(),
+            };
+          },
         },
       },
 
-            {
+      {
         name: "shadow_blog_ru",
         label: "Скрытый-Блог-RU",
         path: "content/ru-lang/shadow-blog",
         fields: [...blogTemplate],
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+        }),
         match: {
           exclude: "_index",
         },
         ui: {
           allowedActions: {
             createNestedFolder: false,
+          },
+          beforeSubmit: async ({ values }) => {
+            return {
+              ...values,
+              lastmod: new Date().toISOString(),
+            };
           },
         },
       },
@@ -383,6 +590,9 @@ export default defineConfig({
         label: "Блог-UA",
         path: "content/ua-lang/blog",
         fields: [...blogTemplate],
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+        }),
         match: {
           exclude: "_index",
         },
@@ -390,19 +600,34 @@ export default defineConfig({
           allowedActions: {
             createNestedFolder: false,
           },
+          beforeSubmit: async ({ values }) => {
+            return {
+              ...values,
+              lastmod: new Date().toISOString(),
+            };
+          },
         },
       },
-            {
+      {
         name: "shadow_blog_ua",
         label: "Скрытый-Блог-UA",
         path: "content/ua-lang/shadow-blog",
         fields: [...blogTemplate],
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+        }),
         match: {
           exclude: "_index",
         },
         ui: {
           allowedActions: {
             createNestedFolder: false,
+          },
+          beforeSubmit: async ({ values }) => {
+            return {
+              ...values,
+              lastmod: new Date().toISOString(),
+            };
           },
         },
       },
@@ -462,7 +687,7 @@ export default defineConfig({
           },
         },
       },
-            
+
       {
         name: "services_ua_alkogolizm",
         label: "Услуги-Алкоголизм-UA",

@@ -1,4 +1,5 @@
 ---
+layout: services
 RatingAvarage: 4.8/5
 tabTitle: Лікування алкоголізму та наркоманії Львів | Umbrella Plus | Від 2199 грн
 title: Лікування алкоголізму та наркоманії Львів
