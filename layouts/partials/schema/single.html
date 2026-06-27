@@ -14,9 +14,19 @@
         "dateModified":"{{ with .Params.lastmod }}{{ time.Format "2006-01-02T15:04:05Z07:00" . }}{{ end }}",
         "image":"{{ .Params.image | absURL}}",
         "author":{
+          {{if eq .Params.expert "kostya"}}
           "@type":"Person",
-          "name":"Stanislav Moguchev",
-          "jobTitle":"Врач-терапевт"
+          "name":"Богоденко Констянтин",
+          "jobTitle":"Врач анастезиолог"
+          {{else if eq .Params.expert "olga"}}
+          "@type":"Person",
+          "name":"Робулец Ольга",
+          "jobTitle":"Врач нарколог"
+          {{else}}
+          "@type":"Person",
+          "name":"Станислав Могучев",
+          "jobTitle":"Врач терапевт"
+          {{end}}
         },
         "publisher":{
           "@type": "Organization",
