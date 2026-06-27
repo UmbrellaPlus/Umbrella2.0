@@ -28,7 +28,7 @@
     </div>
 
     <ul class="blog-list-container">
-      {{$paginator := .Paginate (where site.RegularPages "Type" "blog")}} {{
+      {{$paginator := .Paginate (where site.RegularPages "Type" "blog") 15}} {{
       range sort $paginator.Pages "Date" "desc" }} {{if in .Site.Language "ru"}}
       <a href="{{ .Permalink }}">
         <li class="blog-list-post">
