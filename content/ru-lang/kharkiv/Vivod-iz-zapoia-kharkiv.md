@@ -7,6 +7,7 @@ imageText: Вывод из запоя Харьков
 ratingAvarage: 4.98/5
 rating: '4902'
 reviewType: alk-2
+expert: olga
 ---
 
 ## Вывод из запоя в Харькове

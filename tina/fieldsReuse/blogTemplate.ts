@@ -75,6 +75,26 @@ export const blogTemplate: TinaField[] = [
     },
   },
   {
+    type: "string",
+    name: "expert",
+    label: "Статья проверена экспертом",
+    description: "Кто проверил статью: Стас, Костя или Ольга",
+    options: [
+      {
+        value: "olga",
+        label: "Ольга",
+      },
+      {
+        value: "kostya",
+        label: "Константин",
+      },
+      {
+        value: "stas",
+        label: "Станислав",
+      },
+    ],
+  },
+  {
     type: "rich-text",
     label: "Основной текст страницы",
     name: "body",

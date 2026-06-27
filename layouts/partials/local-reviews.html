@@ -1,5 +1,5 @@
 <div class="reviews">
-  {{if in .Site.Language "ru"}}
+  {{if eq .Section "blog"}} {{print ""}}{{else}}{{if in .Site.Language "ru"}}
   <h2>Отзывы пациентов:</h2>
   {{else}}
   <h2>Відгуки пацієнтів:</h2>
@@ -102,4 +102,5 @@
     >
     {{partial "reviews-dialog.html"}}
   </div>
+  {{end}}
 </div>

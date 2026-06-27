@@ -6,16 +6,15 @@ export const cityTemplate: TinaField[] = [
     label: "Дата создания статьи",
     name: "date",
     ui: {
-      description:
-        "Автоматически ставиться при создании статьи",
+      description: "Автоматически ставиться при создании статьи",
     },
-  },  {
+  },
+  {
     type: "datetime",
     label: "Дата последнего изменения статьи",
     name: "lastmod",
     ui: {
-      description:
-        "Автоматически обновляется, когда сохраняешь статью",
+      description: "Автоматически обновляется, когда сохраняешь статью",
     },
   },
   {
@@ -116,6 +115,26 @@ export const cityTemplate: TinaField[] = [
       {
         value: "lomka",
         label: "Лечение нарк ломки",
+      },
+    ],
+  },
+  {
+    type: "string",
+    name: "expert",
+    label: "Статья проверена экспертом",
+    description:
+      "Кто проверил статью: Стас, Костя или Ольга",
+    options: [
+      {
+        value: "olga",
+        label: "Ольга",
+      },
+      {
+        value: "kostya",
+        label: "Константин",
+      },      {
+        value: "stas",
+        label: "Станислав",
       },
     ],
   },

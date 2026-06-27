@@ -2,7 +2,30 @@
 resources.Get "/img/BANNER/banner-mob-ru.jpg"}} {{$bannerMobUa := resources.Get
 "/img/BANNER/banner-mob-ua.jpg"}} {{$bannerPcRu := resources.Get
 "/img/BANNER/banner-pc-ru.jpg"}} {{$bannerPcUa := resources.Get
-"/img/BANNER/banner-pc-ua.jpg"}} {{if in .Site.Language "ru"}}
+"/img/BANNER/banner-pc-ua.jpg"}} {{if in .Site.Language "ru"}} {{if eq
+.Params.expert "kostya"}}
+<div class="spesialist-checked">
+  <div class="spesialist-checked-image">
+    <img src="/img/doctors-from-slider/ddoc-kost.jpg" alt="" />
+  </div>
+  <div class="spesialist-checked-text">
+    <p>Статья проверена экспертом</p>
+    <p>Богоденко Констянтин</p>
+    <p>Врач анастезиолог, ординатор</p>
+  </div>
+</div>
+{{else if eq .Params.expert "olga"}}
+<div class="spesialist-checked">
+  <div class="spesialist-checked-image">
+    <img src="/img/doctors-from-slider/ddoc-olga.jpg" alt="" />
+  </div>
+  <div class="spesialist-checked-text">
+    <p>Статья проверена экспертом</p>
+    <p>Робулец Ольга</p>
+    <p>Врач нарколог, ординатор</p>
+  </div>
+</div>
+{{else}}
 <div class="spesialist-checked">
   <div class="spesialist-checked-image">
     <img src="/img/doctors-from-slider/ddoc-stas.jpg" alt="" />
@@ -10,9 +33,10 @@ resources.Get "/img/BANNER/banner-mob-ru.jpg"}} {{$bannerMobUa := resources.Get
   <div class="spesialist-checked-text">
     <p>Статья проверена экспертом</p>
     <p>Могучев Станислав</p>
-    <p>Врач терапевт</p>
+    <p>Врач терапевт, ординатор</p>
   </div>
 </div>
+{{end}}
 <div class="interestingArticle">
   <p>
     Возможно интересная статья: <br />{{if .Params.interestingArticleLink}}
@@ -32,17 +56,40 @@ resources.Get "/img/BANNER/banner-mob-ru.jpg"}} {{$bannerMobUa := resources.Get
       <img src="{{$bannerMobRu.RelPermalink}}" alt="call-to-action" />
     </picture></div
 ></a>
+{{else}} {{if eq .Params.expert "kostya"}}
+<div class="spesialist-checked">
+  <div class="spesialist-checked-image">
+    <img src="/img/doctors-from-slider/ddoc-kost.jpg" alt="" />
+  </div>
+  <div class="spesialist-checked-text">
+    <p>Статтю перевірено експертом</p>
+    <p>Богоденко Костянтин</p>
+    <p>Лікар-анестезіолог, ординатор</p>
+  </div>
+</div>
+{{else if eq .Params.expert "olga"}}
+<div class="spesialist-checked">
+  <div class="spesialist-checked-image">
+    <img src="/img/doctors-from-slider/ddoc-olga.jpg" alt="" />
+  </div>
+  <div class="spesialist-checked-text">
+    <p>Статтю перевірено експертом</p>
+    <p>Робулець Ольга</p>
+    <p>Лікар-нарколог, ординатор</p>
+  </div>
+</div>
 {{else}}
 <div class="spesialist-checked">
   <div class="spesialist-checked-image">
     <img src="/img/doctors-from-slider/ddoc-stas.jpg" alt="" />
   </div>
   <div class="spesialist-checked-text">
-    <p>Стаття перевірена експертом</p>
-    <p>Могучов Станіслав</p>
-    <p>Лікар терапевт</p>
+    <p>Статтю перевірено експертом</p>
+    <p>Могучев Станіслав</p>
+    <p>Лікар-терапевт, ординатор</p>
   </div>
 </div>
+{{end}}
 <div class="interestingArticle">
   <p>
     Можливо цікава стаття: <br />{{if .Params.interestingArticleLink }}<a

@@ -1,12 +1,13 @@
 .spesialist-checked{
   display: flex;
+  align-items: center;
   border: 1px solid var(--blue);
   border-radius: 1rem;
   padding:1rem;
   gap: 3rem
 }
 .spesialist-checked-image{
-  height: 5rem;
+  height: 6rem;
   width: 7.5rem;
   overflow: hidden;
   border-radius: 1rem;
