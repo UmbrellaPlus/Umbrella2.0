@@ -1,4 +1,6 @@
 ---
+date: 2025-07-14T20:23:08.826Z
+lastmod: 2026-07-01T20:23:54.921Z
 tabTitle: Сучасне лікування алкоголізму в Чорноморську | Umbrella Plus | Від 2199 грн
 title: Лікування алкоголізму в Чорноморську
 description: Сучасний метод боротьби із залежністю
@@ -7,6 +9,9 @@ imageText: Лікування алкоголізму в Чорноморську
 ratingAvarage: 4.99/5
 rating: '2119'
 reviewType: alk-2
+expert: olga
+interestingArticleName: 'Пивний алкоголізм: небезпека та наслідки'
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/pyvnyi-alkoholizm-nebezpeka-ta-naslidky/'
 ---
 
 ## Сучасне лікування алкоголізму
