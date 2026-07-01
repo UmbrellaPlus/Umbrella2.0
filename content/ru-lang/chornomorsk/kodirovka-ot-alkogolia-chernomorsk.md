@@ -1,4 +1,6 @@
 ---
+date: 2025-07-12T20:17:35.145Z
+lastmod: 2026-07-01T20:19:50.815Z
 tabTitle: Кодирование от алкоголизма в Черноморске | Umbrella Plus | От 6000 грн
 title: Кодирование от алкоголизма Черноморск
 description: Верните мир и покой в свою семью
@@ -7,6 +9,9 @@ imageText: Кодирование от алкоголизма Черноморс
 ratingAvarage: 4.99/5
 rating: '4468'
 reviewType: kod-2
+expert: kostya
+interestingArticleName: Какой укол вызывает отвращение к алкоголю
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kakoy-ukol-vyzyvaet-otvrashchenie-k-alkogolyu/'
 ---
 
 ## Кодирование от алкоголизма Черноморск
