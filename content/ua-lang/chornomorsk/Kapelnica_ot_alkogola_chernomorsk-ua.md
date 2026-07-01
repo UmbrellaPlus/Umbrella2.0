@@ -1,4 +1,6 @@
 ---
+date: 2025-11-11T20:52:29.979Z
+lastmod: 2026-07-01T19:55:33.731Z
 tabTitle: Крапельниця від алкоголю у Чорноморську | Umbrella Plus | Від 2199 грн
 title: Крапельниця від алкоголю Чорноморськ
 description: Поставимо на ноги вже сьогодні!
@@ -7,6 +9,9 @@ imageText: Крапельниця від алкоголю Чорноморськ
 ratingAvarage: 4.99/5
 rating: '3663'
 reviewType: alk-2
+expert: stas
+interestingArticleName: 'Гідазепам та алкоголь: чому це небезпечне поєднання'
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/gidazepam_i_alkogol_ua/'
 ---
 
 ## Крапельниця від алкоголю в Чорноморську
