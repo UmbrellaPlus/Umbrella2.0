@@ -1,4 +1,6 @@
 ---
+date: 2025-07-12T20:18:47.613Z
+lastmod: 2026-07-01T20:19:39.400Z
 tabTitle: Кодування від алкоголізму у Чорноморську | Umbrella Plus | Від 6000 грн
 title: Кодування від алкоголізму Чорноморськ
 description: Поверніть мир та спокій у свою родину
@@ -7,6 +9,9 @@ imageText: Кодування від алкоголізму Чорноморсь
 ratingAvarage: 4.99/5
 rating: '4468'
 reviewType: kod-2
+expert: kostya
+interestingArticleName: Який укол викликає відразу до алкоголю
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yakyi-ukol-vyklykaie-vidrazu-do-alkoholiu/'
 ---
 
 ## Кодування від алкоголізму Чорноморськ
