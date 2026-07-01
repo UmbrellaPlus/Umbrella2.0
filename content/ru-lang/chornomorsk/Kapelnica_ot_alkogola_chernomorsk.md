@@ -1,4 +1,6 @@
 ---
+date: 2025-11-11T20:48:34.883Z
+lastmod: 2026-07-01T19:55:37.560Z
 tabTitle: Капельница от алкоголя в Черноморске | Umbrella Plus | От 2199 грн
 title: Капельница от алкоголя Черноморск
 description: Поставим на ноги уже сегодня!
@@ -7,6 +9,9 @@ imageText: Капельница от алкоголя в Черноморске
 ratingAvarage: 4.99/5
 rating: '3663'
 reviewType: alk-2
+expert: stas
+interestingArticleName: 'Гидазепам и алкоголь: почему это опасное сочетание'
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/gidazepam_i_alkogol/'
 ---
 
 ## Капельница от алкоголя в Черноморске
