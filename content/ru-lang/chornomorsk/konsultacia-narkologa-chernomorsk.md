@@ -1,4 +1,6 @@
 ---
+date: 2025-07-13T20:21:34.895Z
+lastmod: 2026-07-01T20:22:39.496Z
 tabTitle: Консультация нарколога Черноморск | Umbrella Plus | От 1500 грн
 title: Консультация нарколога в Черноморске
 description: Первый шаг к трезвой жизни
@@ -7,6 +9,9 @@ imageText: Консультация нарколога в Черноморске
 ratingAvarage: 4.99/5
 rating: '1782'
 reviewType: alk-2
+expert: stas
+interestingArticleName: Как самостоятельно выйти из запоя
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-vyyti-iz-zapoya-bez-vracha/'
 ---
 
 ## Консультация нарколога Черноморск
