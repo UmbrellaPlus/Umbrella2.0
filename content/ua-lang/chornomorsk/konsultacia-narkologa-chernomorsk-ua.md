@@ -1,4 +1,6 @@
 ---
+date: 2025-07-13T20:21:52.989Z
+lastmod: 2026-07-01T20:22:30.944Z
 tabTitle: Консультація нарколога Чорноморськ | Umbrella Plus | Від 1500 грн
 title: Консультація нарколога Чорноморськ
 description: Перший крок до тверезого життя
@@ -7,6 +9,9 @@ imageText: Консультація нарколога Чорноморськ
 ratingAvarage: 4.99/5
 rating: '1782'
 reviewType: alk-2
+expert: stas
+interestingArticleName: Як самостійно вийти із запою
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-vyity-iz-zapoiu-bez-likaria/'
 ---
 
 ## Консультація нарколога Чорноморськ
