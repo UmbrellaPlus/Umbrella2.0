@@ -1,4 +1,6 @@
 ---
+date: 2025-07-11T20:14:26.856Z
+lastmod: 2026-07-01T20:14:38.310Z
 tabTitle: Крапельниця від наркотиків у Чорноморську | Umbrella Plus | Від 2499 грн
 title: Крапельниця від наркотиків Чорноморськ
 description: Допоможемо пережити складний період
@@ -7,6 +9,9 @@ imageText: Крапельниця від наркотиків Чорноморс
 ratingAvarage: 4.99/5
 rating: '2554'
 reviewType: alk-2
+expert: kostya
+interestingArticleName: Як формується наркотична залежність
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chomy-formiryetsa-nark-zavisimost-ua/'
 ---
 
 ## Крапельниця від наркотиків Чорноморськ
