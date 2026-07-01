@@ -1,4 +1,6 @@
 ---
+date: 2025-07-16T20:30:21.350Z
+lastmod: 2026-07-01T20:31:36.404Z
 tabTitle: Подшивка от наркотиков Черноморск | Umbrella Plus | От 15000 грн
 title: Подшивка от наркотиков Черноморск
 description: Твой шанс начать всё заново
@@ -7,6 +9,9 @@ imageText: Подшивка от наркотиков Черноморск
 ratingAvarage: 4.99/5
 rating: '1228'
 reviewType: narkot
+expert: kostya
+interestingArticleName: Терминология и жаргон наркоманов
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/sleng-narkomanov/'
 ---
 
 ## Подшивка от наркотиков Черноморск
