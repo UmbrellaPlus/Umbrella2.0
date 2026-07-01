@@ -1,4 +1,6 @@
 ---
+date: 2025-07-15T20:29:11.850Z
+lastmod: 2026-07-01T20:30:01.184Z
 tabTitle: Підшивка від алкоголізму — хороший метод кодування | Umbrella Plus | Від 15000 грн
 title: Подшивка від алкоголізму — що це і як працює
 description: Стабільний контроль та впевненість у тверезості
@@ -7,6 +9,9 @@ imageText: Подшивка від алкоголізму — що це і як 
 ratingAvarage: 4.99/5
 rating: '856'
 reviewType: alk-2
+expert: olga
+interestingArticleName: Що буде якщо закодована людина вип'є алкоголь
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chto-budet-esli-vipit-alkogol-zakadirovanim-ua/'
 ---
 
 ## Підшивка від алкоголізму — що це і як працює
