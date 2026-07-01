@@ -1,4 +1,6 @@
 ---
+date: 2025-07-13T20:00:36.568Z
+lastmod: 2026-07-01T20:01:29.499Z
 tabTitle: Виведення із запою вдома в Чорноморську | Umbrella Plus | Від 2199 грн
 title: Виведення із запою вдома Чорноморськ
 description: Оперативний виїзд нарколога 24/7
@@ -7,6 +9,9 @@ imageText: Виведення із запою вдома Чорноморськ
 ratingAvarage: 4.99/5
 rating: '4813'
 reviewType: alk-1
+expert: kostya
+interestingArticleName: Як самостійно вийти із запою
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-vyity-iz-zapoiu-bez-likaria/'
 ---
 
 ## Виведення із запою вдома в Чорноморську
