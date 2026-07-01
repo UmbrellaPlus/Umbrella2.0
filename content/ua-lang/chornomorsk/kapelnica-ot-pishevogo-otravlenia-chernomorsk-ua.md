@@ -1,4 +1,6 @@
 ---
+date: 2025-07-11T20:16:00.314Z
+lastmod: 2026-07-01T20:16:57.339Z
 tabTitle: Крапельниця від отруєння Чорноморськ | Umbrella Plus | От 2199 грн
 title: Крапельниця від отруєння Чорноморськ
 description: Швидке очищення організму
@@ -7,6 +9,9 @@ imageText: Крапельниця від отруєння Чорноморськ
 ratingAvarage: 4.99/5
 rating: '3023'
 reviewType: otravl
+expert: olga
+interestingArticleName: Пігулки які не можна заважати з алкоголем
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/preparati-i-alkogol-ua/'
 ---
 
 ## Крапельниця від отруєння Чорноморськ
