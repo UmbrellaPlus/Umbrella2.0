@@ -1,4 +1,6 @@
 ---
+date: 2025-07-11T20:14:59.794Z
+lastmod: 2026-07-01T20:17:00.728Z
 tabTitle: Капельница от отравления Черноморск | Umbrella Plus | От 2199 грн
 title: Капельница от отравления Черноморск
 description: Быстрое очищение организма
@@ -7,6 +9,9 @@ imageText: Капельница от отравления Черноморск
 ratingAvarage: 4.99/5
 rating: '3023'
 reviewType: otravl
+expert: olga
+interestingArticleName: Таблетки которые нельзя мешать с алкоголем
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/preparati-i-alkogol/'
 ---
 
 ## Капельница от отравления Черноморск
