@@ -1,4 +1,6 @@
 ---
+date: 2025-07-13T19:58:02.608Z
+lastmod: 2026-07-01T19:58:32.681Z
 tabTitle: Крапельниця від алкоголю вдома у Чорноморську | Umbrella Plus | Від 2199 грн
 title: Крапельниця від алкоголю вдома у Чорноморську
 description: Нарколог без очікування та зайвого стресу
@@ -7,6 +9,9 @@ imageText: Крапельниця від алкоголю вдома у Чорн
 ratingAvarage: 4.99/5
 rating: '2098'
 reviewType: alk-2
+expert: olga
+interestingArticleName: 'Фіброз печінки: причини, симптоми, стадії та лікування'
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/fibroz-pecheni-ua/'
 ---
 
 ## Крапельниця від алкоголю вдома у Чорноморську
