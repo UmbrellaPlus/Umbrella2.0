@@ -1,4 +1,6 @@
 ---
+date: 2025-07-14T20:24:26.798Z
+lastmod: 2026-07-01T20:26:12.408Z
 tabTitle: Лечение наркомании в Черноморске | Umbrella Plus | От 2499 грн
 title: Лечение наркомании Черноморск
 description: Шаг к восстановлению и трезвой жизни
@@ -7,6 +9,9 @@ imageText: Лечение наркомании Черноморск
 ratingAvarage: 4.99/5
 rating: '1872'
 reviewType: narkot
+expert: stas
+interestingArticleName: Роль спорта в лечении зависимости
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/sport-ot-zavisimosti/'
 ---
 
 ## Лечение наркомании Черноморск
