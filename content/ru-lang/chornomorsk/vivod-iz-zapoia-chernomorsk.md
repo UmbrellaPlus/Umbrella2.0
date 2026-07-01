@@ -1,4 +1,6 @@
 ---
+date: 2025-07-16T20:31:46.482Z
+lastmod: 2026-07-01T20:33:12.726Z
 tabTitle: Срочный вывод из запоя Черноморск | Umbrella Plus | От 2199 грн
 title: Срочный вывод из запоя Черноморск
 description: Стабилизируем состояние уже сегодня
@@ -7,6 +9,9 @@ imageText: Срочный вывод из запоя Черноморск
 ratingAvarage: 4.98/5
 rating: '1231'
 reviewType: alk-1
+expert: stas
+interestingArticleName: Агрессия после употребления алкоголя
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/agressiya-posle-upotrebleniya-alkogolya/'
 ---
 
 ## Срочный вывод из запоя Черноморск
