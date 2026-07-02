@@ -32,6 +32,7 @@
 }
 .interestingArticle {
   padding: 1.5rem;
+  font-weight: 600;
 }
 .interestingArticle p {
   border-left: 3px solid var(--blue);
