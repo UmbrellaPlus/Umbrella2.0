@@ -1,6 +1,7 @@
 ---
 imagepc: /img/HOMEPAGE-SLIDER/cherkasy/cherkasy-pc-ru.jpg
 imagephone: /img/HOMEPAGE-SLIDER/cherkasy/cherkasy-mob-ru.jpg
-link: "https://umbrella-plus.com.ua/cherkasy/"
-draft: false
+link: 'https://umbrella-plus.com.ua/cherkasy/'
+draft: true
 ---
+
