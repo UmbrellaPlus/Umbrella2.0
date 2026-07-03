@@ -1,6 +1,17 @@
 ---
 date: 2026-07-03T11:49:00.801Z
-lastmod: 2026-07-03T13:15:07.266Z
+lastmod: 2026-07-03T14:52:34.497Z
+tabTitle: Капельница от метадона Одесса | Umbrella Plus | От 2499 грн
+title: Капельница от метадона в Одессе
+description: Наркологическая помощь 24/7
+image: /img/Odessa-new/kapelnica-ot-metadona.jpg
+imageText: Капельница от метадона в Одессе
+ratingAvarage: 4.99/5
+rating: '3612'
+reviewType: lomka
+expert: kostya
+interestingArticleName: Как очиститься от наркотиков — рабочие советы
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-ochistitsya-ot-narkotikov-rabochie-sovety/'
 ---
 
 ## Капельница от метадона Одесса
