@@ -1,6 +1,17 @@
 ---
 date: 2026-07-03T11:58:59.776Z
-lastmod: 2026-07-03T13:15:13.642Z
+lastmod: 2026-07-03T14:52:45.912Z
+tabTitle: Крапельниця від метадону Одеса | Umbrella Plus | Від 2499 грн
+title: Крапельниця від метадону в Одесі
+description: Наркологічна допомога 24/7
+image: /img/Odessa-new/kapelnica-ot-metadona.jpg
+imageText: Крапельниця від метадону в Одесі
+ratingAvarage: 4.99/5
+rating: '3612'
+reviewType: lomka
+expert: kostya
+interestingArticleName: Як очиститися від наркотиків — дієві поради
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-ochystytysia-vid-narkotykiv-diievi-porady/'
 ---
 
 ## Крапельниця від метадону Одеса
@@ -42,6 +53,13 @@ lastmod: 2026-07-03T13:15:13.642Z
 ## Вартість крапельниці від метадону в Одесі
 
 Вартість крапельниці від метадону в Одесі починається від 2499 грн.
+
+| Популярні послуги                                                                                           | Ціна         |
+| ----------------------------------------------------------------------------------------------------------- | ------------ |
+| **[Консультація нарколога](https://umbrella-plus.com.ua/uk/odesa/konsyltacia-narkologa-odesa/)**            | Від 1500 грн |
+| **[Лікування наркоманії](https://umbrella-plus.com.ua/uk/odesa/lechenie-narkomanii-v-odese-ua/)**           | Від 2499 грн |
+| **[Крапельниця від наркотиків](https://umbrella-plus.com.ua/uk/odesa/krapelnica_vid_narkotikiv-odesa-ua/)** | Від 2499 грн |
+| **[Виведення із запою вдома](https://umbrella-plus.com.ua/uk/odesa/vivod-iz-zapoia-na-domu-odesa/)**        | Від 2199 грн |
 
 ## Коли потрібна госпіталізація при інтоксикації метадоном
 
