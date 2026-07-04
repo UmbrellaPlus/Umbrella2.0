@@ -1,8 +1,9 @@
 ---
 date: 2026-07-04T17:45:07.200Z
-lastmod: 2026-07-04T18:13:15.822Z
+lastmod: 2026-07-04T18:18:16.134Z
 tabTitle: Капельница от мефедрона в Одессе | Umbrella Plus | От 2499 грн
 title: Капельница от мефедрона Одесса
+description: Безопасная стабилизация состояния
 image: /img/Odessa-new/kapelnica-ot-mefedrona.jpg
 imageText: Капельница от мефедрона Одесса
 ratingAvarage: 4.99/5
