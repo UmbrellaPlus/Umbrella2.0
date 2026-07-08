@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-06-26T14:33:20.590Z
+lastmod: 2026-07-08T10:11:21.493Z
 tabTitle: Відкапати від алкоголю у Одесі | Umbrella Plus | Від 2199 грн
 title: Відкапати від алкоголю у Одесі
 description: Допомога при похмілля та запої
@@ -8,6 +8,7 @@ imageText: Відкапати від алкоголю у Одесі
 ratingAvarage: 4.99/5
 rating: '2415'
 reviewType: alk-2
+expert: kostya
 interestingArticleName: Як самостійно вийти із запою
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-vyyti-iz-zapoya-bez-vracha/'
 ---
