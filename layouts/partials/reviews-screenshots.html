@@ -1,0 +1,20 @@
+<div class="cities-carousel-container">
+  {{if in .Site.Language "ru"}}
+  <h2>Отзывы пациентов</h2>
+  {{else}}
+  <h2>Відгуки пацієнтів</h2>
+  {{end}}
+  <section id="screenshots-carousel" class="splide">
+    <div class="splide__track">
+      {{ $scrennshotsSection := site.GetPage "section" "screenshots" }}
+      <ul class="splide__list">
+        {{range $scrennshotsSection.RegularPages}}
+        <li class="screenshot-post splide__slide">
+          {{ $scrennshotsImgLink := resources.Get .Params.img}}
+          <img src="{{$scrennshotsImgLink.RelPermalink}}" loading="lazy"/>
+        </li>
+        {{end}}
+      </ul>
+    </div>
+  </section>
+</div>

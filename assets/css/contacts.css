@@ -34,8 +34,9 @@
 .contacts-numbers p {
   font-size: 1.2rem;
 }
-.contacts p a {
-  font-size: 1.3rem;
+.contacts-address a{
+  color: var(--blue);
+  font-weight: 600;
 }
 @media (max-width: 1200px) {
   .contacts {

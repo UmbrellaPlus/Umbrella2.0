@@ -141,3 +141,21 @@ document.addEventListener("DOMContentLoaded", function () {
     },
   }).mount();
 });
+
+//CAROUSEL FOR SCREENSHOTS
+document.addEventListener("DOMContentLoaded", function () {
+  new Splide("#screenshots-carousel", {
+    type: "loop",
+    speed: 800,
+    gap: `10px`,
+    perPage: 4,
+    breakpoints: {
+      1000: {
+        perPage: 1,
+      },
+      1280: {
+        perPage: 2,
+      },
+    },
+  }).mount();
+});

@@ -913,6 +913,17 @@ export default defineConfig({
             createNestedFolder: false,
           },
         },
+      },      {
+        name: "screenshots",
+        label: "Screenshots",
+        path: "content/shared/screenshots",
+        match: { exclude: "_index" },
+        fields: [...licenses],
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
       },
     ],
   },

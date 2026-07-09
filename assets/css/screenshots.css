@@ -1,0 +1,17 @@
+.screenshot-post {
+  margin: 1.5rem auto;
+  max-width: 95%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: whitesmoke;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  padding: 1rem;
+}
+
+.screenshot-post img {
+  width: 100%;
+  object-fit: contain;
+}
