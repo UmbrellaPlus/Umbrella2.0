@@ -1,4 +1,6 @@
 ---
+date: 2025-11-16T16:45:32.814Z
+lastmod: 2026-07-09T16:25:23.153Z
 tabTitle: Кодирование от алкоголизма Одесса | Umbrella Plus | От 6000 грн
 title: Кодирование от алкоголя в Одессе
 description: Первый шаг к трезвой и здоровой жизни!
@@ -7,6 +9,9 @@ imageText: Кодирование от алкоголя в Одессе
 ratingAvarage: 4.99/5
 rating: '6622'
 reviewType: kod-2
+expert: olga
+interestingArticleName: 8 советов родителям алкоголика
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/vosem-sovetov-rodstvenicam-alkogolika/'
 ---
 
 ## Кодирование от алкоголизма Одесса
@@ -38,8 +43,8 @@ reviewType: kod-2
 | **[Кодирование уколом Дисульфирам (3, 6, 12 месяцев)](https://umbrella-plus.com.ua/odessa/kodirovka-ykolom-disylfiram-odesa/)** | От 6000 грн  |
 | **[Кодирование уколом Эспераль (3, 6, 12 месяцев)](https://umbrella-plus.com.ua/odessa/kodirovka-ykolom-espial-odesa/)**        | От 8000 грн  |
 | Кодирование уколом Тетлонг (3, 6, 12 месяцев)                                                                                   | От 8000 грн  |
-| Кодирование уколом Вивитрол (12 месяцев)                                                                                        | От 12000 грн |
-| Кодирование уколом Аквилонг (12 месяцев)                                                                                        | От 12000 грн |
+| **[Кодирование уколом Вивитрол (12 месяцев)](https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-ukolom-vivitrol/)** | От 12000 грн |
+| **[Кодирование уколом Аквилонг (12 месяцев)](https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-akvilong/)**        | От 12000 грн |
 | Авторское трехэтапное кодирование уколом (1-5 лет)                                                                              | От 12000 грн |
 
 | Хирургическое кодирование от алкоголизма                                                                                                | Цена         |
