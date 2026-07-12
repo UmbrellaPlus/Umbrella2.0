@@ -1,6 +1,6 @@
 ---
 date: 2025-11-16T16:45:32.814Z
-lastmod: 2026-07-09T18:05:15.008Z
+lastmod: 2026-07-12T11:39:34.512Z
 tabTitle: Кодирование от алкоголизма Одесса | Umbrella Plus | От 6000 грн
 title: Кодирование от алкоголя в Одессе
 description: Первый шаг к трезвой и здоровой жизни!
@@ -42,7 +42,7 @@ interestingArticleLink: 'https://umbrella-plus.com.ua/blog/vosem-sovetov-rodstve
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
 | **[Кодирование уколом Дисульфирам (3, 6, 12 месяцев)](https://umbrella-plus.com.ua/odessa/kodirovka-ykolom-disylfiram-odesa/)**            | От 6000 грн  |
 | **[Кодирование уколом Эспераль (3, 6, 12 месяцев)](https://umbrella-plus.com.ua/odessa/kodirovka-ykolom-espial-odesa/)**                   | От 8000 грн  |
-| Кодирование уколом Тетлонг (3, 6, 12 месяцев)                                                                                              | От 8000 грн  |
+| **[Кодирование уколом Тетлонг (3, 6, 12 месяцев)](https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-tetlong)**                | От 8000 грн  |
 | **[Кодирование уколом Вивитрол (12 месяцев)](https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-ukolom-vivitrol/)**            | От 12000 грн |
 | **[Кодирование уколом Аквилонг (12 месяцев)](https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-akvilong/)**                   | От 12000 грн |
 | **[Авторское кодирование уколом в три этапа (1-5 лет)](https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolya-ukolom-v-tri-etapa/)** | От 12000 грн |
@@ -55,9 +55,9 @@ interestingArticleLink: 'https://umbrella-plus.com.ua/blog/vosem-sovetov-rodstve
 | Психотерапевтическое кодирование от алкоголизма                                                                                                                                       | Цена         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | **[Кодирование по методу Довженко (Гипнозом) (1-5 лет)](https://umbrella-plus.com.ua/odessa/kodirovka-po-dovgenko-odessa/)**                                                          | От 10000 грн |
-| Авторское кодирование от алкоголизма гипнозом (5 лет)                                                                                                                                 | От 12000 грн |
+| **[Авторское кодирование от алкоголизма гипнозом (5 лет)](https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-avtorskim-metodom/)**                                        | От 12000 грн |
 | **[Трехэтапное кодирование от алкоголизма: психотерапия, укол дисульфирама, метод Довженко (5-10 лет)](https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-v-tri-etapa/)** | От 20000 грн |
-| Психофармакологическое кодирование от алкоголизма (1-5 лет)                                                                                                                           | От 20000 грн |
+| **[Психофармакологическое кодирование от алкоголизма (1-5 лет)](https://umbrella-plus.com.ua/odessa/psihofarmakologicheskoe-kodirovanie-ot-alkogolizma/)**                            | От 20000 грн |
 | **[Кодирование от алкоголизма лазером](https://umbrella-plus.com.ua/services/kodirovanie-ot-alkogolizma-lazerom/)**                                                                   | От 10000 грн |
 
 | Таблетированное кодирование от алкоголизма                                                       | Цена        |
