@@ -1,6 +1,6 @@
 ---
 date: 2026-07-13T16:08:20.611Z
-lastmod: 2026-07-14T16:36:50.824Z
+lastmod: 2026-07-14T16:37:21.380Z
 tabTitle: Як швидко вивести людину із запою у Черкасах | Umbrella Plus | Від 2199 грн
 title: Як швидко вивести людину із запою
 description: Наркологічна допомога на дому без очікування
@@ -60,12 +60,12 @@ interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chorne-bliuvannia-
 
 Вартість крапельниці для виходу із запою вдома в Черкасах починається від 2199 грн.
 
-| Популярні послуги                                                                                        | Ціна         |
-| -------------------------------------------------------------------------------------------------------- | ------------ |
-| **[Нарколог Одеса](https://umbrella-plus.com.ua/uk/odesa/konsyltacia-narkologa-odesa/)**                 | Від 1500 грн |
-| **[Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/odesa/kapelnica-ot-alkogolia-odesa/)**      | Від 2199 грн |
-| **[Виведення із запою вдома](https://umbrella-plus.com.ua/uk/odesa/vivod-iz-zapoia-na-domu-odesa/)**     | Від 2199 грн |
-| **[Кодування від алкоголізму](https://umbrella-plus.com.ua/uk/odesa/kodirovka-ot-alkogolsma-odesa-ua/)** | Від 6000 грн |
+| Популярні послуги                                                                                              | Ціна         |
+| -------------------------------------------------------------------------------------------------------------- | ------------ |
+| **[Нарколог Черкаси](https://umbrella-plus.com.ua/uk/cherkasy/konsultacia-narkologa-cherkasy-ua/)**            | Від 1500 грн |
+| **[Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/cherkasy/krapelnica_vid_alkogolia-cherkasy-ua/)** | Від 2199 грн |
+| **[Виведення із запою вдома](https://umbrella-plus.com.ua/uk/cherkasy/vivod-iz-zapoia-vdoma-cherkasi-ua/)**    | Від 2199 грн |
+| **[Кодування від алкоголю](https://umbrella-plus.com.ua/uk/cherkasy/kodirovka-ot-alkogolia-cherkassy-ua/)**    | Від 6000 грн |
 
 ## Крапельниця для швидкого зняття алкогольної інтоксикації
 
