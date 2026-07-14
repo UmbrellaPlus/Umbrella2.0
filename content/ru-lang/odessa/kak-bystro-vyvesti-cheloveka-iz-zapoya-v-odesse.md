@@ -1,4 +1,6 @@
 ---
+date: 2026-07-12T13:21:36.845Z
+lastmod: 2026-07-14T13:22:53.601Z
 tabTitle: Как быстро вывести человека из запоя в Одессе | Umbrella Plus | От 2199 грн
 title: Как быстро вывести человека из запоя
 description: Безопасная помощь нарколога 24/7
@@ -7,6 +9,9 @@ imageText: Как быстро вывести человека из запоя
 ratingAvarage: 4.99/5
 rating: '2715'
 reviewType: alk-2
+expert: stas
+interestingArticleName: Как самостоятельно выйти из запоя
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-vyyti-iz-zapoya-bez-vracha/'
 ---
 
 ## Как быстро вывести человека из запоя
