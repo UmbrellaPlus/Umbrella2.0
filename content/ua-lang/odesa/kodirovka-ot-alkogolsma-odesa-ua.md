@@ -1,6 +1,6 @@
 ---
 date: 2025-11-16T11:30:31.425Z
-lastmod: 2026-07-14T11:42:31.305Z
+lastmod: 2026-07-14T11:45:51.883Z
 tabTitle: Кодування від алкоголізму Одеса | Umbrella Plus | Від 6000 грн
 title: Кодування від алкоголізму Одеса
 description: Перший крок до тверезого та здорового життя!
@@ -9,6 +9,9 @@ imageText: Кодування від алкоголізму Одеса
 ratingAvarage: 4.99/5
 rating: '6622'
 reviewType: kod-2
+expert: olga
+interestingArticleName: 8 порад батькам алкоголіка
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/vosem-sovetov-rodstvenicam-alkogolika-ua/'
 ---
 
 ## Кодування від алкоголізму Одеса
