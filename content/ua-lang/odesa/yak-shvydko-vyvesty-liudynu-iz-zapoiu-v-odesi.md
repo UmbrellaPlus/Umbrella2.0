@@ -1,4 +1,6 @@
 ---
+date: 2026-07-12T13:23:39.460Z
+lastmod: 2026-07-14T13:24:29.002Z
 tabTitle: Як швидко вивести людину із запою в Одесі | Umbrella Plus | Від 2199 грн
 title: Як швидко вивести людину із запою
 description: Безпечна допомога нарколога 24/7
@@ -7,6 +9,9 @@ imageText: Як швидко вивести людину із запою
 ratingAvarage: 4.99/5
 rating: '2715'
 reviewType: alk-2
+expert: stas
+interestingArticleName: Як самостійно вийти із запою
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-vyity-iz-zapoiu-bez-likaria/'
 ---
 
 ## Як швидко вивести людину із запою
