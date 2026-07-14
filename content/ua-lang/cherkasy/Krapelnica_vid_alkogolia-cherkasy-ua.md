@@ -1,6 +1,6 @@
 ---
 date: 2025-11-12T19:05:37.242Z
-lastmod: 2026-07-14T18:11:31.758Z
+lastmod: 2026-07-14T18:11:54.668Z
 tabTitle: Крапельниця від алкоголю Черкаси | Umbrella Plus | Від 2199 грн
 title: Крапельниця від алкоголю Черкаси
 description: Швидко відновимо сили та здоров'я після алкоголю
@@ -9,6 +9,9 @@ imageText: Крапельниця від алкоголю Черкаси
 ratingAvarage: 4.99/5
 rating: '2942'
 reviewType: alk-2
+expert: stas
+interestingArticleName: 'Стеатоз печінки: причини, симптоми, стадії та лікування'
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/steatoz-pecheni-ua/'
 ---
 
 ## Крапельниця від алкоголю Черкаси
