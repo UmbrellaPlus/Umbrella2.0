@@ -1,6 +1,17 @@
 ---
 date: 2026-07-09T20:09:56.667Z
-lastmod: 2026-07-14T14:37:28.340Z
+lastmod: 2026-07-14T14:43:33.226Z
+tabTitle: Доступная наркологическая помощь в Черкассах | Umbrella Plus | От 2199 грн
+title: Доступная наркологическая помощь Черкассы
+description: Доступное лечение с выездом на дом
+image: /img/cherkasy/narkologicheskiy-statsionar-cherkassy.jpg
+imageText: Доступная наркологическая помощь Черкассы
+ratingAvarage: 4.99/5
+rating: '1623'
+reviewType: alk-2
+expert: stas
+interestingArticleName: Агрессия после употребления алкоголя
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/agressiya-posle-upotrebleniya-alkogolya/'
 ---
 
 ## Доступная наркологическая помощь Черкассы
