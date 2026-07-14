@@ -1,4 +1,6 @@
 ---
+date: 2026-03-30T11:53:46.203Z
+lastmod: 2026-07-14T12:00:50.120Z
 tabTitle: Анонимный вывод из запоя Одесса | Umbrella Plus | От 2199 грн
 title: Анонимный вывод из запоя Одесса
 description: Помощь без огласки — результат без риска
@@ -7,6 +9,9 @@ imageText: Анонимный вывод из запоя Одесса
 ratingAvarage: 4.99/5
 rating: '3226'
 reviewType: alk-1
+expert: olga
+interestingArticleName: Лекарство вызывающее отвращение к алкоголю
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/lekarstvo-vyzyvayushchee-otvrashchenie-k-alkogolyu/'
 ---
 
 ## Анонимный вывод из запоя Одесса
