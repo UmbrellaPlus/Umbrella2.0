@@ -1,6 +1,6 @@
 ---
 date: 2025-11-03T15:37:25.509Z
-lastmod: 2026-07-15T14:50:45.399Z
+lastmod: 2026-07-15T14:52:43.498Z
 tabTitle: Капельница от кокаина в Одессе | Umbrella Plus | От 2499 грн
 title: Капельница от кокаина Одесса
 description: Помощь без лишнего стресса
@@ -9,6 +9,9 @@ imageText: Капельница от кокаина Одесса
 ratingAvarage: 4.99/5
 rating: '2716'
 reviewType: lomka
+expert: olga
+interestingArticleName: Роль спорта в лечении зависимости
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/sport-ot-zavisimosti/'
 ---
 
 ## Капельница от кокаина Одесса
