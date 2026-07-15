@@ -1,6 +1,16 @@
 ---
 date: 2026-07-09T20:03:00.754Z
-lastmod: 2026-07-15T11:16:44.785Z
+lastmod: 2026-07-15T11:17:59.619Z
+tabTitle: Кодування від алкоголізму уколом дисульфірам Черкаси | Umbrella Plus | Від 6000 грн
+title: Кодування від алкоголізму уколом дисульфірам Черкаси
+image: /img/cherkasy/podshivka-ot-nark.jpg
+imageText: Кодування від алкоголізму уколом дисульфірам Черкаси
+ratingAvarage: 4.99/5
+rating: '3226'
+reviewType: kod-2
+expert: stas
+interestingArticleName: Який укол викликає відразу до алкоголю
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yakyi-ukol-vyklykaie-vidrazu-do-alkoholiu/'
 ---
 
 ## Кодування від алкоголізму уколом дисульфірам Черкаси
