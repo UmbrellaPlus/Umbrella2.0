@@ -1,5 +1,6 @@
 ---
-lastmod: 2026-07-15T11:38:32.784Z
+date: 2025-11-17T12:38:35.564Z
+lastmod: 2026-07-15T11:39:53.298Z
 tabTitle: Кодування від алкоголізму Черкаси | Umbrella Plus | Від 6000 грн
 title: Кодування від алкоголізму Черкаси
 description: Тверезість під контролем лікарів
@@ -8,6 +9,9 @@ imageText: Кодування від алкоголізму Черкаси
 ratingAvarage: 4.99/5
 rating: '3902'
 reviewType: kod-2
+expert: olga
+interestingArticleName: Який укол викликає відразу до алкоголю
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yakyi-ukol-vyklykaie-vidrazu-do-alkoholiu/'
 ---
 
 ## Кодування від алкоголізму Черкаси
