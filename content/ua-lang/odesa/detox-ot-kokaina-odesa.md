@@ -1,6 +1,6 @@
 ---
 date: 2025-11-03T15:48:00.952Z
-lastmod: 2026-07-15T14:50:51.653Z
+lastmod: 2026-07-15T14:52:33.974Z
 tabTitle: Крапельниця від кокаїну в Одесі | Umbrella Plus | Від 2499 грн
 title: Крапельниця від кокаїну Одеса
 description: Допомога без зайвого стресу
@@ -9,6 +9,9 @@ imageText: Крапельниця від кокаїну Одеса
 ratingAvarage: 4.99/5
 rating: '2716'
 reviewType: lomka
+expert: olga
+interestingArticleName: Роль спорту у лікуванні залежності
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/sport-ot-zavisimosti-ua/'
 ---
 
 ## Крапельниця від кокаїну Одеса
