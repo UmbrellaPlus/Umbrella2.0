@@ -1,4 +1,6 @@
 ---
+date: 2025-11-03T08:05:46.246Z
+lastmod: 2026-07-17T07:06:49.814Z
 tabTitle: Капельница от ЛСД Одесса | Umbrella Plus | От 2499 грн
 title: Капельница от ЛСД Одесса
 description: Спокойствие и контроль уже сегодня
@@ -7,6 +9,9 @@ imageText: Капельница от ЛСД Одесса
 ratingAvarage: 4.99/5
 rating: '1624'
 reviewType: lomka
+expert: stas
+interestingArticleName: Влияние марихуаны на организм человека
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/vliyanie-marihuany-na-organizm-cheloveka/'
 ---
 
 ## Капельница от ЛСД Одесса
