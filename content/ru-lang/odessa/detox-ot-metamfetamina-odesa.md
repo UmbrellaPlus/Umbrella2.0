@@ -1,5 +1,6 @@
 ---
-lastmod: 2026-07-18T08:28:57.731Z
+date: 2025-11-03T09:29:00.579Z
+lastmod: 2026-07-18T08:30:31.589Z
 tabTitle: Капельница от метамфетамина Одесса | Umbrella Plus | От 2499 грн
 title: Капельница от метамфетамина в Одессе
 description: Возвращаем контроль над состоянием
@@ -8,6 +9,9 @@ imageText: Капельница от метамфетамина в Одессе
 ratingAvarage: 4.99/5
 rating: '2727'
 reviewType: lomka
+expert: kostya
+interestingArticleName: 'Драгсы: что это такое и чем они опасны'
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/dragsy-chto-eto/'
 ---
 
 ## Капельница от метамфетамина Одесса
