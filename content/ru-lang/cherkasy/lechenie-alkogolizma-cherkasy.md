@@ -1,13 +1,17 @@
 ---
-lastmod: 2026-07-18T19:46:50.105Z
+date: 2026-03-21T20:46:52.796Z
+lastmod: 2026-07-18T19:48:48.466Z
 tabTitle: Лечение алкоголизма в Черкассах | Umbrella Plus | От 2199 грн
 title: Лечение алкоголизма в Черкассах
 description: Помогаем вернуться к жизни без алкоголя
 image: /img/cherkasy/lechenie-alk-cherkasy.jpg
 imageText: Лечение алкоголизма в Черкассах
-ratingAvarage: 4.98/5
+ratingAvarage: 4.99/5
 rating: '4341'
 reviewType: alk-2
+expert: olga
+interestingArticleName: Агрессия после употребления алкоголя
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/agressiya-posle-upotrebleniya-alkogolya/'
 ---
 
 ## Лечение алкоголизма в Черкассах
