@@ -1,5 +1,6 @@
 ---
-lastmod: 2026-07-18T08:29:00.677Z
+date: 2025-11-03T09:29:02.645Z
+lastmod: 2026-07-18T08:30:26.854Z
 tabTitle: Крапельниця від метамфетаміну Одеса | Umbrella Plus | Від 2499 грн
 title: Крапельниця від метамфетаміну Одеса
 description: Повертаємо контроль над станом
@@ -8,6 +9,9 @@ imageText: Крапельниця від метамфетаміну Одеса
 ratingAvarage: 4.99/5
 rating: '2727'
 reviewType: lomka
+expert: kostya
+interestingArticleName: 'Драгси: що це таке і чим вони небезпечні'
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/drahsy-shcho-tse-take/'
 ---
 
 ## Крапельниця від метамфетаміну Одеса
