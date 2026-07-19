@@ -1,4 +1,6 @@
 ---
+date: 2026-07-05T15:43:31.508Z
+lastmod: 2026-07-19T15:43:39.153Z
 tabTitle: Капельница от запоя Одесса | Umbrella Plus | От 2199 грн
 title: Капельница от запоя Одесса
 description: Медицинская поддержка без лишнего стресса
@@ -7,6 +9,9 @@ imageText: Капельница от запоя Одесса
 ratingAvarage: 4.99/5
 rating: '3531'
 reviewType: alk-2
+expert: olga
+interestingArticleName: Почему нельзя опохмеляться после алкоголя
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/pochemu-nelzya-opohmelyatsya-posle-alkogolya/'
 ---
 
 ## Капельница от запоя Одесса
