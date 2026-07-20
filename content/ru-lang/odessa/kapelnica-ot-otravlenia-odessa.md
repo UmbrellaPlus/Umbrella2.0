@@ -1,6 +1,6 @@
 ---
 date: 2026-04-05T11:07:05.571Z
-lastmod: 2026-07-20T11:26:49.965Z
+lastmod: 2026-07-20T11:27:11.327Z
 tabTitle: Капельница от отравления Одесса | Umbrella Plus | От 2199 грн
 title: Капельница от отравления Одесса
 description: Быстрое восстановление и облегчение состояния
@@ -10,6 +10,8 @@ ratingAvarage: 4.99/5
 rating: '3551'
 reviewType: vit
 expert: stas
+interestingArticleName: 'Почему болит голова после алкоголя: основные причины'
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/pochemy-bolit-golova-posle-alkogolia/'
 ---
 
 ## Капельница от отравления Одесса
