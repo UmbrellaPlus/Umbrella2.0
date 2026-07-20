@@ -1,6 +1,6 @@
 ---
 date: 2026-07-10T10:46:16.288Z
-lastmod: 2026-07-20T12:13:26.511Z
+lastmod: 2026-07-20T12:43:27.545Z
 tabTitle: Кодирование от алкоголизма лазером Одесса | Umbrella Plus | От 10000 грн
 title: Кодирование от алкоголизма лазером
 description: Современный метод защиты от алкоголя
@@ -64,7 +64,36 @@ interestingArticleLink: 'https://umbrella-plus.com.ua/blog/alkogolna-encefalopat
 
 ## Стоимость кодирования от алкоголизма в Одессе лазером
 
-Стоимость кодирования от алкоголизма лазером в Одессе начинается от 10 000 грн. 
+Стоимость кодирования от алкоголизма лазером в Одессе начинается от 10 000 грн.
+
+| Кодирование уколом                                                                                                                         | Цена         |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| **[Кодирование уколом Дисульфирам (3, 6, 12 месяцев)](https://umbrella-plus.com.ua/odessa/kodirovka-ykolom-disylfiram-odesa/)**            | От 6000 грн  |
+| **[Кодирование уколом Эспераль (3, 6, 12 месяцев)](https://umbrella-plus.com.ua/odessa/kodirovka-ykolom-espial-odesa/)**                   | От 8000 грн  |
+| **[Кодирование уколом Тетлонг (3, 6, 12 месяцев)](https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-tetlong)**                | От 8000 грн  |
+| **[Кодирование уколом Вивитрол (12 месяцев)](https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-ukolom-vivitrol/)**            | От 12000 грн |
+| **[Кодирование уколом Аквилонг (12 месяцев)](https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-akvilong/)**                   | От 12000 грн |
+| **[Авторское кодирование уколом в три этапа (1-5 лет)](https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolya-ukolom-v-tri-etapa/)** | От 12000 грн |
+
+| Хирургическое кодирование от алкоголизма                                                                                                | Цена         |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| **[Имплантация (подшивка) капсулы Эспераль (12, 18, 36 месяцев)](https://umbrella-plus.com.ua/odessa/implantatsiya-kapsuly-esperal/)**  | От 15000 грн |
+| **[Имплантация (подшивка) геля Дисульфирам (12, 18, 36 месяцев)](https://umbrella-plus.com.ua/odessa/podshivka-ot-alkogolizma-odesa/)** | От 15000 грн |
+
+| Психотерапевтическое кодирование от алкоголизма                                                                                                                                       | Цена         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| **[Кодирование по методу Довженко (Гипнозом) (1-5 лет)](https://umbrella-plus.com.ua/odessa/kodirovka-po-dovgenko-odessa/)**                                                          | От 10000 грн |
+| **[Авторское кодирование от алкоголизма гипнозом (5 лет)](https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-avtorskim-metodom/)**                                        | От 12000 грн |
+| **[Трехэтапное кодирование от алкоголизма: психотерапия, укол дисульфирама, метод Довженко (5-10 лет)](https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-v-tri-etapa/)** | От 20000 грн |
+| **[Психофармакологическое кодирование от алкоголизма (1-5 лет)](https://umbrella-plus.com.ua/odessa/psihofarmakologicheskoe-kodirovanie-ot-alkogolizma/)**                            | От 20000 грн |
+| **[Кодирование от алкоголизма лазером](https://umbrella-plus.com.ua/services/kodirovanie-ot-alkogolizma-lazerom/)**                                                                   | От 10000 грн |
+
+| Таблетированное кодирование от алкоголизма                                                                                            | Цена        |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| **[Кодирование от алкоголизма Эспераль таблетки](https://umbrella-plus.com.ua/services/kodirovanie-ot-alkogolia-tab-esperal/)**       | От 1500 грн |
+| **[Кодирование от алкоголизма Тетурам таблетки](https://umbrella-plus.com.ua/services/kodirovanie-ot-alkogolizma-teturam-tabletki/)** | От 1500 грн |
+| **[Кодирование от алкоголизма Капли Мидзо](https://umbrella-plus.com.ua/services/kapli-midzo/)**                                      | От 1500 грн |
+| **[Раскодировка от алкоголя](https://umbrella-plus.com.ua/odessa/raskodirovatsya-ot-alkogolizma/)**                                   | От 4000 грн |
 
 ## Лазерное кодирование или кодирование уколом: что выбрать
 
