@@ -1,5 +1,6 @@
 ---
-lastmod: 2026-07-21T20:06:23.679Z
+date: 2026-06-13T20:07:05.677Z
+lastmod: 2026-07-21T20:07:15.043Z
 tabTitle: Наркологический стационар в Черкассах | Umbrella Plus | От 2199 грн
 title: Наркологический стационар в Черкассах
 description: Безопасная детоксикация и круглосуточный контроль
@@ -8,6 +9,9 @@ imageText: Наркологический стационар в Черкасса
 ratingAvarage: 4.99/5
 rating: '1792'
 reviewType: alk-2
+expert: stas
+interestingArticleName: Как очиститься от наркотиков — рабочие советы
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-ochistitsya-ot-narkotikov-rabochie-sovety/'
 ---
 
 ## Наркологический стационар в Черкассах
