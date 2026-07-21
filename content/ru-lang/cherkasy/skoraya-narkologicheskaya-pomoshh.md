@@ -1,6 +1,15 @@
 ---
 date: 2026-07-09T20:04:20.864Z
-lastmod: 2026-07-21T21:00:19.513Z
+lastmod: 2026-07-21T21:01:42.303Z
+tabTitle: Скорая наркологическая помощь в Черкассах | Umbrella Plus | От 2199 грн
+title: Скорая наркологическая помощь
+description: Выезд нарколога в любой район Черкасс
+image: /img/cherkasy/lechenie-nark-cherkasy.jpg
+imageText: Скорая наркологическая помощь в Черкассах
+ratingAvarage: 4.99/5
+rating: '2032'
+reviewType: lomka
+expert: kostya
 interestingArticleName: Почему после пива отекает лицо и болят почки
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/pivo-i-oteki/'
 ---
