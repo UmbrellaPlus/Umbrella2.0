@@ -1,7 +1,7 @@
 ---
 title: null
 layout: reviews
-reviewsAmt: '90'
+reviewsAmt: '92'
 reviewsRate: '4.9'
 ---
 
