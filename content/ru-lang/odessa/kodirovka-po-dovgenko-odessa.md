@@ -1,13 +1,17 @@
 ---
-lastmod: 2026-07-23T19:56:16.958Z
-tabTitle: Кодирование по методу Довженко в Одессе | Umbrella Plus | От 15000 грн
+date: 2025-11-03T20:56:20.229Z
+lastmod: 2026-07-23T19:58:45.241Z
+tabTitle: Кодирование по методу Довженко в Одессе | Umbrella Plus | От 10000 грн
 title: Кодирование по методу Довженко Одесса
 description: Шаг к осознанной трезвости
-image: //Odessa-new/kod-po-metody-dovjenko.jpg
+image: /img/Odessa-new/test-na-narkotiki.jpg
 imageText: Кодирование по методу Довженко в Одессе
 ratingAvarage: 4.99/5
 rating: '2791'
 reviewType: kod-2
+expert: olga
+interestingArticleName: Какой укол вызывает отвращение к алкоголю
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kakoy-ukol-vyzyvaet-otvrashchenie-k-alkogolyu/'
 ---
 
 ## Кодирование по методу Довженко в Одессе
