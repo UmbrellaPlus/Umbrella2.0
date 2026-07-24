@@ -1,4 +1,6 @@
 ---
+date: 2025-11-03T09:58:48.126Z
+lastmod: 2026-07-24T08:59:47.807Z
 tabTitle: Консультація нарколога Одеса | Umbrella Plus | Від 1500 грн
 title: Нарколог Одеса
 description: Допомога хорошого лікаря 24/7
@@ -7,6 +9,9 @@ imageText: Нарколог Одеса
 ratingAvarage: 4.99/5
 rating: '9219'
 reviewType: alk-2
+expert: kostya
+interestingArticleName: Як кинути курити назавжди самостійно і не зірватися
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-kinuty-kuryty-nazavzhdy/'
 ---
 
 ## Консультація нарколога Одеса
