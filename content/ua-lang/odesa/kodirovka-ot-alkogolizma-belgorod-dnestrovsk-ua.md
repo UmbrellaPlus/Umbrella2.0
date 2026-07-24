@@ -1,5 +1,6 @@
 ---
-lastmod: 2026-07-24T10:31:25.132Z
+date: 2026-04-03T10:31:28.107Z
+lastmod: 2026-07-24T10:32:10.414Z
 tabTitle: Кодування від алкоголізму в Білгород-Дністровському | Umbrella Plus | Від 6000 грн
 title: Кодування від алкоголізму в Білгород-Дністровському
 description: Життя незалежно починається сьогодні
@@ -8,6 +9,9 @@ imageText: Кодування від алкоголізму в Білгород-
 ratingAvarage: 4.99/5
 rating: '4232'
 reviewType: kod-2
+expert: olga
+interestingArticleName: Який укол викликає відразу до алкоголю
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yakyi-ukol-vyklykaie-vidrazu-do-alkoholiu/'
 ---
 
 ## Кодування від алкоголізму в Білгороді-Дністровському
