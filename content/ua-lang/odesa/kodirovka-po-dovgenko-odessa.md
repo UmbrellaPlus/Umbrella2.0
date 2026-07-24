@@ -1,5 +1,6 @@
 ---
-lastmod: 2026-07-24T11:22:01.999Z
+date: 2025-11-03T12:22:04.668Z
+lastmod: 2026-07-24T11:23:13.436Z
 tabTitle: Кодування за методом Довженка в Одесі | Umbrella Plus | Від 15000 грн
 title: Кодування за методом Довженка Одеса
 description: Крок до усвідомленої тверезості
@@ -8,6 +9,9 @@ imageText: Кодування за методом Довженка Одеса
 ratingAvarage: 4.99/5
 rating: '2791'
 reviewType: kod-2
+expert: olga
+interestingArticleName: Який укол викликає відразу до алкоголю
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yakyi-ukol-vyklykaie-vidrazu-do-alkoholiu/'
 ---
 
 ## Кодування за методом Довженка в Одесі
