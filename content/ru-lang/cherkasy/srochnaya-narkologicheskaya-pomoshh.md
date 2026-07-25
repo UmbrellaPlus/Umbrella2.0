@@ -1,6 +1,17 @@
 ---
 date: 2026-07-09T20:06:00.012Z
-lastmod: 2026-07-25T19:33:45.896Z
+lastmod: 2026-07-25T19:36:11.760Z
+tabTitle: Срочная наркологическая помощь в Черкассах | Umbrella Plus | От 2199 грн
+title: Срочная наркологическая помощь Черкассы
+description: 'Быстро, спокойно, конфиденциально'
+image: /img/cherkasy/lechenie-alk-cherkasy.jpg
+imageText: Срочная наркологическая помощь в Черкассах
+ratingAvarage: 4.99/5
+rating: '1624'
+reviewType: alk-2
+expert: olga
+interestingArticleName: 'Пивной алкоголизм: опасность и последствия'
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/pivnoj-alkogolizm-opasnost-i-posledstviya/'
 ---
 
 ## Срочная наркологическая помощь в Черкассах
