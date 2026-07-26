@@ -1,0 +1,27 @@
+{{/* this is test page used for alcoholism calcutor prototyping */}}
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    {{partial "head.html"}}
+  </head>
+  <body>
+    {{partial "sticky-phone.html"}} {{ partial "preheader.html"}} {{ partial
+    "header.html"}}
+    <div class="license-padding"></div>
+    <div class="calculator-container">
+      <div>
+        Прогрес: <span id="prosent">0</span>%
+        <progress id="progressBar" max="100" value="0"></progress>
+      </div>
+      <div id="question"></div>
+      <div id="answers"></div>
+      <button id="buttonAnswer"></button>
+    </div>
+    <div class="year"><p>2019-{{ now.Year }} Всі права захищені</p></div>
+  </body>
+</html>
+{{if in .Site.Language "ru"}}
+<script type="module" src="/js/treatment-cost/app_ru.js"></script>
+{{else}}
+<script type="module" src="/js/treatment-cost/app_ua.js"></script>
+{{end}}
