@@ -1,6 +1,17 @@
 ---
 date: 2026-07-09T20:18:24.168Z
-lastmod: 2026-07-27T10:04:28.862Z
+lastmod: 2026-07-27T10:06:35.341Z
+tabTitle: Укол от алкоголизма в Черкассах | Umbrella Plus | От 6000 грн
+title: Укол от алкоголизма в Черкассах
+description: Помощь в поддержании трезвости
+image: /img/cherkasy/lechenie-alk-cherkasy.jpg
+imageText: Укол от алкоголизма в Черкассах
+ratingAvarage: 4.99/5
+rating: '3551'
+reviewType: kod-2
+expert: stas
+interestingArticleName: Какой укол вызывает отвращение к алкоголю
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kakoy-ukol-vyzyvaet-otvrashchenie-k-alkogolyu/'
 ---
 
 ## Укол от алкоголизма в Черкассах
