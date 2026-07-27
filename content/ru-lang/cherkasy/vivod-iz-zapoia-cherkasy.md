@@ -1,5 +1,6 @@
 ---
-lastmod: 2026-07-27T10:43:13.415Z
+date: 2025-11-28T11:43:16.335Z
+lastmod: 2026-07-27T10:44:12.318Z
 tabTitle: Вывод из запоя Черкассы | Umbrella Plus | От 2199 грн
 title: Вывод из запоя Черкассы
 description: 'Безопасно, быстро, с заботой о вашем здоровье'
@@ -8,6 +9,9 @@ imageText: Вывод из запоя Черкассы
 ratingAvarage: 4.99/5
 rating: '4271'
 reviewType: alk-2
+expert: stas
+interestingArticleName: Почему нельзя опохмеляться после алкоголя
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/pochemu-nelzya-opohmelyatsya-posle-alkogolya/'
 ---
 
 ## Вывод из запоя в Черкассах
