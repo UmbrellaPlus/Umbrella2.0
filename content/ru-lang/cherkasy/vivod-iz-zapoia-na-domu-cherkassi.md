@@ -1,5 +1,6 @@
 ---
-lastmod: 2026-07-27T19:19:19.135Z
+date: 2025-11-11T20:19:22.402Z
+lastmod: 2026-07-27T19:28:25.250Z
 tabTitle: Вывод из запоя на дому Черкассы | Umbrella Plus | От 2199 грн
 title: Вывод из запоя на дому в Черкассах
 description: Вернем ясность трезвой жизни без похмелья
@@ -8,6 +9,9 @@ imageText: Вывод из запоя на дому Черкассы
 ratingAvarage: 4.99/5
 rating: '2342'
 reviewType: alk-2
+expert: olga
+interestingArticleName: Как самостоятельно выйти из запоя
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-vyyti-iz-zapoya-bez-vracha/'
 ---
 
 ## Вывод из запоя на дому Черкассы
