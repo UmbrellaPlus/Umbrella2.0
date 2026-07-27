@@ -1,6 +1,17 @@
 ---
 date: 2026-07-09T20:11:25.208Z
-lastmod: 2026-07-27T09:16:07.476Z
+lastmod: 2026-07-27T09:18:03.228Z
+tabTitle: Срочный вывод из запоя в Черкассах | Umbrella Plus | От 2199 грн
+title: Срочный вывод из запоя в Черкассах
+description: Оперативный выезд нарколога за 40 минут
+image: /img/cherkasy/kapelnica-ot-alkogolia-doma-cherkasy.jpg
+imageText: Срочный вывод из запоя в Черкассах
+ratingAvarage: 4.99/5
+rating: '1946'
+reviewType: alk-2
+expert: olga
+interestingArticleName: 'Как выйти из запоя без капельницы: советы нарколога'
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-vyvesti-iz-zapoya-bez-kapelnitsy/'
 ---
 
 ## Срочный вывод из запоя в Черкассах
