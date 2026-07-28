@@ -1,5 +1,6 @@
 ---
-lastmod: 2026-07-28T12:07:48.934Z
+date: 2025-11-03T13:07:51.636Z
+lastmod: 2026-07-28T12:09:19.595Z
 tabTitle: Лечение алкоголизма у военнослужащих Одесса | Umbrella Plus | От 2199 грн
 title: Лечение алкоголизма у военнослужащих Одесса
 description: Помогаем справиться с алкоголем и вернуть контроль над жизнью
@@ -8,6 +9,9 @@ imageText: Лечение алкоголизма у военнослужащих
 ratingAvarage: 4.99/5
 rating: '1882'
 reviewType: alk-2
+expert: olga
+interestingArticleName: Почему нельзя опохмеляться после алкоголя
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/pochemu-nelzya-opohmelyatsya-posle-alkogolya/'
 ---
 
 ## Лечение алкоголизма у военных в Одессе
