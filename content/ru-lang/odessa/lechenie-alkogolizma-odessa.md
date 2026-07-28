@@ -1,5 +1,6 @@
 ---
-lastmod: 2026-07-28T09:30:01.086Z
+date: 2025-11-03T10:30:04.612Z
+lastmod: 2026-07-28T09:31:36.137Z
 tabTitle: Лечение алкоголизма Одесса | Umbrella Plus | От 2199 грн
 title: Лечение алкоголизма в Одессе
 description: Безопасное лечение. Устойчивый результат
@@ -8,8 +9,9 @@ imageText: Лечение алкоголизма в Одессе
 ratingAvarage: 4.99/5
 rating: '7214'
 reviewType: alk-2
-interestingArticleName: Корсаковский синдром
-interestingArticleLink: 'https://umbrella-plus.com.ua/blog/korsakivskyi-syndrom/'
+expert: olga
+interestingArticleName: 'Высокофункциональный алкоголизм: как успешные люди спиваются'
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/visokofunkcionalnialkogolizm/'
 ---
 
 ## Лечение алкоголизма в Одессе
