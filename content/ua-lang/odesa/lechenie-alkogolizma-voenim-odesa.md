@@ -1,5 +1,6 @@
 ---
-lastmod: 2026-07-28T12:07:37.625Z
+date: 2025-11-03T13:09:03.016Z
+lastmod: 2026-07-28T12:09:11.520Z
 tabTitle: Лікування алкоголізму у військовослужбовців Одеса | Umbrella Plus | Від 2199 грн
 title: Лікування алкоголізму у військовослужбовців Одеса
 description: Допомагаємо впоратися з алкоголем та повернути контроль над життям
@@ -8,6 +9,9 @@ imageText: Лікування алкоголізму у військовослу
 ratingAvarage: 4.99/5
 rating: '1882'
 reviewType: alk-2
+expert: olga
+interestingArticleName: Чому не можна похмелятися після алкоголю
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chomu-ne-mozhna-pohmelyatysya-pislya-alkogolyu/'
 ---
 
 ## Лікування алкоголізму у військових в Одесі
