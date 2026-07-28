@@ -1,6 +1,6 @@
 ---
 date: 2025-11-03T10:32:35.777Z
-lastmod: 2026-07-28T10:31:18.258Z
+lastmod: 2026-07-28T10:32:07.814Z
 tabTitle: Лікування алкоголізму Одеса | Umbrella Plus | Від 2199 грн
 title: 'Лікування алкоголізму Одеса '
 description: Безпечне лікування. Стійкий результат
@@ -9,6 +9,9 @@ imageText: 'Лікування алкоголізму Одеса '
 ratingAvarage: 4.99/5
 rating: '7214'
 reviewType: alk-2
+expert: olga
+interestingArticleName: 'Високофункціональний алкоголізм: як успішні люди спиваються'
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/visokofunkcionalnialkogolizm-ua/'
 ---
 
 ## Лікування алкоголізму в Одесі
