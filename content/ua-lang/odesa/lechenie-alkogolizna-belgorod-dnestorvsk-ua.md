@@ -1,13 +1,17 @@
 ---
-lastmod: 2026-07-28T19:46:36.408Z
-tabTitle: Лікування алкоголізму в Білгород-Дністровському | Umbrella Plus | Від 2199 грн
-title: Лікування алкоголізму в Білгород-Дністровському
+date: 2026-04-07T19:46:38.641Z
+lastmod: 2026-07-28T19:48:33.508Z
+tabTitle: Лікування алкоголізму в Білгороді-Дністровському | Umbrella Plus | Від 2199 грн
+title: Лікування алкоголізму в Білгороді-Дністровському
 description: 'Ми поряд, щоб допомогти'
 image: /img/Odessa-new/lech.jpg
-imageText: Лікування алкоголізму в Білгород-Дністровському
+imageText: Лікування алкоголізму в Білгороді-Дністровському
 ratingAvarage: 4.98/5
 rating: '1422'
 reviewType: alk-2
+expert: olga
+interestingArticleName: 'Високофункціональний алкоголізм: як успішні люди спиваються'
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/visokofunkcionalnialkogolizm-ua/'
 ---
 
 ## Лікування алкоголізму в Білгороді-Дністровському
