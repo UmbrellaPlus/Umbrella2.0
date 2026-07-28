@@ -1,13 +1,17 @@
 ---
-lastmod: 2026-07-28T19:46:27.149Z
-tabTitle: Лечение алкоголизма в Белгород-Днестровске | Umbrella Plus | От 2199 грн
-title: Лечение алкоголизма в Белгород-Днестровске
+date: 2026-04-07T19:46:30.023Z
+lastmod: 2026-07-28T19:48:40.414Z
+tabTitle: Лечение алкоголизма в Белгороде-Днестровском | Umbrella Plus | От 2199 грн
+title: Лечение алкоголизма в Белгороде-Днестровском
 description: 'Мы рядом, чтобы помочь'
 image: /img/Odessa-new/lech.jpg
-imageText: Лечение алкоголизма в Белгород-Днестровске
+imageText: Лечение алкоголизма в Белгороде-Днестровском
 ratingAvarage: 4.98/5
 rating: '1422'
 reviewType: alk-2
+expert: olga
+interestingArticleName: 'Высокофункциональный алкоголизм: как успешные люди спиваются'
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/visokofunkcionalnialkogolizm/'
 ---
 
 ## Лечение алкоголизма в Белгороде-Днестровском
