@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-07-28T20:42:21.080Z
+lastmod: 2026-07-28T20:47:13.618Z
 tabTitle: Як очиститися від наркотиків — дієві поради | Umbrella Plus
 title: Як очиститися від наркотиків — дієві поради
 description: Тільки безпечні та робочі рекомендації
@@ -8,6 +8,9 @@ image: /img/blog/kak-ochictitca-ot-nar.jpg
 imageText: Як очиститися від наркотиків — дієві поради
 ratingAvarage: 4.99/5
 rating: '801'
+expert: kostya
+interestingArticleName: Вплив марихуани на організм людини
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/vplyv-maryhuany-na-orhanizm-liudyny/'
 ---
 
 ## Як очиститися від наркотиків
