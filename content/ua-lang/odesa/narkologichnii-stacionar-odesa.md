@@ -1,11 +1,11 @@
 ---
 date: 2026-06-10T18:30:16.354Z
-lastmod: 2026-07-29T18:32:26.316Z
-tabTitle: 'Наркологічна клініка в Одесі — Центр лікування алкоголізму та наркоманії | Umbrella Plus '
+lastmod: 2026-07-29T18:33:44.014Z
+tabTitle: 'Наркологічна клініка в Одесі | Umbrella Plus '
 title: Наркологічна клініка в Одесі
 description: Центр лікування алкоголізму та наркоманії
 image: /img/Odessa-new/kod-po-metody-dovjenko.jpg
-imageText: Наркологічна клініка в Одесі — Центр лікування алкоголізму та наркоманії
+imageText: Наркологічна клініка в Одесі
 ratingAvarage: 4.99/5
 rating: '3422'
 reviewType: alk-2
