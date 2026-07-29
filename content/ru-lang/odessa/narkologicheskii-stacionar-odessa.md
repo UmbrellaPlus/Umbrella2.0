@@ -1,11 +1,11 @@
 ---
 date: 2026-06-10T18:30:23.190Z
-lastmod: 2026-07-29T18:32:17.179Z
-tabTitle: Наркологическая клиника в Одессе — Центр лечения алкоголизма и наркомании | Umbrella Plus
+lastmod: 2026-07-29T18:33:37.863Z
+tabTitle: Наркологическая клиника в Одессе | Umbrella Plus
 title: Наркологическая клиника в Одессе
 description: Центр лечения алкоголизма и наркомании
 image: /img/Odessa-new/lechenie-pivnogo-alk-odesa.jpg
-imageText: Наркологическая клиника в Одессе — Центр лечения алкоголизма и наркомании
+imageText: Наркологическая клиника в Одессе
 ratingAvarage: 4.99/5
 rating: '3422'
 reviewType: alk-2
