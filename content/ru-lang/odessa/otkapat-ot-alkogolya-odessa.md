@@ -1,11 +1,11 @@
 ---
 date: 2026-06-26T13:52:37.713Z
-lastmod: 2026-07-29T19:59:55.475Z
-tabTitle: Откапать от алкоголя в Одессе | Umbrella Plus | От 2199 грн
-title: Откапать от алкоголя в Одессе
+lastmod: 2026-07-29T20:00:14.491Z
+tabTitle: Откапать от алкоголя Одесса | Umbrella Plus | От 2199 грн
+title: Откапать от алкоголя Одесса
 description: Помощь при похмелье и запое
 image: /img/Odessa-new/vivedenie-iz-zapoia.jpg
-imageText: Откапать от алкоголя в Одессе
+imageText: Откапать от алкоголя Одесса
 ratingAvarage: 4.99/5
 rating: '2415'
 reviewType: alk-2
