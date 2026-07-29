@@ -1,11 +1,11 @@
 ---
-lastmod: 2026-07-29T15:08:22.812Z
+lastmod: 2026-07-29T15:08:29.356Z
 tabTitle: Лікування жіночого алкоголізму Одеса | Umbrella Plus | Від 2199 грн
 title: Лікування жіночого алкоголізму в Одесі
 description: Поверніть гармонію у своє життя
 image: /img/Odessa-new/lechenie-jensoko-alkogolizma-odesa.jpg
 imageText: Лікування жіночого алкоголізму в Одесі
-ratingAvarage: 4.98/5
+ratingAvarage: 4.99/5
 rating: '4992'
 reviewType: alk-2
 expert: olga
