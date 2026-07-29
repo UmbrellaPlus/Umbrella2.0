@@ -1,6 +1,17 @@
 ---
 date: 2026-07-29T10:22:41.525Z
-lastmod: 2026-07-29T10:40:06.494Z
+lastmod: 2026-07-29T10:41:08.202Z
+tabTitle: Помощь нарколога при запое в Черкассах | Umbrella Plus | От 2199 грн
+title: Помощь нарколога при запое в Черкассах
+description: Доступная помощь 24/7
+image: /img/cherkasy/lechenie-pivnogo-alkogolizma.jpg
+imageText: Помощь нарколога при запое в Черкассах
+ratingAvarage: 4.99/5
+rating: '2512'
+reviewType: alk-2
+expert: olga
+interestingArticleName: Лекарство вызывающее отвращение к алкоголю
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/lekarstvo-vyzyvayushchee-otvrashchenie-k-alkogolyu/'
 ---
 
 ## Помощь нарколога при запое в Черкассах
