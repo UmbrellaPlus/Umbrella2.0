@@ -1,13 +1,13 @@
 ---
 date: 2025-11-03T21:23:13.966Z
-lastmod: 2026-07-30T20:24:16.543Z
+lastmod: 2026-07-30T20:24:45.471Z
 tabTitle: Подшивка от алкоголя Одесса | Umbrella Plus | От 15000 грн
 title: Подшивка от алкоголя Одесса
 description: Надёжная защита от срыва
 image: /img/Odessa-new/kod.jpg
 imageText: Подшивка от алкоголя Одесса
-ratingAvarage: 4.98/5
-rating: '7323'
+ratingAvarage: 4.99/5
+rating: '2323'
 reviewType: narkot
 expert: olga
 interestingArticleName: Какой укол вызывает отвращение к алкоголю
