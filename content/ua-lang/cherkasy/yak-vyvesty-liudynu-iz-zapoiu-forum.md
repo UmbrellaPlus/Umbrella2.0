@@ -1,6 +1,17 @@
 ---
 date: 2026-07-29T09:20:49.765Z
-lastmod: 2026-07-30T10:02:25.461Z
+lastmod: 2026-07-30T10:09:46.212Z
+tabTitle: Як вивести людину із запою форум Черкаси | Umbrella Plus | Від 2199 грн
+title: Як вивести людину із запою форум Черкаси
+description: Консультація та лікування без стаціонару
+image: /img/cherkasy/narkologicheskiy-statsionar-cherkassy.jpg
+imageText: Як вивести людину із запою форум Черкаси
+ratingAvarage: 4.99/5
+rating: '1634'
+reviewType: alk-2
+expert: stas
+interestingArticleName: Як самостійно вийти із запою
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-vyity-iz-zapoiu-bez-likaria/'
 ---
 
 ## Як вивести людину із запою форум Черкаси
