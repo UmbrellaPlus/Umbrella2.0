@@ -1,13 +1,17 @@
 ---
-lastmod: 2026-07-31T17:27:49.175Z
-tabTitle: Примусове виведення із запою в Одесі | Umbrella Plus | От 2199 грн
+date: 2026-03-30T17:27:51.841Z
+lastmod: 2026-07-31T17:30:10.740Z
+tabTitle: Примусове виведення із запою Одеса | Umbrella Plus | От 2199 грн
 title: Примусове виведення із запою в Одесі
 description: Допоможемо навіть у найскладніших ситуаціях запою
 image: /img/Odessa-new/lechenie-pivnogo-alk-odesa.jpg
 imageText: Примусове виведення із запою в Одесі
-ratingAvarage: 4.98/5
+ratingAvarage: 4.99/5
 rating: '1623'
 reviewType: alk-2
+expert: stas
+interestingArticleName: Як самостійно вийти із запою
+interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-vyity-iz-zapoiu-bez-likaria/'
 ---
 
 # Примусове виведення із запою в Одесі
