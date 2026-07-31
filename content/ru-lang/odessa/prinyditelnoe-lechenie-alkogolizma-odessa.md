@@ -1,13 +1,17 @@
 ---
-lastmod: 2026-07-31T17:28:00.729Z
-tabTitle: Принудительный вывод из запоя в Одессе | Umbrella Plus | От 2199 грн
+date: 2026-03-30T17:28:03.242Z
+lastmod: 2026-07-31T17:30:19.353Z
+tabTitle: Принудительный вывод из запоя Одесса | Umbrella Plus | От 2199 грн
 title: Принудительный вывод из запоя в Одессе
 description: Поможем даже в самых сложных ситуациях запоя
 image: /img/Odessa-new/lechenie-pivnogo-alk-odesa.jpg
 imageText: Принудительный вывод из запоя в Одессе
-ratingAvarage: 4.98/5
+ratingAvarage: 4.99/5
 rating: '1623'
 reviewType: alk-1
+expert: stas
+interestingArticleName: Как самостоятельно выйти из запоя
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-vyyti-iz-zapoya-bez-vracha/'
 ---
 
 ## Принудительный вывод из запоя в Одессе
