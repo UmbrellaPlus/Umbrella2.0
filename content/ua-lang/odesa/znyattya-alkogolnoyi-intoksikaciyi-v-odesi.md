@@ -1,13 +1,15 @@
 ---
-lastmod: 2026-08-03T20:03:50.200Z
+date: 2026-06-24T20:03:52.736Z
+lastmod: 2026-08-03T20:05:41.590Z
 tabTitle: Зняття алкогольної інтоксикації в Одесі | Umbrella Plus | Від 2199 грн
-title: Зняття алкогольної інтоксикації
-description: Професійно та конфіденційно
+title: Зняття алкогольної інтоксикації в Одесі
+description: Анонімно та конфіденційно
 image: /img/Odessa-new/snatie-alkogol-intocsicacii.jpg
 imageText: Зняття алкогольної інтоксикації в Одесі
 ratingAvarage: 4.99/5
 rating: '3821'
-reviewType: alk-2
+reviewType: alk-1
+expert: olga
 interestingArticleName: Лікування алкоголізму в домашніх умовах
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/lechenie-alkogolizma-v-domahniv-ysloviah-ua/'
 ---
