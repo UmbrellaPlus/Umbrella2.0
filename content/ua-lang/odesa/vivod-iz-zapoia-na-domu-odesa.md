@@ -1,10 +1,10 @@
 ---
 date: 2025-11-11T20:20:27.286Z
-lastmod: 2026-08-06T19:28:13.592Z
+lastmod: 2026-08-06T19:28:51.382Z
 tabTitle: Виведення із запою вдома Одеса | Umbrella Plus | Від 2199 грн
 title: Виведення із запою вдома Одеса
 description: Швидко та безпечно позбавляємо будь-якої інтоксикації
-image: /img/Odessa-new/vz.jpg
+image: /img/Odessa-new/kodirovanie-ot-alkogolizma-tri-etapa.jpg
 imageText: Виведення із запою вдома Одеса
 ratingAvarage: 4.99/5
 rating: '5322'
