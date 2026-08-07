@@ -1,12 +1,12 @@
 ---
 date: 2026-04-04T19:51:31.013Z
-lastmod: 2026-08-07T19:51:46.909Z
+lastmod: 2026-08-07T19:52:27.475Z
 tabTitle: Вывод из запоя на дому Белгород-Днестровск | Umbrella Plus | От 2199 грн
 title: Вывод из запоя на дому Белгород-Днестровск
 description: Помощь без ожидания и лишнего стресса
 image: /img/Odessa-new/narkolog-odessa.jpg
 imageText: Вывод из запоя на дому Белгород-Днестровск
-ratingAvarage: 4.98/5
+ratingAvarage: 4.99/5
 rating: '2721'
 reviewType: alk-2
 expert: olga
