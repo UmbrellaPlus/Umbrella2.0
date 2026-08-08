@@ -1,13 +1,17 @@
 ---
-lastmod: 2026-08-08T16:41:41.930Z
+date: 2025-11-27T17:52:46.279Z
+lastmod: 2026-08-08T17:13:17.432Z
 tabTitle: Вывод из запоя Одесса | Umbrella Plus | От 2199 грн
 title: Вывод из запоя Одесса
-description: Мы помогаем вернуть трезвость
+description: Помощь нарколога без выходных
 image: /img/Odessa-new/vivod-iz-zapoia-odessa.jpg
 imageText: Вывод из запоя Одесса
 ratingAvarage: 4.99/5
 rating: '6211'
 reviewType: alk-2
+expert: olga
+interestingArticleName: Как самостоятельно выйти из запоя
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-vyyti-iz-zapoya-bez-vracha/'
 ---
 
 ## Вывод из запоя Одесса
