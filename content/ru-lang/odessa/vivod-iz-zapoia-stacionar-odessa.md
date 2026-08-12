@@ -1,6 +1,6 @@
 ---
 date: 2026-03-30T15:02:28.171Z
-lastmod: 2026-08-12T19:12:35.541Z
+lastmod: 2026-08-12T19:12:58.717Z
 tabTitle: Вывод из запоя в стационаре Одесса | Umbrella Plus | От 2199 грн
 title: Вывод из запоя в стационаре Одесса
 description: Надежное восстановление здоровья
@@ -45,6 +45,13 @@ interestingArticleLink: 'https://umbrella-plus.com.ua/blog/onemenie-posle-alkogo
 ## Стоимость вывода из запоя в наркологическом стационаре Одессы
 
 Стоимость вывода из запоя в наркологическом стационаре Одессы начинается от 2199 грн.
+
+| Популярные услуги                                                                                        | Цена        |
+| -------------------------------------------------------------------------------------------------------- | ----------- |
+| **[Нарколог Одесса](https://umbrella-plus.com.ua/odessa/konsyltacia-narkologa-odesa/)**                  | От 1500 грн |
+| **[Капельница от алкоголя](https://umbrella-plus.com.ua/odessa/kapelnica-ot-alkogolia-odesa/)**          | От 2199 грн |
+| **[Вывод из запоя на дому](https://umbrella-plus.com.ua/odessa/vivod-iz-zapoia-na-domu-odesa/)**         | От 2199 грн |
+| **[Кодирование от алкоголизма](https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-odessa/)** | От 6000 грн |
 
 ## Сколько дней выводят из запоя в больнице
 
