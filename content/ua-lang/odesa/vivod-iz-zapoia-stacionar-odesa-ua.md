@@ -1,6 +1,6 @@
 ---
 date: 2026-03-30T15:03:05.925Z
-lastmod: 2026-08-12T19:12:27.201Z
+lastmod: 2026-08-12T19:13:29.770Z
 tabTitle: Виведення із запою у стаціонарі Одеса | Umbrella Plus | Від 2199 грн
 title: Виведення із запою у стаціонарі Одеса
 description: Надійне відновлення здоров'я
@@ -45,6 +45,13 @@ interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/oniminnya-pislya-a
 ## Вартість виведення із запою в наркологічному стаціонарі Одеси
 
 Вартість виведення із запою в наркологічному стаціонарі Одеси починається від 2199 грн.
+
+| Популярні послуги                                                                                        | Ціна         |
+| -------------------------------------------------------------------------------------------------------- | ------------ |
+| **[Нарколог Одеса](https://umbrella-plus.com.ua/uk/odesa/konsyltacia-narkologa-odesa/)**                 | Від 1500 грн |
+| **[Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/odesa/kapelnica-ot-alkogolia-odesa/)**      | Від 2199 грн |
+| **[Виведення із запою вдома](https://umbrella-plus.com.ua/uk/odesa/vivod-iz-zapoia-na-domu-odesa/)**     | Від 2199 грн |
+| **[Кодування від алкоголізму](https://umbrella-plus.com.ua/uk/odesa/kodirovka-ot-alkogolsma-odesa-ua/)** | Від 6000 грн |
 
 ## Скільки днів виводять із запою в лікарні
 
