@@ -1,11 +1,11 @@
 ---
 date: 2026-07-01T09:20:00.887Z
-lastmod: 2026-08-13T19:33:17.965Z
+lastmod: 2026-08-13T19:34:18.332Z
 tabTitle: Вывод из запоя на дому Поселок Котовского | Umbrella Plus | От 2199 грн
 title: Вывод из запоя на Поселке Котовского
 description: Помощь при запое 24/7
 image: /img/Odessa-new/detox-ot-lsd-odessa.jpg
-imageText: Вывод из запоя на Поселке Котовского
+imageText: Вывод из запоя на дому Поселок Котовского
 ratingAvarage: 4.99/5
 rating: '2034'
 reviewType: alk-1
