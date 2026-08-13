@@ -1,11 +1,11 @@
 ---
 date: 2026-07-02T09:49:43.323Z
-lastmod: 2026-08-13T16:01:07.673Z
-tabTitle: 'Вывод из запоя Приморский район Одессы: нарколог на дом от 2199 грн | Umbrella Plus'
-title: Вывод из запоя Приморский район Одессы
-description: Помощь при интоксикациях круглосуточно
+lastmod: 2026-08-13T16:02:18.219Z
+tabTitle: Вывод из запоя в Приморском районе Одессы | Umbrella Plus | От 2199 грн.
+title: Вывод из запоя в Приморском районе Одессы
+description: Помощь при алкогольной интоксикации
 image: /img/Odessa-new/kod-ykolom-vivitron.jpg
-imageText: 'Вывод из запоя Приморский район Одессы: нарколог на дом от 2199 грн'
+imageText: Вывод из запоя в Приморском районе Одессы
 ratingAvarage: 4.99/5
 rating: '1944'
 reviewType: alk-1
@@ -45,6 +45,13 @@ interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kogda-pohmelie-stanov
 ## Стоимость вывода из запоя в Одессе
 
 Стоимость вывода из запоя в Приморском районе Одессы начинается от 2199 грн.
+
+| Популярные услуги                                                                                        | Цена        |
+| -------------------------------------------------------------------------------------------------------- | ----------- |
+| **[Нарколог Одесса](https://umbrella-plus.com.ua/odessa/konsyltacia-narkologa-odesa/)**                  | От 1500 грн |
+| **[Капельница от алкоголя](https://umbrella-plus.com.ua/odessa/kapelnica-ot-alkogolia-odesa/)**          | От 2199 грн |
+| **[Вывод из запоя на дому](https://umbrella-plus.com.ua/odessa/vivod-iz-zapoia-na-domu-odesa/)**         | От 2199 грн |
+| **[Кодирование от алкоголизма](https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-odessa/)** | От 6000 грн |
 
 ## Вывод из запоя на дому в Приморском районе Одессы
 
