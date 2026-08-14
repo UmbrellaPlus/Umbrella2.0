@@ -1,6 +1,6 @@
 ---
 date: 2026-06-25T08:05:53.025Z
-lastmod: 2026-08-14T13:45:34.016Z
+lastmod: 2026-08-14T13:46:49.385Z
 tabTitle: Закодуватися від алкоголізму Одеса | Umbrella Plus | Від 6000 грн
 title: Закодуватися від алкоголізму в Одесі
 description: Надійна допомога при алкогольній залежності
@@ -9,6 +9,7 @@ imageText: Закодуватися від алкоголізму в Одесі
 ratingAvarage: 4.99/5
 rating: '5122'
 reviewType: kod-2
+expert: olga
 interestingArticleName: Який укол викликає відразу до алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yakyi-ukol-vyklykaie-vidrazu-do-alkoholiu/'
 ---
