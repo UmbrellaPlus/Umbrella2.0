@@ -1,6 +1,6 @@
 ---
 date: 2026-06-25T08:04:41.365Z
-lastmod: 2026-08-14T13:45:39.400Z
+lastmod: 2026-08-14T13:45:56.808Z
 tabTitle: Закодироваться от алкоголизма Одесса | Umbrella Plus | От 6000 грн
 title: Закодироваться от алкоголизма в Одессе
 description: Надёжная помощь при алкогольной зависимости
@@ -9,6 +9,7 @@ imageText: Закодироваться от алкоголизма в Одес�
 ratingAvarage: 4.99/5
 rating: '5122'
 reviewType: kod-2
+expert: olga
 interestingArticleName: Какой укол вызывает отвращение к алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kakoy-ukol-vyzyvaet-otvrashchenie-k-alkogolyu/'
 ---
