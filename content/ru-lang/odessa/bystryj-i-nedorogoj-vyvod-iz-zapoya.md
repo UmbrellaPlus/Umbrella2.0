@@ -1,11 +1,11 @@
 ---
 date: 2026-07-03T09:06:56.027Z
-lastmod: 2026-08-15T12:32:16.965Z
+lastmod: 2026-08-15T12:32:24.610Z
 tabTitle: Быстрый и недорогой вывод из запоя в Одессе | Umbrella Plus | От 2199 грн
 title: Быстрый и недорогой вывод из запоя в Одессе
 description: 'Безопасно, анонимно, доступно'
 image: /img/Odessa-new/kapelnica-ot-pohmelia.jpg
-imageText: Быстрый и недорогой вывод из запоя — нарколог Одесса
+imageText: Быстрый и недорогой вывод из запоя в Одессе
 ratingAvarage: 4.99/5
 rating: '2543'
 reviewType: alk-2
