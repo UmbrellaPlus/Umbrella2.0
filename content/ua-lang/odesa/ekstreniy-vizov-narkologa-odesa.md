@@ -1,9 +1,9 @@
 ---
 date: 2025-11-03T14:16:13.366Z
-lastmod: 2026-08-17T16:28:20.439Z
+lastmod: 2026-08-17T16:29:51.251Z
 tabTitle: Виклик нарколога додому Одеса | Umbrella Plus | Від 2199 грн
 title: Виклик нарколога додому Одеса
-description: Турбота про здоров'я - без зволікань
+description: Турбота про здоров'я — без зволікань
 image: /img/Odessa-new/emerg.jpg
 imageText: Виклик нарколога додому Одеса
 ratingAvarage: 4.99/5
