@@ -1,11 +1,11 @@
 ---
 date: 2026-07-12T13:21:36.845Z
-lastmod: 2026-08-17T17:39:22.671Z
+lastmod: 2026-08-20T15:28:11.536Z
 tabTitle: Как быстро вывести из запоя без госпитализации | Umbrella Plus | От 2199 грн
-title: Как быстро вывести человека из запоя
+title: Как быстро вывести из запоя без госпитализации
 description: Безопасная помощь нарколога в Одессе
 image: /img/Odessa-new/vivod-iz-zapoia-odessa.jpg
-imageText: Как быстро вывести человека из запоя
+imageText: Как быстро вывести из запоя без госпитализации
 ratingAvarage: 4.99/5
 rating: '2715'
 reviewType: alk-2
