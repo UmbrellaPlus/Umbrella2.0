@@ -1,11 +1,11 @@
 ---
 date: 2026-03-31T08:29:41.799Z
-lastmod: 2026-08-22T08:30:37.369Z
-tabTitle: Анонимный вывод из запоя Харьков | Umbrella Plus | От 2199 грн
-title: Анонимный вывод из запоя Харьков
+lastmod: 2026-08-22T08:41:01.647Z
+tabTitle: Анонимный вывод из запоя в Харькове | Umbrella Plus | От 2199 грн
+title: Анонимный вывод из запоя в Харькове
 description: Помощь без лишних вопросов
 image: /img/kharkov-new/narkolog-kharkiv.jpg
-imageText: Анонимный вывод из запоя Харьков
+imageText: Анонимный вывод из запоя в Харькове
 ratingAvarage: 4.99/5
 rating: '4232'
 reviewType: alk-2
