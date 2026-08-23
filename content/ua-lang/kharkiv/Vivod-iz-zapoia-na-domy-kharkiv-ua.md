@@ -1,6 +1,6 @@
 ---
 date: 2025-03-27T21:26:58.539Z
-lastmod: 2026-08-22T16:26:27.339Z
+lastmod: 2026-08-23T19:57:45.216Z
 tabTitle: Виведення із запою вдома Харків | Umbrella Plus | Від 2199 грн
 title: Виведення із запою вдома Харків
 description: Допомога при запої цілодобово
@@ -49,8 +49,8 @@ interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/oniminnya-pislya-a
 | Популярні послуги                                                                                           | Ціна         |
 | ----------------------------------------------------------------------------------------------------------- | ------------ |
 | **[Нарколог Харків](https://umbrella-plus.com.ua/uk/kharkiv/konsultacia-narkologa-kharkiv-ua/)**            | Від 1500 грн |
+| **[Лікування алкоголізму](https://umbrella-plus.com.ua/uk/kharkiv/lechenie-alkogolizma-kharkiv-ua/)**       | Від 2199 грн |
 | **[Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/kharkiv/kapelnica_ot_alkogola_kharkiv-ua/)**   | Від 2199 грн |
-| **[Виведення із запою вдома](https://umbrella-plus.com.ua/uk/kharkiv/vivod-iz-zapoia-na-domy-kharkiv-ua/)** | Від 2199 грн |
 | **[Кодування від алкоголізму](https://umbrella-plus.com.ua/uk/kharkiv/kodirovka-ot-alkogolia-kharkiv-ua/)** | Від 6000 грн |
 
 ## Від чого залежить ціна виведення із запою на дому
