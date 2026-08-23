@@ -1,6 +1,6 @@
 ---
 date: 2025-03-19T21:03:12.457Z
-lastmod: 2026-08-22T17:53:20.652Z
+lastmod: 2026-08-23T20:00:13.853Z
 tabTitle: Вывод из запоя Харьков | Umbrella Plus | От 2199 грн
 title: Вывод из запоя Харьков
 description: Первый шаг к трезвой жизни
@@ -81,7 +81,7 @@ interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-vyvesti-iz-zapoya
 | Популярные услуги                                                                                      | Цена        |
 | ------------------------------------------------------------------------------------------------------ | ----------- |
 | **[Нарколог Харьков](https://umbrella-plus.com.ua/kharkiv/konsultacia-narkologa-kharkiv/)**            | От 1500 грн |
-| **[Лечение алкоголизма](https://umbrella-plus.com.ua/kharkiv/lechenie-alkogolizma-kharkiv/)**          | От 2199 грн |
+| **[Капельница от алкоголя](https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_kharkiv/)**      | От 2199 грн |
 | **[Вывод из запоя на дому](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/)**    | От 2199 грн |
 | **[Кодирование от алкоголизма](https://umbrella-plus.com.ua/kharkiv/kodirovka-ot-alkogolia-kharkiv/)** | От 6000 грн |
 
