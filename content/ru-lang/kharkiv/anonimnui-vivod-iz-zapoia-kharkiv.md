@@ -1,6 +1,6 @@
 ---
 date: 2026-03-31T08:29:41.799Z
-lastmod: 2026-08-22T17:02:49.217Z
+lastmod: 2026-08-23T19:55:41.975Z
 tabTitle: Анонимный вывод из запоя в Харькове | Umbrella Plus | От 2199 грн
 title: Анонимный вывод из запоя в Харькове
 description: Помощь без лишних вопросов
@@ -77,7 +77,7 @@ interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-vyyti-iz-zapoya-b
 | Популярные услуги                                                                                      | Цена        |
 | ------------------------------------------------------------------------------------------------------ | ----------- |
 | **[Нарколог Харьков](https://umbrella-plus.com.ua/kharkiv/konsultacia-narkologa-kharkiv/)**            | От 1500 грн |
-| **[Лечение алкоголизма](https://umbrella-plus.com.ua/kharkiv/lechenie-alkogolizma-kharkiv/)**          | От 2199 грн |
+| **[Капельница от алкоголя](https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_kharkiv/)**      | От 2199 грн |
 | **[Вывод из запоя на дому](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/)**    | От 2199 грн |
 | **[Кодирование от алкоголизма](https://umbrella-plus.com.ua/kharkiv/kodirovka-ot-alkogolia-kharkiv/)** | От 6000 грн |
 
