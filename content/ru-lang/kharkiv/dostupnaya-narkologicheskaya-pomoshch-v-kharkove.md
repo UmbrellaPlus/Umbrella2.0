@@ -1,6 +1,6 @@
 ---
 date: 2026-06-24T09:06:43.719Z
-lastmod: 2026-08-22T18:46:11.696Z
+lastmod: 2026-08-23T19:54:05.387Z
 tabTitle: Доступная наркологическая помощь в Харькове | Umbrella Plus | От 2199 грн
 title: Доступная наркологическая помощь в Харькове
 description: Забота в сложный момент
@@ -73,7 +73,7 @@ interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kakoy-ukol-vyzyvaet-o
 | Популярные услуги                                                                                      | Цена        |
 | ------------------------------------------------------------------------------------------------------ | ----------- |
 | **[Нарколог Харьков](https://umbrella-plus.com.ua/kharkiv/konsultacia-narkologa-kharkiv/)**            | От 1500 грн |
-| **[Лечение алкоголизма](https://umbrella-plus.com.ua/kharkiv/lechenie-alkogolizma-kharkiv/)**          | От 2199 грн |
+| **[Капельница от алкоголя](https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_kharkiv/)**      | От 2199 грн |
 | **[Вывод из запоя на дому](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/)**    | От 2199 грн |
 | **[Кодирование от алкоголизма](https://umbrella-plus.com.ua/kharkiv/kodirovka-ot-alkogolia-kharkiv/)** | От 6000 грн |
 
