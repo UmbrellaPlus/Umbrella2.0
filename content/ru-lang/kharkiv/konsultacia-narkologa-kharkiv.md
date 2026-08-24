@@ -1,6 +1,6 @@
 ---
 date: 2026-02-10T21:06:39.794Z
-lastmod: 2026-08-24T20:10:46.830Z
+lastmod: 2026-08-24T20:18:22.205Z
 tabTitle: Консультация нарколога в Харькове | Umbrella Plus | От 1500 грн
 title: Консультация нарколога в Харькове
 description: Надёжная помощь без огласки
@@ -72,7 +72,7 @@ interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-brosit-kurit-navs
 
 | Популярные услуги                                                                                      | Цена        |
 | ------------------------------------------------------------------------------------------------------ | ----------- |
-| **[Лечение алкоголизма](https://umbrella-plus.com.ua/kharkiv/lechenie-alkogolizma-kharkiv/)**          | От 1500 грн |
+| **[Лечение алкоголизма](https://umbrella-plus.com.ua/kharkiv/lechenie-alkogolizma-kharkiv/)**          | От 2199 грн |
 | **[Капельница от алкоголя](https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_kharkiv/)**      | От 2199 грн |
 | **[Вывод из запоя на дому](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/)**    | От 2199 грн |
 | **[Кодирование от алкоголизма](https://umbrella-plus.com.ua/kharkiv/kodirovka-ot-alkogolia-kharkiv/)** | От 6000 грн |
