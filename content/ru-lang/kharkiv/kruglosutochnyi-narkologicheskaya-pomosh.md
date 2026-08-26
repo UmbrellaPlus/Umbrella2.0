@@ -1,13 +1,17 @@
 ---
-lastmod: 2026-08-26T18:56:29.159Z
+date: 2026-06-05T18:56:31.376Z
+lastmod: 2026-08-26T18:58:16.875Z
 tabTitle: Круглосуточная наркологическая помощь Харьков | Umbrella Plus | От 2199 грн
-title: Круглосуточная наркологическая помощь
+title: Круглосуточная наркологическая помощь Харьков
 description: Медицинская поддержка на дому и в стационаре
 image: /img/kharkov-new/kod.jpg
 imageText: Круглосуточная наркологическая помощь Харьков
 ratingAvarage: 4.99/5
 rating: '2716'
 reviewType: alk-2
+expert: olga
+interestingArticleName: 'Цирроз печени: причины, симптомы, стадии и лечение'
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/ciroz-pecheni/'
 ---
 
 ## Круглосуточная наркологическая помощь Харьков
@@ -81,6 +85,13 @@ reviewType: alk-2
 ## Сколько стоит круглосуточная наркологическая помощь в Харькове
 
 Стоимость наркологической помощи в Харькове начинается от 2199 грн.
+
+| Популярные услуги                                                                                      | Цена        |
+| ------------------------------------------------------------------------------------------------------ | ----------- |
+| **[Нарколог Харьков](https://umbrella-plus.com.ua/kharkiv/konsultacia-narkologa-kharkiv/)**            | От 1500 грн |
+| **[Капельница от алкоголя](https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_kharkiv/)**      | От 2199 грн |
+| **[Вывод из запоя на дому](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/)**    | От 2199 грн |
+| **[Кодирование от алкоголизма](https://umbrella-plus.com.ua/kharkiv/kodirovka-ot-alkogolia-kharkiv/)** | От 6000 грн |
 
 ## Лечение алкоголизма после детоксикации
 
