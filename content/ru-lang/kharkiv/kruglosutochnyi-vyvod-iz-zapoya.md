@@ -1,8 +1,8 @@
 ---
 date: 2026-06-05T19:20:55.669Z
-lastmod: 2026-08-26T19:24:23.469Z
+lastmod: 2026-08-26T19:24:47.505Z
 tabTitle: Круглосуточный вывод из запоя Харьков | Umbrella Plus | От 2199 грн
-title: Круглосуточный вывод из запоя
+title: Круглосуточный вывод из запоя Харьков
 description: 'Помощь тогда, когда она нужна'
 image: /img/kharkov-new/vivod-iz-zapoia-stacionar.jpg
 imageText: Круглосуточный вывод из запоя Харьков
