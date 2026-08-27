@@ -1,8 +1,8 @@
 ---
 date: 2026-07-07T20:34:37.139Z
-lastmod: 2026-08-27T16:24:16.943Z
+lastmod: 2026-08-27T16:24:37.671Z
 tabTitle: Наркологическая клиника в Харькове | Umbrella Plus | От 2199 грн
-title: Наркологическая клиника Харьков
+title: Наркологическая клиника в Харькове
 description: Лечение без осуждения и огласки
 image: /img/kharkov-new/lechenie-voenih-kharkiv.jpg
 imageText: Наркологическая клиника в Харькове
