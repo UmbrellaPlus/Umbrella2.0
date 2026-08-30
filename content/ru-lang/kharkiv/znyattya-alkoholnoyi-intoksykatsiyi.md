@@ -1,14 +1,15 @@
 ---
 date: 2026-06-27T08:12:09.105Z
-lastmod: 2026-08-30T18:43:08.824Z
-tabTitle: Снятие алкогольной интоксикации Харьков | Umbrella Plus | От 2199 грн
-title: Снятие алкогольной интоксикации Харьков
+lastmod: 2026-08-30T18:43:34.921Z
+tabTitle: Снятие алкогольной интоксикации в Харькове | Umbrella Plus | От 2199 грн
+title: Снятие алкогольной интоксикации в Харькове
 description: Анонимно и профессионально
 image: /img/kharkov-new/snatia-alkogol-intocsicacii.jpg
-imageText: Снятие алкогольной интоксикации Харьков
+imageText: Снятие алкогольной интоксикации в Харькове
 ratingAvarage: 4.99/5
 rating: '3612'
 reviewType: alk-2
+expert: stas
 interestingArticleName: Цирроз печени — от алкоголя
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/ciroz-pecheni/'
 ---
