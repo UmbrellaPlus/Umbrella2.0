@@ -1,11 +1,11 @@
 ---
 date: 2026-06-29T16:35:40.028Z
-lastmod: 2026-08-30T18:02:08.983Z
-tabTitle: Вывод из запоя с выездом на дом цена в Харькове | Umbrella Plus | От 2199 грн
-title: Вывод из запоя с выездом на дом цена в Харькове
+lastmod: 2026-08-30T18:33:33.971Z
+tabTitle: Вывод из запоя с выездом на дом — цена в Харькове | Umbrella Plus | От 2199 грн
+title: Вывод из запоя с выездом на дом — цена в Харькове
 description: Помощь нарколога без лишнего стресса
 image: /img/Odessa-new/otkapatca-ot-alkogolia.jpg
-imageText: Вывод из запоя с выездом на дом цена в Харькове
+imageText: Вывод из запоя с выездом на дом — цена в Харькове
 ratingAvarage: 4.99/5
 rating: '1845'
 reviewType: alk-1
@@ -57,6 +57,13 @@ interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-brosit-kurit-navs
 ## Сколько стоит вывод из запоя с выездом на дом в Харькове
 
 Стоимость вывода из запоя с выездом на дом в Харькове начинается от 2199 грн
+
+| Популярные услуги                                                                                      | Цена        |
+| ------------------------------------------------------------------------------------------------------ | ----------- |
+| **[Нарколог Харьков](https://umbrella-plus.com.ua/kharkiv/konsultacia-narkologa-kharkiv/)**            | От 1500 грн |
+| **[Капельница от алкоголя](https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_kharkiv/)**      | От 2199 грн |
+| **[Вывод из запоя на дому](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/)**    | От 2199 грн |
+| **[Кодирование от алкоголизма](https://umbrella-plus.com.ua/kharkiv/kodirovka-ot-alkogolia-kharkiv/)** | От 6000 грн |
 
 ## От чего зависит цена вывода из запоя на дому
 
