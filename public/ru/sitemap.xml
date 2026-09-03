@@ -2,2239 +2,2341 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://umbrella-plus.com.ua/</loc>
-    <lastmod>2026-07-26T10:07:18+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-09-03T08:16:51+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/"
+                href="http://localhost:1313/uk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/dragsy-chto-eto/</loc>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2026-09-01T07:37:46+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/uk/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="http://localhost:1313/blog/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/mozhno-li-umeret-ot-pyanki/</loc>
+    <lastmod>2026-09-01T07:37:46+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kharkiv/</loc>
+    <lastmod>2026-09-03T08:16:51+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/uk/kharkiv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="http://localhost:1313/kharkiv/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/kharkiv/lechenie-zapoynogo-alkogolizma-harkov/</loc>
+    <lastmod>2026-09-03T08:16:51+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kiev/kapelnica-ot-pohmelya-kiev/</loc>
+    <lastmod>2026-08-31T18:28:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kiev/</loc>
+    <lastmod>2026-08-31T18:28:23+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/uk/kiev/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="http://localhost:1313/kiev/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/kiev/vivod-iz-zapoia-na-domu-cena-kiev/</loc>
+    <lastmod>2026-08-27T16:46:08+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kiev/narkologicheskaya-klinika-kiev/</loc>
+    <lastmod>2026-08-26T18:28:53+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kharkiv/lechenie-pishchevogo-otravleniya/</loc>
+    <lastmod>2026-08-25T19:28:47+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cherkasy/kapelnica-ot-otravleniya/</loc>
+    <lastmod>2026-08-03T06:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cherkasy/</loc>
+    <lastmod>2026-08-03T06:42:15+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/uk/cherkasy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-UA"
+                href="http://localhost:1313/cherkasy/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/cherkasy/lechenie-pishchevogo-otravleniya/</loc>
+    <lastmod>2026-08-03T06:14:14+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cherkasy/kapelnica-pri-diaree/</loc>
+    <lastmod>2026-08-02T21:08:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cherkasy/detoksikaciya-ot-alkogolya/</loc>
+    <lastmod>2026-08-02T19:14:46+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cherkasy/vyvedenie-iz-zapoya-bez-postanovki-na-uchet/</loc>
+    <lastmod>2026-08-01T20:30:20+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cherkasy/bystryy-i-nedorogoy-vyvod-iz-zapoya/</loc>
+    <lastmod>2026-08-01T19:32:49+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cherkasy/snyatie-alkogolnoy-intoksikatsii/</loc>
+    <lastmod>2026-08-01T18:49:19+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cherkasy/kak-vyvesti-cheloveka-iz-zapoya-forum/</loc>
+    <lastmod>2026-07-30T10:10:13+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cherkasy/ambulatornyy-vyvod-iz-zapoya/</loc>
+    <lastmod>2026-07-29T19:58:13+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cherkasy/pomoshch-narkologa-pri-zapoe/</loc>
+    <lastmod>2026-07-29T20:50:10+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/dragsy-chto-eto/</loc>
     <lastmod>2026-07-18T16:50:06+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/</loc>
-    <lastmod>2026-07-19T18:47:07+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/blog/"
-                />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/kak-vyvesti-iz-zapoya-bez-kapelnitsy/</loc>
+    <loc>http://localhost:1313/blog/kak-vyvesti-iz-zapoya-bez-kapelnitsy/</loc>
     <lastmod>2026-07-18T16:54:20+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kak-kodiruyut-lyudey-ot-alkogolizma/</loc>
-    <lastmod>2026-07-14T13:27:32+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/kak-kodiruyut-lyudey-ot-alkogolizma/</loc>
+    <lastmod>2026-08-20T15:40:05+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/</loc>
-    <lastmod>2026-07-24T20:03:44+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/</loc>
+    <lastmod>2026-08-29T08:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/kak-bystro-vyvesti-cheloveka-iz-zapoya-v-cherkassakh/</loc>
+    <loc>http://localhost:1313/cherkasy/kak-bystro-vyvesti-cheloveka-iz-zapoya-v-cherkassakh/</loc>
     <lastmod>2026-07-14T20:19:44+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/</loc>
-    <lastmod>2026-07-26T10:07:18+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/cherkasy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/cherkasy/"
-                />
+    <loc>http://localhost:1313/odessa/pomoshch-narkologa-pri-zapoe-kruglosutochno/</loc>
+    <lastmod>2026-07-31T15:40:01+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/pomoshch-narkologa-pri-zapoe-kruglosutochno/</loc>
-    <lastmod>2026-07-12T19:06:16+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/spravka-o-kodirovanii-ot-alkogolizma/</loc>
+    <lastmod>2026-08-03T20:18:34+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/spravka-o-kodirovanii-ot-alkogolizma/</loc>
-    <lastmod>2026-07-13T18:03:54+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/kak-bystro-vyvesti-cheloveka-iz-zapoya-v-odesse/</loc>
+    <lastmod>2026-08-20T15:28:11+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kak-bystro-vyvesti-cheloveka-iz-zapoya-v-odesse/</loc>
-    <lastmod>2026-07-14T13:22:53+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/raskodirovatsya-ot-alkogolizma/</loc>
+    <lastmod>2026-08-01T15:16:23+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/raskodirovatsya-ot-alkogolizma/</loc>
-    <lastmod>2026-07-13T17:14:47+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/implantatsiya-kapsuly-esperal/</loc>
+    <lastmod>2026-08-20T15:35:53+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/implantatsiya-kapsuly-esperal/</loc>
-    <lastmod>2026-07-14T13:20:45+00:00</lastmod>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/lekarstvo-vyzyvayushchee-otvrashchenie-k-alkogolyu/</loc>
+    <loc>http://localhost:1313/blog/lekarstvo-vyzyvayushchee-otvrashchenie-k-alkogolyu/</loc>
     <lastmod>2026-07-18T16:58:17+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/psihofarmakologicheskoe-kodirovanie-ot-alkogolizma/</loc>
-    <lastmod>2026-07-11T15:47:32+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/psihofarmakologicheskoe-kodirovanie-ot-alkogolizma/</loc>
+    <lastmod>2026-07-31T17:42:06+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-tetlong/</loc>
+    <loc>http://localhost:1313/odessa/kodirovanie-ot-alkogolizma-tetlong/</loc>
     <lastmod>2026-07-20T13:23:08+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-avtorskim-metodom/</loc>
+    <loc>http://localhost:1313/odessa/kodirovanie-ot-alkogolizma-avtorskim-metodom/</loc>
     <lastmod>2026-07-19T17:33:01+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-lazerom/</loc>
+    <loc>http://localhost:1313/odessa/kodirovanie-ot-alkogolizma-lazerom/</loc>
     <lastmod>2026-07-20T13:34:27+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/onemenie-posle-alkogolya/</loc>
+    <loc>http://localhost:1313/blog/onemenie-posle-alkogolya/</loc>
     <lastmod>2026-07-18T17:01:23+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/prinuditelnoe-lechenie-alkogolizma/</loc>
-    <lastmod>2026-07-10T07:23:09+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/prinuditelnoe-lechenie-alkogolizma/</loc>
+    <lastmod>2026-07-31T15:53:54+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/ukol-ot-alkogolizma-v-cherkassah/</loc>
-    <lastmod>2026-07-09T20:18:29+00:00</lastmod>
+    <loc>http://localhost:1313/cherkasy/ukol-ot-alkogolizma-v-cherkassah/</loc>
+    <lastmod>2026-07-27T10:06:35+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/prokapatsya-ot-alkogolya/</loc>
+    <loc>http://localhost:1313/cherkasy/prokapatsya-ot-alkogolya/</loc>
     <lastmod>2026-07-23T19:15:04+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/kapelnitsa-ot-pohmelya-cherkassy/</loc>
+    <loc>http://localhost:1313/cherkasy/kapelnitsa-ot-pohmelya-cherkassy/</loc>
     <lastmod>2026-07-17T06:56:13+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/kapelnitsa-ot-zapoya/</loc>
+    <loc>http://localhost:1313/cherkasy/kapelnitsa-ot-zapoya/</loc>
     <lastmod>2026-07-15T18:02:47+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/anonimnyj-vyvod-iz-zapoya/</loc>
-    <lastmod>2026-07-14T20:08:10+00:00</lastmod>
+    <loc>http://localhost:1313/cherkasy/anonimnyj-vyvod-iz-zapoya/</loc>
+    <lastmod>2026-08-01T09:39:49+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/srochnyj-vyvod-iz-zapoya/</loc>
-    <lastmod>2026-07-09T20:11:28+00:00</lastmod>
+    <loc>http://localhost:1313/cherkasy/srochnyj-vyvod-iz-zapoya/</loc>
+    <lastmod>2026-07-28T09:08:13+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/dostupnaya-narkologicheskaya-pomoshch/</loc>
+    <loc>http://localhost:1313/cherkasy/dostupnaya-narkologicheskaya-pomoshch/</loc>
     <lastmod>2026-07-14T20:14:19+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/kruglosutochnaya-narkologicheskaya-pomoshh/</loc>
+    <loc>http://localhost:1313/cherkasy/kruglosutochnaya-narkologicheskaya-pomoshh/</loc>
     <lastmod>2026-07-19T15:59:59+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/srochnaya-narkologicheskaya-pomoshh/</loc>
-    <lastmod>2026-07-26T10:07:18+00:00</lastmod>
+    <loc>http://localhost:1313/cherkasy/srochnaya-narkologicheskaya-pomoshh/</loc>
+    <lastmod>2026-07-30T13:52:52+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/skoraya-narkologicheskaya-pomoshh/</loc>
+    <loc>http://localhost:1313/cherkasy/skoraya-narkologicheskaya-pomoshh/</loc>
     <lastmod>2026-07-22T15:47:32+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/kodirovanie-ukolom-disulfiram/</loc>
+    <loc>http://localhost:1313/cherkasy/kodirovanie-ukolom-disulfiram/</loc>
     <lastmod>2026-07-15T18:15:24+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/vyvod-iz-zapoya-s-vyezdom-na-dom-czena/</loc>
-    <lastmod>2026-07-09T20:00:05+00:00</lastmod>
+    <loc>http://localhost:1313/cherkasy/vyvod-iz-zapoya-s-vyezdom-na-dom-czena/</loc>
+    <lastmod>2026-07-28T20:39:08+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/kruglosutochnyi-vyvod-iz-zapoya-cherkassy/</loc>
+    <loc>http://localhost:1313/cherkasy/kruglosutochnyi-vyvod-iz-zapoya-cherkassy/</loc>
     <lastmod>2026-07-19T19:42:17+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolya-ukolom-v-tri-etapa/</loc>
+    <loc>http://localhost:1313/odessa/kodirovanie-ot-alkogolya-ukolom-v-tri-etapa/</loc>
     <lastmod>2026-07-22T09:58:17+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-v-tri-etapa/</loc>
+    <loc>http://localhost:1313/odessa/kodirovanie-ot-alkogolizma-v-tri-etapa/</loc>
     <lastmod>2026-07-22T09:53:08+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/snyatie-narkoticheskoy-lomki/</loc>
+    <loc>http://localhost:1313/odessa/snyatie-narkoticheskoy-lomki/</loc>
     <lastmod>2026-07-08T10:38:12+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/vyvedenie-iz-zapoya-nedorogo-peresypskiy-rayon/</loc>
-    <lastmod>2026-07-08T09:08:47+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/vyvedenie-iz-zapoya-nedorogo-peresypskiy-rayon/</loc>
+    <lastmod>2026-08-13T16:26:36+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/</loc>
-    <lastmod>2026-07-07T21:10:52+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/kharkiv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/kharkiv/"
-                />
+    <loc>http://localhost:1313/kharkiv/narkologicheskaya-klinika-v-kharkove/</loc>
+    <lastmod>2026-08-29T09:14:13+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/narkologicheskaya-klinika-v-kharkove/</loc>
-    <lastmod>2026-07-07T21:10:52+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/vyvedenie-iz-zapoya-kievskiy-rayon/</loc>
+    <lastmod>2026-08-12T17:25:15+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/vyvedenie-iz-zapoya-kievskiy-rayon/</loc>
-    <lastmod>2026-07-09T09:46:09+00:00</lastmod>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kapelnitsa-ot-fentanila/</loc>
+    <loc>http://localhost:1313/odessa/kapelnitsa-ot-fentanila/</loc>
     <lastmod>2026-07-07T19:14:55+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/vyvod-iz-zapoya-dlya-voennyh/</loc>
-    <lastmod>2026-07-06T16:45:36+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/vyvod-iz-zapoya-dlya-voennyh/</loc>
+    <lastmod>2026-08-13T18:29:37+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/ambulatornyy-vyvod-iz-zapoya/</loc>
-    <lastmod>2026-07-06T16:09:34+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/ambulatornyy-vyvod-iz-zapoya/</loc>
+    <lastmod>2026-08-15T20:08:03+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kapelnica-ot-zapoia-odessa/</loc>
+    <loc>http://localhost:1313/odessa/kapelnica-ot-zapoia-odessa/</loc>
     <lastmod>2026-07-19T15:46:40+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/test-na-narkotiki-od/</loc>
+    <loc>http://localhost:1313/odessa/test-na-narkotiki-od/</loc>
     <lastmod>2026-07-04T20:12:09+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kapelnitsa-ot-mefedrona/</loc>
+    <loc>http://localhost:1313/odessa/kapelnitsa-ot-mefedrona/</loc>
     <lastmod>2026-07-19T16:00:24+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/vyvod-iz-zapoya-s-vyezdom-na-dom-malinovskiy-rayon/</loc>
-    <lastmod>2026-07-04T17:19:23+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/vyvod-iz-zapoya-s-vyezdom-na-dom-malinovskiy-rayon/</loc>
+    <lastmod>2026-08-13T20:47:52+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/pochemu-nelzya-opohmelyatsya-posle-alkogolya/</loc>
+    <loc>http://localhost:1313/blog/pochemu-nelzya-opohmelyatsya-posle-alkogolya/</loc>
     <lastmod>2026-07-18T17:09:40+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/kapelnicza-ot-otravleniya/</loc>
-    <lastmod>2026-07-03T17:25:15+00:00</lastmod>
+    <loc>http://localhost:1313/kharkiv/kapelnicza-ot-otravleniya/</loc>
+    <lastmod>2026-08-25T19:54:06+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/dezintoksikaczionnaya-kapelnicza/</loc>
-    <lastmod>2026-07-03T15:39:44+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/dezintoksikaczionnaya-kapelnicza/</loc>
+    <lastmod>2026-08-16T19:57:38+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kapelnica-ot-metadona-od/</loc>
+    <loc>http://localhost:1313/odessa/kapelnica-ot-metadona-od/</loc>
     <lastmod>2026-07-17T11:43:42+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kapelnicza-posle-marihuany/</loc>
+    <loc>http://localhost:1313/odessa/kapelnicza-posle-marihuany/</loc>
     <lastmod>2026-07-03T11:39:22+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/bystryj-i-nedorogoj-vyvod-iz-zapoya/</loc>
-    <lastmod>2026-07-22T17:21:07+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/bystryj-i-nedorogoj-vyvod-iz-zapoya/</loc>
+    <lastmod>2026-08-15T20:21:52+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/vyvod-iz-zapoya-dlya-voennyh/</loc>
-    <lastmod>2026-07-02T15:44:14+00:00</lastmod>
+    <loc>http://localhost:1313/kharkiv/vyvod-iz-zapoya-dlya-voennyh/</loc>
+    <lastmod>2026-08-31T07:02:50+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chuguev/kodirovka-ot-alkogolia-chygyev/</loc>
+    <loc>http://localhost:1313/chuguev/kodirovka-ot-alkogolia-chygyev/</loc>
     <lastmod>2026-07-02T14:51:56+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chuguev/</loc>
+    <loc>http://localhost:1313/chuguev/</loc>
     <lastmod>2026-07-04T15:25:50+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/chuguev/"
+                href="http://localhost:1313/uk/chuguev/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/chuguev/"
+                href="http://localhost:1313/chuguev/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-akvilong/</loc>
+    <loc>http://localhost:1313/odessa/kodirovanie-ot-alkogolizma-akvilong/</loc>
     <lastmod>2026-07-19T16:09:34+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/dostupnaya-narkologicheskaya-pomoshch/</loc>
-    <lastmod>2026-07-14T12:23:58+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/dostupnaya-narkologicheskaya-pomoshch/</loc>
+    <lastmod>2026-08-16T19:52:24+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/vyvod-iz-zapoya-v-primorskom-rayone/</loc>
-    <lastmod>2026-07-02T11:21:51+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/vyvod-iz-zapoya-v-primorskom-rayone/</loc>
+    <lastmod>2026-08-13T19:37:28+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/vliyanie-marihuany-na-organizm-cheloveka/</loc>
+    <loc>http://localhost:1313/blog/vliyanie-marihuany-na-organizm-cheloveka/</loc>
     <lastmod>2026-07-18T17:13:43+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/pivnoj-alkogolizm-opasnost-i-posledstviya/</loc>
+    <loc>http://localhost:1313/blog/pivnoj-alkogolizm-opasnost-i-posledstviya/</loc>
     <lastmod>2026-07-18T17:16:59+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/vyvedenie-iz-zapoya/</loc>
-    <lastmod>2026-07-01T15:09:57+00:00</lastmod>
+    <loc>http://localhost:1313/kharkiv/vyvedenie-iz-zapoya/</loc>
+    <lastmod>2026-08-30T18:47:10+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chuguev/kapelnica-ot-otravlenia-chygyev/</loc>
+    <loc>http://localhost:1313/chuguev/kapelnica-ot-otravlenia-chygyev/</loc>
     <lastmod>2026-07-01T13:17:08+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/realnyj-opyt-kodirovaniya-ot-alkogolizma/</loc>
-    <lastmod>2026-07-01T12:44:10+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/realnyj-opyt-kodirovaniya-ot-alkogolizma/</loc>
+    <lastmod>2026-08-03T15:23:46+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/vyvod-iz-zapoya-na-domu-poselok-kotovskogo/</loc>
-    <lastmod>2026-07-01T10:13:03+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/vyvod-iz-zapoya-na-domu-poselok-kotovskogo/</loc>
+    <lastmod>2026-08-13T19:34:18+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/vivod-iz-zapoia-tairova/</loc>
-    <lastmod>2026-07-01T08:51:49+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/vivod-iz-zapoia-tairova/</loc>
+    <lastmod>2026-08-12T20:00:42+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/oteki-ot-piva/</loc>
+    <loc>http://localhost:1313/blog/oteki-ot-piva/</loc>
     <lastmod>2026-07-18T17:27:19+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chuguev/kapelnica-ot-narkotikiv-chygyev/</loc>
+    <loc>http://localhost:1313/chuguev/kapelnica-ot-narkotikiv-chygyev/</loc>
     <lastmod>2026-06-29T19:07:33+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/vyvod-iz-zapoya-s-vyezdom-na-dom-cena/</loc>
-    <lastmod>2026-06-29T17:05:29+00:00</lastmod>
+    <loc>http://localhost:1313/kharkiv/vyvod-iz-zapoya-s-vyezdom-na-dom-cena/</loc>
+    <lastmod>2026-08-31T11:32:16+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/pomoshh-narkologa-pri-zapoe/</loc>
-    <lastmod>2026-06-29T15:11:46+00:00</lastmod>
+    <loc>http://localhost:1313/kharkiv/pomoshh-narkologa-pri-zapoe/</loc>
+    <lastmod>2026-08-29T19:17:45+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/kak-prohodit-vyvod-iz-zapoya/</loc>
-    <lastmod>2026-06-29T19:43:40+00:00</lastmod>
+    <loc>http://localhost:1313/kharkiv/kak-prohodit-vyvod-iz-zapoya/</loc>
+    <lastmod>2026-08-23T18:33:36+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/kodirovanie-ot-alkogolizma-lazerom-kh/</loc>
+    <loc>http://localhost:1313/kharkiv/kodirovanie-ot-alkogolizma-lazerom-kh/</loc>
     <lastmod>2026-06-27T09:36:59+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/znyattya-alkoholnoyi-intoksykatsiyi/</loc>
-    <lastmod>2026-06-27T08:39:50+00:00</lastmod>
+    <loc>http://localhost:1313/kharkiv/znyattya-alkoholnoyi-intoksykatsiyi/</loc>
+    <lastmod>2026-08-31T11:25:31+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/kharkiv/znyattya-alkoholnoyi-intoksykatsiyi/"
+                href="http://localhost:1313/uk/kharkiv/znyattya-alkoholnoyi-intoksykatsiyi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/kharkiv/znyattya-alkoholnoyi-intoksykatsiyi/"
+                href="http://localhost:1313/kharkiv/znyattya-alkoholnoyi-intoksykatsiyi/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/kapelnitsa-ot-pohmelya/</loc>
-    <lastmod>2026-06-27T07:42:54+00:00</lastmod>
+    <loc>http://localhost:1313/kharkiv/kapelnitsa-ot-pohmelya/</loc>
+    <lastmod>2026-08-26T13:31:48+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/kharkiv/kapelnitsa-ot-pohmelya/"
+                href="http://localhost:1313/uk/kharkiv/kapelnitsa-ot-pohmelya/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/kharkiv/kapelnitsa-ot-pohmelya/"
+                href="http://localhost:1313/kharkiv/kapelnitsa-ot-pohmelya/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/otkapat-ot-alkogolya-odessa/</loc>
-    <lastmod>2026-07-08T10:11:17+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/otkapat-ot-alkogolya-odessa/</loc>
+    <lastmod>2026-07-29T20:01:37+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kapelnica-ot-pohmelya/</loc>
+    <loc>http://localhost:1313/kharkiv/otkapyvanie-ot-alkogolya-na-domu/</loc>
+    <lastmod>2026-08-29T18:21:37+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/kapelnica-ot-pohmelya/</loc>
     <lastmod>2026-07-22T17:17:19+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chuguev/kapelnica-ot-alkogolia-na-domy-chygyev/</loc>
+    <loc>http://localhost:1313/chuguev/kapelnica-ot-alkogolia-na-domy-chygyev/</loc>
     <lastmod>2026-06-26T13:51:59+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/zakodirovatsya-ot-alkogolizma/</loc>
-    <lastmod>2026-06-26T08:04:50+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/zakodirovatsya-ot-alkogolizma/</loc>
+    <lastmod>2026-08-15T20:02:45+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chuguev/vivod-iz-zapoia-na-domy-chygyev/</loc>
+    <loc>http://localhost:1313/chuguev/vivod-iz-zapoia-na-domy-chygyev/</loc>
     <lastmod>2026-06-26T08:02:39+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-ukolom-vivitrol/</loc>
+    <loc>http://localhost:1313/odessa/snyatie-alkogolnoy-intoksikacii-v-odesse/</loc>
+    <lastmod>2026-08-03T20:05:48+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/lechenie-pishchevogo-otravleniya/</loc>
+    <lastmod>2026-07-28T19:54:37+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/vyvedenie-iz-zapoya-bez-postanovki-na-uchet/</loc>
+    <lastmod>2026-08-12T19:54:38+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kharkiv/dostupnaya-narkologicheskaya-pomoshch-v-kharkove/</loc>
+    <lastmod>2026-08-23T19:54:05+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/spravka-o-trezvosti/</loc>
+    <lastmod>2026-08-04T17:07:52+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/kodirovanie-ot-alkogolizma-ukolom-vivitrol/</loc>
     <lastmod>2026-07-20T13:20:52+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kapelnitsa-pri-diaree/</loc>
+    <loc>http://localhost:1313/odessa/kapelnitsa-pri-diaree/</loc>
     <lastmod>2026-07-19T16:04:54+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/kak-ochistitsya-ot-narkotikov-rabochie-sovety/</loc>
-    <lastmod>2026-07-19T18:47:07+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/ukol-ot-alkogolizma/</loc>
+    <lastmod>2026-08-04T21:13:31+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/kak-vyyti-iz-zapoya-bez-vracha/</loc>
+    <loc>http://localhost:1313/kharkiv/skoraia-nark-pomosh-kharkiv/</loc>
+    <lastmod>2026-08-29T20:09:21+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/prokapatsya-ot-alkogolya/</loc>
+    <lastmod>2026-07-31T16:13:43+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/kak-ochistitsya-ot-narkotikov-rabochie-sovety/</loc>
+    <lastmod>2026-07-28T20:47:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/kak-vyyti-iz-zapoya-bez-vracha/</loc>
     <lastmod>2026-06-16T20:33:24+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/agressiya-posle-upotrebleniya-alkogolya/</loc>
-    <lastmod>2026-06-14T20:08:59+00:00</lastmod>
+    <loc>http://localhost:1313/blog/agressiya-posle-upotrebleniya-alkogolya/</loc>
+    <lastmod>2026-08-29T08:04:31+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/kakoy-ukol-vyzyvaet-otvrashchenie-k-alkogolyu/</loc>
+    <loc>http://localhost:1313/cherkasy/vyvod-iz-zapoya-v-statsionare-cherkassy/</loc>
+    <lastmod>2026-07-29T21:08:59+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/kakoy-ukol-vyzyvaet-otvrashchenie-k-alkogolyu/</loc>
     <lastmod>2026-06-13T20:22:36+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/narkologicheskiy-statsionar-cherkassy/</loc>
+    <loc>http://localhost:1313/cherkasy/narkologicheskiy-statsionar-cherkassy/</loc>
     <lastmod>2026-07-22T14:00:08+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/chernaya-rvota-posle-alkogolya/</loc>
+    <loc>http://localhost:1313/kharkiv/lechenie-alkogolizma-u-voennyh/</loc>
+    <lastmod>2026-08-29T07:46:28+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/spravka-psihiatra-narkologa/</loc>
+    <lastmod>2026-08-04T18:16:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/chernaya-rvota-posle-alkogolya/</loc>
     <lastmod>2026-06-12T18:56:01+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chornomorsk/kapelnica-ot-narkotikov-chernomorsk/</loc>
+    <loc>http://localhost:1313/chornomorsk/kapelnica-ot-narkotikov-chernomorsk/</loc>
     <lastmod>2026-07-01T20:14:44+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chornomorsk/</loc>
+    <loc>http://localhost:1313/chornomorsk/</loc>
     <lastmod>2026-07-01T20:33:12+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/chornomorsk/"
+                href="http://localhost:1313/uk/chornomorsk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/chornomorsk/"
+                href="http://localhost:1313/chornomorsk/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/korsakivskyi-syndrom/</loc>
+    <loc>http://localhost:1313/blog/korsakivskyi-syndrom/</loc>
     <lastmod>2026-06-11T18:55:01+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/kak-brosit-kurit-navsegda/</loc>
+    <loc>http://localhost:1313/odessa/narkologicheskii-stacionar-odessa/</loc>
+    <lastmod>2026-07-29T18:33:37+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/kak-brosit-kurit-navsegda/</loc>
     <lastmod>2026-06-10T10:48:43+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kak-vivesti-iz-zapoia-forum/</loc>
-    <lastmod>2026-07-15T14:05:07+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/kak-vivesti-iz-zapoia-forum/</loc>
+    <lastmod>2026-08-20T15:16:33+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/detox-ot-pregabalinov-odesa/</loc>
+    <loc>http://localhost:1313/kharkiv/kapelnica-ot-zapoia-kharkiv/</loc>
+    <lastmod>2026-08-25T17:49:31+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kharkiv/kruglosutochnyi-vyvod-iz-zapoya/</loc>
+    <lastmod>2026-08-27T12:53:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kharkiv/kruglosutochnyi-narkologicheskaya-pomosh/</loc>
+    <lastmod>2026-08-27T11:03:47+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/vivod-iz-zapoia-kruglosytochno/</loc>
+    <lastmod>2026-08-07T19:36:02+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/kruglosutochnaya-narkologicheskaya-pomosh-odessa/</loc>
+    <lastmod>2026-07-28T07:51:42+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/detox-ot-pregabalinov-odesa/</loc>
     <lastmod>2026-07-18T16:07:02+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/ciroz-pecheni/</loc>
+    <loc>http://localhost:1313/blog/ciroz-pecheni/</loc>
     <lastmod>2026-05-03T17:15:53+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chuguev/kodirovka-ot-alkogolizma-disulfiram-chygyev/</loc>
+    <loc>http://localhost:1313/chuguev/kodirovka-ot-alkogolizma-disulfiram-chygyev/</loc>
     <lastmod>2026-07-03T16:42:26+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/steatoz-pecheni/</loc>
+    <loc>http://localhost:1313/blog/steatoz-pecheni/</loc>
     <lastmod>2026-05-02T17:35:10+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/fibroz-pecheni/</loc>
+    <loc>http://localhost:1313/blog/fibroz-pecheni/</loc>
     <lastmod>2026-05-02T08:35:28+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/psihoterapia-pri-alkogolizme/</loc>
+    <loc>http://localhost:1313/blog/psihoterapia-pri-alkogolizme/</loc>
     <lastmod>2026-04-28T20:11:55+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/shadow-blog/</loc>
+    <loc>http://localhost:1313/shadow-blog/</loc>
     <lastmod>2026-04-25T18:22:36+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/shadow-blog/"
+                href="http://localhost:1313/uk/shadow-blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/shadow-blog/"
+                href="http://localhost:1313/shadow-blog/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/shadow-blog/iantarna-kislota-betargin-enterosgel-pri-intoksicacii/</loc>
+    <loc>http://localhost:1313/shadow-blog/iantarna-kislota-betargin-enterosgel-pri-intoksicacii/</loc>
     <lastmod>2026-04-25T18:22:36+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/shadow-blog/paracetamol-i-alkogol/</loc>
+    <loc>http://localhost:1313/shadow-blog/paracetamol-i-alkogol/</loc>
     <lastmod>2026-04-21T12:51:51+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/shadow-blog/slabost-posle-alkogolia/</loc>
+    <loc>http://localhost:1313/shadow-blog/slabost-posle-alkogolia/</loc>
     <lastmod>2026-04-18T18:25:21+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/shadow-blog/vodka-i-alkogol/</loc>
+    <loc>http://localhost:1313/shadow-blog/vodka-i-alkogol/</loc>
     <lastmod>2026-04-17T13:53:02+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kapelnica-ot-pichevogo-otravlenia-belgorod-dnestrovsk/</loc>
-    <lastmod>2026-07-18T15:09:12+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/skoraia-nark-pomosh-belgorod-dnestrovsk/</loc>
+    <lastmod>2026-08-02T20:34:11+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kodirovka-ot-alkogolia-disulfiram-belgorod-dnestrovsk/</loc>
+    <loc>http://localhost:1313/odessa/podshivka-ot-alkogolizma-belgorod-dnestrovsk/</loc>
+    <lastmod>2026-07-30T15:47:41+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/kapelnica-ot-pichevogo-otravlenia-belgorod-dnestrovsk/</loc>
+    <lastmod>2026-08-29T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/kodirovka-ot-alkogolia-disulfiram-belgorod-dnestrovsk/</loc>
     <lastmod>2026-07-22T17:51:03+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kapelnica-ot-alkogolia-na-domy-belgorod-dnestrovsk-ua/</loc>
-    <lastmod>2026-07-17T08:30:43+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/vivod-iz-zapoia-belgorod-dnestrovsk/</loc>
+    <lastmod>2026-08-07T19:19:26+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/alkogolna-encefalopatia/</loc>
+    <loc>http://localhost:1313/odessa/kapelnica-ot-alkogolia-na-domy-belgorod-dnestrovsk-ua/</loc>
+    <lastmod>2026-08-22T20:43:21+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/alkogolna-encefalopatia/</loc>
     <lastmod>2026-04-12T09:40:28+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/kak-bistro-izbavitsa-ot-pohmelia/</loc>
+    <loc>http://localhost:1313/blog/kak-bistro-izbavitsa-ot-pohmelia/</loc>
     <lastmod>2026-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/provali-v-pamati-posle-alkogolia/</loc>
+    <loc>http://localhost:1313/odessa/narkolog-v-belgorod-dnestrovske/</loc>
+    <lastmod>2026-07-29T18:03:25+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/provali-v-pamati-posle-alkogolia/</loc>
     <lastmod>2026-04-08T20:38:46+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chuguev/konsultacia-narkolog-chygyev/</loc>
+    <loc>http://localhost:1313/chuguev/konsultacia-narkolog-chygyev/</loc>
     <lastmod>2026-07-04T15:25:50+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/tremor-posle-alkogolia/</loc>
+    <loc>http://localhost:1313/blog/tremor-posle-alkogolia/</loc>
     <lastmod>2026-04-08T12:30:37+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/-sociofobia-chto-eto/</loc>
+    <loc>http://localhost:1313/blog/-sociofobia-chto-eto/</loc>
     <lastmod>2026-04-08T09:40:15+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kapelnica-ot-otravlenia-odessa/</loc>
+    <loc>http://localhost:1313/odessa/lechenie-alkogolizna-belgorod-dnestorvsk/</loc>
+    <lastmod>2026-07-28T19:48:40+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/vivod-iz-zapoia-na-domy-odessa-stoimost/</loc>
+    <lastmod>2026-08-07T19:05:09+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/kapelnica-ot-otravlenia-odessa/</loc>
     <lastmod>2026-07-20T13:42:23+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/betargin-i-alkogol/</loc>
+    <loc>http://localhost:1313/odessa/vivod-iz-zapoia-na-domy-belgorod-dnestrovsk/</loc>
+    <lastmod>2026-08-07T19:52:27+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/betargin-i-alkogol/</loc>
     <lastmod>2026-04-04T19:40:19+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/sozavisimost-v-detaliah/</loc>
+    <loc>http://localhost:1313/blog/sozavisimost-v-detaliah/</loc>
     <lastmod>2026-04-04T13:48:54+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/kak-formiruetsa-nark-zavisimost/</loc>
+    <loc>http://localhost:1313/blog/kak-formiruetsa-nark-zavisimost/</loc>
     <lastmod>2026-04-03T19:45:47+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kodirovka-ot-alkogolizma-belgorod-dnestrovsk/</loc>
+    <loc>http://localhost:1313/odessa/kodirovka-ot-alkogolizma-belgorod-dnestrovsk/</loc>
     <lastmod>2026-07-24T10:43:50+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kapelnica-ot-alkogolia-belgorod-dnestrovsk/</loc>
-    <lastmod>2026-07-15T15:10:21+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/kapelnica-ot-alkogolia-belgorod-dnestrovsk/</loc>
+    <lastmod>2026-08-22T20:45:36+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/pochemy-bolit-golova-posle-alkogolia/</loc>
+    <loc>http://localhost:1313/blog/pochemy-bolit-golova-posle-alkogolia/</loc>
     <lastmod>2026-04-03T09:47:58+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/pivo-i-oteki/</loc>
+    <loc>http://localhost:1313/blog/pivo-i-oteki/</loc>
     <lastmod>2026-04-02T20:16:45+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/visokofunkcionalnialkogolizm/</loc>
+    <loc>http://localhost:1313/blog/visokofunkcionalnialkogolizm/</loc>
     <lastmod>2026-04-02T16:50:31+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/anonimnui-vivod-iz-zapoia-odessa/</loc>
-    <lastmod>2026-07-14T12:10:11+00:00</lastmod>
+    <loc>http://localhost:1313/kharkiv/srochnii-vivod-iz-zapoia-kharkiv/</loc>
+    <lastmod>2026-08-29T21:03:55+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/alkogolnii-ciroz/</loc>
+    <loc>http://localhost:1313/kharkiv/prinyditelnoe-lechenie-alkogolizma-kharkiv/</loc>
+    <lastmod>2026-08-29T19:43:44+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kharkiv/vivod-iz-zapoia-stacionar-kharkiv/</loc>
+    <lastmod>2026-08-31T06:25:52+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kharkiv/anonimnui-vivod-iz-zapoia-kharkiv/</loc>
+    <lastmod>2026-08-23T19:55:41+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/srochnii-vivod-iz-zapoia-odesa/</loc>
+    <lastmod>2026-08-04T19:24:37+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/skoraia-nark-pomosh-odessa/</loc>
+    <lastmod>2026-08-02T20:38:12+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/prinyditelnoe-lechenie-alkogolizma-odessa/</loc>
+    <lastmod>2026-07-31T17:30:19+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/vivod-iz-zapoia-stacionar-odessa/</loc>
+    <lastmod>2026-08-12T19:12:58+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/anonimnui-vivod-iz-zapoia-odessa/</loc>
+    <lastmod>2026-08-15T20:15:55+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/alkogolnii-ciroz/</loc>
     <lastmod>2026-03-28T19:19:06+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/alkogol-i-antibiotik/</loc>
+    <loc>http://localhost:1313/blog/alkogol-i-antibiotik/</loc>
     <lastmod>2026-03-26T21:56:22+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/preparati-i-alkogol/</loc>
+    <loc>http://localhost:1313/blog/preparati-i-alkogol/</loc>
     <lastmod>2026-03-24T15:13:12+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/diabet-i-alkogol/</loc>
+    <loc>http://localhost:1313/blog/diabet-i-alkogol/</loc>
     <lastmod>2026-03-23T21:07:27+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/lechenie-pivnogo-alkogolizma-cherkasy/</loc>
+    <loc>http://localhost:1313/cherkasy/lechenie-pivnogo-alkogolizma-cherkasy/</loc>
     <lastmod>2026-07-23T19:16:57+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/lechenie-jenskogo-alkogolizma/</loc>
+    <loc>http://localhost:1313/cherkasy/lechenie-jenskogo-alkogolizma/</loc>
     <lastmod>2026-07-20T07:53:19+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/nalbyfin-chto-eto/</loc>
+    <loc>http://localhost:1313/cherkasy/test-na-alkogol-cherkasy/</loc>
+    <lastmod>2026-07-28T09:48:25+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/nalbyfin-chto-eto/</loc>
     <lastmod>2026-03-22T20:47:34+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/lechenie-alkogolizma-cherkasy/</loc>
+    <loc>http://localhost:1313/cherkasy/lechenie-alkogolizma-cherkasy/</loc>
     <lastmod>2026-07-20T19:56:07+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/kapelnica-ot-alkogolia-na-domy-cherkasy/</loc>
+    <loc>http://localhost:1313/cherkasy/kapelnica-ot-alkogolia-na-domy-cherkasy/</loc>
     <lastmod>2026-07-14T20:14:29+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/gazlaiting/</loc>
+    <loc>http://localhost:1313/blog/gazlaiting/</loc>
     <lastmod>2026-03-20T12:11:25+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/sport-ot-zavisimosti/</loc>
+    <loc>http://localhost:1313/blog/sport-ot-zavisimosti/</loc>
     <lastmod>2026-03-18T13:40:42+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/chto-takoi-solevaia-zavisimost/</loc>
+    <loc>http://localhost:1313/blog/chto-takoi-solevaia-zavisimost/</loc>
     <lastmod>2026-03-17T08:51:14+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/konsultacia-narkologa-cherkasy/</loc>
+    <loc>http://localhost:1313/cherkasy/konsultacia-narkologa-cherkasy/</loc>
     <lastmod>2026-07-15T18:59:18+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/vosem-sovetov-rodstvenicam-alkogolika/</loc>
+    <loc>http://localhost:1313/blog/vosem-sovetov-rodstvenicam-alkogolika/</loc>
     <lastmod>2026-03-14T08:33:31+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/psihologia-i-zavisimost/</loc>
+    <loc>http://localhost:1313/blog/psihologia-i-zavisimost/</loc>
     <lastmod>2026-03-14T06:51:02+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/chto-budet-esli-vipit-alkogol-zakadirovanim/</loc>
+    <loc>http://localhost:1313/blog/chto-budet-esli-vipit-alkogol-zakadirovanim/</loc>
     <lastmod>2026-03-11T20:26:01+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/kratom/</loc>
+    <loc>http://localhost:1313/blog/kratom/</loc>
     <lastmod>2026-03-08T19:19:30+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/alkogol-i-diabet/</loc>
+    <loc>http://localhost:1313/blog/alkogol-i-diabet/</loc>
     <lastmod>2026-03-08T18:26:36+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/vred-korvalola-i-barbavala/</loc>
+    <loc>http://localhost:1313/blog/vred-korvalola-i-barbavala/</loc>
     <lastmod>2026-03-06T13:29:57+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/rvota-ot-alkogolia/</loc>
+    <loc>http://localhost:1313/blog/rvota-ot-alkogolia/</loc>
     <lastmod>2026-03-04T16:41:44+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/chto-delat-esli-chelivek-piet/</loc>
+    <loc>http://localhost:1313/blog/chto-delat-esli-chelivek-piet/</loc>
     <lastmod>2026-03-04T16:25:20+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/kogda-pohmelie-stanovitca-problemoi/</loc>
+    <loc>http://localhost:1313/blog/kogda-pohmelie-stanovitca-problemoi/</loc>
     <lastmod>2026-03-03T17:29:14+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/sozavisimost/</loc>
+    <loc>http://localhost:1313/blog/sozavisimost/</loc>
     <lastmod>2026-03-02T10:25:06+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/prinyditelnoe-lechenie-alkogolizma/</loc>
+    <loc>http://localhost:1313/blog/prinyditelnoe-lechenie-alkogolizma/</loc>
     <lastmod>2026-03-01T18:18:34+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/lechenie-alkogolizma-v-domahniv-ysloviah/</loc>
+    <loc>http://localhost:1313/blog/lechenie-alkogolizma-v-domahniv-ysloviah/</loc>
     <lastmod>2026-07-04T18:52:42+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/gidazepam_i_alkogol/</loc>
+    <loc>http://localhost:1313/blog/gidazepam_i_alkogol/</loc>
     <lastmod>2026-06-26T08:07:18+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/alkogok-i-davlenie/</loc>
+    <loc>http://localhost:1313/blog/alkogok-i-davlenie/</loc>
     <lastmod>2026-02-28T07:32:30+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/alkogolnaia-amnezia/</loc>
+    <loc>http://localhost:1313/kharkiv/konsultacia-narkologa-kharkiv/</loc>
+    <lastmod>2026-08-25T13:00:46+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/test-na-alkogol-odessa/</loc>
+    <lastmod>2026-08-04T20:20:56+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/alkogolnaia-amnezia/</loc>
     <lastmod>2026-01-17T22:57:28+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/sleng-narkomanov/</loc>
+    <loc>http://localhost:1313/blog/sleng-narkomanov/</loc>
     <lastmod>2025-12-29T22:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/peredaiotsa-li-alkogolizm-po-nasledstvy/</loc>
+    <loc>http://localhost:1313/blog/peredaiotsa-li-alkogolizm-po-nasledstvy/</loc>
     <lastmod>2025-12-14T22:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/alkogolizm-vykhodnogo-dnya-kogda-otdykh-stanovitsya-problemoi/</loc>
+    <loc>http://localhost:1313/cherkasy/vivod-iz-zapoia-cherkasy/</loc>
+    <lastmod>2026-07-28T10:11:43+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/vivod-iz-zapoia-odesa/</loc>
+    <lastmod>2026-08-12T17:47:01+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/alkogolizm-vykhodnogo-dnya-kogda-otdykh-stanovitsya-problemoi/</loc>
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/narkolog-na-dom-cherkassy/</loc>
+    <loc>http://localhost:1313/cherkasy/narkolog-na-dom-cherkassy/</loc>
     <lastmod>2026-07-22T12:35:57+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/kodirovka-ot-alkogolia-cherkassy/</loc>
+    <loc>http://localhost:1313/cherkasy/kodirovka-ot-alkogolia-cherkassy/</loc>
     <lastmod>2026-07-15T18:50:29+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/sypryg-alkogolik-chto-delat/</loc>
+    <loc>http://localhost:1313/blog/sypryg-alkogolik-chto-delat/</loc>
     <lastmod>2025-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kodirovanie-ot-alkogolizma-odessa/</loc>
+    <loc>http://localhost:1313/odessa/kodirovanie-ot-alkogolizma-odessa/</loc>
     <lastmod>2026-07-20T12:47:07+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/kapelnica-ot-alkogolia-cherkassi/</loc>
+    <loc>http://localhost:1313/cherkasy/kapelnica-ot-alkogolia-cherkassi/</loc>
     <lastmod>2026-07-14T20:28:36+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chornomorsk/kapelnica_ot_alkogola_chernomorsk/</loc>
+    <loc>http://localhost:1313/chornomorsk/kapelnica_ot_alkogola_chernomorsk/</loc>
     <lastmod>2026-07-01T19:55:37+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kodirovka-ykolom-disylfiram-odesa/</loc>
+    <loc>http://localhost:1313/cherkasy/vivod-iz-zapoia-na-domu-cherkassi/</loc>
+    <lastmod>2026-07-28T14:02:11+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/vivod-iz-zapoia-na-domu-odesa/</loc>
+    <lastmod>2026-08-06T19:59:13+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/podshivka-ot-alkogolizma-odesa/</loc>
+    <lastmod>2026-07-30T20:24:45+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/kodirovka-ykolom-disylfiram-odesa/</loc>
     <lastmod>2026-07-24T19:13:36+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kodirovka-ykolom-espial-odesa/</loc>
+    <loc>http://localhost:1313/odessa/kodirovka-ykolom-espial-odesa/</loc>
     <lastmod>2026-07-24T20:03:44+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kodirovka-po-dovgenko-odessa/</loc>
+    <loc>http://localhost:1313/odessa/kodirovka-po-dovgenko-odessa/</loc>
     <lastmod>2026-07-24T18:08:24+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/detox-ot-kokaina-odesa/</loc>
+    <loc>http://localhost:1313/odessa/lechenie-pivnogo-alkogolizma-odesa/</loc>
+    <lastmod>2026-07-29T16:48:43+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/lechenie-jenskogo-alkogolizma-odessa/</loc>
+    <lastmod>2026-07-29T15:09:42+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/detox-ot-kokaina-odesa/</loc>
     <lastmod>2026-07-15T15:37:05+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/ekstreniy-vizov-narkologa-odesa/</loc>
-    <lastmod>2026-07-14T13:16:04+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/ekstreniy-vizov-narkologa-odesa/</loc>
+    <lastmod>2026-08-20T15:22:12+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/detox-ot-opiodov-odesa/</loc>
+    <loc>http://localhost:1313/odessa/lechenie-alkogolizma-voenim-odesa/</loc>
+    <lastmod>2026-07-28T20:01:04+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/detox-ot-opiodov-odesa/</loc>
     <lastmod>2026-07-18T15:58:27+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/detox-ot-amfetamina-odesa/</loc>
+    <loc>http://localhost:1313/odessa/detox-ot-amfetamina-odesa/</loc>
     <lastmod>2026-07-15T16:03:55+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kapelnica-ot-alkogolia-odesa/</loc>
-    <lastmod>2026-07-17T11:55:40+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/kapelnica-ot-alkogolia-odesa/</loc>
+    <lastmod>2026-08-27T14:02:20+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kapelnica-ot-alkogolia-na-domy-odesa/</loc>
-    <lastmod>2026-07-17T10:21:54+00:00</lastmod>
+    <loc>http://localhost:1313/odessa/kapelnica-ot-alkogolia-na-domy-odesa/</loc>
+    <lastmod>2026-08-26T07:00:45+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/detox-ot-metamfetamina-odesa/</loc>
+    <loc>http://localhost:1313/odessa/lechenie-alkogolizma-odessa/</loc>
+    <lastmod>2026-07-28T10:31:07+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/odessa/detox-ot-metamfetamina-odesa/</loc>
     <lastmod>2026-07-18T15:47:44+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/detox-ot-lsd-odesa/</loc>
+    <loc>http://localhost:1313/odessa/detox-ot-lsd-odesa/</loc>
     <lastmod>2026-07-17T07:08:18+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/konsyltacia-narkologa-odesa/</loc>
+    <loc>http://localhost:1313/odessa/konsyltacia-narkologa-odesa/</loc>
     <lastmod>2026-07-24T10:10:29+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/alkogolna-shizofrenia/</loc>
+    <loc>http://localhost:1313/blog/alkogolna-shizofrenia/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/blog/alkogolnaia-epilepsia/</loc>
+    <loc>http://localhost:1313/blog/alkogolnaia-epilepsia/</loc>
     <lastmod>2025-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chornomorsk/vivod-iz-zapoia-chernomorsk/</loc>
+    <loc>http://localhost:1313/kharkiv/vizov-narkologa-kharkov/</loc>
+    <lastmod>2026-08-30T18:18:26+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/chornomorsk/vivod-iz-zapoia-chernomorsk/</loc>
     <lastmod>2026-07-01T20:33:12+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chornomorsk/podshivka-ot-nark-chernomorks/</loc>
+    <loc>http://localhost:1313/chornomorsk/podshivka-ot-nark-chernomorks/</loc>
     <lastmod>2026-07-01T20:31:36+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chornomorsk/podshivka-ot-alkogolizma-chernomorsk/</loc>
+    <loc>http://localhost:1313/chornomorsk/podshivka-ot-alkogolizma-chernomorsk/</loc>
     <lastmod>2026-07-01T20:30:04+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chornomorsk/narkolog-na-dom-chernomorsk/</loc>
+    <loc>http://localhost:1313/chornomorsk/narkolog-na-dom-chernomorsk/</loc>
     <lastmod>2026-07-01T20:28:09+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chornomorsk/lechenie-narkomanii-chernomorsk/</loc>
+    <loc>http://localhost:1313/chornomorsk/lechenie-narkomanii-chernomorsk/</loc>
     <lastmod>2026-07-01T20:26:12+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chornomorsk/lechenie-alkogolizma-chernomorsk/</loc>
+    <loc>http://localhost:1313/chornomorsk/lechenie-alkogolizma-chernomorsk/</loc>
     <lastmod>2026-07-01T20:23:58+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chornomorsk/konsultacia-narkologa-chernomorsk/</loc>
+    <loc>http://localhost:1313/chornomorsk/konsultacia-narkologa-chernomorsk/</loc>
     <lastmod>2026-07-01T20:22:39+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chornomorsk/vivod-iz-zapoia-na-domy-chernomorsk/</loc>
+    <loc>http://localhost:1313/chornomorsk/vivod-iz-zapoia-na-domy-chernomorsk/</loc>
     <lastmod>2026-07-01T20:01:35+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chornomorsk/kapelnica_ot_alkogola_na_domy_chernomorsk/</loc>
+    <loc>http://localhost:1313/chornomorsk/kapelnica_ot_alkogola_na_domy_chernomorsk/</loc>
     <lastmod>2026-07-01T19:58:36+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chornomorsk/kodirovka-ot-alkogolia-disulfiram-chernomorsk/</loc>
+    <loc>http://localhost:1313/chornomorsk/kodirovka-ot-alkogolia-disulfiram-chernomorsk/</loc>
     <lastmod>2026-07-01T20:21:11+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chornomorsk/kodirovka-ot-alkogolia-chernomorsk/</loc>
+    <loc>http://localhost:1313/chornomorsk/kodirovka-ot-alkogolia-chernomorsk/</loc>
     <lastmod>2026-07-01T20:19:50+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chornomorsk/kapelnica-ot-pichevogo-otravlenia-chernomorsk/</loc>
+    <loc>http://localhost:1313/chornomorsk/kapelnica-ot-pichevogo-otravlenia-chernomorsk/</loc>
     <lastmod>2026-07-01T20:17:00+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/azerbaidjan-baky/</loc>
+    <loc>http://localhost:1313/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/</loc>
+    <lastmod>2026-08-23T19:58:20+00:00</lastmod>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/calculator/</loc>
+    <loc>http://localhost:1313/kharkiv/vivod-iz-zapoia-kharkiv/</loc>
+    <lastmod>2026-08-23T20:00:13+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kharkiv/kapelnica_ot_alkogola_na_domy_kharkiv/</loc>
+    <lastmod>2026-08-22T19:05:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kharkiv/kapelnica_ot_alkogola_kharkiv/</loc>
+    <lastmod>2026-08-22T17:37:45+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kharkiv/lechenie-pivnogo-alkogolizma-kharkiv/</loc>
+    <lastmod>2026-08-27T18:21:08+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kharkiv/lechenie-jenskogo-alkogolizma-kharkiv/</loc>
+    <lastmod>2026-08-27T17:43:44+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kharkiv/lechenie-alkogolizma-kharkiv/</loc>
+    <lastmod>2026-08-27T13:33:09+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/azerbaidjan-baky/</loc>
+  </url><url>
+    <loc>http://localhost:1313/calculator/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/calculator/"
+                href="http://localhost:1313/uk/calculator/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/calculator/"
+                href="http://localhost:1313/calculator/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/faq/1/</loc>
+    <loc>http://localhost:1313/faq/1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/faq/1/"
+                href="http://localhost:1313/uk/faq/1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/faq/1/"
+                href="http://localhost:1313/faq/1/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/faq/2/</loc>
+    <loc>http://localhost:1313/faq/2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/faq/2/"
+                href="http://localhost:1313/uk/faq/2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/faq/2/"
+                href="http://localhost:1313/faq/2/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/faq/3/</loc>
+    <loc>http://localhost:1313/faq/3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/faq/3/"
+                href="http://localhost:1313/uk/faq/3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/faq/3/"
+                href="http://localhost:1313/faq/3/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/faq/</loc>
+    <loc>http://localhost:1313/faq/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/faq/"
+                href="http://localhost:1313/uk/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/faq/"
+                href="http://localhost:1313/faq/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/gruziya-tbilisi/</loc>
+    <loc>http://localhost:1313/gruziya-tbilisi/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/homepage/</loc>
+    <loc>http://localhost:1313/homepage/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/homepage/"
+                href="http://localhost:1313/uk/homepage/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/homepage/"
+                href="http://localhost:1313/homepage/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/homepage/akcii/</loc>
+    <loc>http://localhost:1313/homepage/akcii/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/homepage/zsu-discount/</loc>
+    <loc>http://localhost:1313/homepage/zsu-discount/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/homepage/zsu-discount/"
+                href="http://localhost:1313/uk/homepage/zsu-discount/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/homepage/zsu-discount/"
+                href="http://localhost:1313/homepage/zsu-discount/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kazahstan-almaty/</loc>
+    <loc>http://localhost:1313/kazahstan-almaty/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/licenses/1/</loc>
+    <loc>http://localhost:1313/licenses/1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/licenses/1/"
+                href="http://localhost:1313/uk/licenses/1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/licenses/1/"
+                href="http://localhost:1313/licenses/1/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/licenses/10/</loc>
+    <loc>http://localhost:1313/licenses/10/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/licenses/10/"
+                href="http://localhost:1313/uk/licenses/10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/licenses/10/"
+                href="http://localhost:1313/licenses/10/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/licenses/11/</loc>
+    <loc>http://localhost:1313/licenses/11/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/licenses/11/"
+                href="http://localhost:1313/uk/licenses/11/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/licenses/11/"
+                href="http://localhost:1313/licenses/11/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/licenses/12/</loc>
+    <loc>http://localhost:1313/licenses/12/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/licenses/12/"
+                href="http://localhost:1313/uk/licenses/12/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/licenses/12/"
+                href="http://localhost:1313/licenses/12/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/licenses/13/</loc>
+    <loc>http://localhost:1313/licenses/13/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/licenses/13/"
+                href="http://localhost:1313/uk/licenses/13/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/licenses/13/"
+                href="http://localhost:1313/licenses/13/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/licenses/2/</loc>
+    <loc>http://localhost:1313/licenses/2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/licenses/2/"
+                href="http://localhost:1313/uk/licenses/2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/licenses/2/"
+                href="http://localhost:1313/licenses/2/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/licenses/3/</loc>
+    <loc>http://localhost:1313/licenses/3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/licenses/3/"
+                href="http://localhost:1313/uk/licenses/3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/licenses/3/"
+                href="http://localhost:1313/licenses/3/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/licenses/4/</loc>
+    <loc>http://localhost:1313/licenses/4/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/licenses/4/"
+                href="http://localhost:1313/uk/licenses/4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/licenses/4/"
+                href="http://localhost:1313/licenses/4/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/licenses/5/</loc>
+    <loc>http://localhost:1313/licenses/5/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/licenses/5/"
+                href="http://localhost:1313/uk/licenses/5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/licenses/5/"
+                href="http://localhost:1313/licenses/5/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/licenses/7/</loc>
+    <loc>http://localhost:1313/licenses/7/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/licenses/7/"
+                href="http://localhost:1313/uk/licenses/7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/licenses/7/"
+                href="http://localhost:1313/licenses/7/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/licenses/8/</loc>
+    <loc>http://localhost:1313/licenses/8/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/licenses/8/"
+                href="http://localhost:1313/uk/licenses/8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/licenses/8/"
+                href="http://localhost:1313/licenses/8/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/licenses/9/</loc>
+    <loc>http://localhost:1313/licenses/9/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/licenses/9/"
+                href="http://localhost:1313/uk/licenses/9/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/licenses/9/"
+                href="http://localhost:1313/licenses/9/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/moldova-kishinev/</loc>
+    <loc>http://localhost:1313/moldova-kishinev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/polsha-varsava/</loc>
+    <loc>http://localhost:1313/polsha-varsava/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviews/</loc>
+    <loc>http://localhost:1313/reviews/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviews/"
+                href="http://localhost:1313/uk/reviews/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviews/"
+                href="http://localhost:1313/reviews/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewsgoogle/</loc>
+    <loc>http://localhost:1313/reviewsgoogle/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewsgoogle/"
+                href="http://localhost:1313/uk/reviewsgoogle/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewsgoogle/"
+                href="http://localhost:1313/reviewsgoogle/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/detox-posle-himii/</loc>
+    <loc>http://localhost:1313/reviewslocal/detox-posle-himii/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/detox-posle-himii/"
+                href="http://localhost:1313/uk/reviewslocal/detox-posle-himii/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/detox-posle-himii/"
+                href="http://localhost:1313/reviewslocal/detox-posle-himii/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/lomka/</loc>
+    <loc>http://localhost:1313/reviewslocal/lomka/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/lomka/"
+                href="http://localhost:1313/uk/reviewslocal/lomka/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/lomka/"
+                href="http://localhost:1313/reviewslocal/lomka/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/narkot/</loc>
+    <loc>http://localhost:1313/reviewslocal/narkot/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/narkot/"
+                href="http://localhost:1313/uk/reviewslocal/narkot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/narkot/"
+                href="http://localhost:1313/reviewslocal/narkot/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/pishevoe-otravl/</loc>
+    <loc>http://localhost:1313/reviewslocal/pishevoe-otravl/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/pishevoe-otravl/"
+                href="http://localhost:1313/uk/reviewslocal/pishevoe-otravl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/pishevoe-otravl/"
+                href="http://localhost:1313/reviewslocal/pishevoe-otravl/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/vitaminy/</loc>
+    <loc>http://localhost:1313/reviewslocal/vitaminy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/vitaminy/"
+                href="http://localhost:1313/uk/reviewslocal/vitaminy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/vitaminy/"
+                href="http://localhost:1313/reviewslocal/vitaminy/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/screenshots/1/</loc>
+    <loc>http://localhost:1313/screenshots/1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/screenshots/1/"
+                href="http://localhost:1313/uk/screenshots/1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/screenshots/1/"
+                href="http://localhost:1313/screenshots/1/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services/kodirovanie-ot-alkogolia-tab-esperal/</loc>
+    <loc>http://localhost:1313/services/kodirovanie-ot-alkogolia-tab-esperal/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services/kodirovanie-ot-alkogolizma-teturam-tabletki/</loc>
+    <loc>http://localhost:1313/services/kodirovanie-ot-alkogolizma-teturam-tabletki/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/treatment-cost/</loc>
+    <loc>http://localhost:1313/treatment-cost/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/treatment-cost/"
+                href="http://localhost:1313/uk/treatment-cost/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/treatment-cost/"
+                href="http://localhost:1313/treatment-cost/"
                 />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/zaporozie/kapelnica_ot_alkogola_na_domy_zaporozhye/</loc>
+    <loc>http://localhost:1313/zaporozie/kapelnica_ot_alkogola_na_domy_zaporozhye/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-1/</loc>
+    <loc>http://localhost:1313/reviewslocal/alcoholism-type-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/alcoholism-type-1/"
+                href="http://localhost:1313/uk/reviewslocal/alcoholism-type-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-1/"
+                href="http://localhost:1313/reviewslocal/alcoholism-type-1/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-2/</loc>
+    <loc>http://localhost:1313/reviewslocal/alcoholism-type-2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/alcoholism-type-2/"
+                href="http://localhost:1313/uk/reviewslocal/alcoholism-type-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-2/"
+                href="http://localhost:1313/reviewslocal/alcoholism-type-2/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/categories/"
+                href="http://localhost:1313/uk/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/settings/</loc>
+    <loc>http://localhost:1313/settings/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/settings/"
+                href="http://localhost:1313/uk/settings/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/settings/"
+                href="http://localhost:1313/settings/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewsgoogle/4/</loc>
+    <loc>http://localhost:1313/reviewsgoogle/4/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewsgoogle/4/"
+                href="http://localhost:1313/uk/reviewsgoogle/4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewsgoogle/4/"
+                href="http://localhost:1313/reviewsgoogle/4/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-1/</loc>
+    <loc>http://localhost:1313/reviewslocal/kodirovanie-type-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/kodirovanie-type-1/"
+                href="http://localhost:1313/uk/reviewslocal/kodirovanie-type-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-1/"
+                href="http://localhost:1313/reviewslocal/kodirovanie-type-1/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-2/</loc>
+    <loc>http://localhost:1313/reviewslocal/kodirovanie-type-2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/kodirovanie-type-2/"
+                href="http://localhost:1313/uk/reviewslocal/kodirovanie-type-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-2/"
+                href="http://localhost:1313/reviewslocal/kodirovanie-type-2/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/licenses/</loc>
+    <loc>http://localhost:1313/licenses/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/licenses/"
+                href="http://localhost:1313/uk/licenses/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/licenses/"
+                href="http://localhost:1313/licenses/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewsgoogle/2/</loc>
+    <loc>http://localhost:1313/reviewsgoogle/2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewsgoogle/2/"
+                href="http://localhost:1313/uk/reviewsgoogle/2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewsgoogle/2/"
+                href="http://localhost:1313/reviewsgoogle/2/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/</loc>
+    <loc>http://localhost:1313/reviewslocal/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/"
+                href="http://localhost:1313/uk/reviewslocal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/"
+                href="http://localhost:1313/reviewslocal/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/screenshots/</loc>
+    <loc>http://localhost:1313/screenshots/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/screenshots/"
+                href="http://localhost:1313/uk/screenshots/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/screenshots/"
+                href="http://localhost:1313/screenshots/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/tags/"
+                href="http://localhost:1313/uk/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewsgoogle/1/</loc>
+    <loc>http://localhost:1313/reviewsgoogle/1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewsgoogle/1/"
+                href="http://localhost:1313/uk/reviewsgoogle/1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewsgoogle/1/"
+                href="http://localhost:1313/reviewsgoogle/1/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-2/2/</loc>
+    <loc>http://localhost:1313/reviewslocal/kodirovanie-type-2/2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/kodirovanie-type-2/2/"
+                href="http://localhost:1313/uk/reviewslocal/kodirovanie-type-2/2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-2/2/"
+                href="http://localhost:1313/reviewslocal/kodirovanie-type-2/2/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/vitaminy/1/</loc>
+    <loc>http://localhost:1313/reviewslocal/vitaminy/1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/vitaminy/1/"
+                href="http://localhost:1313/uk/reviewslocal/vitaminy/1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/vitaminy/1/"
+                href="http://localhost:1313/reviewslocal/vitaminy/1/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-1/5/</loc>
+    <loc>http://localhost:1313/reviewslocal/kodirovanie-type-1/5/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/kodirovanie-type-1/5/"
+                href="http://localhost:1313/uk/reviewslocal/kodirovanie-type-1/5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-1/5/"
+                href="http://localhost:1313/reviewslocal/kodirovanie-type-1/5/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-1/1/</loc>
+    <loc>http://localhost:1313/reviewslocal/alcoholism-type-1/1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/alcoholism-type-1/1/"
+                href="http://localhost:1313/uk/reviewslocal/alcoholism-type-1/1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-1/1/"
+                href="http://localhost:1313/reviewslocal/alcoholism-type-1/1/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-1/2/</loc>
+    <loc>http://localhost:1313/reviewslocal/alcoholism-type-1/2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/alcoholism-type-1/2/"
+                href="http://localhost:1313/uk/reviewslocal/alcoholism-type-1/2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-1/2/"
+                href="http://localhost:1313/reviewslocal/alcoholism-type-1/2/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-1/3/</loc>
+    <loc>http://localhost:1313/reviewslocal/alcoholism-type-1/3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/alcoholism-type-1/3/"
+                href="http://localhost:1313/uk/reviewslocal/alcoholism-type-1/3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-1/3/"
+                href="http://localhost:1313/reviewslocal/alcoholism-type-1/3/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-1/4/</loc>
+    <loc>http://localhost:1313/reviewslocal/alcoholism-type-1/4/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/alcoholism-type-1/4/"
+                href="http://localhost:1313/uk/reviewslocal/alcoholism-type-1/4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-1/4/"
+                href="http://localhost:1313/reviewslocal/alcoholism-type-1/4/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-1/5/</loc>
+    <loc>http://localhost:1313/reviewslocal/alcoholism-type-1/5/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/alcoholism-type-1/5/"
+                href="http://localhost:1313/uk/reviewslocal/alcoholism-type-1/5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-1/5/"
+                href="http://localhost:1313/reviewslocal/alcoholism-type-1/5/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-1/6/</loc>
+    <loc>http://localhost:1313/reviewslocal/alcoholism-type-1/6/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/alcoholism-type-1/6/"
+                href="http://localhost:1313/uk/reviewslocal/alcoholism-type-1/6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-1/6/"
+                href="http://localhost:1313/reviewslocal/alcoholism-type-1/6/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-1/7/</loc>
+    <loc>http://localhost:1313/reviewslocal/alcoholism-type-1/7/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/alcoholism-type-1/7/"
+                href="http://localhost:1313/uk/reviewslocal/alcoholism-type-1/7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-1/7/"
+                href="http://localhost:1313/reviewslocal/alcoholism-type-1/7/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-2/1/</loc>
+    <loc>http://localhost:1313/reviewslocal/alcoholism-type-2/1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/alcoholism-type-2/1/"
+                href="http://localhost:1313/uk/reviewslocal/alcoholism-type-2/1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-2/1/"
+                href="http://localhost:1313/reviewslocal/alcoholism-type-2/1/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-2/2/</loc>
+    <loc>http://localhost:1313/reviewslocal/alcoholism-type-2/2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/alcoholism-type-2/2/"
+                href="http://localhost:1313/uk/reviewslocal/alcoholism-type-2/2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-2/2/"
+                href="http://localhost:1313/reviewslocal/alcoholism-type-2/2/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-2/3/</loc>
+    <loc>http://localhost:1313/reviewslocal/alcoholism-type-2/3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/alcoholism-type-2/3/"
+                href="http://localhost:1313/uk/reviewslocal/alcoholism-type-2/3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-2/3/"
+                href="http://localhost:1313/reviewslocal/alcoholism-type-2/3/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-2/4/</loc>
+    <loc>http://localhost:1313/reviewslocal/alcoholism-type-2/4/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/alcoholism-type-2/4/"
+                href="http://localhost:1313/uk/reviewslocal/alcoholism-type-2/4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-2/4/"
+                href="http://localhost:1313/reviewslocal/alcoholism-type-2/4/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-2/5/</loc>
+    <loc>http://localhost:1313/reviewslocal/alcoholism-type-2/5/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/alcoholism-type-2/5/"
+                href="http://localhost:1313/uk/reviewslocal/alcoholism-type-2/5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-2/5/"
+                href="http://localhost:1313/reviewslocal/alcoholism-type-2/5/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-2/6/</loc>
+    <loc>http://localhost:1313/reviewslocal/alcoholism-type-2/6/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/alcoholism-type-2/6/"
+                href="http://localhost:1313/uk/reviewslocal/alcoholism-type-2/6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-2/6/"
+                href="http://localhost:1313/reviewslocal/alcoholism-type-2/6/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-2/7/</loc>
+    <loc>http://localhost:1313/reviewslocal/alcoholism-type-2/7/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/alcoholism-type-2/7/"
+                href="http://localhost:1313/uk/reviewslocal/alcoholism-type-2/7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-2/7/"
+                href="http://localhost:1313/reviewslocal/alcoholism-type-2/7/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-2/8/</loc>
+    <loc>http://localhost:1313/reviewslocal/alcoholism-type-2/8/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/alcoholism-type-2/8/"
+                href="http://localhost:1313/uk/reviewslocal/alcoholism-type-2/8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/alcoholism-type-2/8/"
+                href="http://localhost:1313/reviewslocal/alcoholism-type-2/8/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/detox-posle-himii/1/</loc>
+    <loc>http://localhost:1313/reviewslocal/detox-posle-himii/1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/detox-posle-himii/1/"
+                href="http://localhost:1313/uk/reviewslocal/detox-posle-himii/1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/detox-posle-himii/1/"
+                href="http://localhost:1313/reviewslocal/detox-posle-himii/1/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-1/1/</loc>
+    <loc>http://localhost:1313/reviewslocal/kodirovanie-type-1/1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/kodirovanie-type-1/1/"
+                href="http://localhost:1313/uk/reviewslocal/kodirovanie-type-1/1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-1/1/"
+                href="http://localhost:1313/reviewslocal/kodirovanie-type-1/1/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-1/3/</loc>
+    <loc>http://localhost:1313/reviewslocal/kodirovanie-type-1/3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/kodirovanie-type-1/3/"
+                href="http://localhost:1313/uk/reviewslocal/kodirovanie-type-1/3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-1/3/"
+                href="http://localhost:1313/reviewslocal/kodirovanie-type-1/3/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-1/4/</loc>
+    <loc>http://localhost:1313/reviewslocal/kodirovanie-type-1/4/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/kodirovanie-type-1/4/"
+                href="http://localhost:1313/uk/reviewslocal/kodirovanie-type-1/4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-1/4/"
+                href="http://localhost:1313/reviewslocal/kodirovanie-type-1/4/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-1/6/</loc>
+    <loc>http://localhost:1313/reviewslocal/kodirovanie-type-1/6/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/kodirovanie-type-1/6/"
+                href="http://localhost:1313/uk/reviewslocal/kodirovanie-type-1/6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-1/6/"
+                href="http://localhost:1313/reviewslocal/kodirovanie-type-1/6/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-1/7/</loc>
+    <loc>http://localhost:1313/reviewslocal/kodirovanie-type-1/7/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/kodirovanie-type-1/7/"
+                href="http://localhost:1313/uk/reviewslocal/kodirovanie-type-1/7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-1/7/"
+                href="http://localhost:1313/reviewslocal/kodirovanie-type-1/7/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-1/8/</loc>
+    <loc>http://localhost:1313/reviewslocal/kodirovanie-type-1/8/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/kodirovanie-type-1/8/"
+                href="http://localhost:1313/uk/reviewslocal/kodirovanie-type-1/8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-1/8/"
+                href="http://localhost:1313/reviewslocal/kodirovanie-type-1/8/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-2/1/</loc>
+    <loc>http://localhost:1313/reviewslocal/kodirovanie-type-2/1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/kodirovanie-type-2/1/"
+                href="http://localhost:1313/uk/reviewslocal/kodirovanie-type-2/1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-2/1/"
+                href="http://localhost:1313/reviewslocal/kodirovanie-type-2/1/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-2/3/</loc>
+    <loc>http://localhost:1313/reviewslocal/kodirovanie-type-2/3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/kodirovanie-type-2/3/"
+                href="http://localhost:1313/uk/reviewslocal/kodirovanie-type-2/3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-2/3/"
+                href="http://localhost:1313/reviewslocal/kodirovanie-type-2/3/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-2/4/</loc>
+    <loc>http://localhost:1313/reviewslocal/kodirovanie-type-2/4/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/kodirovanie-type-2/4/"
+                href="http://localhost:1313/uk/reviewslocal/kodirovanie-type-2/4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-2/4/"
+                href="http://localhost:1313/reviewslocal/kodirovanie-type-2/4/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-2/5/</loc>
+    <loc>http://localhost:1313/reviewslocal/kodirovanie-type-2/5/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/kodirovanie-type-2/5/"
+                href="http://localhost:1313/uk/reviewslocal/kodirovanie-type-2/5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-2/5/"
+                href="http://localhost:1313/reviewslocal/kodirovanie-type-2/5/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-2/6/</loc>
+    <loc>http://localhost:1313/reviewslocal/kodirovanie-type-2/6/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/kodirovanie-type-2/6/"
+                href="http://localhost:1313/uk/reviewslocal/kodirovanie-type-2/6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-2/6/"
+                href="http://localhost:1313/reviewslocal/kodirovanie-type-2/6/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-2/7/</loc>
+    <loc>http://localhost:1313/reviewslocal/kodirovanie-type-2/7/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/kodirovanie-type-2/7/"
+                href="http://localhost:1313/uk/reviewslocal/kodirovanie-type-2/7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-2/7/"
+                href="http://localhost:1313/reviewslocal/kodirovanie-type-2/7/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-2/8/</loc>
+    <loc>http://localhost:1313/reviewslocal/kodirovanie-type-2/8/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/kodirovanie-type-2/8/"
+                href="http://localhost:1313/uk/reviewslocal/kodirovanie-type-2/8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-2/8/"
+                href="http://localhost:1313/reviewslocal/kodirovanie-type-2/8/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/lomka/1/</loc>
+    <loc>http://localhost:1313/reviewslocal/lomka/1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/lomka/1/"
+                href="http://localhost:1313/uk/reviewslocal/lomka/1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/lomka/1/"
+                href="http://localhost:1313/reviewslocal/lomka/1/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/lomka/2/</loc>
+    <loc>http://localhost:1313/reviewslocal/lomka/2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/lomka/2/"
+                href="http://localhost:1313/uk/reviewslocal/lomka/2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/lomka/2/"
+                href="http://localhost:1313/reviewslocal/lomka/2/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/narkot/1/</loc>
+    <loc>http://localhost:1313/reviewslocal/narkot/1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/narkot/1/"
+                href="http://localhost:1313/uk/reviewslocal/narkot/1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/narkot/1/"
+                href="http://localhost:1313/reviewslocal/narkot/1/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/pishevoe-otravl/1/</loc>
+    <loc>http://localhost:1313/reviewslocal/pishevoe-otravl/1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/pishevoe-otravl/1/"
+                href="http://localhost:1313/uk/reviewslocal/pishevoe-otravl/1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/pishevoe-otravl/1/"
+                href="http://localhost:1313/reviewslocal/pishevoe-otravl/1/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/vitaminy/2/</loc>
+    <loc>http://localhost:1313/reviewslocal/vitaminy/2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/vitaminy/2/"
+                href="http://localhost:1313/uk/reviewslocal/vitaminy/2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/vitaminy/2/"
+                href="http://localhost:1313/reviewslocal/vitaminy/2/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/anonimnui-vivod-iz-zapoia-kharkiv/</loc>
+    <loc>http://localhost:1313/kiev/anonimnui-vivod-iz-zapoia-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/anonimnui-vivod-iz-zapoia-kiev/</loc>
+    <loc>http://localhost:1313/services-vitamini/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services-vitamini/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/vitaminy/3/</loc>
+    <loc>http://localhost:1313/reviewslocal/vitaminy/3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/vitaminy/3/"
+                href="http://localhost:1313/uk/reviewslocal/vitaminy/3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/vitaminy/3/"
+                href="http://localhost:1313/reviewslocal/vitaminy/3/"
                 />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/vyvedenie-iz-zapoya-bez-postanovki-na-uchet/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/vivod-iz-zapoia-belgorod-dnestrovsk/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/vyvod-iz-zapoya-v-statsionare-cherkassy/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-stacionar-kharkiv/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/vivod-iz-zapoia-stacionar-kiev/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/vivod-iz-zapoia-stacionar-odessa/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/dnepr/vivod-iz-zapoia-dnepr/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/zaporozie/vivod-iz-zapoia-zaparoje/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/vivod-iz-zapoia-kiev/</loc>
+    <loc>http://localhost:1313/kiev/vivod-iz-zapoia-stacionar-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/vivod-iz-zapoia-kruglosytochno/</loc>
+    <loc>http://localhost:1313/dnepr/vivod-iz-zapoia-dnepr/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/lviv/vivod-iz-zapoia-lvov/</loc>
+    <loc>http://localhost:1313/zaporozie/vivod-iz-zapoia-zaparoje/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services/vivod-iz-zapoia-na-domy-umbrellaplus/</loc>
+    <loc>http://localhost:1313/kiev/vivod-iz-zapoia-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/vivod-iz-zapoia-na-domy-belgorod-dnestrovsk/</loc>
+    <loc>http://localhost:1313/lviv/vivod-iz-zapoia-lvov/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/dnepr/vivod-iz-zapoia-na-domy-dnepr/</loc>
+    <loc>http://localhost:1313/services/vivod-iz-zapoia-na-domy-umbrellaplus/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/vivod-iz-zapoia-na-domu-odesa/</loc>
+    <loc>http://localhost:1313/dnepr/vivod-iz-zapoia-na-domy-dnepr/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/vivod-iz-zapoia-na-domu-cherkassi/</loc>
+    <loc>http://localhost:1313/lviv/vivod-iz-zapoia-na-domy-lvov/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/lviv/vivod-iz-zapoia-na-domy-lvov/</loc>
+    <loc>http://localhost:1313/zaporozie/vivod-iz-zapoia-na-domy-zaporozhye/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/zaporozie/vivod-iz-zapoia-na-domy-zaporozhye/</loc>
+    <loc>http://localhost:1313/kamianske/vivod-iz-zapoia-na-domy-kamenskoie/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kamianske/vivod-iz-zapoia-na-domy-kamenskoie/</loc>
+    <loc>http://localhost:1313/kiev/vivod-iz-zapoia-na-domy-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/vivod-iz-zapoia-na-domy-kiev/</loc>
+    <loc>http://localhost:1313/chuguev/vivod-iz-zapoia-chygyev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/vivod-iz-zapoia-odesa/</loc>
+    <loc>http://localhost:1313/dnepr/vizov-narkologa-na-dom-dnepr/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/vivod-iz-zapoia-na-domy-odessa-stoimost/</loc>
+    <loc>http://localhost:1313/kiev/vizov-narkologa-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-kharkiv/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/vivod-iz-zapoia-cherkasy/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/chuguev/vivod-iz-zapoia-chygyev/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/dnepr/vizov-narkologa-na-dom-dnepr/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/vizov-narkologa-kiev/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewsgoogle/6/</loc>
+    <loc>http://localhost:1313/reviewsgoogle/6/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewsgoogle/6/"
+                href="http://localhost:1313/uk/reviewsgoogle/6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewsgoogle/6/"
+                href="http://localhost:1313/reviewsgoogle/6/"
                 />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/services-nark/detox-ot-amfetamina/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/detox-ot-amfetamina-kiev/</loc>
+    <loc>http://localhost:1313/services-nark/detox-ot-amfetamina/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services-nark/detox-ot-kokaina/</loc>
+    <loc>http://localhost:1313/kiev/detox-ot-amfetamina-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/detox-ot-kokaina-kiev/</loc>
+    <loc>http://localhost:1313/services-nark/detox-ot-kokaina/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/detox-ot-liriki-kiev/</loc>
+    <loc>http://localhost:1313/kiev/detox-ot-kokaina-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services-nark/detox-ot-liriki/</loc>
+    <loc>http://localhost:1313/kiev/detox-ot-liriki-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services-nark/detox-ot-lsd/</loc>
+    <loc>http://localhost:1313/services-nark/detox-ot-liriki/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/detox-ot-lsd-kiev/</loc>
+    <loc>http://localhost:1313/services-nark/detox-ot-lsd/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/detox-ot-opioidov-kiev/</loc>
+    <loc>http://localhost:1313/kiev/detox-ot-lsd-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services-nark/detox-ot-nalbufina/</loc>
+    <loc>http://localhost:1313/kiev/detox-ot-opioidov-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services-nark/detox-ot-psilocibina/</loc>
+    <loc>http://localhost:1313/services-nark/detox-ot-nalbufina/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services-nark/detox-ot-soli/</loc>
+    <loc>http://localhost:1313/services-nark/detox-ot-psilocibina/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/detox-ot-soli-kiev/</loc>
+    <loc>http://localhost:1313/services-nark/detox-ot-soli/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services-nark/detox-ot-mdma/</loc>
+    <loc>http://localhost:1313/kiev/detox-ot-soli-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/detox-ot-ecstazi-kiev/</loc>
+    <loc>http://localhost:1313/services-nark/detox-ot-mdma/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services-khymioterapiya/</loc>
+    <loc>http://localhost:1313/kiev/detox-ot-ecstazi-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/dostupnaya-narkologicheskaya-pomoshch-v-kharkove/</loc>
+    <loc>http://localhost:1313/services-khymioterapiya/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services/kapelnica-ot-alkogolia-umbrellaplus/</loc>
+    <loc>http://localhost:1313/services/kapelnica-ot-alkogolia-umbrellaplus/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kamianske/kapelnica-ot-alkogolia-kamenskoie/</loc>
+    <loc>http://localhost:1313/kamianske/kapelnica-ot-alkogolia-kamenskoie/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/lviv/kapelnica_ot_alkogola_v-lvov/</loc>
+    <loc>http://localhost:1313/lviv/kapelnica_ot_alkogola_v-lvov/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/dnepr/kapelnica_ot_alkogola_dnepr/</loc>
+    <loc>http://localhost:1313/dnepr/kapelnica_ot_alkogola_dnepr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/dnepr/kapelnica_ot_alkogola_dnepr/"
+                href="http://localhost:1313/uk/dnepr/kapelnica_ot_alkogola_dnepr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/dnepr/kapelnica_ot_alkogola_dnepr/"
+                href="http://localhost:1313/dnepr/kapelnica_ot_alkogola_dnepr/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/zaporozie/kapelnica_ot_alkogola_zaporozhye/</loc>
+    <loc>http://localhost:1313/zaporozie/kapelnica_ot_alkogola_zaporozhye/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/kapelnica_ot_alkogola_kiev/</loc>
+    <loc>http://localhost:1313/kiev/kapelnica_ot_alkogola_kiev/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/kiev/kapelnica_ot_alkogola_kiev/"
+                href="http://localhost:1313/uk/kiev/kapelnica_ot_alkogola_kiev/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/kiev/kapelnica_ot_alkogola_kiev/"
+                href="http://localhost:1313/kiev/kapelnica_ot_alkogola_kiev/"
                 />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/services/kapelnica_ot_alkogola_na_domy_umbrellaplus/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/kapelnica_ot_alkogola_na_domy_kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/dnepr/kapelnica_ot_alkogola_na-domy-v-dnepre/</loc>
+    <loc>http://localhost:1313/services/kapelnica_ot_alkogola_na_domy_umbrellaplus/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/lviv/kapelnica_ot_alkogola_na-domy-lvov/</loc>
+    <loc>http://localhost:1313/kiev/kapelnica_ot_alkogola_na_domy_kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_na_domy_kharkiv/</loc>
+    <loc>http://localhost:1313/dnepr/kapelnica_ot_alkogola_na-domy-v-dnepre/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/kapelnica_ot_alkogola_kharkiv/</loc>
+    <loc>http://localhost:1313/lviv/kapelnica_ot_alkogola_na-domy-lvov/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chuguev/kapelnica_ot_alkogola_chygyev/</loc>
+    <loc>http://localhost:1313/chuguev/kapelnica_ot_alkogola_chygyev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/detox-ot-amfetamina-kharkiv/</loc>
+    <loc>http://localhost:1313/kharkiv/detox-ot-amfetamina-kharkiv/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/kharkiv/detox-ot-amfetamina-kharkiv/"
+                href="http://localhost:1313/uk/kharkiv/detox-ot-amfetamina-kharkiv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/kharkiv/detox-ot-amfetamina-kharkiv/"
+                href="http://localhost:1313/kharkiv/detox-ot-amfetamina-kharkiv/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/kapelnica-ot-zapoia-kharkiv/</loc>
+    <loc>http://localhost:1313/kharkiv/kap-ot-kokaina-kharkiv/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/kap-ot-kokaina-kharkiv/</loc>
+    <loc>http://localhost:1313/kharkiv/detox-ot-lsd-kharkiv/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/detox-ot-lsd-kharkiv/</loc>
+    <loc>http://localhost:1313/odessa/kapelnica-ot-nark-intoksikacii-belgorod-dnestrovsk/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kapelnica-ot-nark-intoksikacii-belgorod-dnestrovsk/</loc>
+    <loc>http://localhost:1313/kamianske/kapelnica-ot-narkotikov-kamenskoie/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kamianske/kapelnica-ot-narkotikov-kamenskoie/</loc>
+    <loc>http://localhost:1313/kiev/kapelnica-ot-narkotikov-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/kapelnica-ot-narkotikov-kiev/</loc>
+    <loc>http://localhost:1313/odessa/kapelnica-ot-nakrotikov-odessa/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kapelnica-ot-nakrotikov-odessa/</loc>
+    <loc>http://localhost:1313/kharkiv/kap-ot-nark-kharkiv/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/kap-ot-nark-kharkiv/</loc>
+    <loc>http://localhost:1313/dnepr/kap-ot-nark-dnepr/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/dnepr/kap-ot-nark-dnepr/</loc>
+    <loc>http://localhost:1313/zaporozie/kapelnica-ot-nakrotikov-zp/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/zaporozie/kapelnica-ot-nakrotikov-zp/</loc>
+    <loc>http://localhost:1313/lviv/lechenie-narkomanii-lvov/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/lviv/lechenie-narkomanii-lvov/</loc>
+    <loc>http://localhost:1313/cherkasy/kapelnica-ot-narkotikiv-cerkassy/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/kapelnica-ot-narkotikiv-cerkassy/</loc>
+    <loc>http://localhost:1313/kharkiv/detox-ot-opiodov-kharkiv/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/detox-ot-opiodov-kharkiv/</loc>
+    <loc>http://localhost:1313/kharkiv/detox-ot-liriki-kharkiv/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/detox-ot-liriki-kharkiv/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/detox-ot-soli-kharkiv/</loc>
+    <loc>http://localhost:1313/kharkiv/detox-ot-soli-kharkiv/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/kharkiv/detox-ot-soli-kharkiv/"
+                href="http://localhost:1313/uk/kharkiv/detox-ot-soli-kharkiv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/kharkiv/detox-ot-soli-kharkiv/"
+                href="http://localhost:1313/kharkiv/detox-ot-soli-kharkiv/"
                 />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/detox-ot-mdma-kharkiv/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/services-otravlenie/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/services/kodirovka-ot-alkogolia-umbrellaplus/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/zaporozie/kodirovka-ot-alkogolia-zp/</loc>
+    <loc>http://localhost:1313/kharkiv/detox-ot-mdma-kharkiv/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kamianske/kodirovania-ot-alkogolia-kamenskoie/</loc>
+    <loc>http://localhost:1313/services-otravlenie/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/kodirovka-ot-alkogolia-kharkiv/</loc>
+    <loc>http://localhost:1313/services/kodirovka-ot-alkogolia-umbrellaplus/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/dnepr/kodirovka-ot-alkogolizma-dnepr/</loc>
+    <loc>http://localhost:1313/zaporozie/kodirovka-ot-alkogolia-zp/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/kodirovka-ot-alkogolia-kiev/</loc>
+    <loc>http://localhost:1313/kamianske/kodirovania-ot-alkogolia-kamenskoie/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services/kodirovanie-ot-alkogolizma-lazerom/</loc>
+    <loc>http://localhost:1313/kharkiv/kodirovka-ot-alkogolia-kharkiv/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/lviv/kodirovka-ot-alkogolia-lvov/</loc>
+    <loc>http://localhost:1313/dnepr/kodirovka-ot-alkogolizma-dnepr/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/zaporozie/dovjenko-zp/</loc>
+    <loc>http://localhost:1313/kiev/kodirovka-ot-alkogolia-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/kodirovka-ot-alkogola-disulfiram-kharkiv/</loc>
+    <loc>http://localhost:1313/services/kodirovanie-ot-alkogolizma-lazerom/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services/kodirovka-ot-alkogolia-disulfiram-umbrellaplus/</loc>
+    <loc>http://localhost:1313/lviv/kodirovka-ot-alkogolia-lvov/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/lviv/kodirovka-ot-alkogolia-disulfiram-lvov/</loc>
+    <loc>http://localhost:1313/zaporozie/dovjenko-zp/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/kodirovka-ot-alkogolia-disulfiram-kiev/</loc>
+    <loc>http://localhost:1313/kharkiv/kodirovka-ot-alkogola-disulfiram-kharkiv/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/kodirovka-ot-alkogolizma-espiarl-kharkiv/</loc>
+    <loc>http://localhost:1313/services/kodirovka-ot-alkogolia-disulfiram-umbrellaplus/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/lviv/kodirovka-ot-alkogolizma-espiarl-lvov/</loc>
+    <loc>http://localhost:1313/lviv/kodirovka-ot-alkogolia-disulfiram-lvov/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services/kodirovka-ot-alkogolizma-espiarl-umbrellaplus/</loc>
+    <loc>http://localhost:1313/kiev/kodirovka-ot-alkogolia-disulfiram-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/zaporozie/kod-ot-alkogolia-zp-esp/</loc>
+    <loc>http://localhost:1313/kharkiv/kodirovka-ot-alkogolizma-espiarl-kharkiv/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/kodirovka-ot-alkogolizma-espiarl-kiev/</loc>
+    <loc>http://localhost:1313/lviv/kodirovka-ot-alkogolizma-espiarl-lvov/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/zaporozie/kodirovka-ot-alkogolia-disulfiram-zp/</loc>
+    <loc>http://localhost:1313/services/kodirovka-ot-alkogolizma-espiarl-umbrellaplus/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/kod-po-metodu-dovg-kiev/</loc>
+    <loc>http://localhost:1313/zaporozie/kod-ot-alkogolia-zp-esp/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/kod-po-metody-dovjenko-kharkiv/</loc>
+    <loc>http://localhost:1313/kiev/kodirovka-ot-alkogolizma-espiarl-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services/kodirovanie-po-dovgenko/</loc>
+    <loc>http://localhost:1313/zaporozie/kodirovka-ot-alkogolia-disulfiram-zp/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services/konsultacia-narkologa/</loc>
+    <loc>http://localhost:1313/kiev/kod-po-metodu-dovg-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/kruglosutochnyi-narkologicheskaya-pomosh/</loc>
+    <loc>http://localhost:1313/kharkiv/kod-po-metody-dovjenko-kharkiv/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services/narkolog/</loc>
+    <loc>http://localhost:1313/services/kodirovanie-po-dovgenko/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/kruglosutochnaya-narkologicheskaya-pomosh-odessa/</loc>
+    <loc>http://localhost:1313/services/konsultacia-narkologa/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chuguev/narkologicheskaia-pomosh-chygyev/</loc>
+    <loc>http://localhost:1313/services/narkolog/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/kruglosutochnyi-vyvod-iz-zapoya/</loc>
+    <loc>http://localhost:1313/chuguev/narkologicheskaia-pomosh-chygyev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services/lechenie-alkogolizma/</loc>
+    <loc>http://localhost:1313/services/lechenie-alkogolizma/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/lechenie-alkogolizna-belgorod-dnestorvsk/</loc>
+    <loc>http://localhost:1313/kiev/lechenie-alkogolizma-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/lechenie-alkogolizma-kiev/</loc>
+    <loc>http://localhost:1313/lviv/lechenie-alkogolizma-lviv/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/lechenie-alkogolizma-odessa/</loc>
+    <loc>http://localhost:1313/dnepr/lechenie-alkogolizma-dnepr/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/lviv/lechenie-alkogolizma-lviv/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/dnepr/lechenie-alkogolizma-dnepr/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/zaporozie/lechenie-alkogolizma-zaporoje/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/dnepr/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/dnepr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/dnepr/"
-                />
+    <loc>http://localhost:1313/zaporozie/lechenie-alkogolizma-zaporoje/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/zaporozie/</loc>
+    <loc>http://localhost:1313/dnepr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/zaporozie/"
+                href="http://localhost:1313/uk/dnepr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/zaporozie/"
+                href="http://localhost:1313/dnepr/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kamianske/</loc>
+    <loc>http://localhost:1313/zaporozie/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/kamianske/"
+                href="http://localhost:1313/uk/zaporozie/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/kamianske/"
+                href="http://localhost:1313/zaporozie/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/</loc>
+    <loc>http://localhost:1313/kamianske/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/kiev/"
+                href="http://localhost:1313/uk/kamianske/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/kiev/"
+                href="http://localhost:1313/kamianske/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/lviv/</loc>
+    <loc>http://localhost:1313/lviv/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/lviv/"
+                href="http://localhost:1313/uk/lviv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/lviv/"
+                href="http://localhost:1313/lviv/"
                 />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/kamianske/lechenie-alkogolizma-kamenskoe/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/lechenie-alkogolizma-voenim-odesa/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/lechenie-alkogolizma-u-voennyh/</loc>
+    <loc>http://localhost:1313/kamianske/lechenie-alkogolizma-kamenskoe/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services/lechenie-alk-y-voenih/</loc>
+    <loc>http://localhost:1313/services/lechenie-alk-y-voenih/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/lechenie-alkogolizma-kharkiv/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/services/</loc>
+    <loc>http://localhost:1313/services/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/services/"
+                href="http://localhost:1313/uk/services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/services/"
+                href="http://localhost:1313/services/"
                 />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/lechenie-jenskogo-alkogolizma-kharkiv/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services/lechenie-jenskogo-alkogolizma-umbrellaplus/</loc>
+    <loc>http://localhost:1313/services/lechenie-jenskogo-alkogolizma-umbrellaplus/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/zaporozie/lechenie-jenskogo-alkogolizma-zp/</loc>
+    <loc>http://localhost:1313/zaporozie/lechenie-jenskogo-alkogolizma-zp/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/lechenie-jenskogo-alkogolizma-odessa/</loc>
+    <loc>http://localhost:1313/lviv/lechenie-jenskogo-alkogolizma-lvov/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/lviv/lechenie-jenskogo-alkogolizma-lvov/</loc>
+    <loc>http://localhost:1313/dnepr/lechenie-jenskogo-alkogolizma-dnepr/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/dnepr/lechenie-jenskogo-alkogolizma-dnepr/</loc>
+    <loc>http://localhost:1313/kiev/lechenie-jenskogo-alkogolizma-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/lechenie-jenskogo-alkogolizma-kiev/</loc>
+    <loc>http://localhost:1313/services-nark/detox-ot-metadona/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services-nark/detox-ot-metadona/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/services-nark/</loc>
+    <loc>http://localhost:1313/services-nark/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/services-nark/"
+                href="http://localhost:1313/uk/services-nark/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/services-nark/"
+                href="http://localhost:1313/services-nark/"
                 />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/services-nark/lechenie-narkomanii/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/lechenie-nark-belgorod-dnestrovsk/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/zaporozie/lechenie-narkomanii-zp/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/lechenie-nark-kiev/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/lechenie-narkomanii-v-odese/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/lechenie-nark-cherkasy/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/dnepr/lechenie-nark-dnepr/</loc>
+    <loc>http://localhost:1313/services-nark/lechenie-narkomanii/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/lechenie-nark-kharkiv/</loc>
+    <loc>http://localhost:1313/odessa/lechenie-nark-belgorod-dnestrovsk/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chuguev/lechenie-nark-chygyev/</loc>
+    <loc>http://localhost:1313/zaporozie/lechenie-narkomanii-zp/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/lechenie-pivnogo-alkogolizma-kharkiv/</loc>
+    <loc>http://localhost:1313/kiev/lechenie-nark-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services/lechenie-pivnogo-alkogolizma-umbrellaplus/</loc>
+    <loc>http://localhost:1313/odessa/lechenie-narkomanii-v-odese/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/dnepr/lechenie-pivnogo-alkogolizma-dnepr/</loc>
+    <loc>http://localhost:1313/cherkasy/lechenie-nark-cherkasy/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/zaporozie/lechenie-pivnogo-alkogolizma-zaporoje/</loc>
+    <loc>http://localhost:1313/dnepr/lechenie-nark-dnepr/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/lechenie-pivnogi-alkogolizma-kiev/</loc>
+    <loc>http://localhost:1313/kharkiv/lechenie-nark-kharkiv/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/lviv/lechenie-pivnogo-alkogolizma-lviv/</loc>
+    <loc>http://localhost:1313/chuguev/lechenie-nark-chygyev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/lechenie-pivnogo-alkogolizma-odesa/</loc>
+    <loc>http://localhost:1313/services/lechenie-pivnogo-alkogolizma-umbrellaplus/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/lechenie-pishchevogo-otravleniya/</loc>
+    <loc>http://localhost:1313/dnepr/lechenie-pivnogo-alkogolizma-dnepr/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/narkolog-v-belgorod-dnestrovske/</loc>
+    <loc>http://localhost:1313/zaporozie/lechenie-pivnogo-alkogolizma-zaporoje/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/dnepr/konsultacia-narkologa-dnepr/</loc>
+    <loc>http://localhost:1313/kiev/lechenie-pivnogi-alkogolizma-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/zaporozie/narkolog-zaporije/</loc>
+    <loc>http://localhost:1313/lviv/lechenie-pivnogo-alkogolizma-lviv/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/konsultacia-narkologa-kiev/</loc>
+    <loc>http://localhost:1313/dnepr/konsultacia-narkologa-dnepr/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/lviv/narkolog-lvov/</loc>
+    <loc>http://localhost:1313/zaporozie/narkolog-zaporije/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chuguev/narcolog-na-dom-chygyev/</loc>
+    <loc>http://localhost:1313/kiev/konsultacia-narkologa-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/zaporozie/narcolog-na-dom-zaporoje/</loc>
+    <loc>http://localhost:1313/lviv/narkolog-lvov/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/vizov-narkologa-kharkov/</loc>
+    <loc>http://localhost:1313/chuguev/narcolog-na-dom-chygyev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/konsultacia-narkologa-kharkiv/</loc>
+    <loc>http://localhost:1313/zaporozie/narcolog-na-dom-zaporoje/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/narkologicheskii-stacionar-odessa/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/doctors/</loc>
+    <loc>http://localhost:1313/doctors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/doctors/"
+                href="http://localhost:1313/uk/doctors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/doctors/"
+                href="http://localhost:1313/doctors/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/about-us/</loc>
+    <loc>http://localhost:1313/about-us/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/about-us/"
+                href="http://localhost:1313/uk/about-us/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/about-us/"
+                href="http://localhost:1313/about-us/"
                 />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/otkapyvanie-ot-alkogolya-na-domu/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/podshivka_ot_alkogolizma_kharkiv/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/services/podshivka-ot-alkogolia/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/podshivka-ot-alkogolizma-belgorod-dnestrovsk/</loc>
+    <loc>http://localhost:1313/kharkiv/podshivka_ot_alkogolizma_kharkiv/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/zaporozie/podshivka-ot-alkogolia-zp/</loc>
+    <loc>http://localhost:1313/services/podshivka-ot-alkogolia/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/lviv/podshivka-ot-alkogolia-lvov/</loc>
+    <loc>http://localhost:1313/zaporozie/podshivka-ot-alkogolia-zp/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/podshivka-ot-alkogolia-kiev/</loc>
+    <loc>http://localhost:1313/lviv/podshivka-ot-alkogolia-lvov/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chuguev/podhivka-ot-alkogolizma-chygyev/</loc>
+    <loc>http://localhost:1313/kiev/podshivka-ot-alkogolia-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/podshivka-ot-alkogolizma-odesa/</loc>
+    <loc>http://localhost:1313/chuguev/podhivka-ot-alkogolizma-chygyev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/podshivka-ot-nark-belgorod-dnestrovsk/</loc>
+    <loc>http://localhost:1313/odessa/podshivka-ot-nark-belgorod-dnestrovsk/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/dnepr/podshivka-ot-narkotikov-dnepr/</loc>
+    <loc>http://localhost:1313/dnepr/podshivka-ot-narkotikov-dnepr/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/podshivka-ot-nark-kiev/</loc>
+    <loc>http://localhost:1313/kiev/podshivka-ot-nark-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/podshivka-ot-nark-odessa/</loc>
+    <loc>http://localhost:1313/odessa/podshivka-ot-nark-odessa/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/podshivka-ot-narkoticov-kharkiv/</loc>
+    <loc>http://localhost:1313/kharkiv/podshivka-ot-narkoticov-kharkiv/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/podhivka-ot-nark-cherkasy/</loc>
+    <loc>http://localhost:1313/cherkasy/podhivka-ot-nark-cherkasy/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chuguev/podshivka-ot-nark-chygyev/</loc>
+    <loc>http://localhost:1313/chuguev/podshivka-ot-nark-chygyev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/zaporozie/podsjivka-ot-nark-zaporoje/</loc>
+    <loc>http://localhost:1313/zaporozie/podsjivka-ot-nark-zaporoje/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/directory/</loc>
+    <loc>http://localhost:1313/directory/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/directory/"
+                href="http://localhost:1313/uk/directory/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/directory/"
+                href="http://localhost:1313/directory/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/privacy-policy/</loc>
+    <loc>http://localhost:1313/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/privacy-policy/"
+                href="http://localhost:1313/uk/privacy-policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/privacy-policy/"
+                href="http://localhost:1313/privacy-policy/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/prinyditelnoe-lechenie-alkogolizma-kharkiv/</loc>
+    <loc>http://localhost:1313/chuguev/lechenie-alkogolizma-chygyev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/chuguev/lechenie-alkogolizma-chygyev/</loc>
+    <loc>http://localhost:1313/kiev/prinyditelnii-vivod-iz-zapoia-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/prinyditelnoe-lechenie-alkogolizma-odessa/</loc>
+    <loc>http://localhost:1313/services/reabilitacia-alkozavisimih/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/prinyditelnii-vivod-iz-zapoia-kiev/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/prokapatsya-ot-alkogolya/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/services/reabilitacia-alkozavisimih/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/contacts/</loc>
+    <loc>http://localhost:1313/contacts/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/contacts/"
+                href="http://localhost:1313/uk/contacts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/contacts/"
+                href="http://localhost:1313/contacts/"
                 />
   </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-1/2/</loc>
+    <loc>http://localhost:1313/reviewslocal/kodirovanie-type-1/2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewslocal/kodirovanie-type-1/2/"
+                href="http://localhost:1313/uk/reviewslocal/kodirovanie-type-1/2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewslocal/kodirovanie-type-1/2/"
+                href="http://localhost:1313/reviewslocal/kodirovanie-type-1/2/"
                 />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/skoraia-nark-pomosh-kharkiv/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/skoraia-nark-pomosh-belgorod-dnestrovsk/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/skoraia-nark-pomosh-kiev/</loc>
+    <loc>http://localhost:1313/kiev/skoraia-nark-pomosh-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/skoraia-nark-pomosh-odessa/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/snyatie-alkogolnoy-intoksikacii-v-odesse/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/collaboration/</loc>
+    <loc>http://localhost:1313/collaboration/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/collaboration/"
+                href="http://localhost:1313/uk/collaboration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/collaboration/"
+                href="http://localhost:1313/collaboration/"
                 />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/spravka-o-trezvosti/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/spravka-psihiatra-narkologa/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/srochnii-vivod-iz-zapoia-odesa/</loc>
+    <loc>http://localhost:1313/kiev/srochnii-vivod-iz-zapoia-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/srochnii-vivod-iz-zapoia-kiev/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/srochnii-vivod-iz-zapoia-kharkiv/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/reviewsgoogle/5/</loc>
+    <loc>http://localhost:1313/reviewsgoogle/5/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://umbrella-plus.com.ua/uk/reviewsgoogle/5/"
+                href="http://localhost:1313/uk/reviewsgoogle/5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-UA"
-                href="https://umbrella-plus.com.ua/reviewsgoogle/5/"
+                href="http://localhost:1313/reviewsgoogle/5/"
                 />
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/dnepr/test-na-alk-dnepr/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/test-na-alkogol-odessa/</loc>
-  </url><url>
-    <loc>https://umbrella-plus.com.ua/kharkiv/test-na-alkogol-kharkiv/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/zaporozie/test-na-alkogol-zaporoje/</loc>
+    <loc>http://localhost:1313/dnepr/test-na-alk-dnepr/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/kiev/test-na-alkogol-kiev/</loc>
+    <loc>http://localhost:1313/kharkiv/test-na-alkogol-kharkiv/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/cherkasy/test-na-alkogol-cherkasy/</loc>
+    <loc>http://localhost:1313/zaporozie/test-na-alkogol-zaporoje/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/odessa/ukol-ot-alkogolizma/</loc>
+    <loc>http://localhost:1313/kiev/test-na-alkogol-kiev/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services/kapli-midzo/</loc>
+    <loc>http://localhost:1313/services/kapli-midzo/</loc>
   </url><url>
-    <loc>https://umbrella-plus.com.ua/services/vivod-iz-zapoia-umbrellaplus/</loc>
+    <loc>http://localhost:1313/services/vivod-iz-zapoia-umbrellaplus/</loc>
   </url>
 </urlset>
