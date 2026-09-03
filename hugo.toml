@@ -13,27 +13,39 @@ defaultContentLanguageInSubdir = false
 [[module.mounts]]
     source = "content/ru-lang"
     target = "content"
-    lang = "ru"
+
+    [module.mounts.sites.matrix]
+    languages = ["ru"]
 [[module.mounts]]
     source = "content/ua-lang"
     target = "content"
-    lang = "uk"
+
+    [module.mounts.sites.matrix]
+    languages = ["uk"]
 [[module.mounts]]
     source = "content/shared"
     target = "content"
-    lang = "ru"
+
+    [module.mounts.sites.matrix]
+    languages = ["ru"]
 [[module.mounts]]
     source = "content/shared"
     target = "content"
-    lang = "uk"
+
+    [module.mounts.sites.matrix]
+    languages = ["uk"]
 [[module.mounts]]
     source = "content/celebration"
     target = "content"
-    lang = "ru"
+
+    [module.mounts.sites.matrix]
+    languages = ["ru"]
 [[module.mounts]]
     source = "content/celebration"
     target = "content"
-    lang = "uk"
+    
+    [module.mounts.sites.matrix]
+    languages = ["uk"]
 
 
 [languages]
