@@ -1,9 +1,10 @@
 ---
 date: 2026-09-06T06:04:01.472Z
-lastmod: 2026-09-06T09:17:20.576Z
+lastmod: 2026-09-06T16:25:01.047Z
 tabTitle: Снятие запоя в Харькове | Umbrella Plus | От 2199 грн
 title: Снятие запоя в Харькове
 description: Быстрое обращение к наркологу
+image: /img/kharkov-new/kapelnica-ot-amfetamina.jpg
 imageText: Снятие запоя в Харькове
 ratingAvarage: 4.99/5
 rating: '1635'
