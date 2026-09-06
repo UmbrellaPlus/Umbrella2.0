@@ -1,9 +1,10 @@
 ---
 date: 2026-09-06T08:13:26.172Z
-lastmod: 2026-09-06T09:18:06.360Z
+lastmod: 2026-09-06T16:25:23.816Z
 tabTitle: Зняття запою в Харкові | Umbrella Plus | Від 2199 грн
 title: Зняття запою в Харкові
 description: Швидке звернення до нарколога
+image: /img/kharkov-new/kapelnica-ot-amfetamina.jpg
 imageText: Зняття запою в Харкові
 ratingAvarage: 4.99/5
 rating: '1635'
