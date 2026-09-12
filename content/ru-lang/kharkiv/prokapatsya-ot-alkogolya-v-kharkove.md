@@ -1,9 +1,10 @@
 ---
 date: 2026-09-12T20:14:48.007Z
-lastmod: 2026-09-12T20:17:54.669Z
+lastmod: 2026-09-12T20:18:18.049Z
 tabTitle: Прокапаться от алкоголя в Харькове | Umbrella Plus | От 2199 грн
 title: Прокапаться от алкоголя в Харькове
 description: Медицинская помощь 24/7
+image: /img/kharkov-new/kak-vivodat-iz-zapoia.jpg
 imageText: Прокапаться от алкоголя в Харькове
 ratingAvarage: 4.99/5
 rating: '3612'
