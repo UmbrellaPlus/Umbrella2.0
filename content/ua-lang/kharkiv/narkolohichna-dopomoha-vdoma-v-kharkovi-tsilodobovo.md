@@ -1,11 +1,11 @@
 ---
 date: 2026-09-14T16:42:54.458Z
-lastmod: 2026-09-15T18:07:03.577Z
+lastmod: 2026-09-15T18:08:37.487Z
 tabTitle: Наркологічна допомога вдома у Харкові цілодобово | Umbrella Plus | Від 2199 грн
 title: Наркологічна допомога вдома у Харкові цілодобово
 description: Допомога нарколога вдень та вночі
 image: /img/kharkov-new/podhivka-ot-alkogolia.jpg
-imageText: Наркологічна допомога вдома у Харкові цілодобово | Umbrella Plus | Від 2199 грн
+imageText: Наркологічна допомога вдома у Харкові цілодобово
 ratingAvarage: 4.99/5
 rating: '3792'
 reviewType: lomka
