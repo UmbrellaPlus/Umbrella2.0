@@ -1,5 +1,6 @@
 ---
-lastmod: 2026-09-18T14:35:06.596Z
+date: 2025-09-06T14:36:08.545Z
+lastmod: 2026-09-18T14:36:55.042Z
 tabTitle: Капельница от кокаина Харьков | Umbrella Plus | От 2499 грн
 title: Капельница от кокаина Харьков
 description: Экстренное очищение орагнизма
@@ -8,6 +9,9 @@ imageText: Капельница от кокаина Харьков
 ratingAvarage: 4.99/5
 rating: '3629'
 reviewType: narkot
+expert: olga
+interestingArticleName: Зависимость от налбуфина
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/nalbyfin-chto-eto/'
 ---
 
 ## Капельница от кокаина в Харькове
