@@ -1,11 +1,11 @@
 ---
 date: 2026-09-12T08:34:56.753Z
-lastmod: 2026-09-19T11:04:31.996Z
-tabTitle: Прокопатись від алкоголю у Харкові | Umbrella Plus | Від 2199 грн
-title: Прокопатись від алкоголю у Харкові
+lastmod: 2026-09-19T20:12:06.311Z
+tabTitle: Прокапатись від алкоголю у Харкові | Umbrella Plus | Від 2199 грн
+title: Прокапатись від алкоголю у Харкові
 description: Медична допомога 24/7
 image: /img/kharkov-new/kak-vivodat-iz-zapoia.jpg
-imageText: Прокопатись від алкоголю у Харкові
+imageText: Прокапатись від алкоголю у Харкові
 ratingAvarage: 4.99/5
 rating: '3612'
 reviewType: alk-1
