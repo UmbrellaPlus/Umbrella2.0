@@ -176,6 +176,11 @@ defaultContentLanguageInSubdir = false
                         pageRef = '/licenses'
                         weight = 50
                         parent = 'extra'
+                    [[languages.ru.menus.main]]
+                        name = 'Калькулятор алкогольной зависимости'
+                        pageRef = '/calculator'
+                        weight = 60
+                        parent = 'extra'
     [languages.uk]
         contentDir = 'content/ua-lang'
         languageCode = 'uk-UA'
@@ -301,4 +306,9 @@ defaultContentLanguageInSubdir = false
                         name = 'Ліцензії та сертифікати'
                         pageRef = '/licenses'
                         weight = 50
+                        parent = 'extra'
+                    [[languages.uk.menus.main]]
+                        name = 'Калькулятор алкогольної залежності'
+                        pageRef = '/calculator'
+                        weight = 60
                         parent = 'extra'
