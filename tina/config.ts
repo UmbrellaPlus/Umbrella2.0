@@ -913,7 +913,8 @@ export default defineConfig({
             createNestedFolder: false,
           },
         },
-      },      {
+      },
+      {
         name: "screenshots",
         label: "Screenshots",
         path: "content/shared/screenshots",
@@ -926,5 +927,13 @@ export default defineConfig({
         },
       },
     ],
+  },
+  search: {
+    tina: {
+      indexerToken: "6355aaba983935646ff1c3f7454b0afb5cd44540",
+      stopwordLanguages: ["eng"],
+    },
+    indexBatchSize: 100,
+    maxSearchIndexFieldLength: 100,
   },
 });
