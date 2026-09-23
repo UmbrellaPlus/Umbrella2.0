@@ -122,8 +122,7 @@ export const cityTemplate: TinaField[] = [
     type: "string",
     name: "expert",
     label: "Статья проверена экспертом",
-    description:
-      "Кто проверил статью: Стас, Костя или Ольга",
+    description: "Кто проверил статью: Стас, Костя или Ольга",
     options: [
       {
         value: "olga",
@@ -132,9 +131,47 @@ export const cityTemplate: TinaField[] = [
       {
         value: "kostya",
         label: "Константин",
-      },      {
+      },
+      {
         value: "stas",
         label: "Станислав",
+      },
+    ],
+  },
+  {
+    type: "string",
+    name: "faq",
+    label: "Выбор типа ответов на часто задаваемые вопросы",
+    description:
+      "FAQ зависит от того какой тип страницы. Дефолт находяться на всех страницах где ты ничего не выбирал",
+    options: [
+      {
+        value: "general",
+        label: "Дефолт",
+      },
+      {
+        value: "alkogolism",
+        label: "Алкоголизм",
+      },
+      {
+        value: "vivod",
+        label: "Вывод из запоя",
+      },
+      {
+        value: "kodirovka",
+        label: "Кодирование от алкоголизма",
+      },
+      {
+        value: "narkomania",
+        label: "Наркомания",
+      },
+      {
+        value: "vitamini",
+        label: "Витамины",
+      },
+      {
+        value: "detox",
+        label: "Детокс",
       },
     ],
   },
