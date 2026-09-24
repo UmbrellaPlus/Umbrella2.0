@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-24T01:05:00.502Z
 tabTitle: Вывод из запоя Днепр | Umbrella Plus | От 2199 грн
 title: Вывод из запоя Днепр
 description: Круглосуточная помощь рядом
@@ -7,6 +8,7 @@ imageText: Вывод из запоя Днепр
 ratingAvarage: 4.98/5
 rating: '5511'
 reviewType: alk-2
+faq: vivod
 ---
 
 ## Вывод из запоя Днепр
