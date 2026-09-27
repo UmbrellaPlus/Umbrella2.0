@@ -1,7 +1,7 @@
 ---
 date: 2026-09-20T08:18:42.172Z
-lastmod: 2026-09-20T08:23:00.795Z
-tabTitle: Лечение наркотической зависимости от трамадола в Харькове
+lastmod: 2026-09-27T18:39:39.969Z
+tabTitle: Лечение наркотической зависимости от трамадола в Харькове | Umbrella Plus | От 2499 грн
 title: Лечение наркотической зависимости от трамадола в Харькове
 description: Комплексная помощь при зависимости от трамадола
 image: /img/kharkov-new/lechenie-narkoticheskoy-zavisimosti-ot-tramadola.jpg
