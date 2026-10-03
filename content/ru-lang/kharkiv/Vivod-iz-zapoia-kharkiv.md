@@ -1,6 +1,6 @@
 ---
 date: 2025-03-19T21:03:12.457Z
-lastmod: 2026-08-23T20:00:13.853Z
+lastmod: 2026-10-03T18:06:51.807Z
 tabTitle: Вывод из запоя Харьков | Umbrella Plus | От 2199 грн
 title: Вывод из запоя Харьков
 description: Первый шаг к трезвой жизни
@@ -10,6 +10,7 @@ ratingAvarage: 4.98/5
 rating: '4902'
 reviewType: alk-2
 expert: olga
+faq: vivod
 interestingArticleName: 'Как выйти из запоя без капельницы: советы нарколога'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-vyvesti-iz-zapoya-bez-kapelnitsy/'
 ---
