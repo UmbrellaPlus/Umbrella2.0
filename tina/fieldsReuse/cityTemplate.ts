@@ -173,6 +173,14 @@ export const cityTemplate: TinaField[] = [
         value: "detox",
         label: "Детокс",
       },
+      {
+        value: "kapotalkogolya",
+        label: "Капельница от алкоголя"
+      },
+      {
+        value: "otravlenie",
+        label: "Пищевое отравление"
+      }
     ],
   },
   {

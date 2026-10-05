@@ -41,7 +41,19 @@
       <summary>{{.Params.question}}</summary>
       {{.Content}}
     </details>
-    {{end}} {{else}} {{range where site.RegularPages "File.Dir" "faq/general/"}}
+    {{end}} {{else if eq .Params.faq "kapotalkogolya"}} {{range where site.RegularPages
+    "File.Dir" "faq/kapotalkogolya/"}}
+    <details>
+      <summary>{{.Params.question}}</summary>
+      {{.Content}}
+    </details>
+    {{end}}{{else if eq .Params.faq "otravlenie"}} {{range where site.RegularPages
+    "File.Dir" "faq/otravlenie/"}}
+    <details>
+      <summary>{{.Params.question}}</summary>
+      {{.Content}}
+    </details>
+    {{end}}{{else}} {{range where site.RegularPages "File.Dir" "faq/general/"}}
     <details>
       <summary>{{.Params.question}}</summary>
       {{.Content}}

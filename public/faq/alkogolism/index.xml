@@ -2,17 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Umbrella Plus</title>
-    <link>https://umbrella-plus.com.ua/faq/alkogolism/</link>
+    <link>http://localhost:1313/faq/alkogolism/</link>
     <description>Recent content on Umbrella Plus</description>
     <generator>Hugo</generator>
     <language>ru-UA</language>
-    <atom:link href="https://umbrella-plus.com.ua/faq/alkogolism/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/faq/alkogolism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://umbrella-plus.com.ua/faq/alkogolism/1/</link>
+      <link>http://localhost:1313/faq/alkogolism/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://umbrella-plus.com.ua/faq/alkogolism/1/</guid>
-      <description>&lt;p&gt;testtetes&lt;/p&gt;</description>
+      <guid>http://localhost:1313/faq/alkogolism/1/</guid>
+      <description>&lt;p&gt;Начинать лечение стоит уже тогда, когда употребление алкоголя становится регулярным, человеку сложно контролировать количество выпитого, появляются запои, абстинентный синдром, проблемы со здоровьем, работой или отношениями с близкими. Чем раньше человек обращается за помощью, тем меньше риск тяжёлых осложнений и прогрессирования зависимости.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/faq/alkogolism/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/faq/alkogolism/2/</guid>
+      <description>&lt;p&gt;Алкогольная зависимость относится к хроническим расстройствам, однако при правильно подобранном лечении можно добиться длительной устойчивой ремиссии и полностью отказаться от употребления алкоголя. Результат зависит от мотивации пациента, тяжести зависимости, продолжительности употребления и соблюдения рекомендаций врача.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/faq/alkogolism/3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/faq/alkogolism/3/</guid>
+      <description>&lt;p&gt;Лечение начинается с консультации и оценки состояния пациента. Врач уточняет длительность и характер употребления алкоголя, наличие запоев, симптомы абстиненции, хронические заболевания и предыдущие попытки лечения. Если пациент находится в запое или испытывает выраженный синдром отмены, первым этапом может быть детоксикация и стабилизация состояния.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/faq/alkogolism/4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/faq/alkogolism/4/</guid>
+      <description>&lt;p&gt;Отдельные этапы лечения алкогольной зависимости могут проводиться на дому. Это может быть вывод из запоя, детоксикация, лечение лёгкого или умеренного абстинентного синдрома, консультация врача и последующее медикаментозное сопровождение.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/faq/alkogolism/5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/faq/alkogolism/5/</guid>
+      <description>&lt;p&gt;Стационар может потребоваться при тяжёлом абстинентном синдроме, длительном запое, судорогах, галлюцинациях, спутанности сознания, подозрении на алкогольный делирий, выраженных нарушениях давления или сердечного ритма, а также при тяжёлых сопутствующих заболеваниях. В стационаре состояние пациента можно контролировать круглосуточно.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/faq/alkogolism/6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/faq/alkogolism/6/</guid>
+      <description>&lt;p&gt;Если пациент находится в запое, первым этапом обычно становится безопасное прекращение употребления алкоголя и лечение абстинентного синдрома. После стабилизации физического состояния можно переходить к дальнейшему лечению зависимости, противорецидивной терапии, психотерапии и другим методам.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/faq/alkogolism/7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/faq/alkogolism/7/</guid>
+      <description>&lt;p&gt;Лечение может включать медикаментозную терапию, детоксикацию, противорецидивное лечение, психотерапию, работу с мотивацией, кодирование и реабилитационные программы. Обычно наибольшую эффективность даёт комплексный подход, когда врач подбирает методы с учётом состояния и особенностей конкретного пациента.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/faq/alkogolism/8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/faq/alkogolism/8/</guid>
+      <description>&lt;p&gt;Кодирование может использоваться как один из этапов лечения алкогольной зависимости. Его задача — помочь человеку сохранять трезвость и снизить риск употребления алкоголя в определённый период. При этом кодирование не устраняет все психологические и поведенческие причины зависимости, поэтому часто сочетается с консультациями специалиста, психотерапией и другими методами лечения.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/faq/alkogolism/9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/faq/alkogolism/9/</guid>
+      <description>&lt;p&gt;Плановое лечение алкогольной зависимости обычно проводится при информированном согласии самого пациента. Если человек не хочет лечиться, родственники могут обратиться за консультацией и обсудить со специалистом способы мотивации к лечению. При состояниях, представляющих непосредственную угрозу жизни или здоровью, необходима экстренная медицинская помощь.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/faq/alkogolism/91/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/faq/alkogolism/91/</guid>
+      <description>&lt;p&gt;Давление, угрозы и постоянные конфликты часто усиливают сопротивление. Родственникам лучше спокойно обсуждать конкретные последствия употребления и предлагать консультацию специалиста. Может использоваться мотивационная беседа, цель которой — помочь человеку увидеть проблему и самостоятельно принять решение о начале лечения.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/faq/alkogolism/92/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/faq/alkogolism/92/</guid>
+      <description>&lt;p&gt;После стабилизации важно продолжать лечение и не ограничиваться только детоксикацией или выводом из запоя. Снизить риск срыва помогают регулярные консультации специалиста, психотерапия, противорецидивное лечение, отказ от ситуаций, связанных с употреблением алкоголя, поддержка близких и изменение привычного образа жизни.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/faq/alkogolism/93/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/faq/alkogolism/93/</guid>
+      <description>&lt;p&gt;Реабилитация требуется не каждому пациенту в одинаковом объёме, однако при сформированной зависимости, повторных запоях и частых срывах она может существенно дополнять основное лечение. Реабилитационная программа помогает работать с психологическими причинами употребления, формировать новые привычки и навыки трезвой жизни и снижать риск возвращения к алкоголю.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
