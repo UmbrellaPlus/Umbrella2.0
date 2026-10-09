@@ -1,6 +1,6 @@
 ---
 date: 2025-11-11T20:10:55.985Z
-lastmod: 2026-08-06T19:59:13.315Z
+lastmod: 2026-10-09T19:43:39.910Z
 tabTitle: Вывод из запоя на дому Одесса | Umbrella Plus | От 2199 грн
 title: Вывод из запоя на дому Одесса
 description: Быстро и безопасно избавляем от любой интоксикации
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '5322'
 reviewType: alk-2
 expert: olga
+faq: vivod
 interestingArticleName: Как быстро избавиться от похмелья
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-bistro-izbavitsa-ot-pohmelia/'
 ---
