@@ -1,6 +1,6 @@
 ---
 date: 2026-10-11T20:26:19.624Z
-lastmod: 2026-10-11T20:30:59.170Z
+lastmod: 2026-10-12T20:44:03.112Z
 tabTitle: Анонимное лечение наркомании в Харькове | Umbrella Plus | От 2499 грн
 title: Анонимное лечение наркомании в Харькове
 description: Конфиденциальная помощь при зависимости
@@ -11,6 +11,8 @@ rating: '3342'
 reviewType: narkot
 expert: olga
 faq: narkomania
+interestingArticleName: Как очиститься от наркотиков — рабочие советы
+interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-ochistitsya-ot-narkotikov-rabochie-sovety/'
 ---
 
 ## Анонимное лечение наркомании в Харькове: первый шаг к помощи
