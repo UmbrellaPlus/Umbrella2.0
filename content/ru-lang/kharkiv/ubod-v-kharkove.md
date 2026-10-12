@@ -1,12 +1,12 @@
 ---
 date: 2026-10-11T19:25:24.627Z
-lastmod: 2026-10-11T20:18:51.283Z
+lastmod: 2026-10-12T20:33:09.956Z
 tabTitle: УБОД в Харькове — ультрабыстрая опиоидная детоксикация | Umbrella Plus | От 20000 грн
 title: УБОД в Харькове — ультрабыстрая опиоидная детоксикация
 description: Профессиональная наркологическая помощь
 image: /img/kharkov-new/lechenie-voenih-kharkiv.jpg
 imageText: УБОД в Харькове — ультрабыстрая опиоидная детоксикация
-ratingAvarage: УБОД в Харькове — ультрабыстрая опиоидная детоксикация
+ratingAvarage: 4.99/5
 rating: '2008'
 reviewType: narkot
 expert: olga
