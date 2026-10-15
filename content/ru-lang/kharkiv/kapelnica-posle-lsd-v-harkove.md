@@ -1,6 +1,6 @@
 ---
 date: 2026-09-17T19:28:21.603Z
-lastmod: 2026-09-17T19:35:09.445Z
+lastmod: 2026-10-15T20:28:06.517Z
 tabTitle: Капельница после ЛСД в Харькове | Umbrella Plus | От 2499 грн
 title: Капельница после ЛСД в Харькове
 description: Помощь при тревоге и дезориентации
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1633'
 reviewType: lomka
 expert: stas
+faq: narkomania
 interestingArticleName: Как формируется наркотическая зависимость
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-formiruetsa-nark-zavisimost/'
 ---
