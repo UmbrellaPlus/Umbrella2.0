@@ -1,6 +1,6 @@
 ---
 date: 2025-09-07T12:50:32.883Z
-lastmod: 2026-10-14T18:21:56.430Z
+lastmod: 2026-10-15T18:19:09.349Z
 tabTitle: Крапельниця від опіоїдів Харків | Umbrella Plus | Від 2499 грн
 title: Крапельниця від опіоїдів Харків
 description: 'Очистимо організм, повернемо силу і надію'
@@ -91,12 +91,12 @@ interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chomy-formiryetsa-
 
 Вартість крапельниці від опіоїдів у Харкові починається від 2499 грн
 
-| Популярні послуги                                                                                           | Ціна         |
-| ----------------------------------------------------------------------------------------------------------- | ------------ |
-| **[Нарколог Харків](https://umbrella-plus.com.ua/uk/kharkiv/konsultacia-narkologa-kharkiv-ua/)**            | Від 1500 грн |
-| **[Крапельниця від алкоголю](https://umbrella-plus.com.ua/uk/kharkiv/kapelnica_ot_alkogola_kharkiv-ua/)**   | Від 2199 грн |
-| **[Виведення із запою вдома](https://umbrella-plus.com.ua/uk/kharkiv/vivod-iz-zapoia-na-domy-kharkiv-ua/)** | Від 2199 грн |
-| **[Кодування від алкоголізму](https://umbrella-plus.com.ua/uk/kharkiv/kodirovka-ot-alkogolia-kharkiv-ua/)** | Від 6000 грн |
+| Популярні послуги                                                                                                  | Ціна         |
+| ------------------------------------------------------------------------------------------------------------------ | ------------ |
+| **[Консультація нарколога](https://umbrella-plus.com.ua/uk/kharkiv/konsultacia-narkologa-kharkiv-ua/)**            | Від 1500 грн |
+| **[Лікування наркотичної залежності](https://umbrella-plus.com.ua/uk/kharkiv/lechenie-nakr-kharkov-ua/)**          | Від 2499 грн |
+| **[Крапельниця від наркотиків](https://umbrella-plus.com.ua/uk/kharkiv/kap-ot-nark-ua/)**                          | Від 2499 грн |
+| **[Виведення із запою вдома Харків](https://umbrella-plus.com.ua/uk/kharkiv/vivod-iz-zapoia-na-domy-kharkiv-ua/)** | Від 2199 грн |
 
 ## Як викликати нарколога для крапельниці від опіоїдів
 
