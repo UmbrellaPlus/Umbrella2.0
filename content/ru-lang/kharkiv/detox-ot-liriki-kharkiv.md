@@ -1,6 +1,6 @@
 ---
 date: 2025-09-07T20:16:01.865Z
-lastmod: 2026-10-14T19:38:59.330Z
+lastmod: 2026-10-15T19:22:50.327Z
 tabTitle: Капельница от прегабалинов (Лирики) Харьков | Umbrella Plus | От 2499 грн
 title: Капельница от прегабалинов (Лирики)
 description: Очисти организм – открой путь к новой жизни
@@ -112,6 +112,13 @@ interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-ochistitsya-ot-na
 ## Стоимость капельницы после прегабалина в Харькове
 
 Стоимость капельницы после прегабалина в Харькове начинается от 2499 грн.
+
+| Популярные услуги                                                                                           | Цена        |
+| ----------------------------------------------------------------------------------------------------------- | ----------- |
+| **[Нарколог Харьков](https://umbrella-plus.com.ua/kharkiv/konsultacia-narkologa-kharkiv/)**                 | От 1500 грн |
+| **[Лечение наркомании](https://umbrella-plus.com.ua/kharkiv/lechenie-nark-kharkiv/)**                       | От 2499 грн |
+| **[Капельница от наркотиков](https://umbrella-plus.com.ua/kharkiv/kap-ot-nark-kharkiv/)**                   | От 2499 грн |
+| **[Вывод из запоя на дому Харьков](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/)** | От 2199 грн |
 
 ## Как лечат зависимость от прегабалина
 
