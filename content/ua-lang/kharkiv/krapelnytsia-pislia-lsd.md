@@ -1,6 +1,6 @@
 ---
 date: 2026-09-17T12:36:30.343Z
-lastmod: 2026-09-26T13:00:23.695Z
+lastmod: 2026-10-15T20:27:59.479Z
 tabTitle: Крапельниця після ЛСД у Харкові | Umbrella Plus | Від 2499 грн
 title: Крапельниця після ЛСД у Харкові
 description: Допомога при тривозі та дезорієнтації
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1633'
 reviewType: lomka
 expert: stas
+faq: narkomania
 interestingArticleName: Як формується наркотична залежність
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chomy-formiryetsa-nark-zavisimost-ua/'
 ---
