@@ -1,6 +1,6 @@
 ---
 date: 2026-09-17T18:44:49.616Z
-lastmod: 2026-10-14T20:28:58.395Z
+lastmod: 2026-10-15T19:34:12.628Z
 tabTitle: Капельница после метамфетамина в Харькове | Umbrella Plus | От 2499 грн
 title: Капельница после метамфетамина в Харькове
 description: Помощь при интоксикации 24/7
@@ -94,6 +94,13 @@ interestingArticleLink: 'https://umbrella-plus.com.ua/blog/dragsy-chto-eto/'
 ## Стоимость капельницы после метамфетамина в Харькове
 
 Стоимость капельницы от метамфетамина в Харькове начинается от 2499 грн.
+
+| Популярные услуги                                                                                           | Цена        |
+| ----------------------------------------------------------------------------------------------------------- | ----------- |
+| **[Нарколог Харьков](https://umbrella-plus.com.ua/kharkiv/konsultacia-narkologa-kharkiv/)**                 | От 1500 грн |
+| **[Лечение наркомании](https://umbrella-plus.com.ua/kharkiv/lechenie-nark-kharkiv/)**                       | От 2499 грн |
+| **[Капельница от наркотиков](https://umbrella-plus.com.ua/kharkiv/kap-ot-nark-kharkiv/)**                   | От 2499 грн |
+| **[Вывод из запоя на дому Харьков](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/)** | От 2199 грн |
 
 ## Срочная наркологическая помощь в Харькове
 
