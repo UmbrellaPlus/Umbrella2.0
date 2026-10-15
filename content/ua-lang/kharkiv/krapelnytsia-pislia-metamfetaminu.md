@@ -1,6 +1,6 @@
 ---
 date: 2026-09-17T11:55:46.894Z
-lastmod: 2026-10-14T20:29:11.952Z
+lastmod: 2026-10-15T19:35:53.427Z
 tabTitle: Крапельниця після метамфетаміну у Харкові | Umbrella Plus | Від 2499 грн
 title: Крапельниця після метамфетаміну у Харкові
 description: Допомога при інтоксикації 24/7
@@ -94,6 +94,13 @@ interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/drahsy-shcho-tse-t
 ## Вартість крапельниці після метамфетаміну в Харкові
 
 Вартість крапельниці від метамфетаміну в Харкові починається від 2499 грн.
+
+| Популярні послуги                                                                                                  | Ціна         |
+| ------------------------------------------------------------------------------------------------------------------ | ------------ |
+| **[Консультація нарколога](https://umbrella-plus.com.ua/uk/kharkiv/konsultacia-narkologa-kharkiv-ua/)**            | Від 1500 грн |
+| **[Лікування наркотичної залежності](https://umbrella-plus.com.ua/uk/kharkiv/lechenie-nakr-kharkov-ua/)**          | Від 2499 грн |
+| **[Крапельниця від наркотиків](https://umbrella-plus.com.ua/uk/kharkiv/kap-ot-nark-ua/)**                          | Від 2499 грн |
+| **[Виведення із запою вдома Харків](https://umbrella-plus.com.ua/uk/kharkiv/vivod-iz-zapoia-na-domy-kharkiv-ua/)** | Від 2199 грн |
 
 ## Термінова наркологічна допомога в Харкові
 
