@@ -1,6 +1,6 @@
 ---
 date: 2025-09-06T13:03:44.860Z
-lastmod: 2026-10-16T05:58:52.391Z
+lastmod: 2026-10-16T19:03:12.567Z
 tabTitle: Крапельниця від кокаїну Харків | Umbrella Plus | Від 2499 грн
 title: Крапельниця від кокаїну Харків
 description: Екстрене очищення організму
@@ -94,6 +94,13 @@ interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/nalbyfin-chto-eto-
 ## Вартість крапельниці після кокаїну у Харкові
 
 Вартість крапельниці від кокаїну у Харкові починається від 2499 грн.
+
+| Популярні послуги                                                                                                  | Ціна         |
+| ------------------------------------------------------------------------------------------------------------------ | ------------ |
+| **[Консультація нарколога](https://umbrella-plus.com.ua/uk/kharkiv/konsultacia-narkologa-kharkiv-ua/)**            | Від 1500 грн |
+| **[Лікування наркотичної залежності](https://umbrella-plus.com.ua/uk/kharkiv/lechenie-nakr-kharkov-ua/)**          | Від 2499 грн |
+| **[Крапельниця від наркотиків](https://umbrella-plus.com.ua/uk/kharkiv/kap-ot-nark-ua/)**                          | Від 2499 грн |
+| **[Виведення із запою вдома Харків](https://umbrella-plus.com.ua/uk/kharkiv/vivod-iz-zapoia-na-domy-kharkiv-ua/)** | Від 2199 грн |
 
 ## Лікування залежності від кокаїну після детоксикації
 
