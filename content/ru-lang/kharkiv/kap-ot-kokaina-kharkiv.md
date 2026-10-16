@@ -1,6 +1,6 @@
 ---
 date: 2025-09-06T14:36:08.545Z
-lastmod: 2026-10-16T05:58:59.032Z
+lastmod: 2026-10-16T19:03:21.547Z
 tabTitle: Капельница от кокаина Харьков | Umbrella Plus | От 2499 грн
 title: Капельница от кокаина Харьков
 description: Экстренное очищение орагнизма
@@ -94,6 +94,13 @@ interestingArticleLink: 'https://umbrella-plus.com.ua/blog/nalbyfin-chto-eto/'
 ## Стоимость капельницы после кокаина в Харькове
 
 Стоимость капельницы от кокаина в Харькове начинается от 2499 грн.
+
+| Популярные услуги                                                                                           | Цена        |
+| ----------------------------------------------------------------------------------------------------------- | ----------- |
+| **[Нарколог Харьков](https://umbrella-plus.com.ua/kharkiv/konsultacia-narkologa-kharkiv/)**                 | От 1500 грн |
+| **[Лечение наркомании](https://umbrella-plus.com.ua/kharkiv/lechenie-nark-kharkiv/)**                       | От 2499 грн |
+| **[Капельница от наркотиков](https://umbrella-plus.com.ua/kharkiv/kap-ot-nark-kharkiv/)**                   | От 2499 грн |
+| **[Вывод из запоя на дому Харьков](https://umbrella-plus.com.ua/kharkiv/vivod-iz-zapoia-na-domy-kharkiv/)** | От 2199 грн |
 
 ## Лечение зависимости от кокаина после детоксикации
 
