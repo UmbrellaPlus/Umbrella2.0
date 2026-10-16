@@ -2,6 +2,24 @@
   padding-top: 9rem;
   text-align: center;
 }
+.blog-list-tags {
+  padding: 1rem;
+  ul {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+  }
+  ul li {
+    list-style: none;
+    background-color: var(--blue);
+    color: white;
+    border-radius: 1rem;
+    justify-self: center;
+    align-self: center;
+    padding: 0.75rem;
+    font-size: 0.8rem;
+  }
+}
 .PaginationNavigation {
   display: flex;
   gap: 1.5rem;
@@ -48,6 +66,13 @@
   font-size: 12px;
 }
 @media (min-width: 900px) {
+  .blog-list-tags{
+    max-width: 70%;
+    margin: auto;
+    ul li{
+      font-size: 1rem;
+    }
+  }
   .blog-list-container {
     max-width: 70%;
     margin: auto;
