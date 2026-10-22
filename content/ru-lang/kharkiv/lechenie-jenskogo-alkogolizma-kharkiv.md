@@ -1,6 +1,6 @@
 ---
 date: 2025-02-27T16:48:11.465Z
-lastmod: 2026-08-27T17:43:44.898Z
+lastmod: 2026-10-22T10:24:14.610Z
 tabTitle: Лечение женского алкоголизма Харьков | Umbrella Plus | От 2199 грн
 title: Лечение женского алкоголизма Харьков
 description: Женское здоровье – без зависимости!
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '5521'
 reviewType: alk-1
 expert: kostya
+faq: alkogolism
 interestingArticleName: Лекарство вызывающее отвращение к алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/lekarstvo-vyzyvayushchee-otvrashchenie-k-alkogolyu/'
 ---
