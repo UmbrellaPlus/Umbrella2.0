@@ -1,6 +1,6 @@
 ---
 date: 2026-09-18T15:04:07.421Z
-lastmod: 2026-09-18T15:54:40.289Z
+lastmod: 2026-10-22T10:26:11.640Z
 tabTitle: Лечение наркотической зависимости от амфетамина в Харькове | Umbrella Plus | От 2499 грн
 title: Лечение наркотической зависимости от амфетамина в Харькове
 description: Профессиональная помощь на пути к жизни без наркотиков
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '4232'
 reviewType: narkot
 expert: kostya
+faq: narkomania
 interestingArticleName: Как очиститься от наркотиков — рабочие советы
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-ochistitsya-ot-narkotikov-rabochie-sovety/'
 ---
