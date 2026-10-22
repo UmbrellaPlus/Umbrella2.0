@@ -1,6 +1,6 @@
 ---
 date: 2026-06-05T18:56:31.376Z
-lastmod: 2026-08-27T11:03:47.846Z
+lastmod: 2026-10-22T10:19:32.484Z
 tabTitle: Круглосуточная наркологическая помощь Харьков | Umbrella Plus | От 2199 грн
 title: Круглосуточная наркологическая помощь Харьков
 description: Медицинская поддержка на дому и в стационаре
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2716'
 reviewType: alk-2
 expert: olga
+faq: alkogolism
 interestingArticleName: 'Цирроз печени: причины, симптомы, стадии и лечение'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/ciroz-pecheni/'
 ---
