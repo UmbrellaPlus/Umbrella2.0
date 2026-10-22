@@ -1,6 +1,6 @@
 ---
 date: 2026-06-24T09:06:43.719Z
-lastmod: 2026-08-23T19:54:05.387Z
+lastmod: 2026-10-22T09:25:16.290Z
 tabTitle: Доступная наркологическая помощь в Харькове | Umbrella Plus | От 2199 грн
 title: Доступная наркологическая помощь в Харькове
 description: Забота в сложный момент
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2871'
 reviewType: alk-2
 expert: olga
+faq: alkogolism
 interestingArticleName: Какой укол вызывает отвращение к алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kakoy-ukol-vyzyvaet-otvrashchenie-k-alkogolyu/'
 ---
