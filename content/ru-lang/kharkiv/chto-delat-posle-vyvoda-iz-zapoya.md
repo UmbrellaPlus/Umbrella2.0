@@ -1,6 +1,6 @@
 ---
 date: 2026-09-17T18:22:17.204Z
-lastmod: 2026-09-18T16:55:36.535Z
+lastmod: 2026-10-22T09:11:34.219Z
 tabTitle: 'Что делать после вывода из запоя в Харькове: лечение алкоголизма | Umbrella Plus | От 2199 грн'
 title: Что делать после вывода из запоя в Харькове
 description: Ваш первый шаг к трезвости
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2612'
 reviewType: alk-1
 expert: kostya
+faq: vivod
 interestingArticleName: Можно ли умереть от пьянки
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/mozhno-li-umeret-ot-pyanki/'
 ---
