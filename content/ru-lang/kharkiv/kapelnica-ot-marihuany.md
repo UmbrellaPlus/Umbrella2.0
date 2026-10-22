@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T09:24:32.359Z
-lastmod: 2026-09-20T09:27:00.992Z
+lastmod: 2026-10-22T09:29:09.161Z
 tabTitle: 'Капельница от марихуаны, каннабиса, гашиша, ТГК в Харькове | Umbrella Plus | От 2499 грн'
 title: 'Капельница от марихуаны, каннабиса, гашиша, ТГК в Харькове'
 description: Наркологическая помощь после интоксикации
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1555'
 reviewType: lomka
 expert: olga
+faq: narkomania
 interestingArticleName: 'Пивной алкоголизм: опасность и последствия'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/pivnoj-alkogolizm-opasnost-i-posledstviya/'
 ---
