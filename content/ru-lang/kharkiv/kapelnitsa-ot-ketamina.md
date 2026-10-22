@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T13:34:41.255Z
-lastmod: 2026-09-20T13:38:13.635Z
+lastmod: 2026-10-22T10:01:55.368Z
 tabTitle: Капельница от кетамина в Харькове | Umbrella Plus | От 2499 грн
 title: Капельница от кетамина в Харькове
 description: Не оставайтесь с последствиями употребления один на один
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1518'
 reviewType: lomka
 expert: olga
+faq: narkomania
 interestingArticleName: Агрессия после употребления алкоголя
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/agressiya-posle-upotrebleniya-alkogolya/'
 ---
