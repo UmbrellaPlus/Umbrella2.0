@@ -1,6 +1,6 @@
 ---
 date: 2026-09-12T20:05:46.258Z
-lastmod: 2026-09-14T08:32:49.820Z
+lastmod: 2026-10-22T10:02:50.369Z
 tabTitle: Капельница при алкогольной интоксикации в Харькове | Umbrella Plus | От 2199 грн
 title: Капельница при алкогольной интоксикации в Харькове
 description: Срочный выезд нарколога
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2221'
 reviewType: alk-2
 expert: olga
+faq: kapotalkogolya
 interestingArticleName: Лекарство вызывающее отвращение к алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/lekarstvo-vyzyvayushchee-otvrashchenie-k-alkogolyu/'
 ---
