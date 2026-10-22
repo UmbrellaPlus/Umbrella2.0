@@ -1,6 +1,6 @@
 ---
 date: 2026-09-22T17:27:52.717Z
-lastmod: 2026-09-22T17:33:35.861Z
+lastmod: 2026-10-22T10:27:00.323Z
 tabTitle: Лечение наркотической зависимости от фентанила в Харькове | Umbrella Plus | От 2499 грн
 title: Лечение наркотической зависимости от фентанила в Харькове
 description: Детоксикацией с поддержкой на каждом этапе
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1792'
 reviewType: narkot
 expert: olga
+faq: narkomania
 interestingArticleName: Можно ли принимать таблетки от давления после алкоголя
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/mozhno-li-prinimat-tabletki-ot-davleniya-posle-alkogolya/'
 ---
