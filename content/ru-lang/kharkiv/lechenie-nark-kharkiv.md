@@ -1,6 +1,6 @@
 ---
 date: 2025-09-05T15:45:57.937Z
-lastmod: 2026-10-02T15:46:31.413Z
+lastmod: 2026-10-22T10:24:41.394Z
 tabTitle: Лечение наркотической зависимости в Харьквое | UmbrellaPlus | От 2499 грн
 title: Лечение наркотической зависимости в Харьквое
 description: Сделай шаг к жизни без наркотиков
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '9896'
 reviewType: narkot
 expert: olga
+faq: narkomania
 interestingArticleName: Налоксон и экстренная помощь при передозировке опиоидов
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/nalokson-i-ekstrennaya-pomoshch-pri-peredozirovke-opioidov/'
 ---
