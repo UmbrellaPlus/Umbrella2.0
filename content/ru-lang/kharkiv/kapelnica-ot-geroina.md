@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T08:36:28.607Z
-lastmod: 2026-09-20T08:39:31.976Z
+lastmod: 2026-10-22T09:28:40.585Z
 tabTitle: Капельница от героина в Харькове | Umbrella Plus | От 2499 грн
 title: Капельница от героина в Харькове
 description: 'Анонимно, круглосуточно и с выездом на дом'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1211'
 reviewType: lomka
 expert: kostya
+faq: narkomania
 interestingArticleName: 'Чёрная рвота после алкоголя — что это может означать Опасный сигнал организма, который нельзя игнорировать  +380 Бесплатная консультация'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/chernaya-rvota-posle-alkogolya/'
 ---
