@@ -1,6 +1,6 @@
 ---
 date: 2026-09-06T11:49:28.935Z
-lastmod: 2026-09-07T13:27:23.963Z
+lastmod: 2026-10-22T10:22:22.555Z
 tabTitle: Лечение алкогольного абстинентного синдрома в Харькове | Umbrella Plus | От 2199 грн
 title: Лечение алкогольного абстинентного синдрома в Харькове
 description: Своевременная медицинская помощь и поддержка
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1792'
 reviewType: alk-1
 expert: kostya
+faq: alkogolism
 interestingArticleName: Чёрная рвота после алкоголя — что это может означать
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/chernaya-rvota-posle-alkogolya/'
 ---
