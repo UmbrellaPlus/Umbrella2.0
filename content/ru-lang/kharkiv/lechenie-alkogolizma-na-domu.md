@@ -1,6 +1,6 @@
 ---
 date: 2026-09-23T08:35:33.027Z
-lastmod: 2026-09-24T19:56:05.150Z
+lastmod: 2026-10-22T10:20:51.636Z
 tabTitle: Лечение алкоголизма на дому в Харькове | Umbrella Plus | От 2199 грн
 title: Лечение алкоголизма на дому в Харькове
 description: Комплексная помощь при алкогольной зависимости
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1845'
 reviewType: alk-2
 expert: kostya
+faq: alkogolism
 interestingArticleName: 'Лекарства, несовместимые с алкоголем: риск тяжёлых осложнений и летального исхода'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/lekarstva-nesovmestimye-s-alkogolem/'
 ---
