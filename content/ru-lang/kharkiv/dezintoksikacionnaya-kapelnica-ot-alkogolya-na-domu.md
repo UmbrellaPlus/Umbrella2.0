@@ -1,6 +1,6 @@
 ---
 date: 2026-09-18T09:51:46.666Z
-lastmod: 2026-09-19T20:08:17.814Z
+lastmod: 2026-10-22T09:23:15.349Z
 tabTitle: Дезинтоксикационная капельница от алкоголя на дому в Харькове | Umbrella Plus | От 2199 грн
 title: Дезинтоксикационная капельница от алкоголя на дому в Харькове
 description: Помощь организму без лишнего стресса
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1792'
 reviewType: alk-2
 expert: olga
+faq: kapotalkogolya
 interestingArticleName: Лекарство вызывающее отвращение к алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/lekarstvo-vyzyvayushchee-otvrashchenie-k-alkogolyu/'
 ---
