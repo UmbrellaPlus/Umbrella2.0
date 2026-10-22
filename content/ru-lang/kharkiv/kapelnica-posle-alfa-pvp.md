@@ -1,6 +1,6 @@
 ---
 date: 2026-09-19T18:09:15.776Z
-lastmod: 2026-09-19T18:15:43.269Z
+lastmod: 2026-10-22T09:31:35.490Z
 tabTitle: Капельница от Альфа-PVP в Харькове | Umbrella Plus | От 2499 грн
 title: Капельница от Альфа-PVP в Харькове
 description: Комплексное лечение зависимости
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2421'
 reviewType: narkot
 expert: olga
+faq: narkomania
 interestingArticleName: Как формируется наркотическая зависимость
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-formiruetsa-nark-zavisimost/'
 ---
