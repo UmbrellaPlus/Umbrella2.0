@@ -1,6 +1,6 @@
 ---
 date: 2025-08-30T16:06:56.944Z
-lastmod: 2026-10-02T16:07:11.515Z
+lastmod: 2026-10-22T09:26:58.028Z
 tabTitle: Капельница от наркотиков Харьков | Umbrella Plus | От 2499 грн
 title: Капельница от наркотиков Харьков
 description: Первый шаг к трезвой жизни
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '6988'
 reviewType: lomka
 expert: kostya
+faq: narkomania
 interestingArticleName: Налоксон и экстренная помощь при передозировке опиоидов
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/nalokson-i-ekstrennaya-pomoshch-pri-peredozirovke-opioidov/'
 ---
