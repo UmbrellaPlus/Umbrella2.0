@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T12:50:27.502Z
-lastmod: 2026-09-20T12:53:29.566Z
+lastmod: 2026-10-22T10:00:50.568Z
 tabTitle: Капельница от баклофена в Харькове | Umbrella Plus | От 2499 грн
 title: Капельница от баклофена в Харькове
 description: Не оставайтесь с проблемой один на один
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1428'
 reviewType: lomka
 expert: kostya
+faq: narkomania
 interestingArticleName: Как очиститься от наркотиков — рабочие советы
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-ochistitsya-ot-narkotikov-rabochie-sovety/'
 ---
