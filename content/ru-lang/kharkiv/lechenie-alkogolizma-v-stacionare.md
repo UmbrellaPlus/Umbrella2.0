@@ -1,6 +1,6 @@
 ---
 date: 2026-09-29T07:52:13.996Z
-lastmod: 2026-09-30T18:13:36.614Z
+lastmod: 2026-10-22T10:22:04.001Z
 tabTitle: Лечение алкоголизма в стационаре в Харькове | Umbrella Plus | От 2199 грн
 title: Лечение алкоголизма в стационаре в Харькове
 description: Круглосуточное наблюдение и безопасная детоксикация
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1792'
 reviewType: alk-2
 expert: olga
+faq: alkogolism
 interestingArticleName: Можно ли умереть от пьянки
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/mozhno-li-umeret-ot-pyanki/'
 ---
