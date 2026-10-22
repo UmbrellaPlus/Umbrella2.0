@@ -1,6 +1,6 @@
 ---
 date: 2026-09-09T07:46:45.255Z
-lastmod: 2026-09-09T17:55:28.421Z
+lastmod: 2026-10-22T09:25:39.822Z
 tabTitle: Экстренная наркологическая помощь в Харькове | Umbrella Plus | От 2199 грн
 title: Экстренная наркологическая помощь в Харькове
 description: Быстрое реагирование и индивидуальный подход
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2886'
 reviewType: alk-2
 expert: olga
+faq: vivod
 interestingArticleName: Можно ли умереть от пьянки
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/mozhno-li-umeret-ot-pyanki/'
 ---
