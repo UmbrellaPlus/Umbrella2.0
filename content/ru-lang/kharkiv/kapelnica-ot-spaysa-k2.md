@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T09:17:03.531Z
-lastmod: 2026-09-20T09:19:09.895Z
+lastmod: 2026-10-22T09:30:36.206Z
 tabTitle: Капельница от спайса / K2 в Харькове | Umbrella Plus | От 2499 грн
 title: Капельница от спайса / K2 в Харькове
 description: 'Помощь при слабости, обезвоживании и интоксикации'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1262'
 reviewType: lomka
 expert: stas
+faq: narkomania
 interestingArticleName: 'Драгсы: что это такое и чем они опасны'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/dragsy-chto-eto/'
 ---
