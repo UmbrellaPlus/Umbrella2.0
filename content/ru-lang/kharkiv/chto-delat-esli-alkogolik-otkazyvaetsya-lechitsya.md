@@ -1,6 +1,6 @@
 ---
 date: 2026-10-01T20:03:52.070Z
-lastmod: 2026-10-03T19:34:25.315Z
+lastmod: 2026-10-22T09:11:11.754Z
 tabTitle: 'Что делать, если алкоголик отказывается лечиться — нарколог в Харькове | Umbrella Plus'
 title: 'Что делать, если алкоголик отказывается лечиться'
 description: Помощь нарколога в Харькове
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3736'
 reviewType: alk-2
 expert: kostya
+faq: alkogolism
 interestingArticleName: 'Что делать, если человек в запое отказывается от помощи'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/chto-delat-esli-chelovek-v-zapoe-otkazyvaetsya-ot-pomoshchi/'
 ---
