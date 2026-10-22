@@ -1,6 +1,6 @@
 ---
 date: 2025-09-07T14:04:08.207Z
-lastmod: 2026-09-20T14:22:31.478Z
+lastmod: 2026-10-22T09:13:07.254Z
 tabTitle: Капельница от экстази (МДМА) в Харькове | Umbrella Plus | От 2499 грн
 title: Капельница от экстази (МДМА) Харьков
 description: Трезвое утро без боли и страха начинается сегодня
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2712'
 reviewType: alk-2
 expert: olga
+faq: narkomania
 interestingArticleName: Как формируется наркотическая зависимость
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-formiruetsa-nark-zavisimost/'
 ---
