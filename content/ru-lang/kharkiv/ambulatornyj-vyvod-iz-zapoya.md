@@ -1,6 +1,6 @@
 ---
 date: 2026-09-06T11:15:58.812Z
-lastmod: 2026-09-06T20:08:54.284Z
+lastmod: 2026-10-22T09:07:38.887Z
 tabTitle: Амбулаторный вывод из запоя в Харькове | Umbrella Plus | От 2199 грн
 title: Амбулаторный вывод из запоя в Харькове
 description: Медицинская помощь без круглосуточного пребывания в стационаре
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2612'
 reviewType: alk-2
 expert: stas
+faq: vivod
 interestingArticleName: Алкогольная энцефалопатия
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/alkogolna-encefalopatia/'
 ---
