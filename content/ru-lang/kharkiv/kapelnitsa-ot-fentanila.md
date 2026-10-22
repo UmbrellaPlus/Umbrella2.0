@@ -1,6 +1,6 @@
 ---
 date: 2026-09-22T17:47:05.405Z
-lastmod: 2026-09-22T17:50:57.993Z
+lastmod: 2026-10-22T10:01:24.442Z
 tabTitle: Капельница от фентанила в Харькове | Umbrella Plus | От 2499 грн
 title: Капельница от фентанила в Харькове
 description: Скорая помощь при ломке и интоксикации
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1527'
 reviewType: lomka
 expert: kostya
+faq: narkomania
 interestingArticleName: Как очиститься от наркотиков — рабочие советы
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-ochistitsya-ot-narkotikov-rabochie-sovety/'
 ---
