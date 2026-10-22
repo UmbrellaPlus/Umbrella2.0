@@ -1,6 +1,6 @@
 ---
 date: 2026-06-05T19:20:55.669Z
-lastmod: 2026-08-27T12:53:17.257Z
+lastmod: 2026-10-22T10:20:00.849Z
 tabTitle: Круглосуточный вывод из запоя Харьков | Umbrella Plus | От 2199 грн
 title: Круглосуточный вывод из запоя Харьков
 description: 'Помощь тогда, когда она нужна'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1727'
 reviewType: alk-2
 expert: kostya
+faq: vivod
 interestingArticleName: Почему нельзя опохмеляться после алкоголя
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/pochemu-nelzya-opohmelyatsya-posle-alkogolya/'
 ---
