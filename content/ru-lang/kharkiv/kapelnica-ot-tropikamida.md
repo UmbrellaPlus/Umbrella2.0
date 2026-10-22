@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T12:34:29.773Z
-lastmod: 2026-09-20T12:37:19.858Z
+lastmod: 2026-10-22T09:31:00.789Z
 tabTitle: Капельница от тропикамида в Харькове | Umbrella Plus | От 2499 грн
 title: Капельница от тропикамида в Харькове
 description: Шаг к устойчивой трезвости
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '796'
 reviewType: narkot
 expert: olga
+faq: narkomania
 interestingArticleName: Терминология и жаргон наркоманов
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/sleng-narkomanov/'
 ---
