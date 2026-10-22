@@ -1,6 +1,6 @@
 ---
 date: 2026-09-18T13:26:26.199Z
-lastmod: 2026-09-19T11:53:29.663Z
+lastmod: 2026-10-22T09:10:27.049Z
 tabTitle: Больница для алкоголиков в Харькове | Umbrella Plus | От 2199 грн
 title: Больница для алкоголиков в Харькове
 description: Круглосуточная помощь на каждом этапе лечения
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3226'
 reviewType: alk-2
 expert: kostya
+faq: alkogolism
 interestingArticleName: Чёрная рвота после алкоголя — что это может означать
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/chernaya-rvota-posle-alkogolya/'
 ---
