@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T09:01:33.400Z
-lastmod: 2026-09-20T09:04:21.756Z
+lastmod: 2026-10-22T09:28:56.196Z
 tabTitle: Капельница от крэка в Харькове | Umbrella Plus | От 2499 грн
 title: Капельница от крэка в Харькове
 description: Первый шаг к стабилизации состояния
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1512'
 reviewType: narkot
 expert: stas
+faq: narkomania
 interestingArticleName: Как очиститься от наркотиков — рабочие советы
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-ochistitsya-ot-narkotikov-rabochie-sovety/'
 ---
