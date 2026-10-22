@@ -1,6 +1,6 @@
 ---
 date: 2026-06-27T07:14:28.350Z
-lastmod: 2026-08-26T13:31:48.848Z
+lastmod: 2026-10-22T10:02:30.375Z
 tabTitle: Капельница от похмелья в Харькове | Umbrella Plus | От 2199 грн
 title: Капельница от похмелья Харьков
 description: Анонимная помощь в любое время
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2712'
 reviewType: alk-2
 expert: kostya
+faq: kapotalkogolya
 interestingArticleName: Кодирование от алкоголизма уколом дисульфирам
 interestingArticleLink: 'https://umbrella-plus.com.ua/kharkiv/kodirovka-ot-alkogola-disulfiram-kharkiv/'
 ---
