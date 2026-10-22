@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T08:24:09.785Z
-lastmod: 2026-09-20T08:26:55.971Z
+lastmod: 2026-10-22T09:30:49.750Z
 tabTitle: Капельница от трамадола в Харькове | Umbrella Plus | От 2499 грн
 title: Капельница от трамадола в Харькове
 description: Системный подход к возвращению к трезвости
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1792'
 reviewType: narkot
 expert: kostya
+faq: narkomania
 interestingArticleName: Как очиститься от наркотиков — рабочие советы
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-ochistitsya-ot-narkotikov-rabochie-sovety/'
 ---
