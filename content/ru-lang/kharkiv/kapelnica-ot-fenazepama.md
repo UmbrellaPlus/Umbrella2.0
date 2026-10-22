@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T09:48:34.170Z
-lastmod: 2026-09-20T09:51:50.075Z
+lastmod: 2026-10-22T09:27:45.957Z
 tabTitle: Капельница от феназепама в Харькове | Umbrella Plus | От 2499 грн
 title: Капельница от феназепама в Харькове
 description: Первый шаг к стабилизации состояния
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2001'
 reviewType: narkot
 expert: olga
+faq: narkomania
 interestingArticleName: Передаётся ли алкоголизм по наследству
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/peredaiotsa-li-alkogolizm-po-nasledstvy/'
 ---
