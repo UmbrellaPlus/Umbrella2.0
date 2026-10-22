@@ -1,6 +1,6 @@
 ---
 date: 2026-09-22T19:07:59.135Z
-lastmod: 2026-09-22T19:12:15.869Z
+lastmod: 2026-10-22T10:01:07.554Z
 tabTitle: Капельница от бупренорфина в Харькове | Umbrella Plus | От 2499 грн
 title: Капельница от бупренорфина в Харькове
 description: Помощь при любой абстиненции
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2456'
 reviewType: lomka
 expert: olga
+faq: narkomania
 interestingArticleName: Социофобия — что нужно знать
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/-sociofobia-chto-eto/'
 ---
