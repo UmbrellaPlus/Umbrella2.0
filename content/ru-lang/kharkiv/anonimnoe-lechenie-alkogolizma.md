@@ -1,6 +1,6 @@
 ---
 date: 2026-09-06T09:51:49.579Z
-lastmod: 2026-09-07T15:28:35.420Z
+lastmod: 2026-10-22T09:08:30.742Z
 tabTitle: Анонимное лечение алкоголизма в Харькове | Umbrella Plus | От 2199 грн
 title: Анонимное лечение алкоголизма в Харькове
 description: Индивидуальный подход и поддержка на каждом этапе
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2663'
 reviewType: alk-1
 expert: kostya
+faq: alkogolism
 interestingArticleName: Какой укол вызывает отвращение к алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kakoy-ukol-vyzyvaet-otvrashchenie-k-alkogolyu/'
 ---
