@@ -1,6 +1,6 @@
 ---
 date: 2026-09-06T10:49:18.625Z
-lastmod: 2026-09-07T18:27:18.289Z
+lastmod: 2026-10-22T09:58:44.799Z
 tabTitle: Капельница после длительного употребления алкоголя Харьков | Umbrella Plus | От 2199 грн
 title: Капельница после длительного употребления алкоголя Харьков
 description: Помощь без лишней огласки
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3541'
 reviewType: alk-2
 expert: stas
+faq: kapotalkogolya
 interestingArticleName: 'Как выйти из запоя без капельницы: советы нарколога'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-vyvesti-iz-zapoya-bez-kapelnitsy/'
 ---
