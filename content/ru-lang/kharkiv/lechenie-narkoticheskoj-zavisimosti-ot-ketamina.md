@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T12:58:48.942Z
-lastmod: 2026-09-20T13:05:12.379Z
+lastmod: 2026-10-22T10:25:02.763Z
 tabTitle: Лечение наркотической зависимости от кетамина в Харькове | Umbrella Plus | От 2499 грн
 title: Лечение наркотической зависимости от кетамина в Харькове
 description: Лечение с учётом любого состояиня
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1271'
 reviewType: lomka
 expert: olga
+faq: narkomania
 interestingArticleName: Как формируется наркотическая зависимость
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-formiruetsa-nark-zavisimost/'
 ---
