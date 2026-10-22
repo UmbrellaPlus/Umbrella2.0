@@ -1,6 +1,6 @@
 ---
 date: 2025-03-18T20:22:51.636Z
-lastmod: 2026-08-22T17:37:45.970Z
+lastmod: 2026-10-22T09:05:46.221Z
 tabTitle: Капельница от алкоголя Харьков | Umbrella Plus | От 2199 грн
 title: Капельница от алкоголя Харьков
 description: 'Помощь при интоксикации, похмелье и запое'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '5912'
 reviewType: alk-2
 expert: olga
+faq: kapotalkogolya
 interestingArticleName: 'Как выйти из запоя без капельницы: советы нарколога'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-vyvesti-iz-zapoya-bez-kapelnitsy/'
 ---
