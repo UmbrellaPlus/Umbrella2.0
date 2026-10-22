@@ -1,6 +1,6 @@
 ---
 date: 2026-06-29T14:24:04.019Z
-lastmod: 2026-08-23T18:33:36.914Z
+lastmod: 2026-10-22T09:26:32.103Z
 tabTitle: Как проходит вывод из запоя в Харькове | Umbrella Plus | От 2199 грн
 title: Как проходит вывод из запоя в Харькове
 description: Индивидуальная помощь при алкогольной абстиненции
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2561'
 reviewType: alk-1
 expert: kostya
+faq: vivod
 interestingArticleName: Провалы в памяти после алкоголя
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/provali-v-pamati-posle-alkogolia/'
 ---
