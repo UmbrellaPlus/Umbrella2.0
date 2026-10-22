@@ -1,6 +1,6 @@
 ---
 date: 2026-06-27T08:43:47.484Z
-lastmod: 2026-06-27T09:36:59.462Z
+lastmod: 2026-10-22T10:04:03.635Z
 tabTitle: Кодирование от алкоголизма лазером в Харькове | Umbrella Plus | От 10000 грн
 title: Кодирование от алкоголизма лазером Харьков
 description: Современная помощь на пути к трезвости
@@ -9,6 +9,8 @@ imageText: Кодирование от алкоголизма лазером в 
 ratingAvarage: 4.99/5
 rating: '3612'
 reviewType: kod-2
+expert: olga
+faq: kodirovka
 interestingArticleName: Какой укол вызывает отвращение к алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kakoy-ukol-vyzyvaet-otvrashchenie-k-alkogolyu/'
 ---
