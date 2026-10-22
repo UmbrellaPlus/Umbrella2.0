@@ -1,6 +1,6 @@
 ---
 date: 2026-09-06T13:31:24.926Z
-lastmod: 2026-09-08T18:17:42.987Z
+lastmod: 2026-10-22T10:21:43.104Z
 tabTitle: Лечение алкоголизма Харьков | Umbrella Plus | От 2199 грн
 title: Лечение алкоголизма Харьков
 description: Конфиденциально и профессионально
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '4622'
 reviewType: alk-2
 expert: olga
+faq: alkogolism
 interestingArticleName: 'Как выйти из запоя без капельницы: советы нарколога'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-vyvesti-iz-zapoya-bez-kapelnitsy/'
 ---
