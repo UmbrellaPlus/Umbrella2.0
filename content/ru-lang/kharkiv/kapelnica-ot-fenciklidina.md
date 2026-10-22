@@ -1,6 +1,6 @@
 ---
 date: 2026-10-01T21:30:43.993Z
-lastmod: 2026-10-02T15:00:49.514Z
+lastmod: 2026-10-22T09:28:18.827Z
 tabTitle: Капельница от фенциклидина (ангельской пыли) в Харькове | Umbrella Plus | От 2499 грн
 title: Капельница от фенциклидина (ангельской пыли) в Харькове
 description: Медицинская помощь при интоксикации
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2003'
 reviewType: lomka
 expert: stas
+faq: narkomania
 interestingArticleName: 'Драгсы: что это такое и чем они опасны'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/dragsy-chto-eto/'
 ---
