@@ -1,6 +1,6 @@
 ---
 date: 2026-09-19T16:27:40.939Z
-lastmod: 2026-09-19T19:42:25.227Z
+lastmod: 2026-10-22T10:09:13.422Z
 tabTitle: Круглосуточная капельница от запоя в Харькове | Umbrella Plus | От 2199 грн
 title: Круглосуточная капельница от запоя в Харькове
 description: Медицинская поддержка 24/7
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1889'
 reviewType: alk-2
 expert: stas
+faq: kapotalkogolya
 interestingArticleName: 'Как выйти из запоя без капельницы: советы нарколога'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-vyvesti-iz-zapoya-bez-kapelnitsy/'
 ---
