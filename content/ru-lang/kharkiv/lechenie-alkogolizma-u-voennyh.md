@@ -1,6 +1,6 @@
 ---
 date: 2026-06-13T20:03:47.458Z
-lastmod: 2026-08-29T07:46:28.535Z
+lastmod: 2026-10-22T10:21:19.566Z
 tabTitle: Лечение алкоголизма у военных в Харькове | Umbrella Plus | От 2199 грн
 title: Лечение алкоголизма у военных в Харькове
 description: Анонимная наркологическая помощь для военнослужащих
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3934'
 reviewType: alk-2
 expert: olga
+faq: alkogolism
 interestingArticleName: 'Как выйти из запоя без капельницы: советы нарколога'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-vyvesti-iz-zapoya-bez-kapelnitsy/'
 ---
