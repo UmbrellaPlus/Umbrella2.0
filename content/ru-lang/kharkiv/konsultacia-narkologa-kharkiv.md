@@ -1,6 +1,6 @@
 ---
 date: 2026-02-10T21:06:39.794Z
-lastmod: 2026-08-25T13:00:46.477Z
+lastmod: 2026-10-22T10:08:19.919Z
 tabTitle: Консультация нарколога в Харькове | Umbrella Plus | От 1500 грн
 title: Консультация нарколога в Харькове
 description: Надёжная помощь без огласки
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '11242'
 reviewType: alk-2
 expert: olga
+faq: alkogolism
 interestingArticleName: Как бросить курить навсегда самостоятельно и не сорваться
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-brosit-kurit-navsegda/'
 ---
