@@ -1,6 +1,6 @@
 ---
 date: 2025-03-27T21:20:54.969Z
-lastmod: 2026-08-23T19:58:20.048Z
+lastmod: 2026-10-22T09:06:28.797Z
 tabTitle: Вывод из запоя на дому Харьков | Umbrella Plus | От 2199 грн
 title: ' Вывод из запоя на дому Харьков'
 description: Помощь при запое круглосуточно
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '7928'
 reviewType: alk-2
 expert: olga
+faq: vivod
 interestingArticleName: 'После алкоголя немеют руки и ноги: когда нужна помощь'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/onemenie-posle-alkogolya/'
 ---
