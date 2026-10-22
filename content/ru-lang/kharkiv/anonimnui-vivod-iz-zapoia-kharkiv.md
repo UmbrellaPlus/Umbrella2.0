@@ -1,6 +1,6 @@
 ---
 date: 2026-03-31T08:29:41.799Z
-lastmod: 2026-08-23T19:55:41.975Z
+lastmod: 2026-10-22T09:08:57.667Z
 tabTitle: Анонимный вывод из запоя в Харькове | Umbrella Plus | От 2199 грн
 title: Анонимный вывод из запоя в Харькове
 description: Помощь без лишних вопросов
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '4232'
 reviewType: alk-2
 expert: stas
+faq: vivod
 interestingArticleName: Как самостоятельно выйти из запоя
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-vyyti-iz-zapoya-bez-vracha/'
 ---
