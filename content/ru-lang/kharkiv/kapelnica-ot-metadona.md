@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T07:17:22.129Z
-lastmod: 2026-09-20T07:23:16.152Z
+lastmod: 2026-10-22T09:29:27.160Z
 tabTitle: Капельница от метадона в Харькове | Umbrella Plus | От 2499 грн
 title: Капельница от метадона в Харькове
 description: 'Быстро, анонимно и с выездом на дом'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3226'
 reviewType: narkot
 expert: stas
+faq: narkomania
 interestingArticleName: Терминология и жаргон наркоманов
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/sleng-narkomanov/'
 ---
