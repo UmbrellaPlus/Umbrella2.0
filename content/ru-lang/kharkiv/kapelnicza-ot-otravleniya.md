@@ -1,6 +1,6 @@
 ---
 date: 2026-07-03T16:51:24.150Z
-lastmod: 2026-08-25T19:54:06.733Z
+lastmod: 2026-10-22T09:59:44.781Z
 tabTitle: Капельница от отравления Харьков | Umbrella Plus | От 2199 грн
 title: Капельница от отравления Харьков
 description: Быстрая поддержка организма при интоксикации
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3612'
 reviewType: otravl
 expert: olga
+faq: otravlenie
 interestingArticleName: Сильная рвота после алкоголя
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/rvota-ot-alkogolia/'
 ---
