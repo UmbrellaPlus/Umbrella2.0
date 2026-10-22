@@ -1,6 +1,6 @@
 ---
 date: 2026-09-06T11:51:01.687Z
-lastmod: 2026-09-08T17:12:52.357Z
+lastmod: 2026-10-22T10:23:37.259Z
 tabTitle: Лечение хронического алкоголизма в Харькове | Umbrella Plus | От 2199 грн
 title: Лечение хронического алкоголизма в Харькове
 description: Лечение алкоголизма с поддержкой на каждом этапе
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2998'
 reviewType: alk-1
 expert: olga
+faq: alkogolism
 interestingArticleName: Корсаковский синдром
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/korsakivskyi-syndrom/'
 ---
