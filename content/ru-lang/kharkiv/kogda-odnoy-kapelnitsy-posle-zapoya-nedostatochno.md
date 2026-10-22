@@ -1,6 +1,6 @@
 ---
 date: 2026-09-23T08:29:29.385Z
-lastmod: 2026-09-24T19:58:10.921Z
+lastmod: 2026-10-22T10:07:56.425Z
 tabTitle: Когда одной капельницы после запоя недостаточно и нужен нарколог в Харькове | Umbrella Plus | От 2499 грн
 title: Когда одной капельницы после запоя недостаточно и нужен нарколог в Харькове
 description: Сильная абстиненция требует комплексной помощи
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1682'
 reviewType: alk-2
 expert: olga
+faq: kapotalkogolya
 interestingArticleName: 'Что делать, если человек в запое отказывается от помощи'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/chto-delat-esli-chelovek-v-zapoe-otkazyvaetsya-ot-pomoshchi/'
 ---
