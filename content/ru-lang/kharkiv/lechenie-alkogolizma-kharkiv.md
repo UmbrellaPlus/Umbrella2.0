@@ -1,6 +1,6 @@
 ---
 date: 2025-02-21T20:40:45.374Z
-lastmod: 2026-08-27T13:33:09.279Z
+lastmod: 2026-10-22T10:20:20.569Z
 tabTitle: Лечение алкогольной зависимости в Харькове | Umbrella Plus | От 2199 грн
 title: Лечение алкогольной зависимости в Харькове
 description: Комплексный подход и поддержка на пути к трезвости
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '6209'
 reviewType: alk-1
 expert: stas
+faq: alkogolism
 interestingArticleName: Лечение алкоголизма в домашних условиях
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/lechenie-alkogolizma-v-domahniv-ysloviah/'
 ---
