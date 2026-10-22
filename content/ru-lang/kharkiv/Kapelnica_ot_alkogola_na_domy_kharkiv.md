@@ -1,6 +1,6 @@
 ---
 date: 2025-03-18T20:36:31.972Z
-lastmod: 2026-08-22T19:05:23.276Z
+lastmod: 2026-10-22T09:06:08.515Z
 tabTitle: Капельница от алкоголя на дому Харьков | Umbrella Plus | От 2199 грн
 title: Капельница от алкоголя на дому Харьков
 description: Экстренная помощь при интоксикации
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '7879'
 reviewType: alk-2
 expert: kostya
+faq: kapotalkogolya
 interestingArticleName: Лекарство вызывающее отвращение к алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/lekarstvo-vyzyvayushchee-otvrashchenie-k-alkogolyu/'
 ---
