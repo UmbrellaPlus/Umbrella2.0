@@ -1,6 +1,6 @@
 ---
 date: 2026-09-22T18:57:02.042Z
-lastmod: 2026-09-22T19:02:07.596Z
+lastmod: 2026-10-22T10:26:39.264Z
 tabTitle: Лечение наркотической зависимости от бупренорфина в Харькове | Umbrella Plus | От 2499 грн
 title: Лечение наркотической зависимости от бупренорфина в Харькове
 description: Помощь после бупренорфина без промедления
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2512'
 reviewType: narkot
 expert: stas
+faq: narkomania
 interestingArticleName: Как очиститься от наркотиков — рабочие советы
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-ochistitsya-ot-narkotikov-rabochie-sovety/'
 ---
