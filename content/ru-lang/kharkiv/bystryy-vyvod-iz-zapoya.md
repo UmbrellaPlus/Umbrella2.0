@@ -1,6 +1,6 @@
 ---
 date: 2026-09-09T16:08:31.285Z
-lastmod: 2026-09-09T19:35:08.347Z
+lastmod: 2026-10-22T09:10:44.350Z
 tabTitle: Быстрый вывод из запоя в Харькове | Umbrella Plus | От 2199 грн
 title: Быстрый вывод из запоя в Харькове
 description: Помощь без лишнего ожидания
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2770'
 reviewType: alk-1
 expert: stas
+faq: vivod
 interestingArticleName: 'После алкоголя немеют руки и ноги: когда нужна помощь'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/onemenie-posle-alkogolya/'
 ---
