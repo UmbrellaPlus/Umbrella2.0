@@ -1,6 +1,6 @@
 ---
 date: 2026-09-19T16:08:19.891Z
-lastmod: 2026-09-19T19:09:13.947Z
+lastmod: 2026-10-22T09:30:00.618Z
 tabTitle: Капельница от похмелья на дому в Харькове | Umbrella Plus | От 2199 грн
 title: Капельница от похмелья на дому в Харькове
 description: Быстрое восстановление под контролем врача
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3516'
 reviewType: alk-2
 expert: kostya
+faq: kapotalkogolya
 interestingArticleName: 'Как выйти из запоя без капельницы: советы нарколога'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-vyvesti-iz-zapoya-bez-kapelnitsy/'
 ---
