@@ -1,6 +1,6 @@
 ---
 date: 2026-09-19T17:56:18.825Z
-lastmod: 2026-09-19T18:07:58.553Z
+lastmod: 2026-10-22T10:25:55.063Z
 tabTitle: Лечение зависимости от Альфа-PVP в Харькове | Umbrella Plus | От 2499 грн
 title: Лечение зависимости от Альфа-PVP в Харькове
 description: 'Комплексно, конфиденциально, поэтапно'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1455'
 reviewType: lomka
 expert: kostya
+faq: narkomania
 interestingArticleName: Как очиститься от наркотиков — рабочие советы
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-ochistitsya-ot-narkotikov-rabochie-sovety/'
 ---
