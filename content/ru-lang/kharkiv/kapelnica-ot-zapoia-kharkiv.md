@@ -1,6 +1,6 @@
 ---
 date: 2026-06-05T20:20:21.408Z
-lastmod: 2026-08-25T17:49:31.206Z
+lastmod: 2026-10-22T09:31:21.848Z
 tabTitle: Капельница от запоя Харьков | Umbrella Plus | От 2199 грн
 title: Капельница от запоя Харьков
 description: 'Безопасно, анонимно, 24/7'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3226'
 reviewType: alk-2
 expert: kostya
+faq: vivod
 interestingArticleName: 'Как выйти из запоя без капельницы: советы нарколога'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-vyvesti-iz-zapoya-bez-kapelnitsy/'
 ---
