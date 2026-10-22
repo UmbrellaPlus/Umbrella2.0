@@ -1,6 +1,6 @@
 ---
 date: 2025-09-05T06:01:32.668Z
-lastmod: 2026-09-20T06:02:33.886Z
+lastmod: 2026-10-22T09:22:56.157Z
 tabTitle: Капельница от солей в Харькове | Umbrella Plus | От 2499 грн
 title: Капельница от солей в Харькове
 description: Конфиденциальная медицинская помощь
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2498'
 reviewType: alk-2
 expert: olga
+faq: narkomania
 interestingArticleName: 'Драгсы: что это такое и чем они опасны'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/dragsy-chto-eto/'
 ---
