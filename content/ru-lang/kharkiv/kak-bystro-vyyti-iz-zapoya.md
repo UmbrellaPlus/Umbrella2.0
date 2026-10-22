@@ -1,6 +1,6 @@
 ---
 date: 2026-09-12T19:42:09.223Z
-lastmod: 2026-09-13T13:05:53.450Z
+lastmod: 2026-10-22T09:26:16.363Z
 tabTitle: Как быстро выйти из запоя в Харькове с помощью нарколога | Umbrella Plus | От 2199 грн
 title: Как быстро выйти из запоя в Харькове с помощью нарколога
 description: Оперативно и с медицинским контролем
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1792'
 reviewType: alk-2
 expert: stas
+faq: vivod
 interestingArticleName: Можно ли умереть от пьянки
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/mozhno-li-umeret-ot-pyanki/'
 ---
