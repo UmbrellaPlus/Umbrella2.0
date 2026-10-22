@@ -1,6 +1,6 @@
 ---
 date: 2026-10-01T20:26:24.606Z
-lastmod: 2026-10-01T20:31:26.960Z
+lastmod: 2026-10-22T09:29:40.234Z
 tabTitle: Капельница от налбуфина в Харькове | Umbrella Plus | От 2499 грн
 title: Капельница от налбуфина в Харькове
 description: Полная детоксикация и стабилизация состояния
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2883'
 reviewType: lomka
 expert: olga
+faq: narkomania
 interestingArticleName: Как очиститься от наркотиков — рабочие советы
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-ochistitsya-ot-narkotikov-rabochie-sovety/'
 ---
