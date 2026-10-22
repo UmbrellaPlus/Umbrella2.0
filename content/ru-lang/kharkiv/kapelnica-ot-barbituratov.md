@@ -1,6 +1,6 @@
 ---
 date: 2026-10-01T20:59:12.966Z
-lastmod: 2026-10-01T21:04:52.970Z
+lastmod: 2026-10-22T09:27:28.696Z
 tabTitle: Капельница от барбитуратов в Харькове | Umbrella Plus | От 2499 грн
 title: Капельница от барбитуратов в Харькове
 description: 'Осмотр, детоксикация и наблюдение'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1462'
 reviewType: lomka
 expert: kostya
+faq: narkomania
 interestingArticleName: Семья и зависимость
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/psihologia-i-zavisimost/'
 ---
