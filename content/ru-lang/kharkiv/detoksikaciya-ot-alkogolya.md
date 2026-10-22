@@ -1,6 +1,6 @@
 ---
 date: 2026-09-06T09:17:08.685Z
-lastmod: 2026-09-07T13:18:00.071Z
+lastmod: 2026-10-22T09:11:57.739Z
 tabTitle: Детоксикация от алкоголя в Харькове | Umbrella Plus | От 2199 грн
 title: Детоксикация от алкоголя в Харькове
 description: Помощь нарколога после запоя и интоксикации
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1894'
 reviewType: alk-1
 expert: olga
+faq: kapotalkogolya
 interestingArticleName: Какой укол вызывает отвращение к алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kakoy-ukol-vyzyvaet-otvrashchenie-k-alkogolyu/'
 ---
