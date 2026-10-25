@@ -1,6 +1,6 @@
 ---
 date: 2025-09-05T17:58:37.341Z
-lastmod: 2026-09-27T18:08:16.218Z
+lastmod: 2026-10-25T19:30:49.260Z
 tabTitle: Крапельниця від солі Харків | Umbrella Plus | Від 2499 грн
 title: Крапельниця від солі Харків
 description: Конфіденційна медична допомога
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2498'
 reviewType: alk-2
 expert: olga
+faq: narkomania
 interestingArticleName: 'Драгси: що це таке і чим вони небезпечні'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/drahsy-shcho-tse-take/'
 ---
