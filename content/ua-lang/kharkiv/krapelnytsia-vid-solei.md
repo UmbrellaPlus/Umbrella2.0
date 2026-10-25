@@ -1,6 +1,6 @@
 ---
 date: 2026-09-19T13:00:17.331Z
-lastmod: 2026-10-25T19:28:12.295Z
+lastmod: 2026-10-25T19:31:39.892Z
 tabTitle: Крапельниця при отруєнні синтетичними наркотиками у Харкові | Umbrella Plus | Від 2499 грн
 title: Крапельниця при отруєнні синтетичними наркотиками у Харкові
 description: Від стабілізації до реабілітації
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2142'
 reviewType: narkot
 expert: stas
+faq: narkomania
 interestingArticleName: Термінологія та жаргон наркоманів
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/sleng-narkomanov-ua/'
 ---
