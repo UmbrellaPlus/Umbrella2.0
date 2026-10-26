@@ -1,6 +1,6 @@
 ---
 date: 2025-02-27T16:52:30.678Z
-lastmod: 2026-08-27T17:43:22.564Z
+lastmod: 2026-10-26T11:05:57.215Z
 tabTitle: Лікування жіночого алкоголізму Харків | Umbrella Plus | Від 2199 грн
 title: Лікування жіночого алкоголізму Харків
 description: Жіноче здоров'я – без залежності!
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '5521'
 reviewType: alk-1
 expert: kostya
+faq: alkogolism
 interestingArticleName: Ліки що викликають відразу до алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/liky-shcho-vyklykaiut-vidrazu-do-alkoholiu/'
 ---
