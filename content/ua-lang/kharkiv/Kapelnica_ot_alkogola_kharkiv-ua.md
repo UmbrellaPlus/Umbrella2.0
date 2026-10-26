@@ -1,6 +1,6 @@
 ---
 date: 2025-03-18T20:27:02.114Z
-lastmod: 2026-08-22T17:40:11.815Z
+lastmod: 2026-10-26T10:40:48.855Z
 tabTitle: Крапельниця від алкоголю Харків | Umbrella Plus | Від 2199 грн
 title: Крапельниця від алкоголю Харків
 description: 'Допомога при інтоксикації, похмелье і запоє'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '5912'
 reviewType: alk-2
 expert: olga
+faq: kapotalkogolya
 interestingArticleName: 'Як вийти із запою без крапельниці: поради нарколога'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-vyity-iz-zapoiu-bez-krapelnytsi/'
 ---
