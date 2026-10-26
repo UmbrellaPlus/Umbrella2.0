@@ -1,6 +1,6 @@
 ---
 date: 2025-03-01T17:10:38.651Z
-lastmod: 2026-08-27T18:21:02.491Z
+lastmod: 2026-10-26T11:06:42.153Z
 tabTitle: Лікування пивного алкоголізму в Харкові | Umbrella Plus | Від 2199 грн
 title: Лікування пивного алкоголізму в Харкові
 description: Вибери свободу від залежності!
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '6966'
 reviewType: alk-1
 expert: stas
+faq: alkogolism
 interestingArticleName: 'Пивний алкоголізм: небезпека та наслідки'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/pyvnyi-alkoholizm-nebezpeka-ta-naslidky/'
 ---
