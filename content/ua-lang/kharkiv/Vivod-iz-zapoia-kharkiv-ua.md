@@ -1,6 +1,6 @@
 ---
 date: 2025-03-19T21:05:59.056Z
-lastmod: 2026-08-22T17:54:48.500Z
+lastmod: 2026-10-26T10:41:23.551Z
 tabTitle: Виведення із запою Харків | Umbrella Plus | Від 2199 грн
 title: Виведення із запою Харків
 description: Перший крок до тверезого життя
@@ -10,6 +10,7 @@ ratingAvarage: 4.98/5
 rating: '4902'
 reviewType: alk-2
 expert: olga
+faq: vivod
 interestingArticleName: 'Як вийти із запою без крапельниці: поради нарколога'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-vyity-iz-zapoiu-bez-krapelnytsi/'
 ---
