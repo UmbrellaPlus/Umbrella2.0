@@ -1,6 +1,6 @@
 ---
 date: 2026-06-13T20:05:54.575Z
-lastmod: 2026-08-27T14:09:22.303Z
+lastmod: 2026-10-26T11:08:37.657Z
 tabTitle: Лікування алкоголізму у військових у Харкові | Umbrella Plus | Від 2199 грн
 title: Лікування алкоголізму у військових у Харкові
 description: Анонімна наркологічна допомога для військовослужбовців
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3934'
 reviewType: alk-2
 expert: olga
+faq: alkogolism
 interestingArticleName: 'Як вийти із запою без крапельниці: поради нарколога'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-vyity-iz-zapoiu-bez-krapelnytsi/'
 ---
