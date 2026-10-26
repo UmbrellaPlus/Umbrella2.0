@@ -1,6 +1,6 @@
 ---
 date: 2026-09-18T10:28:25.465Z
-lastmod: 2026-09-19T11:53:34.135Z
+lastmod: 2026-10-26T11:07:03.294Z
 tabTitle: Лікарня для алкоголіків у Харкові | Umbrella Plus | Від 2199 грн
 title: Лікарня для алкоголіків у Харкові
 description: Цілодобова допомога на кожному етапі лікування
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3226'
 reviewType: alk-2
 expert: kostya
+faq: alkogolism
 interestingArticleName: Чорне блювання після алкоголю - що це може означати
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chorne-bliuvannia-pislia-alkoholiu/'
 ---
