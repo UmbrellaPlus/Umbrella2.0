@@ -1,6 +1,6 @@
 ---
 date: 2026-02-10T21:10:58.440Z
-lastmod: 2026-08-25T13:00:40.049Z
+lastmod: 2026-10-26T10:51:32.901Z
 tabTitle: Консультація нарколога в Харкові | Umbrella Plus | Від 1500 грн
 title: Консультація нарколога в Харкові
 description: Надійна допомога без розголосу
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '11242'
 reviewType: alk-2
 expert: olga
+faq: alkogolism
 interestingArticleName: Як кинути курити назавжди самостійно і не зірватися
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-kinuty-kuryty-nazavzhdy/'
 ---
