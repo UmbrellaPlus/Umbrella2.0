@@ -1,6 +1,6 @@
 ---
 date: 2026-10-01T18:04:54.130Z
-lastmod: 2026-10-07T18:15:00.856Z
+lastmod: 2026-10-26T11:33:30.194Z
 tabTitle: Лікування залежності від барбітуратів у Харкові | Umbrella Plus | Від 2499 грн
 title: Лікування залежності від барбітуратів у Харкові
 description: Безпечна детоксикація та комплексне відновлення
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1126'
 reviewType: narkot
 expert: olga
+faq: narkomania
 interestingArticleName: Вплив марихуани на організм людини
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/vplyv-maryhuany-na-orhanizm-liudyny/'
 ---
