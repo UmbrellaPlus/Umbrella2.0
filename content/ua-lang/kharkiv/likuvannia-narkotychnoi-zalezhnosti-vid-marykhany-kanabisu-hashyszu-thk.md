@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T20:10:01.192Z
-lastmod: 2026-09-28T20:20:00.441Z
+lastmod: 2026-10-26T11:14:29.036Z
 tabTitle: 'Лікування наркотичної залежності від марихуани, канабісу, гашишу, ТГК у Харкові | Umbrella Plus | Від 2499 грн'
 title: 'Лікування наркотичної залежності від марихуани, канабісу, гашишу, ТГК у Харкові'
 description: Крок до стабільної тверезості та відновлення
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2631'
 reviewType: narkot
 expert: kostya
+faq: narkomania
 interestingArticleName: Вплив марихуани на організм людини
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/vplyv-maryhuany-na-orhanizm-liudyny/'
 ---
