@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T14:05:25.310Z
-lastmod: 2026-09-28T14:17:40.957Z
+lastmod: 2026-10-26T11:13:29.208Z
 tabTitle: Лікування наркотичної залежності від героїну у Харкові | Umbrella Plus | Від 2499 грн
 title: Лікування наркотичної залежності від героїну у Харкові
 description: Своєчасна медична допомога
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3211'
 reviewType: narkot
 expert: olga
+faq: narkomania
 interestingArticleName: Вплив марихуани на організм людини
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/vplyv-maryhuany-na-orhanizm-liudyny/'
 ---
