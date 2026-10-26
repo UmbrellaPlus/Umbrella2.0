@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T06:12:08.207Z
-lastmod: 2026-10-01T06:19:18.619Z
+lastmod: 2026-10-26T11:04:41.906Z
 tabTitle: Крапельниця від тропікаміду у Харкові | Umbrella Plus | Від 2499 грн
 title: Крапельниця від тропікаміду у Харкові
 description: Крок до стійкої тверезості
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '796'
 reviewType: narkot
 expert: olga
+faq: narkomania
 interestingArticleName: Термінологія та жаргон наркоманів
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/sleng-narkomanov-ua/'
 ---
