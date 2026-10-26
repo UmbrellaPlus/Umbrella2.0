@@ -1,6 +1,6 @@
 ---
 date: 2025-09-05T16:43:38.562Z
-lastmod: 2026-10-08T16:56:40.296Z
+lastmod: 2026-10-26T11:06:23.479Z
 tabTitle: Лікування наркотичної залежності у Харкові | UmbrellaPlus | Від 2499 грн
 title: Лікування наркотичної залежності у Харкові
 description: Зроби крок до життя без наркотиків
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '9896'
 reviewType: narkot
 expert: olga
+faq: narkomania
 interestingArticleName: Налоксон та екстрена допомога при передозуванні опіоїдів
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/nalokson-ta-ekstrena-dopomoha-pry-peredozuvanni-opioidiv/'
 ---
