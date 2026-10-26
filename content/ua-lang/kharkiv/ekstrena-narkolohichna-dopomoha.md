@@ -1,6 +1,6 @@
 ---
 date: 2026-09-09T17:22:20.447Z
-lastmod: 2026-09-09T17:55:21.707Z
+lastmod: 2026-10-26T10:48:01.275Z
 tabTitle: Екстрена наркологічна допомога у Харкові | Umbrella Plus | Від 2199 грн
 title: Екстрена наркологічна допомога у Харкові
 description: Швидке реагування та індивідуальний підхід
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2886'
 reviewType: alk-2
 expert: olga
+faq: alkogolism
 interestingArticleName: Чи можна померти від пиятики
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chy-mozhna-pomerty-vid-piyatstva/'
 ---
