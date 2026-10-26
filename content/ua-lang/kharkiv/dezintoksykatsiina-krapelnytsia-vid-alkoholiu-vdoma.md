@@ -1,6 +1,6 @@
 ---
 date: 2026-09-18T07:59:14.140Z
-lastmod: 2026-09-19T10:57:40.064Z
+lastmod: 2026-10-26T10:45:21.308Z
 tabTitle: Дезінтоксикаційна крапельниця від алкоголю вдома у Харкові | Umbrella Plus | Від 2199 грн
 title: Дезінтоксикаційна крапельниця від алкоголю вдома у Харкові
 description: Допомога організму без зайвого стресу
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1792'
 reviewType: alk-2
 expert: olga
+faq: kapotalkogolya
 interestingArticleName: Ліки що викликають відразу до алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/liky-shcho-vyklykaiut-vidrazu-do-alkoholiu/'
 ---
