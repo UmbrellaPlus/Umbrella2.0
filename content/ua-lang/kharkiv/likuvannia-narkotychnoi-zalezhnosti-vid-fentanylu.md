@@ -1,6 +1,6 @@
 ---
 date: 2026-09-21T21:03:01.714Z
-lastmod: 2026-10-03T21:15:32.290Z
+lastmod: 2026-10-26T11:13:07.468Z
 tabTitle: Лікування наркотичної залежності від фентанілу у Харкові | Umbrella Plus | Від 2499 грн
 title: Лікування наркотичної залежності від фентанілу у Харкові
 description: Детоксикацією з підтримкою на кожному етапі
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1792'
 reviewType: narkot
 expert: olga
+faq: narkomania
 interestingArticleName: Чи можна приймати таблетки від тиску після алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chi-mozhna-priymaty-tabletky-vid-tysku-pislya-alkoholyu/'
 ---
