@@ -1,6 +1,6 @@
 ---
 date: 2026-06-24T09:11:14.027Z
-lastmod: 2026-08-22T18:46:06.898Z
+lastmod: 2026-10-26T10:47:04.370Z
 tabTitle: Доступна наркологічна допомога у Харкові | Umbrella Plus | Від 2199 грн
 title: Доступна наркологічна допомога у Харкові
 description: Турбота у складний момент
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2871'
 reviewType: alk-2
 expert: olga
+faq: alkogolism
 interestingArticleName: Який укол викликає відразу до алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yakyi-ukol-vyklykaie-vidrazu-do-alkoholiu/'
 ---
