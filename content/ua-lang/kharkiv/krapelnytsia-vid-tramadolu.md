@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T18:42:34.335Z
-lastmod: 2026-09-27T18:53:08.301Z
+lastmod: 2026-10-26T11:04:24.638Z
 tabTitle: Крапельниця від трамадолу у Харкові | Umbrella Plus | Від 2499 грн
 title: Крапельниця від трамадолу у Харкові
 description: Системний підхід до повернення до тверезості
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1792'
 reviewType: narkot
 expert: kostya
+faq: narkomania
 interestingArticleName: Як очиститися від наркотиків — дієві поради
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-ochystytysia-vid-narkotykiv-diievi-porady/'
 ---
