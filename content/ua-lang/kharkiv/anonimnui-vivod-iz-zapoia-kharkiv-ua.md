@@ -1,6 +1,6 @@
 ---
 date: 2026-03-31T08:40:24.022Z
-lastmod: 2026-08-22T17:02:54.618Z
+lastmod: 2026-10-26T10:42:43.696Z
 tabTitle: Анонімне виведення із запою в Харкові | Umbrella Plus | Від 2199 грн
 title: Анонімне виведення із запою в Харкові
 description: Допомога без зайвих питань
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '4232'
 reviewType: alk-2
 expert: stas
+faq: vivod
 interestingArticleName: Як самостійно вийти із запою
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-vyity-iz-zapoiu-bez-likaria/'
 ---
