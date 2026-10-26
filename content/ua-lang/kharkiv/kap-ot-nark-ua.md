@@ -1,6 +1,6 @@
 ---
 date: 2025-08-30T17:08:23.821Z
-lastmod: 2026-10-08T17:22:13.619Z
+lastmod: 2026-10-26T10:48:24.106Z
 tabTitle: Крапельниця від наркотиків Харків  | Umbrella Plus | Від 2499 грн
 title: Крапельниця від наркотиків Харків
 description: Перший крок до тверезого життя
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '6988'
 reviewType: lomka
 expert: kostya
+faq: narkomania
 interestingArticleName: Налоксон та екстрена допомога при передозуванні опіоїдів
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/nalokson-ta-ekstrena-dopomoha-pry-peredozuvanni-opioidiv/'
 ---
