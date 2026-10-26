@@ -1,6 +1,6 @@
 ---
 date: 2026-09-12T07:54:47.691Z
-lastmod: 2026-09-19T11:06:05.318Z
+lastmod: 2026-10-26T10:54:48.009Z
 tabTitle: Крапельниця при алкогольній інтоксикації в Харкові | Umbrella Plus | Від 2199 грн
 title: Крапельниця при алкогольній інтоксикації в Харкові
 description: Терміновий виїзд нарколога
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2221'
 reviewType: alk-2
 expert: olga
+faq: kapotalkogolya
 interestingArticleName: Ліки що викликають відразу до алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/liky-shcho-vyklykaiut-vidrazu-do-alkoholiu/'
 ---
