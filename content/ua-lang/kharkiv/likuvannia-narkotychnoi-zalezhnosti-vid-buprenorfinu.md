@@ -1,6 +1,6 @@
 ---
 date: 2026-09-22T06:54:15.208Z
-lastmod: 2026-10-04T07:03:54.800Z
+lastmod: 2026-10-26T11:12:41.532Z
 tabTitle: Лікування наркотичної залежності від бупренорфіну у Харкові | Umbrella Plus | Від 2499 грн
 title: Лікування наркотичної залежності від бупренорфіну у Харкові
 description: Допомога після бупренорфіну без зволікання
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2512'
 reviewType: narkot
 expert: stas
+faq: narkomania
 interestingArticleName: Як очиститися від наркотиків — дієві поради
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-ochystytysia-vid-narkotykiv-diievi-porady/'
 ---
