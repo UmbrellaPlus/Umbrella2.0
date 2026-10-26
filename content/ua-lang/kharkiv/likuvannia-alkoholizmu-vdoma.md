@@ -1,6 +1,6 @@
 ---
 date: 2026-09-23T19:00:53.391Z
-lastmod: 2026-09-24T19:54:39.332Z
+lastmod: 2026-10-26T11:09:12.492Z
 tabTitle: Лікування алкоголізму вдома у Харкові | Umbrella Plus | Від 2199 грн
 title: Лікування алкоголізму вдома у Харкові
 description: Комплексна допомога при алкогольній залежності
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1845'
 reviewType: alk-2
 expert: kostya
+faq: alkogolism
 interestingArticleName: 'Лікарські засоби, несумісні з алкоголем'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/likarski-zasoby-nesumisni-z-alkoholem/'
 ---
