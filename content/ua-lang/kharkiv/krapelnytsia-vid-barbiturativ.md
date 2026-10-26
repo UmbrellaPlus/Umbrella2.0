@@ -1,6 +1,6 @@
 ---
 date: 2026-10-01T18:18:37.592Z
-lastmod: 2026-10-07T18:28:35.909Z
+lastmod: 2026-10-26T10:56:24.716Z
 tabTitle: Крапельниця від барбітуратів у Харкові | Umbrella Plus | Від 2499 грн
 title: Крапельниця від барбітуратів у Харкові
 description: 'Огляд, детоксикація та спостереження'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1462'
 reviewType: lomka
 expert: kostya
+faq: narkomania
 interestingArticleName: Сім’я та залежність
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/simia-ta-zalignist-ua/'
 ---
