@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T14:29:55.393Z
-lastmod: 2026-09-28T14:41:27.267Z
+lastmod: 2026-10-26T11:02:26.496Z
 tabTitle: Крапельниця від креку у Харкові | Umbrella Plus | Від 2499 грн
 title: Крапельниця від креку у Харкові
 description: Перший крок до стабілізації стану
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1512'
 reviewType: narkot
 expert: stas
+faq: narkomania
 interestingArticleName: Як очиститися від наркотиків — дієві поради
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-ochystytysia-vid-narkotykiv-diievi-porady/'
 ---
