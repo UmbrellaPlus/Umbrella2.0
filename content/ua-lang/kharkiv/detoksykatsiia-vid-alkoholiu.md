@@ -1,6 +1,6 @@
 ---
 date: 2026-09-06T08:17:25.081Z
-lastmod: 2026-10-15T18:25:58.789Z
+lastmod: 2026-10-26T10:43:56.795Z
 tabTitle: Детоксикація від алкоголю у Харкові | Umbrella Plus | Від 2199 грн
 title: Детоксикація від алкоголю у Харкові
 description: Допомога нарколога після запою та інтоксикації
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1894'
 reviewType: alk-1
 expert: olga
+faq: kapotalkogolya
 interestingArticleName: Який укол викликає відразу до алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yakyi-ukol-vyklykaie-vidrazu-do-alkoholiu/'
 ---
