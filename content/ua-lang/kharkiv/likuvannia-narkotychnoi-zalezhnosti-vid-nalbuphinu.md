@@ -1,6 +1,6 @@
 ---
 date: 2026-09-22T07:17:44.731Z
-lastmod: 2026-10-04T07:29:00.783Z
+lastmod: 2026-10-26T11:14:42.942Z
 tabTitle: Лікування наркотичної залежності від налбуфіну у Харкові | Umbrella Plus | Від 2499 грн
 title: Лікування наркотичної залежності від налбуфіну у Харкові
 description: Детокс після будь-яких наркотиків
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1793'
 reviewType: lomka
 expert: stas
+faq: narkomania
 interestingArticleName: Що таке сольова залежність (наркотики)
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chto-takoi-solevaia-zavisimost-ua/'
 ---
