@@ -1,6 +1,6 @@
 ---
 date: 2026-09-19T18:00:50.697Z
-lastmod: 2026-10-23T20:02:36.849Z
+lastmod: 2026-10-26T10:52:57.912Z
 tabTitle: Крапельниця після мефедрону у Харкові | Umbrella Plus | Від 2499 грн
 title: Крапельниця після мефедрону у Харкові
 description: 'Швидко, анонімно та з виїздом додому'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1352'
 reviewType: lomka
 expert: olga
+faq: narkomania
 interestingArticleName: Вплив марихуани на організм людини
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/vplyv-maryhuany-na-orhanizm-liudyny/'
 ---
