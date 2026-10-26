@@ -1,6 +1,6 @@
 ---
 date: 2025-03-27T21:26:58.539Z
-lastmod: 2026-08-23T19:57:45.216Z
+lastmod: 2026-10-26T10:41:33.499Z
 tabTitle: Виведення із запою вдома Харків | Umbrella Plus | Від 2199 грн
 title: Виведення із запою вдома Харків
 description: Допомога при запої цілодобово
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '7928'
 reviewType: alk-1
 expert: olga
+faq: vivod
 interestingArticleName: 'Після алкоголю німіють руки й ноги: коли потрібна допомога'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/oniminnya-pislya-alkogolyu/'
 ---
