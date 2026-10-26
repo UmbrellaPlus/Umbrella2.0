@@ -1,6 +1,6 @@
 ---
 date: 2026-10-01T17:51:10.427Z
-lastmod: 2026-10-07T18:00:47.965Z
+lastmod: 2026-10-26T11:03:17.326Z
 tabTitle: Крапельниця від налбуфіну у Харкові | Umbrella Plus | Від 2499 грн
 title: Крапельниця від налбуфіну у Харкові
 description: Повна детоксикація та стабілізація стану
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2883'
 reviewType: lomka
 expert: olga
+faq: narkomania
 interestingArticleName: Як очиститися від наркотиків — дієві поради
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-ochystytysia-vid-narkotykiv-diievi-porady/'
 ---
