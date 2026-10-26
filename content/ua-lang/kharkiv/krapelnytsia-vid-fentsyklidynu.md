@@ -1,6 +1,6 @@
 ---
 date: 2026-10-02T18:32:03.222Z
-lastmod: 2026-10-08T16:28:06.111Z
+lastmod: 2026-10-26T11:01:37.281Z
 tabTitle: Крапельниця від фенциклідину (ангельського пилу) у Харкові | Umbrella Plus | Від 2499 грн
 title: Крапельниця від фенциклідину (ангельського пилу) у Харкові
 description: Медична допомога при інтоксикації
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2003'
 reviewType: lomka
 expert: stas
+faq: narkomania
 interestingArticleName: 'Драгси: що це таке і чим вони небезпечні'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/drahsy-shcho-tse-take/'
 ---
