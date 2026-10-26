@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T06:32:46.719Z
-lastmod: 2026-10-02T12:04:09.677Z
+lastmod: 2026-10-26T10:56:06.460Z
 tabTitle: Крапельниця від баклофену у Харкові | Umbrella Plus | Від 2499 грн
 title: Крапельниця від баклофену у Харкові
 description: Не залишайтеся з проблемою віч-на-віч
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1428'
 reviewType: lomka
 expert: kostya
+faq: narkomania
 interestingArticleName: Як очиститися від наркотиків — дієві поради
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-ochystytysia-vid-narkotykiv-diievi-porady/'
 ---
