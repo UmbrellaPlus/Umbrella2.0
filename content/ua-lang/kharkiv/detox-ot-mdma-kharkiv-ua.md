@@ -1,6 +1,6 @@
 ---
 date: 2025-09-07T12:26:28.291Z
-lastmod: 2026-10-02T12:36:29.813Z
+lastmod: 2026-10-26T10:44:50.779Z
 tabTitle: Крапельниця від екстазі (МДМА) Харків | Umbrella Plus | Від 2499 грн
 title: Крапельниця від екстазі (МДМА) Харків
 description: Ранок без болі і страху починається сьогодні
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2712'
 reviewType: alk-2
 expert: olga
+faq: narkomania
 interestingArticleName: Як формується наркотична залежність
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chomy-formiryetsa-nark-zavisimost-ua/'
 ---
