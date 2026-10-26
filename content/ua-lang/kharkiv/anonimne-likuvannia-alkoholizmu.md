@@ -1,6 +1,6 @@
 ---
 date: 2026-09-06T14:38:41.429Z
-lastmod: 2026-09-07T15:27:44.915Z
+lastmod: 2026-10-26T10:42:14.677Z
 tabTitle: Анонімне лікування алкоголізму у Харкові | Umbrella Plus | Від 2199 грн
 title: Анонімне лікування алкоголізму у Харкові
 description: Індивідуальний підхід та підтримка на кожному етапі
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2663'
 reviewType: alk-1
 expert: kostya
+faq: alkogolism
 interestingArticleName: Який укол викликає відразу до алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yakyi-ukol-vyklykaie-vidrazu-do-alkoholiu/'
 ---
