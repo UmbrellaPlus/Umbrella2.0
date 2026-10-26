@@ -1,6 +1,6 @@
 ---
 date: 2026-09-21T14:47:43.698Z
-lastmod: 2026-09-22T18:54:19.936Z
+lastmod: 2026-10-26T10:47:18.512Z
 tabTitle: Довідка про кодування від алкоголізму у Харкові | Umbrella Plus
 title: Довідка про кодування від алкоголізму у Харкові
 description: Підтвердження проведеного лікування
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1792'
 reviewType: kod-2
 expert: kostya
+faq: kodirovka
 interestingArticleName: Який укол викликає відразу до алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yakyi-ukol-vyklykaie-vidrazu-do-alkoholiu/'
 ---
