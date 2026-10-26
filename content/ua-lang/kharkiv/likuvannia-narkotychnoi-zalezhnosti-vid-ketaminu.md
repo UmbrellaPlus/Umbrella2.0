@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T12:04:21.806Z
-lastmod: 2026-10-02T12:12:58.870Z
+lastmod: 2026-10-26T11:13:51.151Z
 tabTitle: Лікування наркотичної залежності від кетаміну у Харкові | Umbrella Plus | Від 2499 грн
 title: Лікування наркотичної залежності від кетаміну у Харкові
 description: Лікування з урахуванням будь-якого стану
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1271'
 reviewType: lomka
 expert: olga
+faq: narkomania
 interestingArticleName: Як формується наркотична залежність
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chomy-formiryetsa-nark-zavisimost-ua/'
 ---
