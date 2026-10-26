@@ -1,6 +1,6 @@
 ---
 date: 2025-02-21T20:49:41.095Z
-lastmod: 2026-08-27T13:33:03.634Z
+lastmod: 2026-10-26T11:05:25.630Z
 tabTitle: Лікування алкогольної залежності в Харкові | Umbrella Plus | Від 2199 грн
 title: Лікування алкогольної залежності в Харкові
 description: Комплексний підхід і підтримка на шляху до трезвості
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '6209'
 reviewType: alk-1
 expert: stas
+faq: alkogolism
 interestingArticleName: Лікування алкоголізму в домашніх умовах
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/lechenie-alkogolizma-v-domahniv-ysloviah-ua/'
 ---
