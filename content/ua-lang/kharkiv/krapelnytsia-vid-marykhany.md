@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T19:54:16.184Z
-lastmod: 2026-09-28T20:08:01.307Z
+lastmod: 2026-10-26T11:02:44.710Z
 tabTitle: 'Крапельниця від марихуани, канабісу, гашишу, ТГК у Харкові | Umbrella Plus | Від 2499 грн'
 title: 'Крапельниця від марихуани, канабісу, гашишу, ТГК у Харкові'
 description: Наркологічна допомога після інтоксикації
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1555'
 reviewType: lomka
 expert: olga
+faq: narkomania
 interestingArticleName: 'Пивний алкоголізм: небезпека та наслідки'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/pyvnyi-alkoholizm-nebezpeka-ta-naslidky/'
 ---
