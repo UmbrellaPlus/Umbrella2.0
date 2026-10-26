@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T18:32:10.325Z
-lastmod: 2026-09-27T18:39:49.131Z
+lastmod: 2026-10-26T11:29:09.514Z
 tabTitle: Лікування наркотичної залежності від трамадолу у Харкові | Umbrella Plus | Від 2499 грн
 title: Лікування наркотичної залежності від трамадолу у Харкові
 description: Комплексна допомога при залежності від трамадолу
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1663'
 reviewType: narkot
 expert: kostya
+faq: narkomania
 interestingArticleName: Як очиститися від наркотиків — дієві поради
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-ochystytysia-vid-narkotykiv-diievi-porady/'
 ---
