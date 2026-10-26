@@ -1,6 +1,6 @@
 ---
 date: 2026-06-27T09:05:05.096Z
-lastmod: 2026-06-27T09:36:47.498Z
+lastmod: 2026-10-26T10:50:10.851Z
 tabTitle: Кодування від алкоголізму лазером у Харкові | Umbrella Plus | Від 10000 грн
 title: Кодування від алкоголізму лазером Харків
 description: Сучасна допомога на шляху до тверезості
@@ -9,6 +9,7 @@ imageText: Кодування від алкоголізму лазером у Х
 ratingAvarage: 4.99/5
 rating: '3612'
 reviewType: kod-2
+faq: kodirovka
 interestingArticleName: Який укол викликає відразу до алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yakyi-ukol-vyklykaie-vidrazu-do-alkoholiu/'
 ---
