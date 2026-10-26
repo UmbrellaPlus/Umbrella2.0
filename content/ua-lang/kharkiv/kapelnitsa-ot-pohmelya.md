@@ -1,6 +1,6 @@
 ---
 date: 2026-06-27T07:24:38.284Z
-lastmod: 2026-08-26T13:31:40.483Z
+lastmod: 2026-10-26T10:48:47.149Z
 tabTitle: Крапельниця від похмілля у Харкові | Umbrella Plus | Від 2199 грн
 title: Крапельниця від похмілля Харків
 description: Анонімна допомога у будь-який час
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2712'
 reviewType: alk-2
 expert: kostya
+faq: kapotalkogolya
 interestingArticleName: Кодування від алкоголізму уколом дисульфірам
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/kharkiv/kodirovka-ot-alkogola-disulfiram-kharkiv-ua/'
 ---
