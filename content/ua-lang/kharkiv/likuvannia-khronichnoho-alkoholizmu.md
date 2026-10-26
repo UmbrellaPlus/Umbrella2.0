@@ -1,6 +1,6 @@
 ---
 date: 2026-09-06T15:20:31.938Z
-lastmod: 2026-09-08T17:12:57.721Z
+lastmod: 2026-10-26T11:10:34.081Z
 tabTitle: Лікування хронічного алкоголізму у Харкові | Umbrella Plus | Від 2199 грн
 title: Лікування хронічного алкоголізму у Харкові
 description: Лікування алкоголізму з підтримкою на кожному етапі
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2998'
 reviewType: alk-1
 expert: olga
+faq: alkogolism
 interestingArticleName: Корсаковський синдром
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/korsakivskyi-syndrom-ua/'
 ---
