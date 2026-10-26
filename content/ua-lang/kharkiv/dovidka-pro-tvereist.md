@@ -1,6 +1,6 @@
 ---
 date: 2026-09-21T15:00:46.848Z
-lastmod: 2026-09-22T19:20:51.916Z
+lastmod: 2026-10-26T10:47:36.123Z
 tabTitle: Довідка про тверезість у Харкові | Umbrella Plus | Від 1500 грн
 title: Довідка про тверезість у Харкові
 description: Оформлення документа за результатами оцінки стану
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1792'
 reviewType: alk-2
 expert: stas
+faq: kodirovka
 interestingArticleName: Який укол викликає відразу до алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yakyi-ukol-vyklykaie-vidrazu-do-alkoholiu/'
 ---
