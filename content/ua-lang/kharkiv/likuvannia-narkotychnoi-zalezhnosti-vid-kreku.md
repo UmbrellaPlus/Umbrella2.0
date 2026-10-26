@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T14:19:42.961Z
-lastmod: 2026-09-28T14:27:52.896Z
+lastmod: 2026-10-26T11:14:09.715Z
 tabTitle: Лікування наркотичної залежності від креку у Харкові | Umbrella Plus | Від 2499 грн
 title: Лікування наркотичної залежності від креку у Харкові
 description: Перший крок до стабілізації стану
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1792'
 reviewType: lomka
 expert: olga
+faq: narkomania
 interestingArticleName: Вплив марихуани на організм людини
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/vplyv-maryhuany-na-orhanizm-liudyny/'
 ---
