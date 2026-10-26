@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T12:16:01.274Z
-lastmod: 2026-10-02T12:24:27.884Z
+lastmod: 2026-10-26T11:02:09.685Z
 tabTitle: Крапельниця від кетаміну у Харкові | Umbrella Plus | Від 2499 грн
 title: Крапельниця від кетаміну у Харкові
 description: Не залишайтеся з наслідками вживання один на один
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1518'
 reviewType: lomka
 expert: olga
+faq: narkomania
 interestingArticleName: Агресія після вживання алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/ahresiia-pislia-vzhyvannia-alkoholiu/'
 ---
