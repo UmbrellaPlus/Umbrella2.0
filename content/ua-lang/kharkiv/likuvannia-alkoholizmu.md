@@ -1,6 +1,6 @@
 ---
 date: 2026-09-06T17:14:09.234Z
-lastmod: 2026-09-08T20:00:17.981Z
+lastmod: 2026-10-26T11:09:33.340Z
 tabTitle: Лікування алкоголізму Харків | Umbrella Plus | Від 2199 грн
 title: Лікування алкоголізму Харків
 description: Конфіденційно та професійно
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '4622'
 reviewType: alk-2
 expert: olga
+faq: alkogolism
 interestingArticleName: 'Як вийти із запою без крапельниці: поради нарколога'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-vyity-iz-zapoiu-bez-krapelnytsi/'
 ---
