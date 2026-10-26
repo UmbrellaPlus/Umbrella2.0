@@ -1,6 +1,6 @@
 ---
 date: 2026-07-03T17:07:53.356Z
-lastmod: 2026-08-25T19:54:01.535Z
+lastmod: 2026-10-26T10:52:20.774Z
 tabTitle: Крапельниця від отруєння Харків | Umbrella Plus | Від 2199 грн
 title: Крапельниця від отруєння Харків
 description: Швидка підтримка організму під час інтоксикації
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3612'
 reviewType: otravl
 expert: olga
+faq: otravlenie
 interestingArticleName: Сильна блювота після алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/silna-bluvota-pisla-alkogolia-ua/'
 ---
