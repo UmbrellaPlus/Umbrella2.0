@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T06:21:46.833Z
-lastmod: 2026-10-01T06:30:48.876Z
+lastmod: 2026-10-26T11:12:19.670Z
 tabTitle: Лікування наркотичної залежності від баклофену у Харкові | Umbrella Plus | Від 2499 грн
 title: Лікування наркотичної залежності від баклофену у Харкові
 description: Допомога при будь-якій наркотичній інтоксикації
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1232'
 reviewType: narkot
 expert: olga
+faq: narkomania
 interestingArticleName: 'Драгси: що це таке і чим вони небезпечні'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/drahsy-shcho-tse-take/'
 ---
