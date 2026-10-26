@@ -1,6 +1,6 @@
 ---
 date: 2026-09-06T09:14:22.857Z
-lastmod: 2026-09-07T13:27:29.619Z
+lastmod: 2026-10-26T11:10:13.753Z
 tabTitle: Лікування алкогольного абстинентного синдрому у Харкові | Umbrella Plus | Від 2199 грн
 title: Лікування алкогольного абстинентного синдрому у Харкові
 description: Своєчасна медична допомога та підтримка
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1792'
 reviewType: alk-1
 expert: kostya
+faq: kapotalkogolya
 interestingArticleName: Чорне блювання після алкоголю - що це може означати
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chorne-bliuvannia-pislia-alkoholiu/'
 ---
