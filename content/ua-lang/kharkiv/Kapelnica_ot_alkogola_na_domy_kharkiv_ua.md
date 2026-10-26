@@ -1,6 +1,6 @@
 ---
 date: 2025-03-18T20:42:08.075Z
-lastmod: 2026-08-22T19:06:14.943Z
+lastmod: 2026-10-26T10:41:00.467Z
 tabTitle: Крапельниця від алкоголю вдома Харків | Umbrella Plus | Від 2199 грн
 title: Крапельниця від алкоголю вдома Харків
 description: Екстрена допомога при інтоксикації
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '7879'
 reviewType: alk-2
 expert: kostya
+faq: kapotalkogolya
 interestingArticleName: Ліки що викликають відразу до алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/liky-shcho-vyklykaiut-vidrazu-do-alkoholiu/'
 ---
