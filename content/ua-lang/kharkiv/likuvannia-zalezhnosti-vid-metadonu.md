@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T18:21:32.820Z
-lastmod: 2026-10-26T19:24:07.024Z
+lastmod: 2026-10-26T19:24:16.301Z
 tabTitle: Лікування залежності від метадону у Харкові | Umbrella Plus | Від 2499 грн
 title: Лікування залежності від метадону у Харкові
 description: Допомога без зайвих слів
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2425'
 reviewType: lomka
 expert: olga
+faq: narkomania
 interestingArticleName: 'Драгси: що це таке і чим вони небезпечні'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/drahsy-shcho-tse-take/'
 ---
