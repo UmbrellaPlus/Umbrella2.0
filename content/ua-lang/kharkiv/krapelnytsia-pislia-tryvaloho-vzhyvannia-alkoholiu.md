@@ -1,6 +1,6 @@
 ---
 date: 2026-09-06T08:56:34.327Z
-lastmod: 2026-09-07T18:28:20.519Z
+lastmod: 2026-10-26T10:54:32.424Z
 tabTitle: Крапельниця після тривалого вживання алкоголю Харків | Umbrella Plus | Від 2199 грн
 title: Крапельниця після тривалого вживання алкоголю Харків
 description: Допомога без зайвого розголосу
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3541'
 reviewType: alk-2
 expert: stas
+faq: vivod
 interestingArticleName: 'Як вийти із запою без крапельниці: поради нарколога'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-vyity-iz-zapoiu-bez-krapelnytsi/'
 ---
