@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T13:41:19.641Z
-lastmod: 2026-09-28T13:58:17.861Z
+lastmod: 2026-10-26T11:01:53.791Z
 tabTitle: Крапельниця від героїну у Харкові | Umbrella Plus | Від 2499 грн
 title: Крапельниця від героїну у Харкові
 description: 'Анонімно, цілодобово та з виїздом додому'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1211'
 reviewType: lomka
 expert: kostya
+faq: narkomania
 interestingArticleName: Чорне блювання після алкоголю - що це може означати
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chorne-bliuvannia-pislia-alkoholiu/'
 ---
