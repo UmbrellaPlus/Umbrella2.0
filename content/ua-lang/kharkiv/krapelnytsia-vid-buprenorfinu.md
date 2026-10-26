@@ -1,6 +1,6 @@
 ---
 date: 2026-09-22T07:06:02.058Z
-lastmod: 2026-10-04T07:14:59.836Z
+lastmod: 2026-10-26T11:00:16.159Z
 tabTitle: Крапельниця від бупренорфіну у Харкові | Umbrella Plus | Від 2499 грн
 title: Крапельниця від бупренорфіну у Харкові
 description: Допомога за будь-якої абстиненції
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2456'
 reviewType: lomka
 expert: olga
+faq: narkomania
 interestingArticleName: Соціофобія — що потрібно знати
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/-sociofobia-chto-eto-ua/'
 ---
