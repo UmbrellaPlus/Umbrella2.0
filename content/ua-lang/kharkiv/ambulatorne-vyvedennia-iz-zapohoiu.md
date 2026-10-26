@@ -1,6 +1,6 @@
 ---
 date: 2026-09-06T13:38:57.546Z
-lastmod: 2026-09-06T20:08:59.859Z
+lastmod: 2026-10-26T10:41:52.344Z
 tabTitle: Амбулаторне виведення із запою у Харкові | Umbrella Plus | Від 2199 грн
 title: Амбулаторне виведення із запою у Харкові
 description: Медична допомога без цілодобового перебування у стаціонарі
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2612'
 reviewType: alk-2
 expert: stas
+faq: vivod
 interestingArticleName: Алкогольна енцефалопатія
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/alkogolna-encefalopatia-ua/'
 ---
