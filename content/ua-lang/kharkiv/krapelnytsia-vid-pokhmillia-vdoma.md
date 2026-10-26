@@ -1,6 +1,6 @@
 ---
 date: 2026-09-19T18:43:00.352Z
-lastmod: 2026-09-19T19:09:19.338Z
+lastmod: 2026-10-26T11:03:37.754Z
 tabTitle: Крапельниця від похмілля вдома у Харкові | Umbrella Plus | Від 2199 грн
 title: Крапельниця від похмілля вдома у Харкові
 description: Быстрое восстановление под контролем врача
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3516'
 reviewType: alk-2
 expert: kostya
+faq: kapotalkogolya
 interestingArticleName: 'Як вийти із запою без крапельниці: поради нарколога'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-vyity-iz-zapoiu-bez-krapelnytsi/'
 ---
