@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T14:44:30.740Z
-lastmod: 2026-09-28T19:42:06.327Z
+lastmod: 2026-10-26T11:28:52.288Z
 tabTitle: Лікування наркотичної залежності від спайсу / K2 у Харкові | Umbrella Plus | Від 2499 грн
 title: Лікування наркотичної залежності від спайсу / K2 у Харкові
 description: Конфіденційно та цілодобово
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '896'
 reviewType: narkot
 expert: olga
+faq: narkomania
 interestingArticleName: 'Драгси: що це таке і чим вони небезпечні'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/drahsy-shcho-tse-take/'
 ---
