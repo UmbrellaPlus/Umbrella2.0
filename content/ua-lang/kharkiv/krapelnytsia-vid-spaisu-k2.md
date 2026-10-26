@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T19:44:03.451Z
-lastmod: 2026-09-28T19:53:30.482Z
+lastmod: 2026-10-26T11:04:08.348Z
 tabTitle: Крапельниця від спайсу / K2 у Харкові | Umbrella Plus | Від 2499 грн
 title: Крапельниця від спайсу / K2 у Харкові
 description: 'Допомога при слабкості, зневодненні та інтоксикації'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1262'
 reviewType: lomka
 expert: stas
+faq: narkomania
 interestingArticleName: 'Драгси: що це таке і чим вони небезпечні'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/drahsy-shcho-tse-take/'
 ---
