@@ -1,6 +1,6 @@
 ---
 date: 2026-09-22T06:42:10.784Z
-lastmod: 2026-10-04T06:53:28.649Z
+lastmod: 2026-10-26T11:01:14.741Z
 tabTitle: Крапельниця від фентанілу у Харкові | Umbrella Plus | Від 2499 грн
 title: Крапельниця від фентанілу у Харкові
 description: Швидка допомога при ломкі та інтоксикації
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1527'
 reviewType: lomka
 expert: kostya
+faq: narkomania
 interestingArticleName: Як очиститися від наркотиків — дієві поради
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-ochystytysia-vid-narkotykiv-diievi-porady/'
 ---
