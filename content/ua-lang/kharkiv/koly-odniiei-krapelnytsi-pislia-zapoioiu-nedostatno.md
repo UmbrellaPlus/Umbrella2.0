@@ -1,6 +1,6 @@
 ---
 date: 2026-09-23T16:40:34.798Z
-lastmod: 2026-10-01T19:25:58.156Z
+lastmod: 2026-10-26T10:50:38.134Z
 tabTitle: Коли однієї крапельниці після запою недостатньо і потрібен нарколог у Харкові | Umbrella Plus | Від 2499 грн
 title: Коли однієї крапельниці після запою недостатньо і потрібен нарколог у Харкові
 description: Сильна абстиненція потребує комплексної допомоги
@@ -10,6 +10,7 @@ ratingAvarage: Сильна абстиненція потребує компле
 rating: '1682'
 reviewType: alk-2
 expert: olga
+faq: kapotalkogolya
 interestingArticleName: 'Що робити, якщо людина в запої відмовляється від допомоги'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/shcho-robyty-yakshcho-liudyna-v-zapoi-vidmovliaietsia-vid-dopomohy/'
 ---
