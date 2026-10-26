@@ -1,6 +1,6 @@
 ---
 date: 2026-06-29T14:53:47.326Z
-lastmod: 2026-08-29T19:17:06.873Z
+lastmod: 2026-10-26T10:45:38.351Z
 tabTitle: Допомога нарколога при запої в Харкові | Umbrella Plus | Від 2199 грн
 title: Допомога нарколога при запої в Харкові
 description: Медична допомога у будь-який час доби
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1923'
 reviewType: alk-1
 expert: olga
+faq: vivod
 interestingArticleName: 'Співзалежність у деталях: чому дружина алкоголіка підсвідомо не дає йому кинути пити'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/sozavisimost-v-detaliah-ua/'
 ---
