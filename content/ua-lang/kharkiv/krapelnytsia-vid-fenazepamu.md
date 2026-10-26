@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T19:42:22.116Z
-lastmod: 2026-10-01T05:57:22.558Z
+lastmod: 2026-10-26T11:00:36.548Z
 tabTitle: Крапельниця від феназепаму у Харкові | Umbrella Plus | Від 2499 грн
 title: Крапельниця від феназепаму у Харкові
 description: Перший крок до стабілізації стану
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2001'
 reviewType: narkot
 expert: olga
+faq: narkomania
 interestingArticleName: Чи передається алкоголізм у спадок
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/peredaiotsa-li-alkogolizm-po-nasledstvy-ua/'
 ---
