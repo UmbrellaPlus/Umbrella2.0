@@ -1,6 +1,6 @@
 ---
 date: 2026-10-02T16:19:42.067Z
-lastmod: 2026-10-02T16:23:34.709Z
+lastmod: 2026-10-30T08:17:08.017Z
 tabTitle: Снятие наркотической ломки Харьков | Umbrella Plus | От 2499 грн
 title: Снятие наркотической ломки Харьков
 description: Детоксикация и облегчение абстинентного синдрома
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2078'
 reviewType: lomka
 expert: stas
+faq: narkomania
 interestingArticleName: Как очиститься от наркотиков — рабочие советы
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-ochistitsya-ot-narkotikov-rabochie-sovety/'
 ---
