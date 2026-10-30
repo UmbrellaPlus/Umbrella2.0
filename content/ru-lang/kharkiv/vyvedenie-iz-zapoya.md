@@ -1,6 +1,6 @@
 ---
 date: 2026-07-01T13:56:25.748Z
-lastmod: 2026-08-30T18:47:10.233Z
+lastmod: 2026-10-30T08:33:09.072Z
 tabTitle: Выведение из запоя в Харькове — помощь нарколога на дому | Umbrella Plus | От 2199 грн
 title: Выведение из запоя в Харькове — помощь нарколога на дому
 description: Помощь без осуждения и лишней огласки
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2731'
 reviewType: alk-2
 expert: stas
+faq: vivod
 interestingArticleName: Провалы в памяти после алкоголя
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/provali-v-pamati-posle-alkogolia/'
 ---
