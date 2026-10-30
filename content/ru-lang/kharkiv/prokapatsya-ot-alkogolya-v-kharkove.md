@@ -1,6 +1,6 @@
 ---
 date: 2026-09-12T20:14:48.007Z
-lastmod: 2026-09-14T09:13:35.725Z
+lastmod: 2026-10-30T08:12:46.071Z
 tabTitle: Прокапаться от алкоголя в Харькове | Umbrella Plus | От 2199 грн
 title: Прокапаться от алкоголя в Харькове
 description: Медицинская помощь 24/7
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3612'
 reviewType: alk-1
 expert: kostya
+faq: kapotalkogolya
 interestingArticleName: Почему нельзя опохмеляться после алкоголя
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/pochemu-nelzya-opohmelyatsya-posle-alkogolya/'
 ---
