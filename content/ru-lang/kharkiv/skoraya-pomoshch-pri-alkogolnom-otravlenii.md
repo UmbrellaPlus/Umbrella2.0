@@ -1,6 +1,6 @@
 ---
 date: 2026-09-06T06:39:29.425Z
-lastmod: 2026-09-06T10:28:48.813Z
+lastmod: 2026-10-30T08:15:55.211Z
 tabTitle: Скорая помощь при алкогольном отравлении в Харькове | Umbrella Plus | От 2199 грн
 title: Скорая помощь при алкогольном отравлении в Харькове
 description: Анонимно и круглосуточно
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1735'
 reviewType: alk-2
 expert: kostya
+faq: kapotalkogolya
 interestingArticleName: 'Цирроз печени: причины, симптомы, стадии и лечение'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/ciroz-pecheni/'
 ---
