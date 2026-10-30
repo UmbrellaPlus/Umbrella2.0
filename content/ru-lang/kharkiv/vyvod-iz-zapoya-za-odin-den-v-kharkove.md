@@ -1,6 +1,6 @@
 ---
 date: 2026-09-17T18:31:36.348Z
-lastmod: 2026-09-18T19:19:08.442Z
+lastmod: 2026-10-30T08:42:25.938Z
 tabTitle: Вывод из запоя за один день в Харькове | Umbrella Plus | От 2199 грн
 title: Вывод из запоя за один день в Харькове
 description: Медикаментозная поддержка на пути к трезвости
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1874'
 reviewType: alk-1
 expert: olga
+faq: vivod
 interestingArticleName: Лекарство вызывающее отвращение к алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/lekarstvo-vyzyvayushchee-otvrashchenie-k-alkogolyu/'
 ---
