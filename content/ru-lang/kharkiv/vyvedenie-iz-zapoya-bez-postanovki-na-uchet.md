@@ -1,6 +1,6 @@
 ---
 date: 2026-09-12T18:23:49.821Z
-lastmod: 2026-09-13T12:30:37.544Z
+lastmod: 2026-10-30T08:32:21.256Z
 tabTitle: Выведение из запоя без постановки на учёт в Харькове | Umbrella Plus | От 2199 грн
 title: Выведение из запоя без постановки на учёт в Харькове
 description: Спокойно и без лишнего внимания
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1699'
 reviewType: alk-2
 expert: kostya
+faq: vivod
 interestingArticleName: Можно ли принимать таблетки от давления после алкоголя
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/mozhno-li-prinimat-tabletki-ot-davleniya-posle-alkogolya/'
 ---
