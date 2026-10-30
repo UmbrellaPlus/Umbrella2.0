@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T09:11:27.787Z
-lastmod: 2026-09-20T09:13:55.131Z
+lastmod: 2026-10-30T07:39:05.945Z
 tabTitle: Лечение наркотической зависимости от спайса / K2 в Харькове | Umbrella Plus | От 2499 грн
 title: Лечение наркотической зависимости от спайса / K2 в Харькове
 description: Конфиденциально и круглосуточно
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '896'
 reviewType: narkot
 expert: olga
+faq: narkomania
 interestingArticleName: 'Драгсы: что это такое и чем они опасны'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/dragsy-chto-eto/'
 ---
