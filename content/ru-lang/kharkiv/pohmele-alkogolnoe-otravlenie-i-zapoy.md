@@ -1,6 +1,6 @@
 ---
 date: 2026-10-01T21:11:21.117Z
-lastmod: 2026-10-06T22:00:08.117Z
+lastmod: 2026-10-30T07:55:16.046Z
 tabTitle: 'Похмелье, алкогольное отравление и запой: в чём разница и когда нужна помощь нарколога в Харькове | Umbrella Plus'
 title: 'Похмелье, алкогольное отравление и запой: в чём разница'
 description: Когда нужна помощь нарколога в Харькове
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3612'
 reviewType: alk-1
 expert: kostya
+faq: alkogolism
 interestingArticleName: Можно ли принимать таблетки от давления после алкоголя
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/mozhno-li-prinimat-tabletki-ot-davleniya-posle-alkogolya/'
 ---
