@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T12:28:05.539Z
-lastmod: 2026-09-20T12:31:16.952Z
+lastmod: 2026-10-30T07:39:47.755Z
 tabTitle: Лечение наркотической зависимости от тропикамида в Харькове | Umbrella Plus | От 2499 грн
 title: Лечение наркотической зависимости от тропикамида в Харькове
 description: 'Лечение причины, а не только последствий'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '784'
 reviewType: narkot
 expert: olga
+faq: narkomania
 interestingArticleName: Терминология и жаргон наркоманов
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/sleng-narkomanov/'
 ---
