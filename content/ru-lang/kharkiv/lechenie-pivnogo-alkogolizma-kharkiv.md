@@ -1,6 +1,6 @@
 ---
 date: 2025-03-01T17:07:19.662Z
-lastmod: 2026-08-27T18:21:08.017Z
+lastmod: 2026-10-30T07:40:55.166Z
 tabTitle: Лечение пивного алкоголизма в Харькове | Umbrella Plus | От 2199 грн
 title: Лечение пивного алкоголизма в Харькове
 description: Выбери свободу от пивной зависимости!
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '6966'
 reviewType: alk-1
 expert: stas
+faq: alkogolism
 interestingArticleName: 'Пивной алкоголизм: опасность и последствия'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/pivnoj-alkogolizm-opasnost-i-posledstviya/'
 ---
