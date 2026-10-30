@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T08:18:42.172Z
-lastmod: 2026-09-20T08:23:40.641Z
+lastmod: 2026-10-30T07:49:40.188Z
 tabTitle: Лечение наркотической зависимости от трамадола в Харькове | Umbrella Plus | От 2499 грн
 title: Лечение наркотической зависимости от трамадола в Харькове
 description: Комплексная помощь при зависимости от трамадола
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1663'
 reviewType: narkot
 expert: kostya
+faq: narkomania
 interestingArticleName: Как очиститься от наркотиков — рабочие советы
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-ochistitsya-ot-narkotikov-rabochie-sovety/'
 ---
