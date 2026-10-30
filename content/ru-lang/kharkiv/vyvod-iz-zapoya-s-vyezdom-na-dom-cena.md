@@ -1,6 +1,6 @@
 ---
 date: 2026-06-29T16:35:40.028Z
-lastmod: 2026-08-31T11:32:16.968Z
+lastmod: 2026-10-30T08:40:07.887Z
 tabTitle: Вывод из запоя с выездом на дом — цена в Харькове | Umbrella Plus | От 2199 грн
 title: Вывод из запоя с выездом на дом — цена в Харькове
 description: Помощь нарколога без лишнего стресса
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1845'
 reviewType: alk-1
 expert: stas
+faq: vivod
 interestingArticleName: Как бросить курить навсегда
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-brosit-kurit-navsegda/'
 ---
