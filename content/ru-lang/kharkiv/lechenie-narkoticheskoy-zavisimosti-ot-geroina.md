@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T08:41:47.396Z
-lastmod: 2026-09-20T08:44:46.633Z
+lastmod: 2026-10-30T07:37:39.579Z
 tabTitle: Лечение наркотической зависимости от героина в Харькове | Umbrella Plus | От 2499 грн
 title: Лечение наркотической зависимости от героина в Харькове
 description: Своевременная медицинская помощь
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3211'
 reviewType: narkot
 expert: olga
+faq: narkomania
 interestingArticleName: Влияние марихуаны на организм человека
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/vliyanie-marihuany-na-organizm-cheloveka/'
 ---
