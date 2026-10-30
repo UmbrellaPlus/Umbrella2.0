@@ -1,6 +1,6 @@
 ---
 date: 2026-09-21T19:17:39.150Z
-lastmod: 2026-09-22T18:53:58.244Z
+lastmod: 2026-10-30T08:18:46.067Z
 tabTitle: Справка о кодировании от алкоголизма в Харькове | Umbrella Plus
 title: Справка о кодировании от алкоголизма в Харькове
 description: Подтверждение проведённого лечения
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1792'
 reviewType: kod-2
 expert: kostya
+faq: alkogolism
 interestingArticleName: Какой укол вызывает отвращение к алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kakoy-ukol-vyzyvaet-otvrashchenie-k-alkogolyu/'
 ---
