@@ -1,6 +1,6 @@
 ---
 date: 2026-08-24T19:36:45.217Z
-lastmod: 2026-08-25T19:28:47.390Z
+lastmod: 2026-10-30T07:40:38.804Z
 tabTitle: Лечение пищевого отравления Харьков | Umbrella Plus | От 2199 грн
 title: Лечение пищевого отравления Харьков
 description: 'Помощь, капельница, восстановление'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3215'
 reviewType: otravl
 expert: stas
+faq: otravlenie
 interestingArticleName: 'Бетаргин при алкоголе: правда и мифы'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/betargin-i-alkogol/'
 ---
