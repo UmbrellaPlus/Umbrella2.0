@@ -1,6 +1,6 @@
 ---
 date: 2026-09-06T14:36:10.980Z
-lastmod: 2026-09-08T19:07:50.439Z
+lastmod: 2026-10-30T08:13:30.917Z
 tabTitle: Реабилитация алкоголиков в Харькове | Umbrella Plus | От 15000 грн
 title: Реабилитация алкоголиков в Харькове
 description: Комплексная помощь после детоксикации и лечения
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '7855'
 reviewType: alk-1
 expert: olga
+faq: alkogolism
 interestingArticleName: Провалы в памяти после алкоголя
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/provali-v-pamati-posle-alkogolia/'
 ---
