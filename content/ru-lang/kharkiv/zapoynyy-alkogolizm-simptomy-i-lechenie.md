@@ -1,6 +1,6 @@
 ---
 date: 2026-10-01T21:05:41.124Z
-lastmod: 2026-10-04T20:58:37.536Z
+lastmod: 2026-10-30T08:43:49.435Z
 tabTitle: 'Запойный алкоголизм: симптомы и лечение в Харькове | Umbrella Plus | От 2199 грн'
 title: 'Запойный алкоголизм: симптомы и лечение в Харькове'
 description: Круглосуточная наркологическая помощь и индивидуальный план лечения
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2721'
 reviewType: alk-2
 expert: kostya
+faq: vivod
 interestingArticleName: Почему нельзя опохмеляться после алкоголя
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/pochemu-nelzya-opohmelyatsya-posle-alkogolya/'
 ---
