@@ -1,6 +1,6 @@
 ---
 date: 2026-09-30T07:33:15.474Z
-lastmod: 2026-09-30T19:28:09.668Z
+lastmod: 2026-10-30T07:53:33.357Z
 tabTitle: Ночной вызов нарколога на дом в Харькове | Umbrella Plus | От 2199 грн
 title: Ночной вызов нарколога на дом в Харькове
 description: Анонимная помощь при запое и абстиненции
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1628'
 reviewType: alk-2
 expert: olga
+faq: vivod
 interestingArticleName: Почему нельзя опохмеляться после алкоголя
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/pochemu-nelzya-opohmelyatsya-posle-alkogolya/'
 ---
