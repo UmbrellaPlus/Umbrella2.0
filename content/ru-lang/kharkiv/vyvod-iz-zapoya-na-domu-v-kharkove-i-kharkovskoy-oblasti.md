@@ -1,6 +1,6 @@
 ---
 date: 2026-09-12T19:56:26.096Z
-lastmod: 2026-09-13T13:54:09.654Z
+lastmod: 2026-10-30T08:35:49.570Z
 tabTitle: Вывод из запоя на дому в Харькове и Харьковской области | Umbrella Plus | От 2199 грн
 title: Вывод из запоя на дому в Харькове и Харьковской области
 description: Без поездки в клинику
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1792'
 reviewType: alk-2
 expert: olga
+faq: vivod
 interestingArticleName: 'Как выйти из запоя без капельницы: советы нарколога'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-vyvesti-iz-zapoya-bez-kapelnitsy/'
 ---
