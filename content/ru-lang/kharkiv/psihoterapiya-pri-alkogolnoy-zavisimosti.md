@@ -1,6 +1,6 @@
 ---
 date: 2026-09-18T13:10:48.300Z
-lastmod: 2026-09-19T10:26:33.549Z
+lastmod: 2026-10-30T08:13:14.485Z
 tabTitle: Психотерапия при алкогольной зависимости в Харькове | Umbrella Plus | От 1700 грн
 title: Психотерапия при алкогольной зависимости в Харькове
 description: Шаг к стабильной и осознанной трезвости
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3612'
 reviewType: alk-1
 expert: olga
+faq: alkogolism
 interestingArticleName: Лекарство вызывающее отвращение к алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/lekarstvo-vyzyvayushchee-otvrashchenie-k-alkogolyu/'
 ---
