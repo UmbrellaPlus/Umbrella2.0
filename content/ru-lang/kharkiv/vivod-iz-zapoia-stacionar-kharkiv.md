@@ -1,6 +1,6 @@
 ---
 date: 2026-03-31T19:48:40.470Z
-lastmod: 2026-08-31T06:25:52.220Z
+lastmod: 2026-10-30T08:21:04.957Z
 tabTitle: Вывод из запоя в стационаре Харьков | Umbrella Plus | От 2199 грн
 title: Вывод из запоя в стационаре Харьков
 description: Быстрое восстановление под профессиональным наблюдением
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '4661'
 reviewType: alk-2
 expert: olga
+faq: vivod
 interestingArticleName: 'Пивной алкоголизм: опасность и последствия'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/pivnoj-alkogolizm-opasnost-i-posledstviya/'
 ---
