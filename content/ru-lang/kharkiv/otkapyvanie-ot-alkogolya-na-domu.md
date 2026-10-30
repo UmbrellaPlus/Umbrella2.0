@@ -1,6 +1,6 @@
 ---
 date: 2026-06-25T17:39:19.736Z
-lastmod: 2026-08-29T18:21:37.224Z
+lastmod: 2026-10-30T07:54:14.177Z
 tabTitle: Откапывание от алкоголя на дому Харьков | Umbrella Plus | От 2199 грн
 title: Откапывание от алкоголя на дому Харьков
 description: Быстрое восстановление без госпитализации
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2734'
 reviewType: alk-2
 expert: olga
+faq: kapotalkogolya
 interestingArticleName: 'Бетаргин при алкоголе: правда и мифы'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/betargin-i-alkogol/'
 ---
