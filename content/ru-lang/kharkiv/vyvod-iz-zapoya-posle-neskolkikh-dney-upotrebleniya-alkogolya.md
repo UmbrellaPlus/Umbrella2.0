@@ -1,6 +1,6 @@
 ---
 date: 2026-09-17T18:33:48.170Z
-lastmod: 2026-09-18T17:36:13.193Z
+lastmod: 2026-10-30T08:39:22.033Z
 tabTitle: Вывод из запоя после нескольких дней употребления алкоголя | Umbrella Plus | От 2199 грн
 title: Вывод из запоя после нескольких дней употребления алкоголя
 description: Рекомендации врача для безопасного восстановления
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2618'
 reviewType: alk-2
 expert: stas
+faq: vivod
 interestingArticleName: 'Как выйти из запоя без капельницы: советы нарколога'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-vyvesti-iz-zapoya-bez-kapelnitsy/'
 ---
