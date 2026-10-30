@@ -1,6 +1,6 @@
 ---
 date: 2026-09-22T16:57:47.231Z
-lastmod: 2026-09-22T18:07:35.107Z
+lastmod: 2026-10-30T08:20:44.480Z
 tabTitle: Тест на наркотики в Харькове | Umbrella Plus | От 2000 грн
 title: Тест на наркотики в Харькове
 description: 'Быстро, конфиденциально и точно'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2561'
 reviewType: narkot
 expert: olga
+faq: narkomania
 interestingArticleName: Налоксон и экстренная помощь при передозировке опиоидов
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/nalokson-i-ekstrennaya-pomoshch-pri-peredozirovke-opioidov/'
 ---
