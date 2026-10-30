@@ -1,6 +1,6 @@
 ---
 date: 2026-09-06T08:51:15.035Z
-lastmod: 2026-09-07T18:17:07.765Z
+lastmod: 2026-10-30T07:52:41.742Z
 tabTitle: Наркологический стационар в Харькове | Umbrella Plus | От 2199 грн
 title: Наркологический стационар в Харькове
 description: Анонимное лечение и наблюдение 24/7
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3722'
 reviewType: alk-1
 expert: stas
+faq: alkogolism
 interestingArticleName: 'После алкоголя немеют руки и ноги: когда нужна помощь'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/onemenie-posle-alkogolya/'
 ---
