@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T08:54:23.776Z
-lastmod: 2026-09-28T14:22:10.333Z
+lastmod: 2026-10-30T07:37:51.082Z
 tabTitle: Лечение наркотической зависимости от крэка в Харькове | Umbrella Plus | От 2499 грн
 title: Лечение наркотической зависимости от крэка в Харькове
 description: Первый шаг к стабилизации состояния
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1792'
 reviewType: lomka
 expert: olga
+faq: narkomania
 interestingArticleName: Влияние марихуаны на организм человека
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/vliyanie-marihuany-na-organizm-cheloveka/'
 ---
