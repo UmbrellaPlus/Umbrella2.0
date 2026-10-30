@@ -1,6 +1,6 @@
 ---
 date: 2026-10-02T15:05:14.278Z
-lastmod: 2026-10-02T15:10:42.009Z
+lastmod: 2026-10-30T07:46:32.467Z
 tabTitle: Лечение зависимости от фенциклидина (ангельской пыли) в Харькове | Umbrella Plus | От 2499 грн
 title: Лечение зависимости от фенциклидина (ангельской пыли) в Харькове
 description: Детоксикация и комплексное восстановление
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1762'
 reviewType: narkot
 expert: olga
+faq: narkomania
 interestingArticleName: Налоксон и экстренная помощь при передозировке опиоидов
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/nalokson-i-ekstrennaya-pomoshch-pri-peredozirovke-opioidov/'
 ---
