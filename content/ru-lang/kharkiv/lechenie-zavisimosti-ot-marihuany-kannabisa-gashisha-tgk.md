@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T09:35:39.212Z
-lastmod: 2026-09-20T09:38:38.743Z
+lastmod: 2026-10-30T07:48:20.462Z
 tabTitle: 'Лечение наркотической зависимости от марихуаны, каннабиса, гашиша, ТГК в Харькове | Umbrella Plus | От 2499 грн'
 title: 'Лечение наркотической зависимости от марихуаны, каннабиса, гашиша, ТГК'
 description: Шаг к стабильной трезвости и восстановлению
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2631'
 reviewType: narkot
 expert: kostya
+faq: narkomania
 interestingArticleName: Влияние марихуаны на организм человека
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/vliyanie-marihuany-na-organizm-cheloveka/'
 ---
