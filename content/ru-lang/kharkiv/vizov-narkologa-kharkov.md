@@ -1,6 +1,6 @@
 ---
 date: 2025-08-31T19:59:43.843Z
-lastmod: 2026-08-30T18:18:26.973Z
+lastmod: 2026-10-30T08:21:16.628Z
 tabTitle: Вызов нарколога на дом в Харькове | Umbrella Plus |  От 2199 грн
 title: Вызов нарколога на дом в Харькове
 description: Помощь без лишних вопросов
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '6387'
 reviewType: alk-2
 expert: olga
+faq: kapotalkogolya
 interestingArticleName: Как очиститься от наркотиков — рабочие советы
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-ochistitsya-ot-narkotikov-rabochie-sovety/'
 ---
