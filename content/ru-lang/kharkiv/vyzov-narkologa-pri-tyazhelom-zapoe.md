@@ -1,6 +1,6 @@
 ---
 date: 2026-09-14T20:18:16.042Z
-lastmod: 2026-09-15T19:15:05.981Z
+lastmod: 2026-10-30T08:43:15.616Z
 tabTitle: Вызов нарколога при тяжёлом запое в Харькове | Umbrella Plus | От 2199 грн
 title: Вызов нарколога при тяжёлом запое в Харькове
 description: 'Не ждите ухудшения, вызовите врача на дом'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3612'
 reviewType: alk-2
 expert: stas
+faq: vivod
 interestingArticleName: Можно ли принимать таблетки от давления после алкоголя
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/mozhno-li-prinimat-tabletki-ot-davleniya-posle-alkogolya/'
 ---
