@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T14:17:44.732Z
-lastmod: 2026-09-20T14:21:33.500Z
+lastmod: 2026-10-30T07:44:37.316Z
 tabTitle: Лечение зависимости от экстази (МДМА) в Харькове | Umbrella Plus | От 2499 грн
 title: Лечение зависимости от экстази (МДМА) в Харькове
 description: Комплексный подход и поддержка на каждом этапе лечения
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1631'
 reviewType: narkot
 expert: kostya
+faq: narkomania
 interestingArticleName: 'Драгсы: что это такое и чем они опасны'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/dragsy-chto-eto/'
 ---
