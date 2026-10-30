@@ -1,6 +1,6 @@
 ---
 date: 2026-08-31T20:06:01.229Z
-lastmod: 2026-09-06T16:13:24.575Z
+lastmod: 2026-10-30T07:43:30.232Z
 tabTitle: Лечение запойного алкоголизма в Харькове | Umbrella Plus | От 2199 грн
 title: Лечение запойного алкоголизма в Харькове
 description: Современный подход к восстановлению после запоя
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2819'
 reviewType: alk-1
 expert: olga
+faq: alkogolism
 interestingArticleName: 'После алкоголя немеют руки и ноги: когда нужна помощь'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/onemenie-posle-alkogolya/'
 ---
