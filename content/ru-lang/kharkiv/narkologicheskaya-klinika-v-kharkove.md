@@ -1,6 +1,6 @@
 ---
 date: 2026-07-07T20:34:37.139Z
-lastmod: 2026-08-29T09:14:13.046Z
+lastmod: 2026-10-30T07:51:25.060Z
 tabTitle: Наркологическая клиника в Харькове | Umbrella Plus | От 2199 грн
 title: Наркологическая клиника в Харькове
 description: Лечение без осуждения и огласки
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3831'
 reviewType: alk-2
 expert: olga
+faq: alkogolism
 interestingArticleName: Как бросить курить навсегда самостоятельно и не сорваться
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kak-brosit-kurit-navsegda/'
 ---
