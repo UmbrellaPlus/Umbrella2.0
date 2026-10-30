@@ -1,6 +1,6 @@
 ---
 date: 2026-10-01T20:19:25.035Z
-lastmod: 2026-10-03T21:19:39.854Z
+lastmod: 2026-10-30T07:56:26.886Z
 tabTitle: Принудительный вывод из запоя в Харькове | Umbrella Plus | От 2199 грн
 title: Принудительный вывод из запоя в Харькове
 description: Мотивация и безопасное начало лечение зависимости
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1738'
 reviewType: alk-1
 expert: stas
+faq: vivod
 interestingArticleName: Можно ли умереть от пьянки
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/mozhno-li-umeret-ot-pyanki/'
 ---
