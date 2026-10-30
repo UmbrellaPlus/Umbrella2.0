@@ -1,6 +1,6 @@
 ---
 date: 2026-09-15T18:12:58.726Z
-lastmod: 2026-09-16T19:51:05.895Z
+lastmod: 2026-10-30T08:21:56.259Z
 tabTitle: Выезд нарколога по Харьковской области | Umbrella Plus | От 2199 грн
 title: Выезд нарколога по Харьковской области
 description: Врачебная помощь на дому 24/7
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3612'
 reviewType: alk-1
 expert: stas
+faq: vivod
 interestingArticleName: Таблетки которые нельзя мешать с алкоголем
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/preparati-i-alkogol/'
 ---
