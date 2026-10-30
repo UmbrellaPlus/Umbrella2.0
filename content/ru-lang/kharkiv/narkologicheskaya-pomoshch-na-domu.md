@@ -1,6 +1,6 @@
 ---
 date: 2026-09-14T19:53:08.137Z
-lastmod: 2026-09-15T20:10:22.870Z
+lastmod: 2026-10-30T07:51:50.480Z
 tabTitle: Наркологическая помощь на дому в Харькове круглосуточно | Umbrella Plus | От 2199 грн
 title: Наркологическая помощь на дому в Харькове круглосуточно
 description: Помощь нарколога днем и ночью
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3792'
 reviewType: lomka
 expert: kostya
+faq: vivod
 interestingArticleName: 'Драгсы: что это такое и чем они опасны'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/dragsy-chto-eto/'
 ---
