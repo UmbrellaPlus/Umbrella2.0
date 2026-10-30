@@ -1,6 +1,6 @@
 ---
 date: 2026-04-01T17:56:52.882Z
-lastmod: 2026-08-29T19:43:44.693Z
+lastmod: 2026-10-30T07:56:30.993Z
 tabTitle: Принудительное лечение алкоголизма в Харькове | Umbrella Plus | От 2199 грн
 title: Принудительное лечение алкоголизма в Харькове
 description: Действуем быстро и законно
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3716'
 reviewType: alk-1
 expert: kostya
+faq: alkogolism
 interestingArticleName: Провалы в памяти после алкоголя
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/provali-v-pamati-posle-alkogolia/'
 ---
