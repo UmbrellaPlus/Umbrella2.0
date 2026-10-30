@@ -1,6 +1,6 @@
 ---
 date: 2026-06-19T18:08:32.284Z
-lastmod: 2026-08-29T20:09:21.126Z
+lastmod: 2026-10-30T08:15:37.883Z
 tabTitle: Скорая наркологическая помощь Харьков | Umbrella Plus | От 2199 грн
 title: Скорая наркологическая помощь Харьков
 description: 'Быстро, профессионально, анонимно'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '4728'
 reviewType: alk-2
 expert: stas
+faq: vivod
 interestingArticleName: 'Алкогольная эпилепсия, что это такое'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/alkogolnaia-epilepsia/'
 ---
