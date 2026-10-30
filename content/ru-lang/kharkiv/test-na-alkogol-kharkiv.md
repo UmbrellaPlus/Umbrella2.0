@@ -1,6 +1,6 @@
 ---
 date: 2026-02-21T21:15:40.608Z
-lastmod: 2026-09-22T18:14:00.726Z
+lastmod: 2026-10-30T08:19:43.445Z
 tabTitle: Тест на алкоголь по слюне и крови в Харькове | Umbrella Plus | От 1500 грн
 title: Тест на алкоголь по слюне и крови в Харькове
 description: Объективный результат без ожидания
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '7622'
 reviewType: alk-2
 expert: stas
+faq: alkogolism
 interestingArticleName: 'Что делать, если человек в запое отказывается от помощи'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/chto-delat-esli-chelovek-v-zapoe-otkazyvaetsya-ot-pomoshchi/'
 ---
