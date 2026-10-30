@@ -1,6 +1,6 @@
 ---
 date: 2026-09-21T19:06:09.282Z
-lastmod: 2026-09-22T18:30:44.339Z
+lastmod: 2026-10-30T08:15:09.449Z
 tabTitle: Сертификат психиатра-нарколога в Харькове | Umbrella Plus | От 1500 грн
 title: Сертификат психиатра-нарколога в Харькове
 description: Корректное оформление и понятный порядок получения документа
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2415'
 reviewType: alk-2
 expert: olga
+faq: alkogolism
 interestingArticleName: Алкоголь и сахарный диабете
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/alkogol-i-diabet/'
 ---
