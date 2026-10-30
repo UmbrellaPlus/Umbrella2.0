@@ -1,6 +1,6 @@
 ---
 date: 2026-09-15T18:00:08.743Z
-lastmod: 2026-09-16T14:17:01.095Z
+lastmod: 2026-10-30T08:33:50.226Z
 tabTitle: Вывод из длительного запоя в Харькове | Umbrella Plus | От 2199 грн
 title: Вывод из длительного запоя в Харькове
 description: 'Помощь тогда, когда организм уже не справляется'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2522'
 reviewType: alk-2
 expert: olga
+faq: vivod
 interestingArticleName: Можно ли принимать таблетки от давления после алкоголя
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/mozhno-li-prinimat-tabletki-ot-davleniya-posle-alkogolya/'
 ---
