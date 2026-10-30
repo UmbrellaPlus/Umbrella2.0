@@ -1,6 +1,6 @@
 ---
 date: 2026-09-06T06:04:01.472Z
-lastmod: 2026-09-06T16:25:01.047Z
+lastmod: 2026-10-30T08:17:56.101Z
 tabTitle: Снятие запоя в Харькове | Umbrella Plus | От 2199 грн
 title: Снятие запоя в Харькове
 description: Быстрое обращение к наркологу
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1635'
 reviewType: alk-1
 expert: olga
+faq: vivod
 interestingArticleName: Почему нельзя опохмеляться после алкоголя
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/pochemu-nelzya-opohmelyatsya-posle-alkogolya/'
 ---
