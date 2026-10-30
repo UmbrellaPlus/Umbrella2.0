@@ -1,6 +1,6 @@
 ---
 date: 2026-06-29T14:45:01.365Z
-lastmod: 2026-08-29T19:17:45.059Z
+lastmod: 2026-10-30T07:56:00.690Z
 tabTitle: Помощь нарколога при запое в Харькове | Umbrella Plus | От 2199 грн
 title: Помощь нарколога при запое в Харькове
 description: Медицинская помощь в любое время суток
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1923'
 reviewType: alk-1
 expert: olga
+faq: vivod
 interestingArticleName: 'Созависимость в деталях: почему жена алкоголика подсознательно не дает ему бросить пить'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/sozavisimost-v-detaliah/'
 ---
