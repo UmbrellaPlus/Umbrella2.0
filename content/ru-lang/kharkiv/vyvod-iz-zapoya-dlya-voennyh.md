@@ -1,6 +1,6 @@
 ---
 date: 2026-07-02T15:09:15.398Z
-lastmod: 2026-08-31T07:02:50.071Z
+lastmod: 2026-10-30T08:34:28.614Z
 tabTitle: Вывод из запоя для военных в Харькове | Umbrella Plus | От 2199 грн
 title: Вывод из запоя для военных в Харькове
 description: Поддержка в сложный момент
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2871'
 reviewType: alk-2
 expert: kostya
+faq: vivod
 interestingArticleName: Агрессия после употребления алкоголя
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/agressiya-posle-upotrebleniya-alkogolya/'
 ---
