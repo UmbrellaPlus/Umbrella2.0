@@ -1,6 +1,6 @@
 ---
 date: 2026-09-20T09:42:30.916Z
-lastmod: 2026-09-20T09:44:53.540Z
+lastmod: 2026-10-30T07:45:50.370Z
 tabTitle: Лечение зависимости от феназепама в Харькове | Umbrella Plus | От 2499 грн
 title: Лечение зависимости от феназепама в Харькове
 description: Конфиденциально и комплексно
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3012'
 reviewType: lomka
 expert: olga
+faq: narkomania
 interestingArticleName: Влияние марихуаны на организм человека
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/vliyanie-marihuany-na-organizm-cheloveka/'
 ---
