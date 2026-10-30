@@ -1,6 +1,6 @@
 ---
 date: 2026-09-06T14:46:50.008Z
-lastmod: 2026-09-08T19:47:56.714Z
+lastmod: 2026-10-30T08:34:12.998Z
 tabTitle: Вывод из недельного запоя в Харькове | Umbrella Plus | От 2199 грн
 title: Вывод из недельного запоя в Харькове
 description: Стабилизация состояния и дальнейшее восстановление
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2441'
 reviewType: alk-1
 expert: olga
+faq: vivod
 interestingArticleName: Можно ли умереть от пьянки
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/mozhno-li-umeret-ot-pyanki/'
 ---
