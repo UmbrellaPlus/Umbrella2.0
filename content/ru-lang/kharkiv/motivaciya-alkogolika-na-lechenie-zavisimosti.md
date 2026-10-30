@@ -1,6 +1,6 @@
 ---
 date: 2026-10-01T20:36:35.018Z
-lastmod: 2026-10-03T20:55:58.857Z
+lastmod: 2026-10-30T07:50:00.482Z
 tabTitle: Мотивация алкоголика на лечение зависимости — помощь нарколога в Харькове | Umbrella Plus
 title: Мотивация алкоголика на лечение зависимости — помощь нарколога в Харькове
 description: Профессиональная беседа и первый шаг к добровольному лечению
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3792'
 reviewType: alk-1
 expert: olga
+faq: narkomania
 interestingArticleName: 'Лекарства, несовместимые с алкоголем: риск тяжёлых осложнений и летального исхода'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/lekarstva-nesovmestimye-s-alkogolem/'
 ---
