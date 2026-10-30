@@ -1,6 +1,6 @@
 ---
 date: 2026-09-07T15:48:06.599Z
-lastmod: 2026-09-09T08:22:42.164Z
+lastmod: 2026-10-30T07:50:51.280Z
 tabTitle: Нарколог на дом круглосуточно в Харькове | Umbrella Plus | От 2199 грн
 title: Нарколог на дом круглосуточно в Харькове
 description: 'Помощь рядом, когда она особенно нужна.'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1792'
 reviewType: alk-2
 expert: olga
+faq: vivod
 interestingArticleName: Можно ли умереть от пьянки
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/mozhno-li-umeret-ot-pyanki/'
 ---
