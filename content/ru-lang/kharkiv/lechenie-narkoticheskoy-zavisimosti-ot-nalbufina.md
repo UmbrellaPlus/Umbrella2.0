@@ -1,6 +1,6 @@
 ---
 date: 2026-09-22T20:10:58.331Z
-lastmod: 2026-09-22T20:15:02.429Z
+lastmod: 2026-10-30T07:38:17.460Z
 tabTitle: Лечение наркотической зависимости от налбуфина в Харькове | Umbrella Plus | От 2499 грн
 title: Лечение наркотической зависимости от налбуфина в Харькове
 description: Детокс после любых наркотиков
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1793'
 reviewType: lomka
 expert: stas
+faq: narkomania
 interestingArticleName: Что такое солевая зависимость (наркотики)
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/chto-takoi-solevaia-zavisimost/'
 ---
