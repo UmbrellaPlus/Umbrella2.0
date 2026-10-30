@@ -1,6 +1,6 @@
 ---
 date: 2026-09-07T17:44:05.223Z
-lastmod: 2026-09-09T08:54:23.198Z
+lastmod: 2026-10-30T08:18:21.594Z
 tabTitle: Состав капельницы при выводе из запоя в Харькове
 title: Состав капельницы при выводе из запоя в Харькове
 description: Индивидуально для каждого пациента
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2832'
 reviewType: alk-2
 expert: kostya
+faq: kapotalkogolya
 interestingArticleName: Какой укол вызывает отвращение к алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/kakoy-ukol-vyzyvaet-otvrashchenie-k-alkogolyu/'
 ---
