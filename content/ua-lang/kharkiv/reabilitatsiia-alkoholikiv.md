@@ -1,6 +1,6 @@
 ---
 date: 2026-09-06T18:23:20.027Z
-lastmod: 2026-09-08T19:08:02.261Z
+lastmod: 2026-10-31T18:09:45.117Z
 tabTitle: Реабілітація алкоголіків у Харкові | Umbrella Plus | Від 15000 грн
 title: Реабілітація алкоголіків у Харкові
 description: Комплексна допомога після детоксикації та лікування
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '7855'
 reviewType: alk-1
 expert: olga
+faq: alkogolism
 interestingArticleName: Провали в пам'яті після алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/provali-v-pamati-posle-alkogolia-ua/'
 ---
