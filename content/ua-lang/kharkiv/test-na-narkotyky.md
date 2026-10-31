@@ -1,6 +1,6 @@
 ---
 date: 2026-09-22T17:51:38.071Z
-lastmod: 2026-09-22T18:07:40.217Z
+lastmod: 2026-10-31T18:15:31.802Z
 tabTitle: Тест на наркотики у Харкові | Umbrella Plus | Від 2000 грн
 title: Тест на наркотики у Харкові
 description: 'Швидко, конфіденційно та точно'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2561'
 reviewType: narkot
 expert: olga
+faq: narkomania
 interestingArticleName: Налоксон та екстрена допомога при передозуванні опіоїдів
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/nalokson-ta-ekstrena-dopomoha-pry-peredozuvanni-opioidiv/'
 ---
