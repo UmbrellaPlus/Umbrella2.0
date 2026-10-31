@@ -1,6 +1,6 @@
 ---
 date: 2026-09-06T09:25:09.080Z
-lastmod: 2026-09-06T10:28:40.268Z
+lastmod: 2026-10-31T18:11:44.712Z
 tabTitle: Швидка допомога при алкогольному отруєнні у Харкові | Umbrella Plus | Від 2199 грн
 title: Швидка допомога при алкогольному отруєнні у Харкові
 description: Анонімно і цілодобово
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1735'
 reviewType: alk-2
 expert: kostya
+faq: kapotalkogolya
 interestingArticleName: 'Цироз печінки: причини, симптоми, стадії та лікування'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/ciroz-pecheni-ua/'
 ---
