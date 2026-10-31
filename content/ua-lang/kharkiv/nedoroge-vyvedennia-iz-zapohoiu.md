@@ -1,6 +1,6 @@
 ---
 date: 2026-09-09T17:58:58.134Z
-lastmod: 2026-09-09T18:28:10.487Z
+lastmod: 2026-10-31T18:04:45.877Z
 tabTitle: Недороге виведення із запою у Харкові | Umbrella Plus | Від 2199 грн
 title: Недороге виведення із запою у Харкові
 description: Конфіденційно та з виїздом додому
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3823'
 reviewType: alk-1
 expert: kostya
+faq: vivod
 interestingArticleName: 'Як вийти із запою без крапельниці: поради нарколога'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-vyity-iz-zapoiu-bez-krapelnytsi/'
 ---
