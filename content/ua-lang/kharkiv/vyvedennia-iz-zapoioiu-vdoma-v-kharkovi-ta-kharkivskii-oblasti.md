@@ -1,6 +1,6 @@
 ---
 date: 2026-09-12T13:19:13.575Z
-lastmod: 2026-09-14T07:54:20.048Z
+lastmod: 2026-10-31T18:21:17.155Z
 tabTitle: Виведення із запою вдома у Харкові та Харківській області | Umbrella Plus | Від 2199 грн
 title: Виведення із запою вдома у Харкові та Харківській області
 description: Без поїздки до клініки
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1792'
 reviewType: alk-2
 expert: olga
+faq: vivod
 interestingArticleName: 'Як вийти із запою без крапельниці: поради нарколога'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-vyity-iz-zapoiu-bez-krapelnytsi/'
 ---
