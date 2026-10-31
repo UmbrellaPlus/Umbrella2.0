@@ -1,6 +1,6 @@
 ---
 date: 2026-09-15T18:55:32.652Z
-lastmod: 2026-09-19T11:01:11.713Z
+lastmod: 2026-10-31T18:18:50.143Z
 tabTitle: Виїзд нарколога по Харківській області Umbrella Plus | Від 2199 грн
 title: Виїзд нарколога по Харківській області
 description: Лікарська допомога вдома 24/7
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3612'
 reviewType: alk-1
 expert: stas
+faq: vivod
 interestingArticleName: Пігулки які не можна заважати з алкоголем
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/preparati-i-alkogol-ua/'
 ---
