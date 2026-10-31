@@ -1,6 +1,6 @@
 ---
 date: 2026-06-25T07:59:38.647Z
-lastmod: 2026-08-29T18:21:32.034Z
+lastmod: 2026-10-31T18:05:06.449Z
 tabTitle: Прокапування від алкоголю вдома Харків | Umbrella Plus | Від 2199 грн
 title: Прокапування від алкоголю вдома Харків
 description: Швидке відновлення без госпіталізації
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2734'
 reviewType: alk-2
 expert: olga
+faq: kapotalkogolya
 interestingArticleName: 'Бетаргін при алкоголі: правда і міфи'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/betargin-i-alkogol-ua/'
 ---
