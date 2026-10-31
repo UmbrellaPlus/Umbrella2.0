@@ -1,6 +1,6 @@
 ---
 date: 2026-04-01T17:58:27.584Z
-lastmod: 2026-08-29T19:43:40.049Z
+lastmod: 2026-10-31T18:07:31.174Z
 tabTitle: Примусове лікування алкоголізму в Харкові | Umbrella Plus | Від 2199 грн
 title: Примусове лікування алкоголізму в Харкові
 description: Діємо швидко та законно
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3716'
 reviewType: alk-2
 expert: kostya
+faq: alkogolism
 interestingArticleName: Провали в пам'яті після алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/provali-v-pamati-posle-alkogolia-ua/'
 ---
