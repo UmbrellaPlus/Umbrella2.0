@@ -1,6 +1,6 @@
 ---
 date: 2025-08-31T20:00:26.049Z
-lastmod: 2026-08-30T18:18:21.391Z
+lastmod: 2026-10-31T18:18:10.813Z
 tabTitle: Виклик нарколога додому в Харкові | Umbrella Plus | Від 2199 грн
 title: Виклик нарколога додому в Харкові
 description: Допомога без зайвих питань
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '6387'
 reviewType: alk-2
 expert: olga
+faq: vivod
 interestingArticleName: Як очиститися від наркотиків — дієві поради
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-ochystytysia-vid-narkotykiv-diievi-porady/'
 ---
