@@ -1,6 +1,6 @@
 ---
 date: 2026-09-06T12:42:04.181Z
-lastmod: 2026-09-07T18:17:44.208Z
+lastmod: 2026-10-31T18:04:12.892Z
 tabTitle: Наркологічний стаціонар у Харкові | Umbrella Plus | Від 2199 грн
 title: Наркологічний стаціонар у Харкові
 description: Анонімне лікування та спостереження 24/7
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3722'
 reviewType: alk-1
 expert: stas
+faq: alkogolism
 interestingArticleName: 'Після алкоголю німіють руки й ноги: коли потрібна допомога'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/oniminnya-pislya-alkogolyu/'
 ---
