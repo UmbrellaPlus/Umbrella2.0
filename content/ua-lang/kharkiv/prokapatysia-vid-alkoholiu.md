@@ -1,6 +1,6 @@
 ---
 date: 2026-09-12T08:34:56.753Z
-lastmod: 2026-09-19T20:12:06.311Z
+lastmod: 2026-10-31T18:08:00.820Z
 tabTitle: Прокапатись від алкоголю у Харкові | Umbrella Plus | Від 2199 грн
 title: Прокапатись від алкоголю у Харкові
 description: Медична допомога 24/7
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3612'
 reviewType: alk-1
 expert: kostya
+faq: kapotalkogolya
 interestingArticleName: Чому не можна похмелятися після алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chomu-ne-mozhna-pohmelyatysya-pislya-alkogolyu/'
 ---
