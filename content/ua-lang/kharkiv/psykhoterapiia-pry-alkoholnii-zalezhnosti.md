@@ -1,6 +1,6 @@
 ---
 date: 2026-09-18T09:44:46.383Z
-lastmod: 2026-09-19T10:57:09.739Z
+lastmod: 2026-10-31T18:08:47.730Z
 tabTitle: Психотерапія при алкогольній залежності у Харкові | Umbrella Plus | Від 1700 грн
 title: Психотерапія при алкогольній залежності у Харкові
 description: Крок до стабільної та свідомої тверезості
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3612'
 reviewType: alk-1
 expert: olga
+faq: alkogolism
 interestingArticleName: Ліки що викликають відразу до алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/liky-shcho-vyklykaiut-vidrazu-do-alkoholiu/'
 ---
