@@ -1,6 +1,6 @@
 ---
 date: 2026-09-21T14:12:59.490Z
-lastmod: 2026-09-22T18:30:48.867Z
+lastmod: 2026-10-31T18:10:44.469Z
 tabTitle: Сертифікат психіатра-нарколога у Харкові | Umbrella Plus | Від 1500 грн
 title: Сертифікат психіатра-нарколога у Харкові
 description: Коректне оформлення та зрозумілий порядок отримання документа
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2415'
 reviewType: alk-2
 expert: olga
+faq: alkogolism
 interestingArticleName: Алкоголь та цукровий діабет
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/alkogol-i-diabet-ua/'
 ---
