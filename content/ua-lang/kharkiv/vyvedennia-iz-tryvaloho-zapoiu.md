@@ -1,6 +1,6 @@
 ---
 date: 2026-09-15T14:29:01.497Z
-lastmod: 2026-09-19T11:01:51.091Z
+lastmod: 2026-10-31T18:19:22.724Z
 tabTitle: Виведення із тривалого запою у Харкові | Umbrella Plus | Від 2199 грн
 title: Виведення із тривалого запою у Харкові
 description: 'Допомога тоді, коли організм вже не справляється'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2522'
 reviewType: alk-2
 expert: olga
+faq: vivod
 interestingArticleName: Чи можна приймати таблетки від тиску після алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chi-mozhna-priymaty-tabletky-vid-tysku-pislya-alkoholyu/'
 ---
