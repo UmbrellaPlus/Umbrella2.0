@@ -1,6 +1,6 @@
 ---
 date: 2026-09-14T18:19:12.701Z
-lastmod: 2026-09-19T11:02:35.324Z
+lastmod: 2026-10-31T18:19:02.064Z
 tabTitle: Виклик нарколога при важкому запої у Харкові | Umbrella Plus | Від 2199 грн
 title: Виклик нарколога при важкому запої у Харкові
 description: 'Не чекайте погіршення, викличте лікаря додому'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3612'
 reviewType: alk-2
 expert: stas
+faq: vivod
 interestingArticleName: Чи можна приймати таблетки від тиску після алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chi-mozhna-priymaty-tabletky-vid-tysku-pislya-alkoholyu/'
 ---
