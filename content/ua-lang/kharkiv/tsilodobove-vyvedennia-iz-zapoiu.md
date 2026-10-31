@@ -1,6 +1,6 @@
 ---
 date: 2026-06-05T19:27:54.780Z
-lastmod: 2026-08-27T14:35:45.362Z
+lastmod: 2026-10-31T18:16:53.647Z
 tabTitle: Цілодобове виведення із запою Харків | Umbrella Plus | От 2199 грн
 title: Цілодобове виведення із запою Харків
 description: 'Допомога тоді, коли вона потрібна'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1727'
 reviewType: alk-2
 expert: kostya
+faq: vivod
 interestingArticleName: Чому не можна похмелятися після алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chomu-ne-mozhna-pohmelyatysya-pislya-alkogolyu/'
 ---
