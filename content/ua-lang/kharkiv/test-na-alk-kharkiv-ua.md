@@ -1,6 +1,6 @@
 ---
 date: 2026-02-21T16:51:48.868Z
-lastmod: 2026-09-22T18:14:09.910Z
+lastmod: 2026-10-31T18:14:59.921Z
 tabTitle: Тест на алкоголь по слині та крові у Харкові | Umbrella Plus | Від 1500 грн
 title: Тест на алкоголь по слині та крові у Харкові
 description: Об'єктивний результат без очікування
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '7622'
 reviewType: alk-2
 expert: stas
+faq: alkogolism
 interestingArticleName: 'Що робити, якщо людина в запої відмовляється від допомоги'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/shcho-robyty-yakshcho-liudyna-v-zapoi-vidmovliaietsia-vid-dopomohy/'
 ---
