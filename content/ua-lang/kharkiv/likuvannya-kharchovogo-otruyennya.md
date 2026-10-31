@@ -1,6 +1,6 @@
 ---
 date: 2026-08-24T19:37:44.077Z
-lastmod: 2026-08-25T19:28:56.871Z
+lastmod: 2026-10-31T18:00:47.746Z
 tabTitle: Лікування харчового отруєння Харків | Umbrella Plus | Від 2199 грн
 title: Лікування харчового отруєння Харків
 description: 'Допомога, капельниця, відновлення'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3215'
 reviewType: otravl
 expert: stas
+faq: otravlenie
 interestingArticleName: 'Бетаргін при алкоголі: правда і міфи'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/betargin-i-alkogol-ua/'
 ---
