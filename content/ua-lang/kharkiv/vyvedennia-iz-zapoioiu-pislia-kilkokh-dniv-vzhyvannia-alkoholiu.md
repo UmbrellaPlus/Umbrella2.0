@@ -1,6 +1,6 @@
 ---
 date: 2026-09-17T16:58:55.479Z
-lastmod: 2026-09-19T10:59:45.866Z
+lastmod: 2026-10-31T18:20:36.373Z
 tabTitle: Виведення із запою після кількох днів вживання алкоголю | Umbrella Plus | Від 2199 грн
 title: Виведення із запою після кількох днів вживання алкоголю
 description: Рекомендації лікаря для безпечного відновлення
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2618'
 reviewType: alk-2
 expert: stas
+faq: vivod
 interestingArticleName: 'Як вийти із запою без крапельниці: поради нарколога'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-vyity-iz-zapoiu-bez-krapelnytsi/'
 ---
