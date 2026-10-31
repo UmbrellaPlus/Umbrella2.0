@@ -1,6 +1,6 @@
 ---
 date: 2026-10-01T18:55:54.040Z
-lastmod: 2026-10-03T19:34:14.774Z
+lastmod: 2026-10-31T18:11:33.567Z
 tabTitle: 'Що робити, якщо алкоголік відмовляється лікуватися - нарколог у Харкові | Umbrella Plus'
 title: 'Що робити, якщо алкоголік відмовляється лікуватися'
 description: Допомога нарколога у Харкові
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3736'
 reviewType: alk-2
 expert: kostya
+faq: alkogolism
 interestingArticleName: 'Що робити, якщо людина в запої відмовляється від допомоги'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/shcho-robyty-yakshcho-liudyna-v-zapoi-vidmovliaietsia-vid-dopomohy/'
 ---
