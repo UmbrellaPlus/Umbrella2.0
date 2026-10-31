@@ -1,6 +1,6 @@
 ---
 date: 2026-06-29T16:45:09.541Z
-lastmod: 2026-08-31T11:32:10.046Z
+lastmod: 2026-10-31T18:21:30.372Z
 tabTitle: Виведення із запою з виїздом додому — ціна в Харкові | Umbrella Plus | Від 2199 грн
 title: Виведення із запою з виїздом додому — ціна в Харкові
 description: Допомога нарколога без зайвого стресу
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1845'
 reviewType: alk-2
 expert: stas
+faq: vivod
 interestingArticleName: Як кинути курити назавжди
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-kinuty-kuryty-nazavzhdy/'
 ---
