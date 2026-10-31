@@ -1,6 +1,6 @@
 ---
 date: 2026-09-12T12:31:34.735Z
-lastmod: 2026-09-13T13:06:00.503Z
+lastmod: 2026-10-31T18:24:30.771Z
 tabTitle: Як швидко вийти із запою у Харкові за допомогою нарколога | Umbrella Plus | Від 2199 грн
 title: Як швидко вийти із запою у Харкові за допомогою нарколога
 description: Оперативно та з медичним контролем
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1792'
 reviewType: alk-2
 expert: stas
+faq: vivod
 interestingArticleName: Чи можна померти від пиятики
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chy-mozhna-pomerty-vid-piyatstva/'
 ---
