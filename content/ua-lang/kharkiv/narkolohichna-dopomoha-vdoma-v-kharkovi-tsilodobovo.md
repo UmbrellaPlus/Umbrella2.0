@@ -1,6 +1,6 @@
 ---
 date: 2026-09-14T16:42:54.458Z
-lastmod: 2026-09-19T11:03:24.603Z
+lastmod: 2026-10-31T18:03:16.316Z
 tabTitle: Наркологічна допомога вдома у Харкові цілодобово | Umbrella Plus | Від 2199 грн
 title: Наркологічна допомога вдома у Харкові цілодобово
 description: Допомога нарколога вдень та вночі
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3792'
 reviewType: lomka
 expert: kostya
+faq: vivod
 interestingArticleName: 'Драгси: що це таке і чим вони небезпечні'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/drahsy-shcho-tse-take/'
 ---
