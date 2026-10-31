@@ -1,6 +1,6 @@
 ---
 date: 2026-10-02T20:58:25.599Z
-lastmod: 2026-10-06T22:00:01.019Z
+lastmod: 2026-10-31T18:06:49.740Z
 tabTitle: 'Похмілля, алкогольне отруєння та запій: у чому різниця і коли потрібна допомога нарколога у Харкові | Umbrella Plus'
 title: 'Похмілля, алкогольне отруєння та запій: у чому різниця'
 description: Коли потрібна допомога нарколога у Харкові
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3612'
 reviewType: alk-1
 expert: kostya
+faq: kapotalkogolya
 interestingArticleName: Чи можна приймати таблетки від тиску після алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chi-mozhna-priymaty-tabletky-vid-tysku-pislya-alkoholyu/'
 ---
