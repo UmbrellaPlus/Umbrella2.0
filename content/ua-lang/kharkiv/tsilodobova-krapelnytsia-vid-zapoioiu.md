@@ -1,6 +1,6 @@
 ---
 date: 2026-09-19T19:13:05.724Z
-lastmod: 2026-09-19T19:42:31.589Z
+lastmod: 2026-10-31T18:15:49.359Z
 tabTitle: Цілодобова крапельниця від запою у Харкові | Umbrella Plus | Від 2199 грн
 title: Цілодобова крапельниця від запою у Харкові
 description: Медична підтримка 24/7
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1889'
 reviewType: alk-2
 expert: stas
+faq: vivod
 interestingArticleName: 'Як вийти із запою без крапельниці: поради нарколога'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-vyity-iz-zapoiu-bez-krapelnytsi/'
 ---
