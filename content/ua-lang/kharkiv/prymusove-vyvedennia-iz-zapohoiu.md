@@ -1,6 +1,6 @@
 ---
 date: 2026-10-01T19:37:03.435Z
-lastmod: 2026-10-03T21:20:46.611Z
+lastmod: 2026-10-31T18:08:40.100Z
 tabTitle: Примусове виведення із запою у Харкові | Umbrella Plus | Від 2199 грн
 title: Примусове виведення із запою у Харкові
 description: Мотивація та безпечний початок лікування залежності
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1738'
 reviewType: alk-1
 expert: stas
+faq: vivod
 interestingArticleName: Чи можна померти від пиятики
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chy-mozhna-pomerty-vid-piyatstva/'
 ---
