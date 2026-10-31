@@ -1,6 +1,6 @@
 ---
 date: 2026-09-06T08:13:26.172Z
-lastmod: 2026-09-06T16:25:23.816Z
+lastmod: 2026-10-31T18:26:13.395Z
 tabTitle: Зняття запою в Харкові | Umbrella Plus | Від 2199 грн
 title: Зняття запою в Харкові
 description: Швидке звернення до нарколога
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1635'
 reviewType: alk-1
 expert: olga
+faq: vivod
 interestingArticleName: Чому не можна похмелятися після алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chomu-ne-mozhna-pohmelyatysya-pislya-alkogolyu/'
 ---
