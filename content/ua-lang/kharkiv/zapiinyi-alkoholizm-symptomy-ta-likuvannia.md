@@ -1,6 +1,6 @@
 ---
 date: 2026-10-02T20:15:17.048Z
-lastmod: 2026-10-04T20:59:11.392Z
+lastmod: 2026-10-31T18:24:49.255Z
 tabTitle: 'Запійний алкоголізм: симптоми та лікування у Харкові | Umbrella Plus | Від 2199 грн'
 title: 'Запійний алкоголізм: симптоми та лікування у Харкові '
 description: Цілодобова наркологічна допомога та індивідуальний план лікування
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2721'
 reviewType: alk-2
 expert: kostya
+faq: alkogolism
 interestingArticleName: Почему нельзя опохмеляться после алкоголя
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/pochemu-nelzya-opohmelyatsya-posle-alkogolya/'
 ---
