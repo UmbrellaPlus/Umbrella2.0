@@ -1,6 +1,6 @@
 ---
 date: 2026-07-07T20:45:44.241Z
-lastmod: 2026-08-29T09:14:04.200Z
+lastmod: 2026-10-31T18:03:46.893Z
 tabTitle: Наркологічна клініка в Харкові | Umbrella Plus | Від 2199 грн
 title: Наркологічна клініка в Харкові
 description: Лікування без засудження та розголосу
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3831'
 reviewType: alk-2
 expert: olga
+faq: vivod
 interestingArticleName: Як кинути палити назавжди самостійно і не зірватися
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-kinuty-kuryty-nazavzhdy/'
 ---
