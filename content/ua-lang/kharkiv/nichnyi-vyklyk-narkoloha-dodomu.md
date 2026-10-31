@@ -1,6 +1,6 @@
 ---
 date: 2026-09-30T18:18:23.994Z
-lastmod: 2026-09-30T19:28:18.379Z
+lastmod: 2026-10-31T18:04:49.409Z
 tabTitle: Нічний виклик нарколога додому у Харкові | Umbrella Plus | Від 2199 грн
 title: Нічний виклик нарколога додому у Харкові
 description: Анонімна допомога при запої та абстиненції
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1628'
 reviewType: alk-2
 expert: olga
+faq: vivod
 interestingArticleName: Чому не можна похмелятися після алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chomu-ne-mozhna-pohmelyatysya-pislya-alkogolyu/'
 ---
