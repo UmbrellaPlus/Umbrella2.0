@@ -1,6 +1,6 @@
 ---
 date: 2026-06-19T18:43:12.594Z
-lastmod: 2026-08-29T20:09:13.646Z
+lastmod: 2026-10-31T18:13:34.793Z
 tabTitle: Швидка наркологічна допомога Харків | Umbrella Plus | Від 2199 грн
 title: Швидка наркологічна допомога Харків
 description: 'Швидко, професійно, анонімно'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '4728'
 reviewType: alk-2
 expert: stas
+faq: alkogolism
 interestingArticleName: 'Алкогольна епілепсія, що це таке'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/alkogolnia-epilepsia-ua/'
 ---
