@@ -1,6 +1,6 @@
 ---
 date: 2026-09-03T07:04:15.031Z
-lastmod: 2026-09-06T16:15:07.080Z
+lastmod: 2026-10-31T18:00:21.191Z
 tabTitle: Лікування запійного алкоголізму в Харкові | Umbrella Plus | Від 2199 грн
 title: Лікування запійного алкоголізму в Харкові
 description: Сучасний підхід до відновлення після запою
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2819'
 reviewType: alk-1
 expert: olga
+faq: alkogolism
 interestingArticleName: 'Після алкоголю німіють руки та ноги: коли потрібна допомога'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/oniminnya-pislya-alkogolyu/'
 ---
