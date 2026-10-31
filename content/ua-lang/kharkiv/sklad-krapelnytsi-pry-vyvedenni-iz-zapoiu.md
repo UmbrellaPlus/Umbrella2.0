@@ -1,6 +1,6 @@
 ---
 date: 2026-09-07T18:09:47.235Z
-lastmod: 2026-09-09T08:54:28.669Z
+lastmod: 2026-10-31T18:12:52.590Z
 tabTitle: Склад крапельниці при виведенні із запою в Харкові | Umbrella Plus
 title: Склад крапельниці при виведенні із запою в Харкові
 description: Індивідуально для кожного пацієнта
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2832'
 reviewType: alk-2
 expert: kostya
+faq: kapotalkogolya
 interestingArticleName: Який укол викликає відразу до алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yakyi-ukol-vyklykaie-vidrazu-do-alkoholiu/'
 ---
