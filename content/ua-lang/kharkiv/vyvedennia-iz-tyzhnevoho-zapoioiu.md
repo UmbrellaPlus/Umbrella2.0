@@ -1,6 +1,6 @@
 ---
 date: 2026-09-06T19:09:54.846Z
-lastmod: 2026-09-08T19:48:12.405Z
+lastmod: 2026-10-31T18:19:46.354Z
 tabTitle: Виведення з тижневого запою у Харкові | Umbrella Plus | Від 2199 грн
 title: Виведення з тижневого запою у Харкові
 description: Стабілізація стану та подальше відновлення
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2441'
 reviewType: alk-1
 expert: olga
+faq: vivod
 interestingArticleName: Чи можна померти від пиятики
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chy-mozhna-pomerty-vid-piyatstva/'
 ---
