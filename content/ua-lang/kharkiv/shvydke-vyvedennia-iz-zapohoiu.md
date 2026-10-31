@@ -1,6 +1,6 @@
 ---
 date: 2026-09-09T18:29:46.046Z
-lastmod: 2026-09-09T19:31:37.468Z
+lastmod: 2026-10-31T18:12:32.642Z
 tabTitle: Швидке виведення із запою у Харкові Umbrella Plus | Від 2199 грн
 title: Швидке виведення із запою у Харкові
 description: Допомога без зайвого очікування
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2770'
 reviewType: alk-1
 expert: stas
+faq: vivod
 interestingArticleName: 'Після алкоголю німіють руки й ноги: коли потрібна допомога'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/oniminnya-pislya-alkogolyu/'
 ---
