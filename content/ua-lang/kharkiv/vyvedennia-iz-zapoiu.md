@@ -1,6 +1,6 @@
 ---
 date: 2026-07-01T14:03:21.361Z
-lastmod: 2026-08-31T07:00:07.639Z
+lastmod: 2026-10-31T18:22:40.792Z
 tabTitle: Виведення із запою в Харкові — допомога нарколога вдома | Umbrella Plus | Від 2199 грн
 title: Виведення із запою в Харкові — допомога нарколога вдома
 description: Допомога без засудження та зайвого розголосу
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2731'
 reviewType: alk-2
 expert: stas
+faq: vivod
 interestingArticleName: Провали в пам'яті після алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/provali-v-pamati-posle-alkogolia-ua/'
 ---
