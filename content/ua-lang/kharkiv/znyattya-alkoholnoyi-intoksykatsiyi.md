@@ -1,6 +1,6 @@
 ---
 date: 2026-06-27T08:19:22.291Z
-lastmod: 2026-10-31T18:26:28.401Z
+lastmod: 2026-10-31T18:26:40.077Z
 tabTitle: Зняття алкогольної інтоксикації в Харкові | Umbrella Plus | Від 2199 грн
 title: Зняття алкогольної інтоксикації в Харкові
 description: Анонімно та професійно
@@ -10,7 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3612'
 reviewType: alk-1
 expert: stas
-faq: vivod
+faq: kapotalkogolya
 interestingArticleName: Цироз печінки — від алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/ciroz-pecheni-ua/'
 ---
