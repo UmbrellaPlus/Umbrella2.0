@@ -1,6 +1,6 @@
 ---
 date: 2026-03-31T19:50:07.457Z
-lastmod: 2026-08-31T06:30:18.410Z
+lastmod: 2026-10-31T18:17:50.948Z
 tabTitle: Виведення із запою в стаціонарі Харків | Umbrella Plus | Від 2199 грн
 title: Виведення із запою в стаціонарі Харків
 description: Швидке відновлення під професійним наглядом
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '4661'
 reviewType: alk-2
 expert: olga
+faq: vivod
 interestingArticleName: 'Пивний алкоголізм: небезпека та наслідки'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/pyvnyi-alkoholizm-nebezpeka-ta-naslidky/'
 ---
