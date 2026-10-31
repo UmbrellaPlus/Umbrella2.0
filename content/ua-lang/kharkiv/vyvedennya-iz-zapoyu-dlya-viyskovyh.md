@@ -1,6 +1,6 @@
 ---
 date: 2026-07-02T15:24:31.782Z
-lastmod: 2026-08-31T07:03:04.019Z
+lastmod: 2026-10-31T18:22:53.039Z
 tabTitle: Виведення із запою для військових у Харкові | Umbrella Plus | Від 2199 грн
 title: Виведення із запою для військових у Харкові
 description: Підтримка в складний момент
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2871'
 reviewType: alk-2
 expert: kostya
+faq: vivod
 interestingArticleName: Агресія після вживання алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/ahresiia-pislia-vzhyvannia-alkoholiu/'
 ---
