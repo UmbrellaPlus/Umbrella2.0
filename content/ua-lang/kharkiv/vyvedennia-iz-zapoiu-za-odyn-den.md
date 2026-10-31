@@ -1,6 +1,6 @@
 ---
 date: 2026-09-17T18:28:36.331Z
-lastmod: 2026-09-19T10:58:24.317Z
+lastmod: 2026-10-31T18:21:57.372Z
 tabTitle: Виведення із запою за один день у Харкові | Umbrella Plus | Від 2199 грн
 title: Виведення із запою за один день у Харкові
 description: Медикаментозна підтримка на шляху до тверезості
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1874'
 reviewType: alk-1
 expert: olga
+faq: vivod
 interestingArticleName: Ліки що викликають відразу до алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/liky-shcho-vyklykaiut-vidrazu-do-alkoholiu/'
 ---
