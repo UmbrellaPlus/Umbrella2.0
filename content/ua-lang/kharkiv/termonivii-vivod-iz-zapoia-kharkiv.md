@@ -1,6 +1,6 @@
 ---
 date: 2026-04-01T19:05:39.852Z
-lastmod: 2026-08-29T21:03:49.523Z
+lastmod: 2026-10-31T18:13:47.573Z
 tabTitle: Термінове виведення із запою Харків | Umbrella Plus | Від 2199 грн
 title: Термінове виведення із запою Харків
 description: Допомога без зволікання
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '4998'
 reviewType: alk-1
 expert: olga
+faq: vivod
 interestingArticleName: 'Як вийти із запою без крапельниці: поради нарколога'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/yak-vyity-iz-zapoiu-bez-krapelnytsi/'
 ---
