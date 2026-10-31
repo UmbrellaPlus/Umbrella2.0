@@ -1,6 +1,6 @@
 ---
 date: 2026-06-05T18:45:52.552Z
-lastmod: 2026-08-27T11:03:42.348Z
+lastmod: 2026-10-31T18:16:32.012Z
 tabTitle: Цілодобова наркологічна допомога Харків | Umbrella Plus | Від 2199 грн
 title: Цілодобова наркологічна допомога Харків
 description: Медична підтримка вдома та в стаціонарі
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2716'
 reviewType: alk-2
 expert: olga
+faq: alkogolism
 interestingArticleName: 'Цироз печінки: причини, симптоми, стадії та лікування'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/ciroz-pecheni-ua/'
 ---
