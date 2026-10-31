@@ -1,6 +1,6 @@
 ---
 date: 2026-09-12T11:23:20.240Z
-lastmod: 2026-09-13T12:30:43.926Z
+lastmod: 2026-10-31T18:20:01.802Z
 tabTitle: Виведення із запою без постановки на облік у Харкові | Umbrella Plus | Від 2199 грн
 title: Виведення із запою без постановки на облік у Харкові
 description: Спокійно та без зайвої уваги
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1699'
 reviewType: alk-2
 expert: kostya
+faq: vivod
 interestingArticleName: Чи можна приймати таблетки від тиску після алкоголю
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chi-mozhna-priymaty-tabletky-vid-tysku-pislya-alkoholyu/'
 ---
