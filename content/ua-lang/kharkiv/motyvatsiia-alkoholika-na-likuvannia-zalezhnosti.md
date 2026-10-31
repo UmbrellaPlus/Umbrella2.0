@@ -1,6 +1,6 @@
 ---
 date: 2026-10-01T20:19:11.960Z
-lastmod: 2026-10-03T20:55:53.783Z
+lastmod: 2026-10-31T18:02:26.605Z
 tabTitle: Мотивація алкоголіка на лікування залежності – допомога нарколога у Харкові | Umbrella Plus
 title: Мотивація алкоголіка на лікування залежності – допомога нарколога у Харкові
 description: Професійна бесіда та перший крок до добровільного лікування
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '3792'
 reviewType: alk-1
 expert: olga
+faq: alkogolism
 interestingArticleName: 'Лікарські засоби, несумісні з алкоголем'
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/likarski-zasoby-nesumisni-z-alkoholem/'
 ---
