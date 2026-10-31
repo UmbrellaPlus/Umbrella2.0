@@ -1,6 +1,6 @@
 ---
 date: 2026-09-07T15:58:24.842Z
-lastmod: 2026-09-09T08:22:46.990Z
+lastmod: 2026-10-31T17:58:54.509Z
 tabTitle: Нарколог додому цілодобово в Харкові | Umbrella Plus | Від 2199 грн
 title: Нарколог додому цілодобово в Харкові
 description: 'Допомога поруч, коли вона особливо потрібна.'
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '1792'
 reviewType: alk-2
 expert: olga
+faq: vivod
 interestingArticleName: Чи можна померти від пиятики
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chy-mozhna-pomerty-vid-piyatstva/'
 ---
