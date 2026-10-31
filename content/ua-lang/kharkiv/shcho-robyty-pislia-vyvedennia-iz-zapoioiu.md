@@ -1,6 +1,6 @@
 ---
 date: 2026-09-17T16:22:53.932Z
-lastmod: 2026-09-19T11:00:20.165Z
+lastmod: 2026-10-31T18:11:03.679Z
 tabTitle: 'Що робити після виведення із запою у Харкові: лікування алкоголізму | Umbrella Plus | Від 2199 грн'
 title: Що робити після виведення із запою у Харкові
 description: Ваш перший крок до тверезості
@@ -10,6 +10,7 @@ ratingAvarage: 4.99/5
 rating: '2612'
 reviewType: alk-1
 expert: kostya
+faq: vivod
 interestingArticleName: Чи можна померти від пиятики
 interestingArticleLink: 'https://umbrella-plus.com.ua/uk/blog/chy-mozhna-pomerty-vid-piyatstva/'
 ---
