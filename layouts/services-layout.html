@@ -21,7 +21,7 @@
       <h1>Услуги</h1>
       {{ else }}
       <h1>Послуги</h1>
-      {{end}} {{partial "services-taglist.html"}}
+      {{end}} {{partial "services-taglist.html" .}}
       <ul class="services-list-container">
         {{$services := slice}}
         {{$reviewType := slice}}
