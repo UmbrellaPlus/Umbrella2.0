@@ -7,6 +7,7 @@ imageText: Лікування жіночого алкоголізму
 ratingAvarage: 4.99/5
 rating: '12734'
 reviewType: alk-2
+show: true
 ---
 
 ## Лікування жіночого алкоголізму

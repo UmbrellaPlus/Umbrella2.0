@@ -6,7 +6,7 @@ image: /img/services/vivod-iz-zapoia-na-domy.jpg
 imageText: Вывод из запоя на дому
 ratingAvarage: 4.98/5
 rating: '17311'
-reviewType: alk-1
+reviewType: alk-2
 ---
 
 ## Вывод из запоя на дому

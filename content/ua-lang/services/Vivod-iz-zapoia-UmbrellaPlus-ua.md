@@ -7,6 +7,7 @@ imageText: Екстрене виведення із запою
 ratingAvarage: 4.98/5
 rating: '17789'
 reviewType: alk-2
+show: true
 ---
 
 ## Екстрене виведення із запою

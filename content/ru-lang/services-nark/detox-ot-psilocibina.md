@@ -6,6 +6,7 @@ image: /img/services/lech-nark/detox-psylocibin.jpg
 imageText: Детоксикация от Псилоцибина (грибы)
 ratingAvarage: 4.99/5
 rating: '5327'
+show: true
 ---
 
 ## Детоксикация от Псилоцибина (грибы)

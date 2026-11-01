@@ -7,6 +7,7 @@ imageText: Консультация нарколога
 ratingAvarage: 4.99/5
 rating: '22823'
 reviewType: alk-2
+show: true
 ---
 
 ## Консультация нарколога

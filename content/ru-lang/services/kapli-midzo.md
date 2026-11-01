@@ -7,6 +7,7 @@ imageText: Что такое капли Мидзо и как они действ
 ratingAvarage: 4.98/5
 rating: '7564'
 reviewType: kod-2
+show: true
 ---
 
 ## Что такое капли Мидзо и как они действуют

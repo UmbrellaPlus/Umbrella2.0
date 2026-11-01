@@ -14,7 +14,7 @@
 .snippet * {
   display: flex;
   color: grey;
-  margin:-.5rem 0;
+  margin: -0.5rem 0;
 }
 .markdown-side-menu {
   display: none;
@@ -23,25 +23,17 @@
   color: var(--blue);
 }
 
-.markdown > h1,
-h2,
-h3,
-h4 {
-  max-width: 90%;
-  display: inline-block;
-  position: relative;
-  padding: 1.5rem 0;
-  align-self: center;
-}
-h2::after {
-  content: "";
-  position: absolute;
-  width: 100%;
-  height: 3px;
-  bottom: 10px;
-  border-radius: 10px;
-  background-color: var(--blue);
-  left: 0px;
+.markdown {
+  h1,
+  h2,
+  h3,
+  h4 {
+    max-width: 90%;
+    display: inline-block;
+    position: relative;
+    padding: 1.5rem 0;
+    align-self: center;
+  }
 }
 .markdown a {
   color: var(--blue);

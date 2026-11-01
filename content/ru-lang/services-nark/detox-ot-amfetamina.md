@@ -6,6 +6,7 @@ image: /img/services/lech-nark/detox-amp.jpg
 imageText: Детоксикация от амфетамина
 ratingAvarage: 4.99/5
 rating: '8544'
+show: true
 ---
 
 ## Детоксикация от амфетамина

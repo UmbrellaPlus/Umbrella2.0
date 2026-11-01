@@ -7,6 +7,7 @@ imageText: Лечение алкоголизма
 ratingAvarage: 4.98/5
 rating: '19283'
 reviewType: alk-1
+show: true
 ---
 
 ## Лечение алкогольной зависимости

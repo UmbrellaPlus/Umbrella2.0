@@ -7,6 +7,7 @@ imageText: Що таке краплі Мідзо та як вони діють
 ratingAvarage: 4.98/5
 rating: '7564'
 reviewType: kod-2
+show: true
 ---
 
 ## Що таке краплі Мідзо і як вони діють

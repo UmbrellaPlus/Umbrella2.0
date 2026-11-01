@@ -7,6 +7,7 @@ imageText: Лечение алкоголизма у военных
 ratingAvarage: 4.98/5
 rating: '11966'
 reviewType: alk-1
+show: true
 ---
 
 ## Лечение алкоголизма у военных

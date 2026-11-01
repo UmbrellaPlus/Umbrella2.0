@@ -7,6 +7,7 @@ imageText: Лечение наркомании Umbrella Plus
 ratingAvarage: 4.98/5
 rating: '9782'
 reviewType: alk-2
+show: true
 ---
 
 ## Лечение наркомании: Комплексный путь к здоровой жизни

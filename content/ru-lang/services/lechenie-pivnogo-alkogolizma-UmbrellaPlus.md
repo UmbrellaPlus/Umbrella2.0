@@ -7,6 +7,7 @@ imageText: Лечение пивного алкоголизма
 ratingAvarage: 4.99/5
 rating: '14322'
 reviewType: alk-1
+show: true
 ---
 
 ## Лечение пивного алкоголизма

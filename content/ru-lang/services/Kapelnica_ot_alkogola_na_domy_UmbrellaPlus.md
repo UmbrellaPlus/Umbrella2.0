@@ -7,6 +7,7 @@ imageText: Капельница от алкоголя на дому
 ratingAvarage: 4.98/5
 rating: '18412'
 reviewType: alk-1
+show: true
 ---
 
 ## Капельница от алкоголя на дому

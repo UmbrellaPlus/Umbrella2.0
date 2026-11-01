@@ -7,6 +7,7 @@ imageText: Подшивка от алкоголизма
 ratingAvarage: 4.99/5
 rating: '11002'
 reviewType: kod-2
+show: true
 ---
 
 ## Что такое подшивка от алкоголизма

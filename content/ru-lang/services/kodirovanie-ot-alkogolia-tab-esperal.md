@@ -1,3 +1,15 @@
+---
+tabTitle: Кодирование от алкоголизма таблетки Еспераль | Umbrella Plus | От 10000 грн
+title: Кодирование от алкоголизма таблетки Еспераль
+description: Мы можем остановить зависимость навсегда!
+image: /img/services/kodirovka-ot-alkogolia-lazerom.jpg
+imageText: Кодирование от алкоголизма таблетки Еспераль
+ratingAvarage: 4.98/5
+rating: '11266'
+reviewType: kod-2
+show: true
+---
+
 
 ## Кодирование от алкоголизма Эспераль таблетки
 

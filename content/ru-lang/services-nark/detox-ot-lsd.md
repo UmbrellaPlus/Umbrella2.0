@@ -6,6 +6,7 @@ image: /img/services/lech-nark/detox-lcd.jpg
 imageText: Детоксикация от ЛСД (Лизергидовой кислоты)
 ratingAvarage: 4.99/5
 rating: '6711'
+show: true
 ---
 
 ## Детоксикация от ЛСД (Лизергидовой кислоты)

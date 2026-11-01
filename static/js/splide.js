@@ -159,3 +159,24 @@ document.addEventListener("DOMContentLoaded", function () {
     },
   }).mount();
 });
+
+//CAROUSEL FOR SERVICES TAGLIST
+document.addEventListener("DOMContentLoaded", function () {
+  new Splide("#taglist-carousel", {
+    type: "loop",
+    speed: 800,
+    perPage: 5,
+    pagination: false,
+    breakpoints: {
+      640: {
+        perPage: 2,
+      },
+      1280: {
+        perPage: 3,
+      },
+      1640: {
+        perPage: 4,
+      }
+    },
+  }).mount();
+});

@@ -7,6 +7,7 @@ imageText: Кодування за методом Довженка
 ratingAvarage: 4.98/5
 rating: '11602'
 reviewType: kod-2
+show: true
 ---
 
 ## Кодування за методом Довженка

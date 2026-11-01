@@ -1,5 +1,5 @@
 ---
-layout: services
+layout: services-layout
 tabTitle: Лечение алкогольной зависимости | Umbrella Plus — помощь 24/7
 title: Лечение алкогольной зависимости
 description: Возвращаем жизнь без алкоголя
@@ -8,6 +8,7 @@ imageText: Лечение алкогольной зависимости
 ratingAvarage: 4.99/5
 rating: '19782'
 reviewType: alk-2
+show: true
 ---
 
 | Работаем без выходных 24/7                  |

@@ -7,6 +7,7 @@ imageText: Кодування від алкоголізму
 ratingAvarage: 4.98/5
 rating: '17531'
 reviewType: kod-2
+show: true
 ---
 
 ## Кодування від алкоголізму

@@ -7,6 +7,7 @@ imageText: Круглосуточная наркологическая помо�
 ratingAvarage: 4.99/5
 rating: '21464'
 reviewType: alk-1
+show: true
 ---
 
 ## Круглосуточная наркологическая помощь

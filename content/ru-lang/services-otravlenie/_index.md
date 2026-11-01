@@ -7,6 +7,7 @@ imageText: Капельница при пищевом отравлении
 ratingAvarage: 4.99/5
 rating: '15622'
 reviewType: otravl
+show: true
 ---
 
 ## Капельница при пищевом отравлении

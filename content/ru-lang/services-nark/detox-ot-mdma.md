@@ -6,6 +6,7 @@ image: /img/services/lech-nark/detox-mdma.jpg
 imageText: Детоксикация от Экстази (MDMA)
 ratingAvarage: 4.99/5
 rating: '9532'
+show: true
 ---
 
 ## Детоксикация от Экстази (MDMA)

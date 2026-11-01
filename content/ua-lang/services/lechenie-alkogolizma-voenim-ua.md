@@ -7,6 +7,7 @@ imageText: Лікування алкоголізму у військових
 ratingAvarage: 4.98/5
 rating: '11966'
 reviewType: alk-1
+show: true
 ---
 
 ## Лікування алкоголізму у військових

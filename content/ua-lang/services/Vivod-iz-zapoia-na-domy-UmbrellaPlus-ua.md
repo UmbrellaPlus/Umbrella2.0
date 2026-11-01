@@ -7,6 +7,7 @@ imageText: Виведення із запою вдома
 ratingAvarage: 4.98/5
 rating: '17311'
 reviewType: alk-1
+show: true
 ---
 
 ## Виведення із запою на дому

@@ -7,6 +7,7 @@ imageText: Реабилитация алкозависимых
 ratingAvarage: 4.99/5
 rating: '7543'
 reviewType: alk-2
+show: true
 ---
 
 ## Реабилитация алкозависимых

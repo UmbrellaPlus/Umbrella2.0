@@ -6,6 +6,7 @@ image: /img/services/lech-nark/detox-cocain.jpg
 imageText: Детоксикация от кокаина
 ratingAvarage: 4.99/5
 rating: '8622'
+show: true
 ---
 
 ## Детоксикация от кокаина

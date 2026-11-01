@@ -7,6 +7,8 @@ imageText: Экстренный вывод из запоя
 ratingAvarage: 4.98/5
 rating: '17789'
 reviewType: alk-2
+show: true
+icon: /img/ICONS/Uslugi/vivod-iz-zapoya/alkohol.png
 ---
 
 ## Экстренный вывод из запоя

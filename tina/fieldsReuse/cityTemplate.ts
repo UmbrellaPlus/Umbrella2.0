@@ -1,3 +1,5 @@
+// Используется на странице Сервисы и на странице города с филиала
+
 import { TinaField } from "tinacms";
 
 export const cityTemplate: TinaField[] = [
@@ -175,12 +177,12 @@ export const cityTemplate: TinaField[] = [
       },
       {
         value: "kapotalkogolya",
-        label: "Капельница от алкоголя"
+        label: "Капельница от алкоголя",
       },
       {
         value: "otravlenie",
-        label: "Пищевое отравление"
-      }
+        label: "Пищевое отравление",
+      },
     ],
   },
   {
@@ -198,6 +200,33 @@ export const cityTemplate: TinaField[] = [
     ui: {
       description:
         "Например: https://umbrella-plus.com.ua/blog/korsakivskyi-syndrom/",
+    },
+  },
+  {
+    type: "boolean",
+    label: "Показывать ли страницу в Услугах?",
+    name: "show",
+    ui: {
+      description: "Используется ТОЛЬКО на странице с Услугами (пока что)",
+    },
+  },
+  {
+    type: "image",
+    label: "Иконка (используется только на страницах услуг)",
+    name: "icon",
+  },
+  {
+    type: "string",
+    label: "Цена (используется только на страницах услуг)",
+    name: "price",    ui: {
+      description: "Например: От 2499 грн",
+    },
+  },
+  {
+    type: "string",
+    label: "Длительность (используется только на страницах услуг)",
+    name: "duration",    ui: {
+      description: "Например: 30-60 мин",
     },
   },
   {

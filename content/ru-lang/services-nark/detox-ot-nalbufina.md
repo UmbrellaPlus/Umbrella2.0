@@ -6,6 +6,7 @@ image: /img/services/lech-nark/detox-nalbufin.jpg
 imageText: Детоксикация от налбуфина
 ratingAvarage: 4.99/5
 rating: '5622'
+show: true
 ---
 
 ## Детоксикация от налбуфина

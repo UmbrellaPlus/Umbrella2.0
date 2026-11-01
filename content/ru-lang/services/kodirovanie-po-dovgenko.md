@@ -7,6 +7,7 @@ imageText: Кодировка по методу Довженко
 ratingAvarage: 4.98/5
 rating: '11602'
 reviewType: kod-2
+show: true
 ---
 
 ## Кодирование по методу Довженко

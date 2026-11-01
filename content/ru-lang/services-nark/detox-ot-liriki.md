@@ -6,6 +6,7 @@ image: /img/services/lech-nark/detox-lyrica.jpg
 imageText: Детоксикация от Лирики (прегабалина)
 ratingAvarage: 4.99/5
 rating: '6211'
+show: true
 ---
 
 ## Детоксикация от Лирики (прегабалина)

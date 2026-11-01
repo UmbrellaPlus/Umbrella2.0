@@ -7,6 +7,7 @@ imageText: Кодування від алкоголізму уколом Есп�
 ratingAvarage: 4.98/5
 rating: '11441'
 reviewType: kod-2
+show: true
 ---
 
 ## Кодування від алкоголізму укол Еспераль

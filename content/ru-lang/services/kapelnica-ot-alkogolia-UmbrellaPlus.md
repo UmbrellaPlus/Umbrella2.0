@@ -7,6 +7,7 @@ imageText: Капельница от алкоголя
 ratingAvarage: 4.98/5
 rating: '15923'
 reviewType: alk-1
+show: true
 ---
 
 ## Капельница от алкоголя

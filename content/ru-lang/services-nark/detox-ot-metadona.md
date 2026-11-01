@@ -6,6 +6,7 @@ image: /img/services/lech-nark/detox-metadon.jpg
 imageText: Детоксикация от метадона
 ratingAvarage: 4.99/5
 rating: '4532'
+show: true
 ---
 
 ## Детоксикация от метадона

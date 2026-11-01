@@ -1,5 +1,5 @@
 ---
-layout: services
+layout: services-layout
 tabTitle: Лікування алкогольної залежності | Umbrella Plus - допомога 24/7
 title: Лікування алкогольної залежності
 description: Повертаємо життя без алкоголю

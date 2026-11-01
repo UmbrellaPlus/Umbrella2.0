@@ -7,6 +7,7 @@ imageText: Кодування від алкоголізму лазером
 ratingAvarage: 4.98/5
 rating: '11266'
 reviewType: kod-2
+show: true
 ---
 
 ## Кодування від алкоголізму лазером

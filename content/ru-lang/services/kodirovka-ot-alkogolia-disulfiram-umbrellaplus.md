@@ -7,6 +7,7 @@ imageText: Кодирование от алкоголизма уколом ди�
 ratingAvarage: 4.99/5
 rating: '16722'
 reviewType: kod-2
+show: true
 ---
 
 ## Кодирование от алкоголизма уколом Дисульфирам

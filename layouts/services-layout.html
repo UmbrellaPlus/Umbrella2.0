@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    {{ partial "head.html" . }} {{ partial "schema/list.html"}}
+  </head>
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript
+      ><iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-P7NR5N9F"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      ></iframe
+    ></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    {{partial "sticky-phone.html"}} {{partial "preheader.html" . }} {{ partial
+    "header.html"}}
+    <div class="grid-padding">
+      {{if in .Site.Language "ru"}}
+      <h1>Услуги</h1>
+      {{ else }}
+      <h1>Послуги</h1>
+      {{end}} {{partial "services-taglist.html"}}
+      <ul class="services-list-container">
+        {{$services := slice}}
+        {{$reviewType := slice}}
+        {{$icon := ""}}
+        {{$show := .Params.show | default false}}
+        {{/*  Категория Капельница от алкоголизма  */}}
+        {{if eq .Section "services"}}
+        {{$services = where site.RegularPages "Type" "services"}}
+        {{$services = where $services ".Params.reviewType" "alk-1"}}
+        {{$icon = "/img/services-icons/iv.png"}}
+        {{/*  Категория Вывод из запоя  */}}
+        {{else if eq .Section "services-zapoi"}}
+        {{$services = where site.RegularPages "Type" "services"}}
+        {{$services = where $services ".Params.reviewType" "alk-2"}}
+        {{$icon = "/img/services-icons/zapoi.png"}}
+        {{/*  Категория Кодирование  */}}
+        {{else if eq .Section "services-kodirovanie"}}
+        {{$preservices := where site.RegularPages "Type" "services"}}
+        {{$services = where $preservices ".Params.reviewType" "kod-2"}}
+        {{$icon = "/img/services-icons/kodirovka.png"}}
+        {{/*  Категория Наркология  */}}
+        {{else if eq .Section "services-nark"}}
+        {{$services = where site.RegularPages "Type" "services-nark"}}
+        {{$icon = "/img/services-icons/nark.png"}}
+        {{end}}
+        {{$paginator := .Paginate $services 15}}
+        {{ range $paginator.Pages }}
+        {{if in .Site.Language "ru"}}
+        {{ if eq .Params.show true}}
+        <a href="{{ .Permalink }}">
+          <li class="services-list-post">
+              <div class="services-list-post-image-container">
+                {{if .Params.icon}}
+                {{ with .Params.icon }} {{ with resources.Get . }}
+                <img src="{{.RelPermalink}}" alt="{{.Params.imageText}}" />
+                {{end}} {{end}}
+                {{else}}
+                <img src="{{$icon}}" alt="{{.Params.imageText}}" />
+                {{end}}
+              </div>
+              <h3>{{ .Title }}</h3>
+              <p style="color: grey">{{.Params.description}}</p>
+              <div class="services-list-post-lowertext">
+              <p>Цена: {{.Params.price | default "От 2499 грн"}}</p>
+              <p>{{.Params.duration | default "От 60 мин"}}</p>
+              <p style="color: var(--blue)">Подробнее ↗</p>
+              </div>
+          </li>
+        </a>
+        {{end}}
+        {{else}}
+        <a href="{{ .Permalink }}">
+          <li class="services-list-post">
+              <div class="services-list-post-image-container">
+                {{if .Params.icon}}
+                {{ with .Params.icon }} {{ with resources.Get . }}
+                <img src="{{.RelPermalink}}" alt="{{.Params.imageText}}" />
+                {{end}} {{end}}
+                {{else}}
+                <img src="{{$icon}}" alt="{{.Params.imageText}}" />
+                {{end}}
+              </div>
+              <h3>{{ .Title }}</h3>
+              <p style="color: grey">{{.Params.description}}</p>
+              <div class="services-list-post-lowertext">
+              <p>Цена: {{.Params.price | default "Від 2499 грн"}}</p>
+              <p>{{.Params.duration | default "Від 60 хв"}}</p>
+              <p style="color: var(--blue)">Детальніше ↗</p>
+              </div>
+          </li>
+        </a>
+        {{end}} {{ end }}
+      </ul>
+      {{if in .Site.Language "ru"}}
+      <div class="PaginationNavigation">
+        {{ if $paginator.HasPrev }}
+        <a href="{{ $paginator.Prev.URL }}">Предыдущая страница</a>
+        {{ end }} {{with $paginator}} {{ range .Pagers }}
+        <b><a href="{{ .URL }}">{{ .PageNumber }}</a></b>
+        {{ end }} {{end}} {{ if $paginator.HasNext }}
+        <a href="{{ $paginator.Next.URL }}">Следующая страница</a>
+        {{ end }}
+      </div>
+      {{else}}
+      <div class="PaginationNavigation">
+        {{ if $paginator.HasPrev }}
+        <a href="{{ $paginator.Prev.URL }}">Попередня сторінка</a>
+        {{ end }} {{with $paginator}} {{ range .Pagers }}
+        <b><a href="{{ .URL }}">{{ .PageNumber }}</a></b>
+        {{ end }} {{end}} {{ if $paginator.HasNext }}
+        <a href="{{ $paginator.Next.URL }}">Наступна сторінка</a>
+        {{ end }} {{end}}
+      </div>
+      {{partial "contacts.html" . }} {{partial "footer.html" .}}
+    </div>
+  </body>
+</html>
+s

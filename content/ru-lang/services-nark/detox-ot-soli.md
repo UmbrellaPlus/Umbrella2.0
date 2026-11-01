@@ -6,6 +6,7 @@ image: /img/services/lech-nark/detox-salts.jpg
 imageText: 'Детоксикация от соли (α-PVP, MDPV, мефедрон)'
 ratingAvarage: 4.99/5
 rating: '7532'
+show: true
 ---
 
 ## Детоксикация от соли (α-PVP, MDPV, мефедрон)
