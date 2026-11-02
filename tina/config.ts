@@ -633,31 +633,31 @@ export default defineConfig({
       },
       //SERVICES-NEW
       {
+        name: "services_doctor_ru",
+        label: "Услуги-Врач-на-дом-RU",
+        path: "content/ru-lang/services-doctor",
+        fields: [...cityTemplate],
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "services_nurse_ru",
+        label: "Услуги-Медсестра-на-дом-RU",
+        path: "content/ru-lang/services-sister",
+        fields: [...cityTemplate],
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
         name: "services_alkogolizm_ru",
         label: "Услуги-Алкоголизм-RU",
         path: "content/ru-lang/services",
-        fields: [...cityTemplate],
-        ui: {
-          allowedActions: {
-            createNestedFolder: false,
-          },
-        },
-      },
-      {
-        name: "services_ru_otravlenie",
-        label: "Услуги-Отравление-RU",
-        path: "content/ru-lang/services-otravlenie",
-        fields: [...cityTemplate],
-        ui: {
-          allowedActions: {
-            createNestedFolder: false,
-          },
-        },
-      },
-      {
-        name: "services_ru_khymioterapiya",
-        label: "Услуги-Химиотерапия-RU",
-        path: "content/ru-lang/services-khymioterapiya",
         fields: [...cityTemplate],
         ui: {
           allowedActions: {
@@ -677,6 +677,17 @@ export default defineConfig({
         },
       },
       {
+        name: "services_ru_otravlenie",
+        label: "Услуги-Отравление-RU",
+        path: "content/ru-lang/services-otravlenie",
+        fields: [...cityTemplate],
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
         name: "services_ru_vitamini",
         label: "Услуги-Витамины-RU",
         path: "content/ru-lang/services-vitamini",
@@ -687,33 +698,55 @@ export default defineConfig({
           },
         },
       },
-
+      {
+        name: "services_ru_khymioterapiya",
+        label: "Услуги-Химиотерапия-RU",
+        path: "content/ru-lang/services-khymioterapiya",
+        fields: [...cityTemplate],
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "services_rehab_ru",
+        label: "Услуги-Реабилитация-RU",
+        path: "content/ru-lang/services-rehab",
+        fields: [...cityTemplate],
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      //SERVICES-NEW-UA
+      {
+        name: "services_doctor_ua",
+        label: "Услуги-Врач-на-дом-UA",
+        path: "content/ua-lang/services-doctor",
+        fields: [...cityTemplate],
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "services_nurse_ua",
+        label: "Услуги-Медсестра-на-дом-UA",
+        path: "content/ua-lang/services-sister",
+        fields: [...cityTemplate],
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
       {
         name: "services_ua_alkogolizm",
         label: "Услуги-Алкоголизм-UA",
         path: "content/ua-lang/services",
-        fields: [...cityTemplate],
-        ui: {
-          allowedActions: {
-            createNestedFolder: false,
-          },
-        },
-      },
-      {
-        name: "services_ua_otravlenie",
-        label: "Услуги-Отравление-UA",
-        path: "content/ua-lang/services-otryenya",
-        fields: [...cityTemplate],
-        ui: {
-          allowedActions: {
-            createNestedFolder: false,
-          },
-        },
-      },
-      {
-        name: "services_ua_khimioterapiya",
-        label: "Услуги-Химиотерапия-UA",
-        path: "content/ua-lang/services-khimioterapiya",
         fields: [...cityTemplate],
         ui: {
           allowedActions: {
@@ -733,6 +766,17 @@ export default defineConfig({
         },
       },
       {
+        name: "services_ua_otravlenie",
+        label: "Услуги-Отравление-UA",
+        path: "content/ua-lang/services-otryenya",
+        fields: [...cityTemplate],
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
         name: "services_ua",
         label: "Услуги-Витамины-UA",
         path: "content/ua-lang/services-vitaminy",
@@ -743,6 +787,29 @@ export default defineConfig({
           },
         },
       },
+      {
+        name: "services_ua_khimioterapiya",
+        label: "Услуги-Химиотерапия-UA",
+        path: "content/ua-lang/services-khimioterapiya",
+        fields: [...cityTemplate],
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+      {
+        name: "services_rehab_ua",
+        label: "Услуги-Реабилитация-UA",
+        path: "content/ua-lang/services-rehab",
+        fields: [...cityTemplate],
+        ui: {
+          allowedActions: {
+            createNestedFolder: false,
+          },
+        },
+      },
+
       //DOVIDNYK
       // {
       //   name: "directory_ru",

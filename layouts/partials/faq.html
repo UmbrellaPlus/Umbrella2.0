@@ -53,6 +53,12 @@
       <summary>{{.Params.question}}</summary>
       {{.Content}}
     </details>
+    {{end}}{{else if eq .Section "blog"}} {{range where site.RegularPages
+    "File.Dir" "faq/blog/"}}
+    <details>
+      <summary>{{.Params.question}}</summary>
+      {{.Content}}
+    </details>
     {{end}}{{else}} {{range where site.RegularPages "File.Dir" "faq/general/"}}
     <details>
       <summary>{{.Params.question}}</summary>
