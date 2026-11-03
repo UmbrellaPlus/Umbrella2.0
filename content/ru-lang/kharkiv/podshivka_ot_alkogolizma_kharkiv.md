@@ -1,6 +1,6 @@
 ---
 date: 2024-12-15T19:08:11.055Z
-lastmod: 2026-11-03T19:17:07.968Z
+lastmod: 2026-11-03T19:21:29.147Z
 tabTitle: 'Подшивка от алкоголя в Харькове — Эспераль, Торпеда и Налтрексон | Umbrella Plus | От 15000 грн'
 title: 'Подшивка от алкоголя в Харькове — Эспераль, Торпеда и Налтрексон'
 description: Хирургический метод лечения алкогольной зависимости
@@ -10,7 +10,7 @@ ratingAvarage: 4.99/5
 rating: '4689'
 reviewType: kod-2
 expert: stas
-faq: alkogolism
+faq: kodirovka
 interestingArticleName: 'Лекарства, несовместимые с алкоголем: риск тяжёлых осложнений и летального исхода'
 interestingArticleLink: 'https://umbrella-plus.com.ua/blog/lekarstva-nesovmestimye-s-alkogolem/'
 ---
