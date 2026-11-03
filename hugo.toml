@@ -342,3 +342,4 @@ defaultContentLanguageInSubdir = false
                         name = 'Калькулятор алкогольної залежності'
                         pageRef = '/calculator'
                         weight = 60
+                        parent = 'extra'
