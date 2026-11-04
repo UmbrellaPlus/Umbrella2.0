@@ -2,7 +2,7 @@
 tabTitle: Виклик приватного нарколога додому — анонімна допомога лікаря 24/7 | Umbrella Plus | Від 2199 грн
 title: Виклик приватного нарколога додому
 description: Анонімна допомога лікаря 24/7
-image: /img/services/lech-vitamin/Kap-ot-alk-na-domy.jpg
+image: /img/kharkov-new/kruglosutochnaya-kapelnica-ot-zapoya.jpg
 imageText: Виклик приватного нарколога додому — анонімна допомога лікаря 24/7
 ratingAvarage: 4.99/5
 rating: '9782'
