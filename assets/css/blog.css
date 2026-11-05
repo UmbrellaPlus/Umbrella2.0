@@ -33,14 +33,19 @@
   justify-content: center;
   align-items: center;
   text-align: left;
+  gap: 0.5rem;
+}
+.blog-list-post-upper-part h3{
+  min-height: 7rem;
 }
 .blog-list-post-image-container {
   width: 12.5rem;
-  height: auto;
+  height: 11.5rem;
+  overflow: hidden;
 }
 .blog-list-post-image-container img {
   width: 100%;
-  object-fit: contain;
+  object-fit:cover;
 }
 .blog-list-post-lower-part {
   color: grey;

@@ -44,9 +44,9 @@
 .discounts-block-slider{
   width:72%;
   margin:auto;
-  display:flex;
   flex-direction: column;
   padding: 1rem 0;
+  text-align: center;
 }
 .discounts-block{
   display:flex;

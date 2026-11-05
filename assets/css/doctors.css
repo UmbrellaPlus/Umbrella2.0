@@ -10,21 +10,6 @@
   margin: auto;
   text-align: center;
 }
-.doctors h2 {
-  padding: 1em 0em;
-  display: inline-block;
-  position: relative;
-}
-.doctors h2::after {
-  content: "";
-  position: absolute;
-  width: 100%;
-  height: 3px;
-  bottom: 18px;
-  border-radius: 10px;
-  background-color: #1d5d9b;
-  left: 0px;
-}
 /* swiper-slide */
 .doctor-block {
   display: flex;

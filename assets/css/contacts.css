@@ -16,21 +16,6 @@
   text-align: center;
   padding-bottom: 1em;
 }
-.contacts-numbers h2 {
-  padding: 1em 0;
-  position: relative;
-  display: inline-block;
-}
-.contacts-numbers h2::after {
-  content: "";
-  position: absolute;
-  width: 100%;
-  height: 3px;
-  bottom: 18px;
-  border-radius: 10px;
-  background-color: #1d5d9b;
-  left: 0px;
-}
 .contacts-numbers p {
   font-size: 1.2rem;
 }
